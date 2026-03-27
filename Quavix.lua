@@ -47,7 +47,7 @@ local function SuggestWords(input, count)
 
     input = input:lower()
     local cacheKey = input.."_"..count.."_"..sortMode
-    if sortMode ~= "Random" then
+    if sortMode ~= "Random" and sortMode ~= "Killer" then
         if searchCache[cacheKey] then
             return searchCache[cacheKey]
         end
@@ -79,37 +79,36 @@ local function SuggestWords(input, count)
         end
 
     elseif sortMode == "Killer" then
-        local killer = {}
-        local normal = {}
+    local killer = {}
+    local normal = {}
 
-        for i = 1, #possible do
-            local word = possible[i]
-            local isKiller = false
-            for j = 1, #KillerSuffixes do
-                local suf = KillerSuffixes[j]
-                if #word >= #suf and string.sub(word, -#suf) == suf then
-                    isKiller = true
-                    break
-                end
-            end
-            if isKiller then
-                killer[#killer + 1] = word
-            else
-                normal[#normal + 1] = word
+    for i = 1, #possible do
+        local word = possible[i]
+        local isKiller = false
+        for j = 1, #KillerSuffixes do
+            if #word >= #KillerSuffixes[j] and string.sub(word, -#KillerSuffixes[j]) == KillerSuffixes[j] then
+                isKiller = true
+                break
             end
         end
-
-        local allWords = {}
-        for i = 1, #killer do allWords[#allWords + 1] = killer[i] end
-        for i = 1, #normal do allWords[#allWords + 1] = normal[i] end
-
-        for i = #allWords, 2, -1 do
-            local j = math.random(i)
-            allWords[i], allWords[j] = allWords[j], allWords[i]
+        if isKiller then
+            killer[#killer + 1] = word
+        else
+            normal[#normal + 1] = word
         end
-
-        possible = allWords
     end
+
+    local allWords = {}
+    for i = 1, #killer do allWords[#allWords + 1] = killer[i] end
+    for i = 1, #normal do allWords[#allWords + 1] = normal[i] end
+
+    for i = #allWords, 2, -1 do
+        local j = math.random(i)
+        allWords[i], allWords[j] = allWords[j], allWords[i]
+    end
+
+    possible = allWords
+end
 
     local maxResults = math.min(count,#possible)
     for i=1,maxResults do
