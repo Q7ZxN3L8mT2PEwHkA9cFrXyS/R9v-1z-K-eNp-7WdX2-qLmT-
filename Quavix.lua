@@ -6,7 +6,7 @@ local WordDictionary = {}
 local searchCache = {}
 local currentPage = 1
 local wordsPerPage = 50
-local sortMode = "Shortest"
+local sortMode = "Random"
 local randomLoopRunning = false
 local lastInput = ""
 local KillerSuffixes = {
@@ -212,13 +212,13 @@ local sortButton = Instance.new("TextButton",sortFrame)
 sortButton.Size=UDim2.new(1,0,1,0)
 sortButton.BackgroundColor3=Color3.fromRGB(60,60,60)
 sortButton.TextColor3=Color3.fromRGB(255,255,255)
-sortButton.Text="Sort Mode: Shortest"
+sortButton.Text="Sort Mode: Random"
 sortButton.Font=Enum.Font.Gotham
 sortButton.TextSize=11
 Instance.new("UICorner",sortButton).CornerRadius=UDim.new(0,4)
 
 local sortModes = {"Shortest", "Longest", "Random", "Killer"}
-local currentSortIndex = 1
+local currentSortIndex = 3
 
 sortButton.MouseButton1Click:Connect(function()
     currentSortIndex = currentSortIndex + 1
