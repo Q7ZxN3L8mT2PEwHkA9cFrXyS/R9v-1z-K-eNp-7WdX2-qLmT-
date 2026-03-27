@@ -10,15 +10,15 @@ local sortMode = "Random"
 local randomLoopRunning = false
 local lastInput = ""
 local KillerSuffixes = {
-"abev","abin","abub","acea","adim","ahau","ahn","ahre","akao","anaz","anek","ansp","anut","apig","atat","avya",
-"bied","bies", "brex","ceen","cug","dacy","dads","dax","dda","djam","dmi","dmit","ecke","ecro","ecy","efin","eite",
-"ekky","elum","emor","enep","enet","enic","enoe","ensy","eoty","epup","esko","euce","eups","ewen", "feit","flaj",
-"gese","gesh","geve","goyo","hado","helt","hlid","hlit","hojo","hsia","huna","huy","hyak","igel","ilix","ils",
-"inae","inoe","isei","irai","jaja","jik","jja","jjim","kgo","kime","kkak","kkwa","kost","kte","kuts","kwak","kwin",
-"lawa","leae","loel","lons","meur","mian", "mno", "myes","naci","nany","nies","nisn","nka","nq","nuyo",
-"oboo","ojo","omme","oned","ooja","otic","otsu","ouac","pary","pax","pazz","pheg","rmo","rmou","ruya",
-"samy","shaa","siy","spho","ssir","stes","svi","tavi","teon","tiah","tte","trak","tsus","uara","udan","umas",
-"unya","uruk","uyt","uyte","vys","waii","wegs","wies","witz","yabu","yda","yeow","yoji","yong","zang","zhen","zoid"
+"abev","abin","abub","acea","adim","ahau","ahre","akao","anaz","anek","ansp","apig","atat","avya",
+"bied","bies","brex","ceen","dacy","dads","dium","djam","dmit","eber","ecke","ecro","efin","eite",
+"ekky","elum","emor","enep","enet","enic","enoe","ensy","eoty","epup","esko","euce","eups","ewen","feit","flaj",
+"gese","gesh","geve","gial","goyo","hado","helt","hlid","hlit","hojo","hsia","huna","hyak","igel","ilix",
+"idal","idae","inae","inoe","ipal","isei","irai","jaja","jjim","kime","kkak","kkwa","kost","kots","kuts","kwak","kwin",
+"lawa","leae","loel","luan","lons","meur","mian","myes","naci","nany","nies","nisn","nn","nuyo",
+"oboo","omme","oned","ooja","otic","otsu","ouac","pary","pazz","pheg","rmou","ruya",
+"samy","shaa","spho","ssir","stes","tavi","teon","tiah","trak","tsus","uara","udan","umas",
+"unya","uruk","uyte","waii","wegs","wies","witz","yabu","yeow","yoji","yong","zang","zhen","zoid"
 }
 
 local function LoadWords()
