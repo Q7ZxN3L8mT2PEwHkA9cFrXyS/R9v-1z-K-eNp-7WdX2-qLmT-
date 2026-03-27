@@ -11,11 +11,11 @@ local randomLoopRunning = false
 local lastInput = ""
 local KillerSuffixes = {
 "abev","abin","abub","acea","adim","ahau","ahn","ahre","akao","anaz","anek","ansp","anut","apig","atat","avya",
-"bied","brex","ceen","cug","dacy","dads","dax","dda","djam","dmi","dmit","ecke","ecro","ecy","efin","eite",
-"ekky","elum","emor","enep","enet","enic","enoe","ensy","eoty","epup","esko","euce","eups","feit","flaj",
+"bied","bies", "brex","ceen","cug","dacy","dads","dax","dda","djam","dmi","dmit","ecke","ecro","ecy","efin","eite",
+"ekky","elum","emor","enep","enet","enic","enoe","ensy","eoty","epup","esko","euce","eups","ewen", "feit","flaj",
 "gese","gesh","geve","goyo","hado","helt","hlid","hlit","hojo","hsia","huna","huy","hyak","igel","ilix","ils",
 "inae","inoe","isei","irai","jaja","jik","jja","jjim","kgo","kime","kkak","kkwa","kost","kte","kuts","kwak","kwin",
-"lawa","leae","lh","lli","loel","lons","meur","mian","myes","naci","nany","nies","nisn","nka","nq","nuyo",
+"lawa","leae","loel","lons","meur","mian", "mno", "myes","naci","nany","nies","nisn","nka","nq","nuyo",
 "oboo","ojo","omme","oned","ooja","otic","otsu","ouac","pary","pax","pazz","pheg","rmo","rmou","ruya",
 "samy","shaa","siy","spho","ssir","stes","svi","tavi","teon","tiah","tte","trak","tsus","uara","udan","umas",
 "unya","uruk","uyt","uyte","vys","waii","wegs","wies","witz","yabu","yda","yeow","yoji","yong","zang","zhen","zoid"
