@@ -9,6 +9,17 @@ local wordsPerPage = 50
 local sortMode = "Shortest"
 local randomLoopRunning = false
 local lastInput = ""
+local KillerSuffixes = {
+"abev","abin","abub","acea","adim","ahau","ahn","ahre","akao","anaz","anek","ansp","anut","apig","atat","avya",
+"bied","brex","ceen","cug","dacy","dads","dax","dda","djam","dmi","dmit","ecke","ecro","ecy","efin","eite",
+"kimi","ekky","elum","emor","enep","enet","enic","enoe","ensy","eoty","epup","esko","euce","eups","feit","flaj",
+"gese","gesh","geve","goyo","hado","helt","hlid","hlit","hojo","hsia","huna","huy","hyak","igel","ilix","inae",
+"inoe","isei","jaja","jik","jja","jjim","kgo","kime","kkak","kkwa","kost","kuts","kwak","kwin","lawa","leae",
+"lh","lli","loel","meur","mian","myes","naci","nany","nies","nisn","nka","nq","nuyo","oboo","ojo","omme",
+"oned","ooja","otic","otsu","ouac","pary","pax","pazz","pheg","rmo","rmou","ruya","samy","shaa","siy","spho",
+"ssir","stes","svi","tavi","teon","tiah","uara","udan","umas","unya","uruk","uyt","uyte","vys","waii","wegs",
+"wies","witz","yabu","yda","yeow","yoji","yong","zang","zhen","zoid", "tsus", "trak", "irai", "ils", "lons", "kte", "tte"
+}
 
 local function LoadWords()
     if loaded then return end
@@ -33,7 +44,7 @@ spawn(LoadWords)
 local function SuggestWords(input, count)
     if not loaded then return {"loading words...", "please wait"} end
     if #Words == 0 then return {"no words available", "check connection"} end
-    
+
     input = input:lower()
     local cacheKey = input.."_"..count.."_"..sortMode
     if sortMode ~= "Random" then
@@ -41,39 +52,74 @@ local function SuggestWords(input, count)
             return searchCache[cacheKey]
         end
     end
-    
+
     local possible = {}
     local results = {}
     local firstLetter = input:sub(1,1)
     local wordList = WordDictionary[firstLetter] or {}
     local searchList = #wordList>0 and wordList or Words
-    
+
     for i=1,#searchList do
         local word = searchList[i]
         if string.find(word, "^"..input) then
             table.insert(possible, word)
         end
     end
-    
+
     if sortMode=="Shortest" then
         table.sort(possible,function(a,b) return #a<#b end)
+
     elseif sortMode=="Longest" then
         table.sort(possible,function(a,b) return #a>#b end)
+
     elseif sortMode=="Random" then
         for i=#possible,2,-1 do
             local j = math.random(i)
             possible[i],possible[j] = possible[j],possible[i]
         end
+
+    elseif sortMode == "Killer" then
+        local killer = {}
+        local normal = {}
+
+        for i = 1, #possible do
+            local word = possible[i]
+            local isKiller = false
+            for j = 1, #KillerSuffixes do
+                local suf = KillerSuffixes[j]
+                if #word >= #suf and string.sub(word, -#suf) == suf then
+                    isKiller = true
+                    break
+                end
+            end
+            if isKiller then
+                killer[#killer + 1] = word
+            else
+                normal[#normal + 1] = word
+            end
+        end
+
+        local allWords = {}
+        for i = 1, #killer do allWords[#allWords + 1] = killer[i] end
+        for i = 1, #normal do allWords[#allWords + 1] = normal[i] end
+
+        for i = #allWords, 2, -1 do
+            local j = math.random(i)
+            allWords[i], allWords[j] = allWords[j], allWords[i]
+        end
+
+        possible = allWords
     end
-    
+
     local maxResults = math.min(count,#possible)
     for i=1,maxResults do
         table.insert(results, possible[i])
     end
-    
+
     if sortMode ~= "Random" then
         searchCache[cacheKey] = results
     end
+
     return results
 end
 
@@ -99,7 +145,7 @@ local title = Instance.new("TextLabel",b)
 title.Size=UDim2.new(1,-10,0,25)
 title.Position=UDim2.new(0,5,0,5)
 title.BackgroundTransparency=1
-title.Text="Word Finder V3"
+title.Text="Word Finder V3.25"
 title.TextColor3=Color3.fromRGB(255,255,255)
 title.Font=Enum.Font.GothamBold
 title.TextSize=14
@@ -172,7 +218,7 @@ sortButton.Font=Enum.Font.Gotham
 sortButton.TextSize=11
 Instance.new("UICorner",sortButton).CornerRadius=UDim.new(0,4)
 
-local sortModes = {"Shortest", "Longest", "Random"}
+local sortModes = {"Shortest", "Longest", "Random", "Killer"}
 local currentSortIndex = 1
 
 sortButton.MouseButton1Click:Connect(function()
@@ -268,101 +314,73 @@ local function ClearSuggestions()
     end
 end
 
-function UpdateSuggestions()
+local currentResults = {}
+
+function UpdateSuggestions(fromTyping)
     if not loaded then return end
     local text = h.Text
-    if text == lastInput then return end
-    lastInput = text
+
+    if fromTyping then
+        currentPage = 1
+        if #text < 1 then
+            ClearSuggestions()
+            pageLabel.Text = "Page 0/0"
+            prevButton.Visible = false
+            nextButton.Visible = false
+            return
+        end
+        currentResults = SuggestWords(text, 1000)
+    end
 
     ClearSuggestions()
-    if #text < 1 then return end
-    local suggests = SuggestWords(text,1000)
-    
-    if #suggests == 0 then
-        local message = Instance.new("TextLabel",list)
-        message.Size=UDim2.new(1,0,0,22)
-        message.BackgroundTransparency=1
-        message.Text="No words found for: '"..text.."'"
-        message.TextColor3=Color3.fromRGB(255,100,100)
-        message.Font=Enum.Font.Gotham
-        message.TextSize=12
-        message.TextXAlignment=Enum.TextXAlignment.Center
-    else
-        local totalPages = math.ceil(#suggests/wordsPerPage)
-        local startIndex=(currentPage-1)*wordsPerPage+1
-        local endIndex=math.min(currentPage*wordsPerPage,#suggests)
-        pageLabel.Text="Page "..currentPage.."/"..totalPages
-        prevButton.Visible=currentPage>1
-        nextButton.Visible=currentPage<totalPages
 
-        for i=startIndex,endIndex do
-            local word = suggests[i]
-            local btn = Instance.new("TextButton",list)
-            btn.Size=UDim2.new(1,0,0,22)
-            btn.BackgroundColor3=Color3.fromRGB(45,45,45)
-            btn.TextColor3=Color3.fromRGB(255,255,255)
-            btn.Font=Enum.Font.Gotham
-            btn.TextSize=12
-            btn.Text=word
-            btn.AutoButtonColor=true
-            Instance.new("UICorner",btn).CornerRadius=UDim.new(0,4)
-            btn.Selectable=false
-            btn.MouseButton1Click:Connect(function()
-                h.Text=word
-            end)
-        end
+    local totalPages = math.max(1, math.ceil(#currentResults/wordsPerPage))
+    if currentPage > totalPages then currentPage = totalPages end
+    if currentPage < 1 then currentPage = 1 end
+
+    pageLabel.Text = "Page "..currentPage.."/"..totalPages
+    prevButton.Visible = currentPage > 1
+    nextButton.Visible = currentPage < totalPages
+
+    local startIndex = (currentPage-1)*wordsPerPage + 1
+    local endIndex = math.min(currentPage*wordsPerPage, #currentResults)
+    for i=startIndex,endIndex do
+        local word = currentResults[i]
+        local btn = Instance.new("TextButton", list)
+        btn.Size = UDim2.new(1,0,0,22)
+        btn.BackgroundColor3 = Color3.fromRGB(45,45,45)
+        btn.TextColor3 = Color3.fromRGB(255,255,255)
+        btn.Font = Enum.Font.Gotham
+        btn.TextSize = 12
+        btn.Text = word
+        btn.AutoButtonColor = true
+        Instance.new("UICorner", btn).CornerRadius = UDim.new(0,4)
+        btn.Selectable = false
+        btn.MouseButton1Click:Connect(function()
+            h.Text = word
+            UpdateSuggestions(true)
+        end)
     end
 end
 
+h:GetPropertyChangedSignal("Text"):Connect(function()
+    task.wait(0.1)
+    UpdateSuggestions(true)
+end)
+
 prevButton.MouseButton1Click:Connect(function()
-    if currentPage>1 then
-        currentPage=currentPage-1
-        UpdateSuggestions()
+    if currentPage > 1 then
+        currentPage = currentPage - 1
+        UpdateSuggestions(false)
     end
 end)
 
 nextButton.MouseButton1Click:Connect(function()
-    local text=h.Text
-    if #text<1 then return end
-    local suggests=SuggestWords(text,1000)
-    local totalPages=math.ceil(#suggests/wordsPerPage)
-    if currentPage<totalPages then
-        currentPage=currentPage+1
-        UpdateSuggestions()
+    local totalPages = math.max(1, math.ceil(#currentResults/wordsPerPage))
+    if currentPage < totalPages then
+        currentPage = currentPage + 1
+        UpdateSuggestions(false)
     end
-end)
-
-local typingDelay = 0
-h:GetPropertyChangedSignal("Text"):Connect(function()
-    typingDelay = typingDelay + 1
-    local current = typingDelay
-
-    task.wait(0.1)
-    if current ~= typingDelay then return end
-
-    currentPage = 1
-    ClearSuggestions()
-
-    if not loaded then
-        local message = Instance.new("TextLabel", list)
-        message.Size = UDim2.new(1,0,0,22)
-        message.BackgroundTransparency = 1
-        message.Text = "Loading words, please wait..."
-        message.TextColor3 = Color3.fromRGB(80,150,255)
-        message.Font = Enum.Font.Gotham
-        message.TextSize = 10
-        message.TextXAlignment = Enum.TextXAlignment.Center
-        return
-    end
-
-    if h.Text == "" then
-        pageLabel.Text = "Page 0/0"
-        prevButton.Visible = false
-        nextButton.Visible = false
-        return
-    end
-
-    UpdateSuggestions()
 end)
 
 spawn(function()
@@ -379,7 +397,7 @@ spawn(function()
     local function notify(message)
         pcall(function()
             StarterGui:SetCore("SendNotification", {
-                Title = "Word Finder V3",
+                Title = "Word Finder V3.25",
                 Text = message,
                 Duration = 10
             })
@@ -387,22 +405,14 @@ spawn(function()
     end
 
     wait(0.1)
-    notify("Word Finder V3 is now active! All words work on Pro Server.")
+    notify("Word Finder V3.25 is now active! All words work on Pro Server.")
     wait(0.1)
     notify("Updated Dictionary By Quavix.")
     wait(0.1)
-    notify("Hello v53k - Quavix")
+    notify("Script Privated!")
     wait(5)
     notify("Dictionary had been Updated But NOT FULLY ACCURATE! (Updated 10)")
     wait(10)
-    
-    pcall(function()
-    StarterGui:SetCore("SendNotification", {
-        Title = "Word Finder V3",
-        Text = "Be careful when using this, because some players are extremely active in reporting others. They can detect when players are searching or not. Even a single report that gets resolved could get you banned.",
-        Duration = 30
-    })
-end)
 
     statusLabel.Visible = false
 
@@ -411,10 +421,10 @@ end)
     end
 end)
 
-local detectPrefix=(function()local p=game:GetService("Players").LocalPlayer local g=p:WaitForChild("PlayerGui")return function()for _,o in ipairs(g:GetDescendants())do if o.Name=="CurrentWord"then local l={}for _,c in ipairs(o:GetChildren())do if c:IsA("GuiObject")and c.Visible then local t=c:FindFirstChild("Letter")if t and t:IsA("TextLabel")then l[#l+1]={t.Text,c.AbsolutePosition.X}end end end table.sort(l,function(a,b)return a[2]<b[2]end)local r=""for i=1,#l do r=r..l[i][1]end return string.lower(r)end end return ""end end)()
+local detectPrefix=(function()local p=game:GetService("Players").LocalPlayer local g=p:WaitForChild("PlayerGui") return function()for _,o in ipairs(g:GetDescendants())do if o.Name=="CurrentWord"then local l={} for _,c in ipairs(o:GetChildren())do if c:IsA("GuiObject")and c.Visible then local t=c:FindFirstChild("Letter")if t and t:IsA("TextLabel")then l[#l+1]={t.Text,c.AbsolutePosition.X}end end end table.sort(l,function(a,b)return a[2]<b[2]end) local r="" for i=1,#l do r=r..l[i][1]end return string.lower(r)end end return "" end end)()
 
-local UpdatePrefixSuggestions=(function()return function(pf)if pf==""then return end ClearSuggestions()local s=SuggestWords(pf,50)for i=1,#s do local b=Instance.new("TextButton",list)b.Size=UDim2.new(1,0,0,22)b.BackgroundColor3=Color3.fromRGB(45,45,45)b.TextColor3=Color3.fromRGB(255,255,255)b.Font=Enum.Font.Gotham b.TextSize=12 b.Text=s[i]b.AutoButtonColor=true Instance.new("UICorner",b).CornerRadius=UDim.new(0,4)b.Selectable=false b.Active=false end end end)()
+local UpdatePrefixSuggestions=(function()return function(pf)if pf==""then return end ClearSuggestions() local s=SuggestWords(pf,50) for i=1,#s do local b=Instance.new("TextButton",list)b.Size=UDim2.new(1,0,0,22)b.BackgroundColor3=Color3.fromRGB(45,45,45)b.TextColor3=Color3.fromRGB(255,255,255)b.Font=Enum.Font.Gotham b.TextSize=12 b.Text=s[i] b.AutoButtonColor=true Instance.new("UICorner",b).CornerRadius=UDim.new(0,4) b.Selectable=false b.Active=false end end end)()
 
 local lastPrefix=""
 
-task.spawn((function()return function()while true do local p=detectPrefix()if string.find(p,"%.%.%.")or string.find(p,"#+")then prefixLabel.Text="Prefix: ..."prefixLabel.TextColor3=Color3.fromRGB(255,255,0)task.wait(0.25)continue end local t=string.sub(p,1,11)if t~=lastPrefix then lastPrefix=t if h.Text==""then ClearSuggestions()end if t~=""then prefixLabel.Text="Prefix: "..t local e=false local f=t:sub(1,1)local w=WordDictionary[f]or Words for _,wd in ipairs(w)do if wd==t then e=true break end end if e then prefixLabel.TextColor3=Color3.fromRGB(0,255,0)else prefixLabel.TextColor3=Color3.fromRGB(255,0,0)end UpdatePrefixSuggestions(t)else prefixLabel.Text="Prefix: -"prefixLabel.TextColor3=Color3.fromRGB(255,255,255)end end task.wait(0.1)end end end)())
+task.spawn((function()return function()while true do local p=detectPrefix() if string.find(p,"%.%.%.")or string.find(p,"#+")then prefixLabel.Text="Prefix: ..." prefixLabel.TextColor3=Color3.fromRGB(255,255,0) task.wait(0.25) else local t=string.sub(p,1,11) if t~=lastPrefix then lastPrefix=t if h.Text==""then ClearSuggestions()end if t~=""then prefixLabel.Text="Prefix: "..t local e=false local f=t:sub(1,1) local w=WordDictionary[f]or Words for _,wd in ipairs(w)do if wd==t then e=true break end end if e then prefixLabel.TextColor3=Color3.fromRGB(0,255,0) else prefixLabel.TextColor3=Color3.fromRGB(255,0,0) end UpdatePrefixSuggestions(t) else prefixLabel.Text="Prefix: -" prefixLabel.TextColor3=Color3.fromRGB(255,255,255) end end end task.wait(0.1) end end end)())
