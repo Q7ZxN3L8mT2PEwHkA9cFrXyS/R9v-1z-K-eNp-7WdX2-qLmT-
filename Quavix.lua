@@ -15,7 +15,7 @@ local KillerSuffixes = {
 "ekky","elum","emor","enep","enet","enic","enoe","ensy","eoty","epup","esko","euce","eups","ewen","feit","flaj",
 "gese","gesh","geve","gial","goyo","hado","helt","hlid","hlit","hojo","hsia","huna","hyak","igel","ilix",
 "idal","idae","inae","inoe","ipal","isei","irai","jaja","jjim","kime","kkak","kkwa","kost","kots","kuts","kwak","kwin",
-"lawa","leae","loel","luan","lons","meur","mian","myes","naci","nany","nies","nisn","nn","nuyo",
+"lawa","leae","lju", "loel","luan","lons","meur","mian","myes","naci","nany","nies","nisn","nn","nuyo",
 "oboo","omme","oned","ooja","otic","otsu","ouac","pary","pazz","pheg","rmou","ruya",
 "samy","shaa","spho","ssir","stes","tavi","teon","tiah","trak","tsus","uara","udan","umas",
 "unya","uruk","uyte","waii","wegs","wies","witz","yabu","yeow","yoji","yong","zang","zhen","zoid"
