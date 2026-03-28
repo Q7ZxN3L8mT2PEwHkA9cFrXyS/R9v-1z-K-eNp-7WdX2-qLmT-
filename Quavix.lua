@@ -42,13 +42,20 @@ local function LoadWords()
 end
 spawn(LoadWords)
 
+local function shuffle(t)
+    for i = #t, 2, -1 do
+        local j = math.random(i)
+        t[i], t[j] = t[j], t[i]
+    end
+end
+
 local function SuggestWords(input, count)
     if not loaded then return {"loading words...", "please wait"} end
     if #Words == 0 then return {"no words available", "check connection"} end
 
     input = input:lower()
     local cacheKey = input.."_"..count.."_"..sortMode
-    if sortMode ~= "Random" and searchCache[cacheKey] then
+    if sortMode ~= "Random" and sortMode ~= "Killer" and searchCache[cacheKey] then
         return searchCache[cacheKey]
     end
 
@@ -56,58 +63,45 @@ local function SuggestWords(input, count)
     local results = {}
     local firstLetter = input:sub(1,1)
     local wordList = WordDictionary[firstLetter] or {}
-    local searchList = #wordList>0 and wordList or Words
+    local searchList = #wordList > 0 and wordList or Words
 
-    for i=1,#searchList do
+    for i = 1, #searchList do
         local word = searchList[i]
         if string.find(word, "^"..input) then
             table.insert(possible, word)
         end
     end
 
-    if sortMode=="Shortest" then
-        table.sort(possible,function(a,b) return #a<#b end)
-    elseif sortMode=="Longest" then
-        table.sort(possible,function(a,b) return #a>#b end)
-    elseif sortMode=="Random" then
-        for i=#possible,2,-1 do
-            local j = math.random(i)
-            possible[i],possible[j] = possible[j],possible[i]
-        end
+    if sortMode == "Shortest" then
+        table.sort(possible, function(a, b) return #a < #b end)
+    elseif sortMode == "Longest" then
+        table.sort(possible, function(a, b) return #a > #b end)
+    elseif sortMode == "Random" then
+        shuffle(possible)
     elseif sortMode == "Killer" then
-        local killer = {}
-        local normal = {}
+        local killerWords = {}
+        local normalWords = {}
         for i = 1, #possible do
             local word = possible[i]
             if KillerMap[word] then
-                killer[#killer + 1] = word
+                table.insert(killerWords, word)
             else
-                normal[#normal + 1] = word
+                table.insert(normalWords, word)
             end
         end
-        for i = #killer, 2, -1 do
-            local j = math.random(i)
-            killer[i], killer[j] = killer[j], killer[i]
-        end
-        for i = #normal, 2, -1 do
-            local j = math.random(i)
-            normal[i], normal[j] = normal[j], normal[i]
-        end
+        shuffle(killerWords)
+        shuffle(normalWords)
         possible = {}
-        for i = 1, #killer do
-            possible[#possible + 1] = killer[i]
-        end
-        for i = 1, #normal do
-            possible[#possible + 1] = normal[i]
-        end
+        for i = 1, #killerWords do table.insert(possible, killerWords[i]) end
+        for i = 1, #normalWords do table.insert(possible, normalWords[i]) end
     end
 
-    local maxResults = math.min(count,#possible)
-    for i=1,maxResults do
+    local maxResults = math.min(count, #possible)
+    for i = 1, maxResults do
         table.insert(results, possible[i])
     end
 
-    if sortMode ~= "Random" then
+    if sortMode ~= "Random" and sortMode ~= "Killer" then
         searchCache[cacheKey] = results
     end
 
@@ -309,7 +303,8 @@ local currentResults = {}
 
 function UpdateSuggestions(fromTyping)
     if not loaded then return end
-    local text = h.Text
+    if not h then return end
+    local text = h.Text or ""
 
     if fromTyping then
         currentPage = 1
@@ -412,10 +407,10 @@ spawn(function()
     end
 end)
 
-local detectPrefix=(function()local p=game:GetService("Players").LocalPlayer local g=p:WaitForChild("PlayerGui") return function()for _,o in ipairs(g:GetDescendants())do if o.Name=="CurrentWord"then local l={} for _,c in ipairs(o:GetChildren())do if c:IsA("GuiObject")and c.Visible then local t=c:FindFirstChild("Letter")if t and t:IsA("TextLabel")then l[#l+1]={t.Text,c.AbsolutePosition.X}end end end table.sort(l,function(a,b)return a[2]<b[2]end) local r="" for i=1,#l do r=r..l[i][1]end return string.lower(r)end end return "" end end)()
+local detectPrefix=(function()local p=game:GetService("Players").LocalPlayer local g=p:WaitForChild("PlayerGui") return function()for _,o in ipairs(g:GetDescendants())do if o.Name=="CurrentWord"then local l={} for _,c in ipairs(o:GetChildren())do if c and c:IsA("GuiObject") and c.Visible then local t=c:FindFirstChild("Letter") if t and t:IsA("TextLabel")then l[#l+1]={t.Text,c.AbsolutePosition.X} end end end table.sort(l,function(a,b)return a[2]<b[2]end) local r="" for i=1,#l do r=r..l[i][1]end return string.lower(r) end end return "" end end)()
 
-local UpdatePrefixSuggestions=(function()return function(pf)if pf==""then return end ClearSuggestions() local s=SuggestWords(pf,50) for i=1,#s do local b=Instance.new("TextButton",list)b.Size=UDim2.new(1,0,0,22)b.BackgroundColor3=Color3.fromRGB(45,45,45)b.TextColor3=Color3.fromRGB(255,255,255)b.Font=Enum.Font.Gotham b.TextSize=12 b.Text=s[i] b.AutoButtonColor=true Instance.new("UICorner",b).CornerRadius=UDim.new(0,4) b.Selectable=false b.Active=false end end end)()
+local UpdatePrefixSuggestions=(function()return function(pf) if pf=="" then return end ClearSuggestions() local s=SuggestWords(pf,50) for i=1,#s do local b=Instance.new("TextButton",list) b.Size=UDim2.new(1,0,0,22) b.BackgroundColor3=Color3.fromRGB(45,45,45) b.TextColor3=Color3.fromRGB(255,255,255) b.Font=Enum.Font.Gotham b.TextSize=12 b.Text=s[i] b.AutoButtonColor=true Instance.new("UICorner",b).CornerRadius=UDim.new(0,4) b.Selectable=false b.Active=false end end end)()
 
 local lastPrefix=""
 
-task.spawn((function()return function()while true do local p=detectPrefix() if string.find(p,"%.%.%.")or string.find(p,"#+")then prefixLabel.Text="Prefix: ..." prefixLabel.TextColor3=Color3.fromRGB(255,255,0) task.wait(0.25) else local t=string.sub(p,1,11) if t~=lastPrefix then lastPrefix=t if h.Text==""then ClearSuggestions()end if t~=""then prefixLabel.Text="Prefix: "..t local e=false local f=t:sub(1,1) local w=WordDictionary[f]or Words for _,wd in ipairs(w)do if wd==t then e=true break end end if e then prefixLabel.TextColor3=Color3.fromRGB(0,255,0) else prefixLabel.TextColor3=Color3.fromRGB(255,0,0) end UpdatePrefixSuggestions(t) else prefixLabel.Text="Prefix: -" prefixLabel.TextColor3=Color3.fromRGB(255,255,255) end end end task.wait(0.1) end end end)())
+task.spawn((function()return function() while true do local p=detectPrefix() if string.find(p,"%.%.%.") or string.find(p,"#+") then prefixLabel.Text="Prefix: ..." prefixLabel.TextColor3=Color3.fromRGB(255,255,0) task.wait(0.25) else local t=string.sub(p,1,11) if t~=lastPrefix then lastPrefix=t if h.Text=="" then ClearSuggestions() end if t~="" then prefixLabel.Text="Prefix: "..t local e=false local f=t:sub(1,1) local w=WordDictionary[f] or Words for _,wd in ipairs(w) do if wd==t then e=true break end end if e then prefixLabel.TextColor3=Color3.fromRGB(0,255,0) else prefixLabel.TextColor3=Color3.fromRGB(255,0,0) end UpdatePrefixSuggestions(t) else prefixLabel.Text="Prefix: -" prefixLabel.TextColor3=Color3.fromRGB(255,255,255) end end end task.wait(0.1) end end end)())
