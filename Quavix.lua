@@ -6,20 +6,21 @@ local WordDictionary = {}
 local searchCache = {}
 local currentPage = 1
 local wordsPerPage = 50
-local sortMode = "Random"
+local sortMode = "Shortest"
 local randomLoopRunning = false
 local lastInput = ""
-local KillerSuffixes = {
-"abev","abin","abub","acea","adim","ahau","ahre","akao","anaz","anek","ansp","apig","atat","avya",
-"bied","bies","brex","ceen","dacy","dads","dium","djam","dmit","eber","ecke","ecro","efin","eite",
-"ekky","elum","emor","enep","enet","enic","enoe","ensy","eoty","epup","esko","euce","eups","ewen","feit","flaj",
-"gese","gesh","geve","gial","goyo","hado","helt","hlid","hlit","hojo","hsia","huna","hyak","igel","ilix",
-"idal","idae","inae","inoe","ipal","isei","irai","jaja","jjim","kime","kkak","kkwa","kost","kots","kuts","kwak","kwin",
-"lawa","leae","lju", "loel","luan","lons","meur","mian","myes","naci","nany","nies","nisn","nn","nuyo",
-"oboo","omme","oned","ooja","otic","otsu","ouac","pary","pazz","pheg","rmou","ruya",
-"samy","shaa","spho","ssir","stes","tavi","teon","tiah","trak","tsus","uara","udan","umas",
-"unya","uruk","uyte","waii","wegs","wies","witz","yabu","yeow","yoji","yong","zang","zhen","zoid"
-}
+local KillerMap = {}
+local killerUrl = "https://raw.githubusercontent.com/isoepdpcirnrnrd/92oeuf7cnfoeodofofkfPrivacy/refs/heads/main/prefix-words.txt"
+
+pcall(function()
+    local res = request({Url = killerUrl, Method = "GET"})
+    if res and res.Body then
+        for w in res.Body:gmatch("[^\r\n]+") do
+            KillerMap[w:lower()] = true
+        end
+    end
+end)
+
 
 local function LoadWords()
     if loaded then return end
@@ -47,10 +48,8 @@ local function SuggestWords(input, count)
 
     input = input:lower()
     local cacheKey = input.."_"..count.."_"..sortMode
-    if sortMode ~= "Random" and sortMode ~= "Killer" then
-        if searchCache[cacheKey] then
-            return searchCache[cacheKey]
-        end
+    if sortMode ~= "Random" and searchCache[cacheKey] then
+        return searchCache[cacheKey]
     end
 
     local possible = {}
@@ -68,47 +67,40 @@ local function SuggestWords(input, count)
 
     if sortMode=="Shortest" then
         table.sort(possible,function(a,b) return #a<#b end)
-
     elseif sortMode=="Longest" then
         table.sort(possible,function(a,b) return #a>#b end)
-
     elseif sortMode=="Random" then
         for i=#possible,2,-1 do
             local j = math.random(i)
             possible[i],possible[j] = possible[j],possible[i]
         end
-
     elseif sortMode == "Killer" then
-    local killer = {}
-    local normal = {}
-
-    for i = 1, #possible do
-        local word = possible[i]
-        local isKiller = false
-        for j = 1, #KillerSuffixes do
-            if #word >= #KillerSuffixes[j] and string.sub(word, -#KillerSuffixes[j]) == KillerSuffixes[j] then
-                isKiller = true
-                break
+        local killer = {}
+        local normal = {}
+        for i = 1, #possible do
+            local word = possible[i]
+            if KillerMap[word] then
+                killer[#killer + 1] = word
+            else
+                normal[#normal + 1] = word
             end
         end
-        if isKiller then
-            killer[#killer + 1] = word
-        else
-            normal[#normal + 1] = word
+        for i = #killer, 2, -1 do
+            local j = math.random(i)
+            killer[i], killer[j] = killer[j], killer[i]
+        end
+        for i = #normal, 2, -1 do
+            local j = math.random(i)
+            normal[i], normal[j] = normal[j], normal[i]
+        end
+        possible = {}
+        for i = 1, #killer do
+            possible[#possible + 1] = killer[i]
+        end
+        for i = 1, #normal do
+            possible[#possible + 1] = normal[i]
         end
     end
-
-    local allWords = {}
-    for i = 1, #killer do allWords[#allWords + 1] = killer[i] end
-    for i = 1, #normal do allWords[#allWords + 1] = normal[i] end
-
-    for i = #allWords, 2, -1 do
-        local j = math.random(i)
-        allWords[i], allWords[j] = allWords[j], allWords[i]
-    end
-
-    possible = allWords
-end
 
     local maxResults = math.min(count,#possible)
     for i=1,maxResults do
@@ -212,13 +204,13 @@ local sortButton = Instance.new("TextButton",sortFrame)
 sortButton.Size=UDim2.new(1,0,1,0)
 sortButton.BackgroundColor3=Color3.fromRGB(60,60,60)
 sortButton.TextColor3=Color3.fromRGB(255,255,255)
-sortButton.Text="Sort Mode: Random"
+sortButton.Text="Sort Mode: Shortest"
 sortButton.Font=Enum.Font.Gotham
 sortButton.TextSize=11
 Instance.new("UICorner",sortButton).CornerRadius=UDim.new(0,4)
 
 local sortModes = {"Shortest", "Longest", "Random", "Killer"}
-local currentSortIndex = 3
+local currentSortIndex = 1
 
 sortButton.MouseButton1Click:Connect(function()
     currentSortIndex = currentSortIndex + 1
