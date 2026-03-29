@@ -199,6 +199,7 @@ apoptotic
 apostils
 apperils
 apportioned
+apraxic
 aproned
 aprotic
 aptotic
@@ -246,7 +247,9 @@ asymptotic
 asymtotic
 asynchronies
 atabeg
+ataraxic
 atavi
+ataxic
 ateliotic
 atherogenic
 atherosclerotic
@@ -277,6 +280,7 @@ autogenies
 autohypnotic
 autophonies
 avails
+avenirs
 aventails
 avijja
 avitaminotic
@@ -407,6 +411,8 @@ botticelli
 bouilli
 bouillons
 bourgeoned
+brachtmema
+brachytmema
 bradycrotic
 brails
 brantails
@@ -527,6 +533,7 @@ chazzanut
 checke
 checkrails
 chemiosmotic
+chemiotaxic
 chemiphotic
 chemosmotic
 chemotic
@@ -744,6 +751,7 @@ diachronies
 diachylons
 diaphonies
 diapnotic
+diastataxic
 diazotic
 dicaryotic
 dichotic
@@ -802,6 +810,7 @@ doggoned
 dogstails
 dogtails
 dojo
+dolichotmema
 dolmenic
 dolorogenic
 domicils
@@ -844,6 +853,8 @@ dysepulotic
 dysgenic
 dysodils
 dysphotic
+dyspraxic
+dystaxic
 ebenistes
 ebonies
 ecchymotic
@@ -948,6 +959,7 @@ epirogenic
 epirogenies
 epirotic
 epistomian
+epitaxic
 epizootic
 epsilons
 epulotic
@@ -992,6 +1004,7 @@ euphenic
 euphonies
 euphotic
 euryaleae
+eutaxic
 eutelegenic
 euthenic
 evermo
@@ -1246,6 +1259,7 @@ heterogonies
 heterokaryotic
 heterophils
 heterophonies
+heterotaxic
 heterotic
 heterozygotic
 hexafoils
@@ -1276,6 +1290,7 @@ homogenic
 homogenies
 homogonies
 homophonies
+homotaxic
 homotonies
 homozygotic
 honed
@@ -1332,6 +1347,7 @@ hypogenic
 hypogynies
 hypophrenic
 hyposthenic
+hypotaxic
 hypothalli
 hypothenic
 hypotthalli
@@ -1623,6 +1639,7 @@ metamorphotic
 metaphonies
 metarsenic
 metasthenic
+metataxic
 metencephalons
 methylotic
 metosteon
@@ -1990,6 +2007,7 @@ parasails
 paraselenic
 parasitogenic
 parasymbiotic
+parataxic
 parboils
 parcimonies
 pardoned
@@ -2107,6 +2125,7 @@ phrenosplenic
 phrensy
 phthisiogenic
 phylacobiotic
+phyllotaxic
 phylogenic
 phylogenies
 physiogenic
@@ -2228,6 +2247,7 @@ potiguara
 pownies
 poysoned
 preadmit
+preataxic
 prebiotic
 preboils
 precandidacy
@@ -2294,6 +2314,7 @@ proxenet
 prudhomme
 prutenic
 psammophils
+pseudataxic
 pseudoerotic
 pseudomitotic
 pseudonarcotic
@@ -2614,6 +2635,7 @@ somatogenic
 sombreite
 sonnies
 soudan
+souvenirs
 spails
 spandrils
 spary
@@ -2664,6 +2686,7 @@ stenotic
 stepdads
 stepup
 stereophonies
+stereotaxic
 steroidogenic
 sthenic
 stichado
@@ -2827,6 +2850,7 @@ theotechnies
 thermo
 thermogenic
 thermophils
+thermotaxic
 thermotic
 thioarsenic
 thiobaccilli
@@ -2855,6 +2879,7 @@ tils
 tinfoils
 tinies
 tinnies
+tmema
 toenails
 toils
 tomponed
