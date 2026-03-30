@@ -666,6 +666,7 @@ carrots
 carrycots
 cartoned
 cartooned
+carvoepra
 cassidinae
 castelet
 castellanies
@@ -2111,6 +2112,7 @@ lemoniinae
 lemurinae
 lentils
 lepidotic
+lepra
 leprotic
 leptolinae
 lernaeacea
@@ -3607,6 +3609,7 @@ shavetails
 sheenies
 sheepcots
 sheepfoots
+sheeple
 shenzhen
 sheroots
 shiatsus
@@ -3782,6 +3785,7 @@ statelet
 stationed
 staycationed
 staysails
+steeple
 steepup
 stegnosisstegnotic
 stegnotic
@@ -4169,6 +4173,7 @@ tuvaluan
 twalpennies
 twangier
 tweenies
+tweeple
 twentyfourmo
 twibils
 twiggier
@@ -4460,6 +4465,7 @@ weils
 whaleboned
 whatnots
 wheatpastes
+wheeple
 whils
 whingier
 whinnies
