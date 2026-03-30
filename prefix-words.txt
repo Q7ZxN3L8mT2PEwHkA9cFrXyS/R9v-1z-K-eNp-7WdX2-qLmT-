@@ -24,6 +24,7 @@ acidophils
 acidotic
 acraeinae
 acrimonies
+acrimony
 acrochordinae
 acrogenic
 acronarcotic
@@ -44,6 +45,7 @@ adfluxion
 adipogenic
 admi
 admit
+aegemony
 aerobiotic
 aerobots
 aerofoils
@@ -70,6 +72,7 @@ agonies
 agonistes
 agouara
 agrimonies
+agrimony
 agrypnotic
 agterskots
 aguara
@@ -95,6 +98,7 @@ alibied
 alibies
 alidads
 alimonies
+alimony
 aliquots
 alkalotic
 allergenic
@@ -156,6 +160,7 @@ androgenic
 androgynies
 anecdotic
 anelli
+anemony
 anerotic
 anfract
 angelet
@@ -206,6 +211,7 @@ antiketogenic
 antilopinae
 antimitotic
 antimonies
+antimony
 antimycotic
 antinarcotic
 antinepotic
@@ -258,6 +264,7 @@ archaeobotanies
 archeobotanies
 archils
 arctophils
+argemony
 argestes
 argils
 argotic
@@ -373,6 +380,7 @@ ballons
 ballooned
 ballots
 balmonies
+balmony
 balsamy
 bampots
 bandelet
@@ -696,6 +704,7 @@ cerastes
 ceratobatrachinae
 cerebrasthenic
 ceremonies
+ceremony
 cerotic
 ceruleite
 cervinae
@@ -765,6 +774,7 @@ ciceroned
 cichlid
 cineastes
 cinnamoned
+cinnamony
 cinq
 cinquefoils
 ciphonies
@@ -971,9 +981,11 @@ czarowitz
 daceloninae
 dads
 daemonies
+daemony
 daffodils
 dagesh
 daggier
+daguerreotyper
 danainae
 dannies
 dantoned
@@ -1074,6 +1086,7 @@ diotic
 diphygenic
 diplogenic
 diplons
+diplostemony
 dipodomyinae
 diprotic
 dipsadinae
@@ -1091,6 +1104,7 @@ disenvironed
 disgarrisoned
 disgenic
 disharmonies
+disharmony
 disillusioned
 disimpassioned
 disimprisoned
@@ -1220,6 +1234,7 @@ eelblennies
 eensy
 effluxion
 eggier
+egrimony
 eidolons
 eightfoils
 eirenic
@@ -1229,6 +1244,7 @@ electrogenic
 electroosmotic
 electrophrenic
 electrothermotic
+electrotyper
 emails
 embails
 embastioned
@@ -1241,6 +1257,7 @@ embryogenic
 embryogenies
 embryotic
 emmenic
+emony
 emotioned
 empassioned
 empatroned
@@ -1294,6 +1311,7 @@ epanorthotic
 epeirogenic
 epeirogenies
 epencephalons
+epharmony
 epibiotic
 epichindrotic
 epichondrotic
@@ -1350,7 +1368,9 @@ euangiotic
 eucaryotic
 eucaryots
 eudaemonies
+eudaemony
 eudemian
+eudemony
 eugenic
 eukaryotic
 eukaryots
@@ -1404,6 +1424,7 @@ felquistes
 feminies
 fencelet
 fennies
+ferrotyper
 festooned
 feverroots
 fewtrils
@@ -1559,6 +1580,7 @@ gelogenic
 gemfibrozils
 geminies
 gemonies
+gemony
 gemots
 genep
 genet
@@ -1681,6 +1703,7 @@ habub
 haematogenic
 haematoxylons
 haemonies
+haemony
 hails
 hailshots
 hailstoned
@@ -1707,6 +1730,7 @@ harestails
 haricots
 harlots
 harmonies
+harmony
 harpalinae
 harpooned
 hastes
@@ -1722,6 +1746,7 @@ heatspots
 hebephrenic
 hedgier
 hegemonies
+hegemony
 hegumenies
 heils
 heinies
@@ -1853,6 +1878,7 @@ hydrotic
 hyenic
 hygienic
 hymenic
+hyper
 hypercyanotic
 hyperdicrotic
 hyperflexion
@@ -1926,6 +1952,7 @@ infobahn
 infract
 ingots
 inharmonies
+inharmony
 inkblots
 inkpots
 inkspots
@@ -1966,6 +1993,7 @@ isogenies
 isogonies
 isolinolenic
 isosmotic
+isostemony
 isthmian
 ithomiinae
 ithyphalli
@@ -2109,6 +2137,7 @@ lehrjahre
 leiotrichinae
 lemoned
 lemoniinae
+lemony
 lemurinae
 lentils
 lepidotic
@@ -2151,6 +2180,7 @@ linnaeite
 linnet
 linnies
 linolenic
+linotyper
 lipogenic
 liquidogenic
 litanies
@@ -2188,6 +2218,7 @@ lozengier
 lucinacea
 luckpennies
 lucumas
+lucumony
 lugsails
 lullabied
 lullabies
@@ -2260,6 +2291,7 @@ matfellons
 matfelons
 matrilinies
 matrimonies
+matrimony
 matroclinies
 maubies
 maungier
@@ -2270,6 +2302,7 @@ meanies
 medaillons
 medallioned
 mediagenic
+meerkat
 megalopinae
 megaphoned
 megapterinae
@@ -2404,6 +2437,7 @@ monotoned
 monotonies
 monoxylons
 monozygotic
+mony
 moobies
 moonboots
 mooned
@@ -2566,6 +2600,7 @@ nonerotic
 noneugenic
 nonexotic
 nonharmonies
+nonharmony
 nonhypnotic
 nonirenic
 nonmunicipal
@@ -2583,6 +2618,7 @@ nonproportioned
 nonpsychotic
 nonpyogenic
 nonrhotic
+nonsanctimony
 nonschizophrenic
 nonscrutinies
 nonseasoned
@@ -2612,6 +2648,7 @@ nylons
 nymphalinae
 nymphonacea
 obbies
+obdiplostemony
 obesogenic
 obied
 oblige
@@ -2662,6 +2699,7 @@ orangier
 orchils
 oreophasinae
 orestes
+organoantimony
 organoarsenic
 organogenic
 organogenies
@@ -2772,6 +2810,7 @@ paleobotanies
 palermo
 paletots
 palimonies
+palimony
 palingenic
 palinka
 palli
@@ -2805,6 +2844,7 @@ parasymbiotic
 parataxic
 parboils
 parcimonies
+parcimony
 pardoned
 parecy
 parfumeur
@@ -2815,6 +2855,7 @@ parostotic
 parotic
 parrots
 parsimonies
+parsimony
 parsism
 parsoned
 parthenic
@@ -2834,6 +2875,7 @@ patmian
 patoots
 patrilinies
 patrimonies
+patrimony
 patriotic
 patriots
 patroclinies
@@ -2884,6 +2926,7 @@ peridots
 perigynies
 perils
 periotic
+peripneumony
 perisclerotic
 perisplenic
 permian
@@ -2931,6 +2974,7 @@ phocinae
 pholadacea
 phoned
 phonies
+phonotyper
 phosgenic
 phospho
 phosphorogenic
@@ -2948,6 +2992,7 @@ phrenicosplenic
 phrenosplenic
 phrensy
 phthisiogenic
+phthisipneumony
 phylacobiotic
 phyllostomatinae
 phyllostominae
@@ -3043,6 +3088,7 @@ pneumas
 pneumatogenic
 pneumobacilli
 pneumoconiotic
+pneumony
 pobbies
 podarginae
 poddige
@@ -3071,6 +3117,7 @@ polygenies
 polyglots
 polygonies
 polygynies
+polyharmony
 polyoecy
 polyolefin
 polypary
@@ -3136,6 +3183,7 @@ preboils
 precandidacy
 precautioned
 preceremonies
+preceremony
 prechampioned
 precipitinogenic
 preconditioned
@@ -3148,6 +3196,7 @@ prefixion
 preflexion
 prefract
 preggier
+preharmony
 premeiotic
 premunicipal
 premutinies
@@ -3168,6 +3217,7 @@ prestige
 pretastes
 pretensioned
 pretestimonies
+pretestimony
 prevails
 previsioned
 priapulacea
@@ -3286,6 +3336,7 @@ quatrefoils
 quayd
 queenies
 querimonies
+querimony
 questioned
 queue
 queynies
@@ -3388,6 +3439,7 @@ resummoned
 retails
 retastes
 retestimonies
+retestimony
 retinae
 retract
 retroflexion
@@ -3463,6 +3515,7 @@ russism
 rutelinae
 ruthenic
 ryots
+ryper
 sabanut
 sabelli
 sabin
@@ -3475,11 +3528,13 @@ sagier
 sails
 saleeite
 saligots
+salmony
 salons
 saltarelli
 samian
 samogonka
 sanctimonies
+sanctimony
 sanctioned
 sandlots
 sangrails
@@ -3512,6 +3567,7 @@ scalelet
 scaletails
 scaleups
 scammonies
+scammony
 scarabaeinae
 scatterplots
 scenic
@@ -3639,6 +3695,7 @@ simian
 simiinae
 simonies
 simonkolleite
+simony
 simplistes
 sinae
 sindonophanies
@@ -3706,6 +3763,7 @@ solipsism
 solons
 solutioned
 somatogenic
+somatotyper
 sombreite
 sonnet
 sonnies
@@ -3792,11 +3850,13 @@ stegnotic
 steils
 stencils
 stenotic
+stenotyper
 stepdads
 stepup
 stercorariinae
 stereophonies
 stereotaxic
+stereotyper
 sterninae
 steroidogenic
 stewpots
@@ -3819,6 +3879,7 @@ stract
 stradiots
 strak
 stramonies
+stramony
 streite
 streptobacilli
 strigils
@@ -3984,6 +4045,8 @@ teleostomian
 telephoned
 telephonies
 telerobots
+teletyper
+telharmony
 tellinacea
 telomian
 tenaillons
@@ -4005,6 +4068,7 @@ tesseract
 testacea
 testes
 testimonies
+testimony
 testrils
 tetanies
 tetract
@@ -4068,6 +4132,7 @@ tinies
 tinnet
 tinnies
 tinpots
+tintyper
 tmema
 tobies
 toebies
@@ -4184,6 +4249,7 @@ twopennies
 tylotic
 tympanies
 tympanoperiotic
+typer
 typhogenic
 tyrannies
 tyranninae
@@ -4266,6 +4332,7 @@ unforfeit
 unfrictioned
 ungarrisoned
 unguerdoned
+unharmony
 unhoned
 unhorizoned
 unhygenic
@@ -4369,6 +4436,7 @@ vacationed
 vaccenic
 vaccinogenic
 vadim
+vadimony
 vaginae
 vails
 vakils
