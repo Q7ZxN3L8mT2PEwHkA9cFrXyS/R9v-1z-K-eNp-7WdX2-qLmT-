@@ -5310,3 +5310,6 @@ zygotic
 zymogenic
 zymosthenic
 zymotic
+kabuki
+rokkaku
+tambuki
