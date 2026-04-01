@@ -6,7 +6,7 @@ local WordDictionary = {}
 local searchCache = {}
 local currentPage = 1
 local wordsPerPage = 50
-local sortMode = "Shortest"
+local sortMode = "Random"
 local randomLoopRunning = false
 local lastInput = ""
 local KillerMap = {}
@@ -112,6 +112,19 @@ local a = Instance.new("ScreenGui", game.CoreGui)
 a.Name = "WordSuggestor"
 
 local b = Instance.new("Frame", a)
+local UserInputService = game:GetService("UserInputService")
+
+local guiVisible = true
+
+UserInputService.InputBegan:Connect(function(input, gameProcessed)
+    if gameProcessed then return end
+    
+    if input.KeyCode == Enum.KeyCode.LeftControl or input.KeyCode == Enum.KeyCode.RightControl then
+        guiVisible = not guiVisible
+        a.Enabled = guiVisible
+    end
+end)
+
 b.Size = UDim2.new(0,250,0,400)
 b.Position = UDim2.new(0,80,0,100)
 b.BackgroundColor3 = Color3.fromRGB(30,30,30)
@@ -198,13 +211,13 @@ local sortButton = Instance.new("TextButton",sortFrame)
 sortButton.Size=UDim2.new(1,0,1,0)
 sortButton.BackgroundColor3=Color3.fromRGB(60,60,60)
 sortButton.TextColor3=Color3.fromRGB(255,255,255)
-sortButton.Text="Sort Mode: Shortest"
+sortButton.Text="Sort Mode: Random"
 sortButton.Font=Enum.Font.Gotham
 sortButton.TextSize=11
 Instance.new("UICorner",sortButton).CornerRadius=UDim.new(0,4)
 
 local sortModes = {"Shortest", "Longest", "Random", "Killer"}
-local currentSortIndex = 1
+local currentSortIndex = 3
 
 sortButton.MouseButton1Click:Connect(function()
     currentSortIndex = currentSortIndex + 1
