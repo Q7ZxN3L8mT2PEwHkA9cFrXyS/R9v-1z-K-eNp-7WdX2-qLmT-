@@ -43,6 +43,7 @@ adipogenic
 adipopexia
 adm
 admi
+adminicles
 admit
 adnexal
 adultery
@@ -121,6 +122,7 @@ amatols
 amberinas
 ambitioned
 amboinas
+ambuscado
 amelet
 ametaboly
 amidoxime
@@ -139,6 +141,7 @@ amylogenic
 amyosthenic
 amyotaxia
 anaboly
+anadesm
 anaerobies
 anahau
 anaphylactogenic
@@ -147,6 +150,8 @@ anaspidacea
 anatinacea
 anatoxin
 anaxon
+ancles
+androcles
 androgenic
 andromedotoxin
 anelli
@@ -204,6 +209,7 @@ antimony
 antineurotoxin
 antinomian
 antioxygenic
+antiparticles
 antipathogenic
 antiplatelet
 antirabies
@@ -224,7 +230,9 @@ apocrenic
 apodematal
 apometaboly
 apostils
+apotelesm
 appayd
+appendicles
 apperils
 apportioned
 apraxia
@@ -237,6 +245,7 @@ aqsaqal
 aquilons
 aquinas
 arabin
+arbuscles
 arcacea
 arcadic
 archegoniatae
@@ -258,6 +267,7 @@ arsenic
 arseniopleite
 artery
 arthrotrauma
+articles
 aruspex
 aryballi
 arybballi
@@ -302,6 +312,7 @@ auditioned
 auksinas
 aumails
 aumils
+auricles
 auspex
 autecy
 authigenic
@@ -309,6 +320,7 @@ autoabstract
 autoantitoxin
 autobahn
 autocephaly
+autocycles
 autoecy
 autogenic
 autonephrotoxin
@@ -321,6 +333,7 @@ avails
 avenirs
 aventails
 avijja
+avocado
 avys
 axal
 axenic
@@ -371,10 +384,13 @@ barbudan
 bareboned
 bargelli
 barmpots
+barnacles
 barotrauma
 barrelet
+barricado
 bartramian
 baruya
+barye
 basenet
 basigenic
 basils
@@ -392,6 +408,7 @@ beaconed
 beaproned
 bearfoots
 beatae
+beauclerc
 bebuttoned
 bechignoned
 becke
@@ -420,7 +437,9 @@ bercelet
 bergamots
 beribboned
 berkowitz
+bernicles
 beseige
+besom
 besots
 bespeckles
 bespots
@@ -437,11 +456,15 @@ biathlons
 biaxal
 bibelots
 bibliophils
+bicycles
 bigfoots
 bigots
 bikram
 bilbies
 billons
+binnacles
+binocles
+biocycles
 biodots
 bioenvironmentaly
 biogenic
@@ -454,6 +477,7 @@ bisbeeite
 bisischiadic
 bissoned
 bistratal
+bittacles
 bitterroots
 bivouac
 blackmails
@@ -495,6 +519,7 @@ bossism
 bossyboots
 bots
 botticelli
+boucles
 boughpots
 bouilli
 bouillons
@@ -552,6 +577,7 @@ bulbils
 bullshots
 bumbershoots
 bunkums
+bunny
 bunya
 buoyant
 burbots
@@ -580,12 +606,14 @@ cahuy
 caissoned
 calathi
 calibre
+calicles
 calisthenic
 calli
 callisthenic
 calorigenic
 calpolli
 calpulli
+calycles
 calyptratae
 camails
 cambrel
@@ -603,6 +631,7 @@ cankles
 cannabin
 cannelons
 cannoned
+canticles
 cantinas
 cantoned
 caparisoned
@@ -620,6 +649,7 @@ caract
 carapax
 carbies
 carboned
+carbuncles
 carcinogenic
 cardiacea
 cardiataxia
@@ -639,7 +669,9 @@ carrots
 carrycots
 cartoned
 cartooned
+caruncles
 carvoepra
+cascado
 cassinas
 castelet
 castelli
@@ -652,6 +684,8 @@ cathexion
 catogenic
 cattails
 cattery
+caudicles
+caulicles
 cauma
 cautery
 cautioned
@@ -664,7 +698,9 @@ ceennacuelum
 ceils
 celli
 cemetery
+cenacles
 cenobies
+centesm
 centibar
 cerebra
 cerebrasthenic
@@ -714,6 +750,7 @@ cheviots
 chevroned
 chewies
 chickamauga
+chicles
 chicots
 chignoned
 chikungunya
@@ -734,10 +771,12 @@ chromogenic
 chromonematal
 chromophils
 chronaxia
+chronicles
 chrysenic
 chuckles
 chuckram
 chyak
+cicatricles
 ciceroned
 cichlid
 cicutoxin
@@ -746,6 +785,8 @@ cinnamoned
 cinnamony
 cinq
 cinquefoils
+circles
+circumcircles
 circumflexion
 civils
 ciwies
@@ -757,6 +798,7 @@ clarkias
 claros
 classism
 clattery
+clavicles
 claxon
 cleveite
 climactery
@@ -789,6 +831,7 @@ cocktails
 cocooned
 codeinas
 codicils
+coenacles
 coffeepots
 coils
 coistrils
@@ -820,6 +863,7 @@ complots
 componed
 compots
 conbinas
+conceptacles
 concertinas
 conditioned
 condoned
@@ -839,6 +883,7 @@ contortioned
 contract
 contrails
 contusioned
+conventicles
 cooboo
 cooja
 cookeite
@@ -851,6 +896,7 @@ coplots
 coprincipal
 coquelicots
 coquinas
+coracles
 coracosteon
 coralroots
 corbeils
@@ -859,7 +905,9 @@ corbinas
 cordax
 cordoned
 corncockles
+cornicles
 corojo
+corpuscles
 corrige
 corselet
 cortinas
@@ -905,6 +953,7 @@ crayoned
 cremor
 crenelet
 crenic
+crepuscles
 crestmoreite
 criminogenic
 crimogenic
@@ -931,19 +980,24 @@ cryptogenic
 crystallogenic
 cubbies
 cubelet
+cubicles
 cuichunchulli
 culebra
 cultelli
 culttelli
 cumacea
+cunny
+curricles
 curtails
 cushioned
 cuterebra
+cuticles
 cutiterebra
 cutset
 cyanogenic
 cyathi
 cycladic
+cycles
 cyclitols
 cyclocephaly
 cyclodiolefin
@@ -961,6 +1015,7 @@ daemony
 daffodils
 dagesh
 daguerreotyper
+damocles
 dantoned
 darbies
 daredevils
@@ -977,6 +1032,7 @@ deaccessioned
 deaconed
 deasils
 deasoils
+debacles
 debbies
 debeige
 deboned
@@ -1007,6 +1063,7 @@ demonastery
 demosthenic
 dendraxon
 denet
+denticles
 dentils
 deponed
 depots
@@ -1104,6 +1161,7 @@ divots
 dobbies
 dobies
 doblons
+dofunny
 doggoned
 dogstails
 dogtails
@@ -1162,6 +1220,7 @@ duftery
 dulcigenic
 dulcitols
 dungeoned
+dunny
 duotoned
 duraquara
 durukuli
@@ -1180,6 +1239,7 @@ dystaxic
 earshots
 eatery
 ebonige
+eccles
 echeloned
 echelons
 echinacea
@@ -1208,11 +1268,13 @@ electrotyper
 elixir
 emails
 embails
+embarricado
 embastioned
 emblazoned
 emboils
 emboly
 embowel
+embrocado
 embroils
 embryogenic
 emmenic
@@ -1228,7 +1290,9 @@ encephalitogenic
 encephalons
 enchantery
 encinas
+encircles
 encrimsoned
+endocuticles
 endogenic
 endotheliotoxin
 endotoxin
@@ -1264,6 +1328,8 @@ epeirogenic
 epencephalons
 epharmony
 epiboly
+epicuticles
+epicycles
 epigenic
 epileptogenic
 epirogenic
@@ -1295,6 +1361,7 @@ estrogenic
 etaballi
 etabelli
 etalons
+eteocles
 ethambutols
 ethenic
 ethmopalatal
@@ -1324,9 +1391,11 @@ eventognathi
 evermo
 evils
 excursioned
+exercycles
 exfils
 exion
 exocoelum
+exocuticles
 exogenic
 exon
 exotery
@@ -1346,7 +1415,9 @@ fagots
 fahrenheit
 fails
 fairnitickles
+fairniticles
 fairnytickles
+fairnyticles
 faitery
 falsism
 familistery
@@ -1359,6 +1430,7 @@ fardelet
 farenheit
 farinas
 faros
+fascicles
 fashioned
 fatal
 fauteuils
@@ -1367,8 +1439,11 @@ feedlots
 felons
 fencelet
 fernitickles
+ferniticles
 ferntickles
+fernticles
 fernytickles
+fernyticles
 ferredoxin
 ferrotyper
 festooned
@@ -1424,6 +1499,7 @@ fodda
 foils
 folkmoots
 folkmots
+follicles
 fontinas
 footeite
 foothils
@@ -1464,6 +1540,7 @@ freckles
 freebies
 freebootery
 freeboots
+freecycles
 fregatae
 frenatae
 fricots
@@ -1479,7 +1556,10 @@ fulfils
 fumistery
 funckias
 functioned
+funicles
 funkias
+funny
+furuncles
 fusilli
 fusils
 fusspots
@@ -1546,6 +1626,7 @@ gesundheit
 getmjlkost
 ghedda
 gidyea
+gigacycles
 giglots
 gigots
 gijinka
@@ -1593,9 +1674,11 @@ grackles
 gradationed
 grails
 grakles
+gramarye
 grandads
 grandbabies
 granddads
+granduncles
 grapelet
 grapeshots
 grassplots
@@ -1627,6 +1710,7 @@ gumboils
 gumboots
 gumbotils
 gundelet
+gunny
 gunshots
 gurgoyle
 gutrots
@@ -1701,6 +1785,7 @@ hematal
 hematogenic
 hemiapraxia
 hemiataxia
+hemicycles
 hemimetaboly
 heminas
 hemitery
@@ -1723,6 +1808,7 @@ hermo
 herringboned
 hetairai
 heteradenic
+heterocycles
 heterodoxal
 heteroecy
 heterogenic
@@ -1737,6 +1823,7 @@ hexaglots
 hexathlons
 hexaxon
 hiatal
+hibernacles
 hieronymian
 highspots
 hightails
@@ -1752,6 +1839,7 @@ hoboed
 hockles
 hodads
 hokums
+holesom
 holometaboly
 holons
 holoplexia
@@ -1764,6 +1852,7 @@ homoeogenic
 homogenic
 homotaxia
 homotaxic
+homuncles
 honed
 honeymooned
 honeypots
@@ -1853,6 +1942,7 @@ ichneumoned
 ichnofossils
 ichthyosism
 ichthyotoxin
+icicles
 icterogenic
 idiots
 ignaros
@@ -1864,6 +1954,8 @@ illusioned
 imambarah
 imaumbarah
 imbrex
+imbrocado
+immanacles
 immotioned
 immunoblots
 immunogenic
@@ -1875,6 +1967,9 @@ imponed
 impots
 imprisoned
 inaxon
+incles
+incommunicado
+incomunicado
 inconditioned
 inconnexion
 indexal
@@ -1899,6 +1994,7 @@ instils
 intentioned
 interact
 interaxal
+interclavicles
 intercommoned
 interconnexion
 intercoxal
@@ -2029,6 +2125,7 @@ khwarazmian
 kibbitzed
 kibitzed
 kickxia
+kilocycles
 kimboed
 kinakinas
 kinas
@@ -2101,6 +2198,7 @@ legioned
 lehrjahre
 lemoned
 lemony
+lenticles
 lentils
 lepra
 leptocephaly
@@ -2144,6 +2242,7 @@ lipogenic
 lipopexia
 lipoxeny
 liquidogenic
+listicles
 littery
 livingstoneite
 lobatae
@@ -2186,8 +2285,10 @@ lysigenic
 lysogenic
 mabyer
 mackles
+macles
 macrencephaly
 macrocephaly
+macrocycles
 macrofossils
 macromesentery
 macroptery
@@ -2214,6 +2315,7 @@ maltols
 mamboed
 mamelons
 mammogenic
+manacles
 mandarah
 mandrils
 mangabev
@@ -2232,6 +2334,7 @@ maros
 marplots
 martinoe
 martyrs
+mascles
 mascots
 masoned
 massasauga
@@ -2255,8 +2358,10 @@ medallioned
 mediagenic
 medinas
 mediopalatal
+medrinacles
 meerkat
 megacephaly
+megacycles
 megalocephaly
 megalopa
 megaphoned
@@ -2274,6 +2379,7 @@ menadic
 menic
 mentery
 mentioned
+mercado
 merils
 merlons
 merlots
@@ -2310,12 +2416,14 @@ micrencephaly
 microbattery
 microcephaly
 microcosmian
+microcycles
 microdots
 microfibre
 microfibrils
 microfossils
 microhabitat
 micromesentery
+microparticles
 microsplenic
 microsthenic
 microvilli
@@ -2332,6 +2440,7 @@ minirugbies
 minoxidils
 miocenic
 miquelet
+miracles
 misallots
 misatoned
 misbuttoned
@@ -2365,7 +2474,9 @@ monastery
 monaxon
 mongoyo
 monkeypots
+monocles
 monocots
+monocycles
 monoecy
 monofils
 monogamian
@@ -2377,6 +2488,7 @@ monothalamian
 monotoned
 monoxime
 monoxylons
+monticles
 mony
 moobies
 moonboots
@@ -2392,6 +2504,8 @@ mosquelet
 motioned
 motmots
 motorails
+motorbicycles
+motorcycles
 mots
 moucharabies
 moufflons
@@ -2407,6 +2521,7 @@ mugshots
 muils
 mujik
 mullioned
+multicycles
 multifils
 multifoils
 multigenic
@@ -2415,6 +2530,7 @@ municipal
 munitioned
 murgeoned
 murrelet
+muscles
 musculophrenic
 mushaa
 muskles
@@ -2446,6 +2562,7 @@ nankingese
 nanobots
 nanocephaly
 nanodots
+nanoparticles
 naphthalenic
 naphthenic
 naphtols
@@ -2568,6 +2685,8 @@ nucelli
 nuculacea
 nudzh
 nunatak
+nuncles
+nunny
 nurselet
 nuttery
 nyerereite
@@ -2582,6 +2701,7 @@ obied
 oblige
 oblongatae
 oblongatal
+obstacles
 ocarinas
 occasioned
 ocelli
@@ -2618,6 +2738,8 @@ opelet
 opimian
 opinioned
 optioned
+opuscles
+oracles
 orchestrinas
 orchils
 organoantimony
@@ -2634,6 +2756,7 @@ orthopraxia
 orthorexia
 orthovanadic
 osselet
+ossicles
 osteogenic
 ostracea
 ostraeacea
@@ -2645,6 +2768,7 @@ otsukimi
 oudemian
 outcavils
 outfoots
+outmuscles
 outpassioned
 outplots
 outpupils
@@ -2732,7 +2856,9 @@ pancreatogenic
 pandemian
 pangenic
 panhellenic
+panicles
 panmixia
+pannicles
 panorpatae
 pantalons
 pantalooned
@@ -2771,6 +2897,7 @@ parsism
 parsoned
 parthenic
 parthenogenic
+particles
 partitioned
 pashminas
 pasquils
@@ -2797,15 +2924,19 @@ peatery
 pecke
 pectinacea
 pedagese
+pedicles
 pedogenic
 pedrails
+peduncles
 pegroots
 pekingese
 peladic
 pellagragenic
+pellicles
 pelons
 pembinas
 pencils
+pendicles
 penicilli
 penicils
 pennatae
@@ -2816,6 +2947,7 @@ penroseite
 pensils
 pensioned
 pensy
+pentacles
 pentadic
 pentathlons
 penuckles
@@ -2826,6 +2958,9 @@ peract
 peratae
 pericardiacophrenic
 pericardiophrenic
+pericles
+pericycles
+peridesm
 peridots
 perils
 perinatal
@@ -2929,8 +3064,10 @@ pinas
 pinioned
 pinitols
 pinkroots
+pinnacles
 pinniewinkles
 pinnywinkles
+pinocles
 pinots
 pinspots
 pintails
@@ -2949,6 +3086,7 @@ plagiocephaly
 plancheite
 plantagenet
 plasmagenic
+plasmodesm
 plastery
 plastilinas
 platelet
@@ -3015,6 +3153,7 @@ pontooned
 ponytails
 pooja
 poots
+popsicles
 porencephaly
 porinas
 portioned
@@ -3061,6 +3200,7 @@ prechampioned
 precipitinogenic
 preconditioned
 precontract
+precycles
 preextract
 prefashioned
 preffrozen
@@ -3139,6 +3279,7 @@ pseudoataxia
 pseudodoxal
 pseudodysentery
 pseudomartyrs
+pseudoparticles
 pseudopeziza
 pseudorabies
 pseudovelum
@@ -3147,6 +3288,7 @@ psychasthenic
 psychataxia
 psychogenic
 psychotogenic
+pterocles
 pterygopalatal
 ptyalogenic
 puckles
@@ -3158,6 +3300,7 @@ pulvils
 punaluan
 punany
 punka
+punny
 pupils
 purtrayd
 pussyfoots
@@ -3191,6 +3334,7 @@ quackles
 quails
 quarrelet
 quartzoid
+quasiparticles
 quatrefoils
 quayd
 querimony
@@ -3210,6 +3354,7 @@ rabigenic
 rabin
 rachitogenic
 rackles
+radicles
 radiogenic
 radiotelephoned
 rails
@@ -3238,8 +3383,11 @@ reavails
 reboils
 reboots
 rebuttoned
+recado
 recandidacy
 recautioned
+receptacles
+recircles
 reckoned
 recoils
 recommissioned
@@ -3247,6 +3395,7 @@ reconditioned
 recontract
 recoyle
 rectipetaly
+recycles
 redfoots
 redimensioned
 redistils
@@ -3296,6 +3445,7 @@ resummoned
 retackles
 retails
 retestimony
+reticles
 retinas
 retract
 retreatal
@@ -3367,6 +3517,7 @@ rudesbies
 rugbies
 rumpots
 runkles
+runny
 rushlit
 russelet
 russism
@@ -3401,6 +3552,7 @@ sanctimony
 sanctioned
 sandlots
 sangrails
+sanicles
 sanka
 santoku
 santolinas
@@ -3459,6 +3611,7 @@ scug
 scungilli
 scutcheoned
 seaboots
+seacunny
 sealioned
 seasoned
 seckles
@@ -3472,6 +3625,7 @@ selenic
 selli
 semiabstract
 semian
+semicircles
 semicolons
 semiconditioned
 semiflexion
@@ -3531,11 +3685,13 @@ shvitzed
 sialons
 sickles
 sideshoots
+siecles
 sigils
 signorinas
 sikimi
 sildenafils
 silenic
+silicles
 silicoflagellatae
 silktails
 sillabub
@@ -3545,6 +3701,7 @@ simonkolleite
 simony
 sintery
 siphoned
+siphuncles
 sipunculacea
 sirenic
 sirmian
@@ -3599,6 +3756,7 @@ snowboots
 soaproots
 sociogenic
 sociologese
+socles
 soils
 solifluxion
 solipsism
@@ -3610,6 +3768,7 @@ sombreite
 sonatinas
 soole
 soots
+sophocles
 sorbitols
 sortlige
 sotadic
@@ -3627,12 +3786,14 @@ spails
 spambots
 spandrils
 sparkles
+sparticles
 spartinas
 spary
 spasmotoxin
 spayd
 speciesism
 speckles
+spectacles
 speils
 spermatogenic
 spermatoxin
@@ -3647,6 +3808,7 @@ spigots
 spikelet
 spinas
 spinelet
+spiracles
 spirelet
 spiriferacea
 spirulinas
@@ -3663,6 +3825,7 @@ spongelet
 spooned
 spoots
 sporadic
+sporidesm
 sporogenic
 sporozoid
 spots
@@ -3672,6 +3835,8 @@ springtails
 sprinkles
 spritsails
 spritzed
+sprunny
+spunny
 sputtery
 squadroned
 squails
@@ -3679,6 +3844,7 @@ squawroots
 squaxon
 squirelet
 stacationed
+staccado
 stadda
 stadic
 stagese
@@ -3709,12 +3875,14 @@ sternebra
 steroidogenic
 stewpots
 sthenic
+sticcado
 stichado
 stickles
 stickums
 stigmatal
 stinkaroo
 stinkpots
+stoccado
 stockpots
 stolons
 stomatal
@@ -3742,18 +3910,21 @@ stromatal
 strophomenacea
 stubbies
 studdingsails
+stumblebunny
 stunsails
 stupex
 sturmian
 stylli
 subabbots
 subalgebra
+subarticles
 subbies
 subbrachycephaly
 subcalibre
 subcommissioned
 subcontract
 subcouncils
+subcycles
 subdepots
 subdolichocephaly
 subfossils
@@ -3783,6 +3954,7 @@ sulpharsenic
 sulphoarsenic
 suluan
 summoned
+sunny
 sunspots
 sunspottery
 superabstract
@@ -3790,8 +3962,10 @@ supercoils
 superflexion
 supermunicipal
 supermystery
+superparticles
 superpatriots
 supersecrecy
+superspectacles
 supracoxal
 suprameatal
 surfeit
@@ -3826,6 +4000,7 @@ taaffeite
 tabaxir
 tabbied
 tabbies
+tabernacles
 tachygenic
 tachyphylaxia
 tackles
@@ -3891,6 +4066,7 @@ teleodesmacea
 teleostomian
 telephoned
 telerobots
+telesm
 teletyper
 telharmony
 tellinacea
@@ -3903,6 +4079,7 @@ tenebra
 tenet
 tenoned
 tensioned
+tentacles
 teocalli
 tepary
 teratogenic
@@ -3912,6 +4089,7 @@ terebra
 terpenic
 tesseract
 testacea
+testicles
 testimony
 testrils
 tetanotoxin
@@ -4034,6 +4212,7 @@ transposon
 trapezoid
 trauma
 travails
+treacles
 treckschuyt
 tredefowel
 treelet
@@ -4051,6 +4230,7 @@ trichinas
 trichobezoar
 trickles
 tricots
+tricycles
 tridimensioned
 triglots
 trigonocephaly
@@ -4083,6 +4263,7 @@ tsukimi
 tsunamigenic
 tubatoxin
 tubelet
+tubercles
 tuberculotoxin
 tuinas
 tumbrel
@@ -4091,7 +4272,9 @@ tumorgenic
 tumorigenic
 tuneups
 tungstenic
+tunicles
 tunka
+tunny
 turbots
 turmoils
 turnbuckles
@@ -4144,6 +4327,7 @@ uncautioned
 unchampioned
 unchaperoned
 unchevroned
+uncles
 uncloned
 uncoaxal
 uncoils
@@ -4187,6 +4371,7 @@ unflamboyant
 unforfeit
 unfrictioned
 unfrozen
+unfunny
 ungarrisoned
 unglittery
 unguerdoned
@@ -4196,6 +4381,7 @@ unhorizoned
 unhygenic
 unhygienic
 uniaxal
+unicycles
 unillusioned
 unimpassioned
 unimpoisoned
@@ -4210,6 +4396,7 @@ unknots
 unlampooned
 unlessoned
 unlobbied
+unmanacles
 unmentioned
 unmotioned
 unmullioned
@@ -4268,6 +4455,7 @@ unstatued
 unstoned
 unsubventioned
 unsummoned
+unsunny
 untackles
 untaloned
 unthroned
@@ -4283,6 +4471,7 @@ unzoned
 upanishadic
 upboils
 upcoils
+upcycles
 upholstery
 uproots
 upshoots
@@ -4299,6 +4488,7 @@ uroxin
 usenet
 utensils
 uteropexia
+utricles
 uyezd
 vaadim
 vacationed
@@ -4319,6 +4509,7 @@ vaselet
 vassails
 vauntery
 vedda
+vehicles
 veils
 vellons
 velum
@@ -4326,22 +4517,28 @@ veneracea
 ventails
 ventige
 ventils
+ventricles
 verapamils
 vermeils
 vermian
 vermicelli
 vermilioned
 vermils
+vernacles
+vernicles
 verselet
+versicles
 versioned
 vertebra
 verticilli
 verticils
 verulamian
+vesicles
 vesiculatae
 vessails
 vestige
 vexils
+vibratiuncles
 videogenic
 vidiots
 vigils
@@ -4357,6 +4554,7 @@ viscerogenic
 visiogenic
 visioned
 vitelli
+vitellicles
 vitellogenic
 vivipary
 voetstoots
@@ -4384,6 +4582,7 @@ wastery
 watermelons
 watery
 wavelet
+wavicles
 weaponed
 webbies
 webmails
