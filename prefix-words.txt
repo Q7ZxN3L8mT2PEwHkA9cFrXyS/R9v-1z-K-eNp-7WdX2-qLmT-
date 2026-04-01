@@ -1510,6 +1510,7 @@ gametogenic
 gammoned
 garboils
 gargoyle
+garlopa
 garoo
 garrisoned
 garrots
@@ -2256,6 +2257,7 @@ mediopalatal
 meerkat
 megacephaly
 megalocephaly
+megalopa
 megaphoned
 meibomian
 meigomian
