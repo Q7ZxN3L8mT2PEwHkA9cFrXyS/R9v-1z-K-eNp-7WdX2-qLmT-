@@ -69,6 +69,7 @@ acrimonies
 acrimony
 acrobatically
 acrobatism
+acrocephaly
 acrodontism
 acrogenic
 acrologically
@@ -235,6 +236,7 @@ alcyonacea
 aldm
 aldosteronism
 alexandrianism
+algebra
 algebraically
 algogenic
 algologically
@@ -450,6 +452,7 @@ anemometrically
 anemometrographically
 anemony
 anemotropism
+anencephaly
 anerotic
 anesthetically
 aneurism
@@ -493,7 +496,6 @@ ankylotic
 annalism
 annalistically
 annelism
-annet
 annexationism
 annexion
 annihilationism
@@ -749,7 +751,6 @@ antirationally
 antirealism
 antirealistically
 antireductionism
-antirennet
 antirentism
 antirepublicanism
 antiritualism
@@ -873,6 +874,7 @@ apterism
 aptitudinally
 aptotic
 aptyalism
+aqsaqal
 aquatically
 aquilons
 aquinas
@@ -899,6 +901,7 @@ archeologically
 archeomagnetism
 archetypally
 archetypically
+archicerebra
 archiepiscopally
 archils
 archimperialism
@@ -1098,6 +1101,7 @@ autobahn
 autobiographically
 autocatalytically
 autocatheterism
+autocephaly
 autochthonies
 autochthonism
 autocratically
@@ -1235,7 +1239,6 @@ banditism
 bandwagoned
 bangtails
 bankruptism
-bannet
 bantingism
 banuyo
 baptism
@@ -1327,7 +1330,6 @@ benedictinism
 beneficially
 benet
 benic
-bennet
 bennies
 benthamism
 benzils
@@ -1341,7 +1343,6 @@ berkeleianism
 berkeleyism
 berkowitz
 beseige
-besonnet
 besots
 bespeckles
 bespots
@@ -1486,7 +1487,6 @@ blots
 blowies
 bludgeoned
 bluebeardism
-bluebonnet
 bluefin
 bluestockingism
 bluism
@@ -1520,7 +1520,6 @@ boned
 bonelet
 bonhomme
 bonism
-bonnet
 bonnies
 boobies
 booboo
@@ -1566,8 +1565,10 @@ boyarism
 boycottism
 boyism
 bracelet
+brachistocephaly
 brachtmema
 brachycephalism
+brachycephaly
 brachydactylism
 brachydontism
 brachygnathism
@@ -1659,7 +1660,6 @@ bullism
 bullshots
 bullyism
 bumbershoots
-bunnet
 bunnies
 bunya
 burbankism
@@ -1716,6 +1716,7 @@ caissoned
 calcedonies
 calciphylactically
 calibanism
+calibre
 caligulism
 calisthenic
 calli
@@ -1751,7 +1752,6 @@ cankles
 cannabin
 cannabism
 cannelons
-cannet
 cannibalism
 cannibalistically
 cannibally
@@ -1909,6 +1909,7 @@ cenospecifically
 centenarianism
 centennially
 centesimally
+centibar
 centonism
 centralism
 centrally
@@ -1921,6 +1922,7 @@ centrodorsally
 cephalically
 cephalism
 cerealism
+cerebra
 cerebralism
 cerebrally
 cerebrasthenic
@@ -1939,6 +1941,7 @@ chally
 chalons
 chamacea
 chamberpots
+chamecephaly
 chamelots
 chamian
 championed
@@ -1971,8 +1974,6 @@ chaucerism
 chauvinism
 chauvinistically
 chayroots
-chazanut
-chazzanut
 cheapshots
 checke
 checkrails
@@ -2130,6 +2131,7 @@ clinally
 clinically
 clinicopathologically
 clinocephalism
+clinocephaly
 clinoprism
 cliquism
 clitorism
@@ -2168,7 +2170,6 @@ cocksfoots
 cockshots
 cocksureism
 cocktails
-cocoanut
 cocooned
 codeinas
 codicils
@@ -2392,6 +2393,7 @@ convulsionism
 cooboo
 cooja
 cookeite
+coolibar
 coots
 coparcenies
 copatriots
@@ -2413,7 +2415,6 @@ corbinas
 cordax
 cordially
 cordoned
-cordonnet
 corinthianism
 corncockles
 corneosclerotic
@@ -2576,6 +2577,7 @@ cubism
 cubistically
 cuffyism
 cuichunchulli
+culebra
 cullyism
 culottism
 cultelli
@@ -2593,6 +2595,8 @@ curnies
 curtails
 curvilineally
 cushioned
+cuterebra
+cutiterebra
 cyanogenic
 cyanotic
 cybernetically
@@ -2600,6 +2604,7 @@ cyberterrorism
 cyclically
 cyclicism
 cyclism
+cyclocephaly
 cyclodiolefin
 cycloidally
 cyclonically
@@ -2609,6 +2614,7 @@ cyclopedically
 cyclopism
 cylindrically
 cymaphytism
+cymbocephaly
 cymelet
 cynically
 cynicism
@@ -2683,6 +2689,7 @@ decanically
 decathlons
 decennially
 decentralism
+decibar
 decimalism
 decimally
 decisioned
@@ -2731,7 +2738,6 @@ dendrochronologically
 denet
 denialism
 denies
-dennet
 denominationalism
 denominationally
 denotationally
@@ -2922,6 +2928,7 @@ diphygenic
 diphysitism
 diplanetism
 diplarthrism
+diplocephaly
 diplogenic
 diplomatically
 diplomatism
@@ -3030,6 +3037,7 @@ dogtrots
 dojo
 doketism
 dolichocephalism
+dolichocephaly
 dolichotmema
 dolinas
 dolmenic
@@ -3110,7 +3118,6 @@ dualism
 dualistically
 dually
 duathlons
-dubonnet
 ducally
 ducktails
 dudism
@@ -3790,6 +3797,7 @@ faddism
 faggots
 fagopyrism
 fagots
+fahrenheit
 fails
 faineantism
 fairnitickles
@@ -3818,6 +3826,7 @@ fantasticism
 faradism
 farcically
 fardelet
+farenheit
 farinas
 fascism
 fascistically
@@ -3875,6 +3884,7 @@ feudovassalism
 feuilletonism
 feverroots
 fewtrils
+fibre
 fibrils
 fibrinogenic
 fibrinogenically
@@ -4116,7 +4126,6 @@ gandhiism
 gandhism
 gangism
 gangsterism
-gannet
 garboils
 gargarism
 gargoylism
@@ -4170,7 +4179,6 @@ genically
 genies
 genitally
 genitivally
-gennet
 gennies
 genotypically
 genteelism
@@ -4227,12 +4235,14 @@ gerontophils
 gerundially
 gestaltism
 gesturally
+gesundheit
 getmjlkost
 ghazism
 ghedda
 ghibellinism
 ghostism
 giantism
+gidyea
 gigantically
 gigantism
 giglots
@@ -4246,7 +4256,6 @@ gingelli
 gingerroots
 gingilli
 ginkgo
-ginnet
 gipsyism
 girlism
 girondism
@@ -4304,7 +4313,6 @@ gonochorism
 goobies
 goodyism
 goonies
-gooranut
 goosefoots
 gordiacea
 gorgelet
@@ -4481,8 +4489,6 @@ hasidism
 hattism
 havenet
 hawaii
-hazanut
-hazzanut
 headrails
 headsails
 headshots
@@ -4847,6 +4853,7 @@ hydatopyrogenic
 hydrargyrism
 hydraulically
 hydrically
+hydrocephaly
 hydrodynamically
 hydroelectrically
 hydroextract
@@ -4896,6 +4903,7 @@ hyperadrenalism
 hyperadrenocorticism
 hyperaeolism
 hyperaldosteronism
+hyperalgebra
 hyperaltruism
 hyperanabolism
 hyperangelically
@@ -4905,6 +4913,7 @@ hyperbarism
 hyperbatically
 hyperbolically
 hyperbolism
+hyperbrachycephaly
 hyperbrutally
 hypercarnally
 hypercatabolism
@@ -4921,6 +4930,7 @@ hyperdiabolically
 hyperdialectism
 hyperdicrotic
 hyperdicrotism
+hyperdolichocephaly
 hyperdoricism
 hyperemotionally
 hyperendocrinism
@@ -5039,8 +5049,12 @@ hypothyroidism
 hypotonically
 hypotthalli
 hypsibrachycephalism
+hypsibrachycephaly
+hypsicephaly
 hypsidolichocephalism
+hypsidolichocephaly
 hypsistenocephalism
+hypsistenocephaly
 hypsodontism
 hypsometrically
 hysteretically
@@ -5258,7 +5272,6 @@ inkpots
 inkspots
 innatism
 innaturally
-innet
 innies
 inofficially
 inogenic
@@ -5311,6 +5324,7 @@ interdepartmentally
 interdigitally
 interfacially
 interferometrically
+interfibre
 interfraternally
 interimistically
 interiorism
@@ -5346,6 +5360,7 @@ intersystematically
 intertextually
 intertidally
 interventionism
+intervertebra
 intervertebrally
 intervocalically
 intestinally
@@ -5387,6 +5402,7 @@ intuitionalism
 intuitionally
 intuitionism
 intuitivism
+inupiaqs
 invalidism
 inventorially
 iodism
@@ -5433,6 +5449,7 @@ ismailism
 isoantigenic
 isobarism
 isocephalism
+isocephaly
 isochronally
 isochronism
 isoclinally
@@ -5509,7 +5526,6 @@ jawboned
 jeffersonianism
 jehadism
 jehovism
-jennet
 jennies
 jeofails
 jerbils
@@ -5628,7 +5644,6 @@ keckles
 kehoeite
 keiretsus
 kemalism
-kennet
 kenogenetically
 kenotic
 kenoticism
@@ -5740,6 +5755,7 @@ laryngeally
 laryngophonies
 laryngoscopically
 latakias
+latebra
 lateralism
 laterally
 lateriflexion
@@ -5775,6 +5791,7 @@ lentils
 lepidotic
 lepra
 leprotic
+leptocephaly
 leptorrhinism
 lernaeacea
 lesbianism
@@ -5816,6 +5833,7 @@ liberationism
 libertarianism
 libertinism
 libidinally
+libre
 lichenic
 lichenism
 lickpennies
@@ -5837,7 +5855,6 @@ linguistically
 linkrots
 linnaeanism
 linnaeite
-linnet
 linnies
 linolenic
 linotyper
@@ -5961,9 +5978,11 @@ machiavellism
 machinism
 machoism
 mackles
+macrencephaly
 macrobiotic
 macrobiotically
 macrocephalism
+macrocephaly
 macrochemically
 macroclimatically
 macrocosmically
@@ -5997,6 +6016,7 @@ magnetooptically
 magnifically
 magots
 magyarism
+mahaly
 mahatmaism
 mahayanism
 mahdism
@@ -6052,7 +6072,6 @@ manikinism
 manism
 mannerism
 manneristically
-mannet
 mannikinism
 manometrically
 manorialism
@@ -6167,7 +6186,9 @@ medism
 mediterraneanism
 mediumism
 meerkat
+megacephaly
 megadontism
+megalocephaly
 megalodactylism
 megalomaniacally
 megalopolitanism
@@ -6239,6 +6260,7 @@ merycism
 mesails
 mesally
 mesaticephalism
+mesaticephaly
 mescalism
 mesencephalons
 mesenterically
@@ -6249,6 +6271,7 @@ mesitylenic
 mesmerically
 mesmerism
 mesocephalism
+mesocephaly
 mesocolons
 mesocranies
 mesodontism
@@ -6259,6 +6282,7 @@ mesophytism
 mesopotamian
 mesorhinism
 mesorrhinism
+mesosternebra
 mesoventrally
 mespils
 messianically
@@ -6336,11 +6360,13 @@ miasmically
 micawberism
 michelangelism
 mickles
+micrencephaly
 microbiologically
 microbiotic
 microbism
 microblepharism
 microcephalism
+microcephaly
 microchemically
 microclimatically
 microcolorimetrically
@@ -6352,6 +6378,7 @@ microdontism
 microdots
 microelectronically
 microelectrophoretically
+microfibre
 microfibrils
 microfossils
 micrographically
@@ -6392,6 +6419,7 @@ millennianism
 millenniarism
 millerism
 millesimally
+millibar
 millionairism
 millioned
 millionism
@@ -6408,6 +6436,7 @@ mimicism
 minas
 minatorially
 mineralogically
+minibar
 minimalism
 minimally
 minimifidianism
@@ -6752,6 +6781,7 @@ nankingese
 nannies
 nanobots
 nanocephalism
+nanocephaly
 nanodots
 naphthalenic
 naphthenic
@@ -7510,6 +7540,7 @@ nonvocally
 nonvocationally
 nonvortically
 nonylenic
+nonzebra
 nonzonally
 nonzoologically
 noobies
@@ -7767,6 +7798,7 @@ orphically
 orphicism
 orphism
 orrisroots
+orthocephaly
 orthochromatism
 orthodontically
 orthodoxally
@@ -7812,6 +7844,7 @@ ostrichism
 otherism
 othinism
 otic
+otocephaly
 otogenic
 otologically
 otomian
@@ -7832,7 +7865,6 @@ outsails
 outsally
 outshoots
 outshots
-outsonnet
 outsparkles
 outspeckles
 outtrots
@@ -7904,7 +7936,6 @@ overrationally
 overrealism
 overrealistically
 overreckoned
-overrennet
 oversacrificially
 oversails
 oversceptically
@@ -7935,6 +7966,7 @@ owyheeite
 oxfordism
 oxtails
 oxycephalism
+oxycephaly
 oxygenic
 oxymoronically
 oxyphils
@@ -7943,6 +7975,7 @@ oystrige
 ozoned
 pacaguara
 pachomian
+pachycephaly
 pachyhymenic
 pachymenic
 pacifically
@@ -8012,6 +8045,7 @@ palinka
 palladianism
 palli
 pally
+palpebra
 paludism
 palynologically
 pamphysicism
@@ -8267,7 +8301,6 @@ paxilli
 payong
 peacockism
 peaiism
-peanut
 pearceite
 peasantism
 pecke
@@ -8316,7 +8349,6 @@ peninsularism
 penitentially
 pennalism
 pennatulacea
-pennet
 pennies
 pennoned
 pennywinkles
@@ -8615,7 +8647,6 @@ phytosociologically
 pianism
 pianistically
 pianka
-piannet
 picaninnies
 picarooned
 piccalilli
@@ -8665,7 +8696,6 @@ pinies
 pinioned
 pinkertonism
 pinkroots
-pinnet
 pinnies
 pinniewinkles
 pinnywinkles
@@ -8695,6 +8725,7 @@ pivots
 plagiarism
 plagiaristically
 plagiocephalism
+plagiocephaly
 plagiotropically
 plagiotropism
 plancheite
@@ -8718,8 +8749,10 @@ platonicism
 platonism
 platooned
 platycephalism
+platycephaly
 platyrrhinism
 platystencephalism
+platystencephaly
 playboyism
 plebeianism
 plebianism
@@ -8803,6 +8836,7 @@ polyandrianism
 polyandrism
 polybuttoned
 polycentrism
+polycephaly
 polychroism
 polychromatism
 polychromism
@@ -8900,6 +8934,7 @@ poots
 popeism
 popularism
 populism
+porencephaly
 porinas
 porism
 porismatically
@@ -8988,6 +9023,7 @@ preaccidentally
 preadamitism
 preadjectivally
 preadmit
+prealgebra
 preallots
 preally
 prealphabetically
@@ -9167,6 +9203,7 @@ problematically
 procapitalism
 procaryotic
 procedurally
+procerebra
 proceremonialism
 processionally
 processioned
@@ -9274,6 +9311,7 @@ protogenic
 protogynies
 protoprism
 prototypically
+protovertebra
 protract
 protthalli
 prounionism
@@ -9468,7 +9506,6 @@ punctually
 punditically
 punitionally
 punka
-punnet
 punyism
 pupils
 puppetism
@@ -9500,6 +9537,7 @@ pyramidically
 pyreneite
 pyrenic
 pyretogenic
+pyrgocephaly
 pyroarsenic
 pyrochemically
 pyrocomenic
@@ -9522,6 +9560,10 @@ pythagorism
 pythogenic
 pythonism
 qabalism
+qajaqs
+qaraqalpaqs
+qipchaqs
+qishlaqs
 quackism
 quackles
 quadraphonies
@@ -9533,7 +9575,6 @@ quadrupedism
 quails
 quakerism
 qually
-quannet
 quantally
 quantificationally
 quaquaversally
@@ -9561,7 +9602,6 @@ quinies
 quininas
 quininism
 quinism
-quinnet
 quinquennially
 quinquinas
 quintessentially
@@ -9733,7 +9773,6 @@ rendzinas
 renegadism
 renet
 renies
-rennet
 renomme
 reoblige
 reoils
@@ -9912,7 +9951,6 @@ rugbies
 rumpots
 runically
 runkles
-runnet
 ruralism
 rurally
 rushlit
@@ -9929,7 +9967,6 @@ ryper
 sabaeanism
 sabaeism
 sabaism
-sabanut
 sabazianism
 sabbatarianism
 sabbathism
@@ -10042,6 +10079,7 @@ scandinavianism
 scapegoatism
 scaphism
 scaphocephalism
+scaphocephaly
 scarlatinas
 scatterplots
 scavengerism
@@ -10297,7 +10335,6 @@ sempiternally
 senatorially
 seneschally
 senilism
-sennet
 sensationalism
 sensationally
 sensationism
@@ -10372,6 +10409,7 @@ shallons
 shallots
 shally
 shalots
+shaly
 shamanism
 shamateurism
 shambolically
@@ -10392,6 +10430,7 @@ shenzhen
 shepherdism
 sheroots
 shiatsus
+shibar
 shiism
 shikimi
 shilh
@@ -10465,7 +10504,6 @@ sinicism
 sinism
 sinistrally
 sinistrorsally
-sinnet
 sinonism
 sinophilism
 sintoism
@@ -10597,7 +10635,6 @@ somniloquism
 somnolism
 sonatinas
 sonically
-sonnet
 sonnies
 soole
 soots
@@ -10663,6 +10700,7 @@ spermatozoid
 spermism
 sphacelism
 sphenic
+sphenocephaly
 sphenotic
 spherically
 spheroidally
@@ -10674,7 +10712,6 @@ spikelet
 spinally
 spinas
 spinelet
-spinnet
 spinnies
 spinozism
 spinsterism
@@ -10769,6 +10806,7 @@ stegnosisstegnotic
 stegnotic
 steils
 stencils
+stenocephaly
 stenographically
 stenotic
 stenotyper
@@ -10797,6 +10835,7 @@ stereotropism
 stereotyper
 stereotypically
 sterically
+sternebra
 steroidogenic
 stethoscopically
 stewpots
@@ -10810,7 +10849,6 @@ stigmatically
 stigmatism
 stinkpots
 stochastically
-stockannet
 stockpots
 stoechiometrically
 stoically
@@ -10867,6 +10905,7 @@ stylographically
 subabbots
 subacademically
 subaerially
+subalgebra
 subalgebraically
 subapically
 subaponeurotic
@@ -10874,7 +10913,9 @@ subaurally
 subautomatically
 subaxially
 subbies
+subbrachycephaly
 subbronchially
+subcalibre
 subcardinally
 subcentrally
 subchronically
@@ -10893,6 +10934,7 @@ subdermally
 subdialectally
 subdiaphragmatically
 subdolichocephalism
+subdolichocephaly
 subdorsally
 subdurally
 subelementally
@@ -11010,7 +11052,6 @@ sulphoxism
 sultanism
 suluan
 summoned
-sunbonnet
 sundayism
 sunnies
 sunnism
@@ -11141,7 +11182,6 @@ swails
 swallowtails
 swally
 swankpots
-swannet
 swannies
 swarajism
 swashbuckles
@@ -11296,6 +11336,7 @@ tajik
 takao
 takeups
 takwin
+talaqs
 talayots
 talbots
 taleae
@@ -11329,7 +11370,9 @@ tantrism
 taoism
 tapasvi
 tapeinocephalism
+tapeinocephaly
 tapinceophalism
+tapinocephaly
 tapism
 tapleyism
 taproots
@@ -11363,6 +11406,7 @@ technicism
 technism
 technographically
 technologically
+tectocephaly
 tectonically
 tectonism
 teenet
@@ -11419,6 +11463,7 @@ tendencially
 tendentially
 tenderfoots
 tendrils
+tenebra
 tenebrism
 tenet
 tennies
@@ -11434,6 +11479,7 @@ teratogenic
 teratogenies
 tercelet
 terebenic
+terebra
 teretism
 termagantism
 terminally
@@ -11608,7 +11654,6 @@ tinctorially
 tinfoils
 tinies
 tinkles
-tinnet
 tinnies
 tinpots
 tintinnabulism
@@ -11786,6 +11831,7 @@ triennially
 triglots
 trigonally
 trigoneutism
+trigonocephaly
 trigonometrically
 trigrammatism
 trilateralism
@@ -11828,6 +11874,7 @@ trivially
 trochaically
 trochils
 trochleae
+trochocephaly
 trochoidally
 troglodytism
 troilism
@@ -11853,6 +11900,7 @@ truepennies
 truism
 truistically
 trulli
+trumscheit
 truncheoned
 trunnioned
 trusteeism
@@ -11925,6 +11973,7 @@ tziganies
 ubiquitarianism
 ubiquitism
 ulcerogenic
+ultrabrachycephaly
 ultracentenarianism
 ultracentrifugally
 ultrachurchism
@@ -11932,6 +11981,7 @@ ultraconservatism
 ultracrepidarianism
 ultradandyism
 ultradespotic
+ultradolichocephaly
 ultrafidianism
 ultraimperialism
 ultraism
@@ -11956,6 +12006,7 @@ ultrastructurally
 umbilically
 umbrally
 umbrils
+umiaqs
 umpirism
 unabandoned
 unabstract
@@ -12003,7 +12054,6 @@ unbiologically
 unblazoned
 unbombastically
 unboned
-unbonnet
 unboots
 unbracelet
 unbuckles
@@ -12345,7 +12395,6 @@ unnationalistically
 unnationally
 unnaturalism
 unnaturally
-unnet
 unneurotic
 unneurotically
 unneutrally
@@ -12674,7 +12723,6 @@ vandenbrandeite
 vanguardism
 vanillism
 vanitarianism
-vannet
 vapidism
 variationally
 varietally
@@ -12735,6 +12783,7 @@ vernally
 veronalism
 verselet
 versioned
+vertebra
 vertebrally
 verticalism
 vertically
@@ -12849,7 +12898,6 @@ wakwak
 wallabies
 wally
 wantoned
-warbonnet
 warbots
 warlordism
 warriorism
@@ -12883,6 +12931,7 @@ westernism
 westralianism
 whaleboned
 whally
+whaly
 whataboutism
 whatnots
 wheeple
@@ -12997,12 +13046,14 @@ zabism
 zaibatsus
 zanies
 zanyism
+zanzibar
 zaptiah
 zarathustrianism
 zarathustrism
 zealotic
 zealotism
 zealots
+zebra
 zebrinas
 zebrinnies
 zeism
@@ -13058,24 +13109,3 @@ zymogenic
 zymosthenic
 zymotic
 zymotically
-algebra
-archicerebra
-cerebra
-culebra
-cuterebra
-cutiterebra
-hyperalgebra
-intervertebra
-latebra
-mesosternebra
-nonzebra
-palpebra
-prealgebra
-procerebra
-protovertebra
-sternebra
-subalgebra
-tenebra
-terebra
-vertebra
-zebra
