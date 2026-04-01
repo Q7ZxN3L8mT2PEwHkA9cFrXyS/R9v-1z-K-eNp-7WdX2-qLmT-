@@ -492,6 +492,7 @@ batoned
 batooned
 batrachotoxin
 battery
+baviaantje
 bayong
 beaconed
 beanies
@@ -963,6 +964,7 @@ combies
 comedogenic
 comenic
 comitadji
+comitje
 comme
 commissioned
 commoned
@@ -1360,6 +1362,7 @@ drysaltery
 dtset
 duadic
 duathlons
+dubbeltje
 ducktails
 duelli
 duftery
@@ -2427,9 +2430,11 @@ klaxoned
 kneelet
 knots
 knuckles
+koggelmannetje
 kohlrabies
 kokums
 komitadji
+kommetje
 kookums
 koradji
 kordax
@@ -2441,6 +2446,7 @@ kubanka
 kubies
 kuli
 kumkums
+kwartje
 kynurenic
 kyphoscoliotic
 kyphotic
@@ -2888,6 +2894,7 @@ myotic
 mysidacea
 mystery
 mytilacea
+naartje
 nabob
 nails
 nandinas
@@ -5203,6 +5210,7 @@ whoope
 whoots
 whoremastery
 whyda
+wichtje
 wienies
 wifelet
 wilcoxon
