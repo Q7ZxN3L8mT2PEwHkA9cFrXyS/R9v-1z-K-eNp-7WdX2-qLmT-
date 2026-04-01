@@ -228,6 +228,7 @@ anorogenic
 anoxia
 anoxybiotic
 anselmian
+antapex
 antasthenic
 antecoxal
 antefixal
@@ -292,6 +293,7 @@ apathogenic
 apayd
 apelet
 apetaly
+apex
 aphakias
 aphonies
 aphotic
@@ -344,6 +346,7 @@ arseniopleite
 arteriosclerotic
 artery
 arthrotrauma
+aruspex
 aryballi
 arybballi
 ascelli
@@ -399,6 +402,7 @@ auditioned
 auksinas
 aumails
 aumils
+auspex
 autecy
 authigenic
 autoabstract
@@ -743,6 +747,7 @@ cantoned
 caparisoned
 capax
 capelet
+capex
 capilli
 capitols
 capots
@@ -1605,6 +1610,7 @@ exotery
 exotic
 exotoxin
 exsiccatae
+extispex
 extols
 extract
 exxon
@@ -1990,6 +1996,7 @@ harmonies
 harmony
 haros
 harpooned
+haruspex
 hathi
 hattery
 havenet
@@ -2294,6 +2301,7 @@ ionogenic
 irenic
 ironed
 ironies
+irpex
 irreflexion
 isatogenic
 iscariotic
@@ -2363,6 +2371,7 @@ jujutsus
 jumbies
 jumpshots
 kabob
+kabuki
 kachinas
 kadmi
 kahau
@@ -3380,6 +3389,7 @@ perseite
 persicots
 persism
 personed
+perspex
 petaly
 petitioned
 petrogenic
@@ -4002,6 +4012,7 @@ rockabies
 rohuna
 roils
 roitelet
+rokkaku
 romancelet
 romanies
 romeite
@@ -4342,6 +4353,7 @@ spermatoxin
 spermatozoid
 spermotoxin
 speronaros
+spex
 sphacelotoxin
 sphenic
 sphenocephaly
@@ -4463,6 +4475,7 @@ strophomenacea
 stubbies
 studdingsails
 stunsails
+stupex
 sturmian
 stylli
 subabbots
@@ -4595,6 +4608,7 @@ tallots
 taloned
 talons
 talwegs
+tambuki
 tampioned
 tamponed
 tanaidacea
@@ -4770,6 +4784,7 @@ topsoils
 torchlit
 tormentils
 tornadic
+torpex
 tortelli
 tortillons
 tosspots
@@ -5310,6 +5325,3 @@ zygotic
 zymogenic
 zymosthenic
 zymotic
-kabuki
-rokkaku
-tambuki
