@@ -129,6 +129,7 @@ amboinas
 ambuscado
 amelet
 ametaboly
+amidakuji
 amidoxime
 amixia
 ammunitioned
@@ -2190,6 +2191,7 @@ karakias
 karamojo
 karoo
 karos
+karthli
 kaszanka
 katal
 katangese
@@ -2234,6 +2236,7 @@ kneelet
 knots
 knuckles
 koggelmannetje
+kokuji
 kokums
 komitadji
 kommetje
@@ -2834,6 +2837,7 @@ oligophrenic
 olympiadic
 ombrophils
 omelet
+omikuji
 oncogenic
 ondoyant
 onioned
