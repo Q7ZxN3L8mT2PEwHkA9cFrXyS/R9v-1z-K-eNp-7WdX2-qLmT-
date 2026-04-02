@@ -283,6 +283,7 @@ asthenic
 asthmogenic
 astomatal
 astoned
+astrophels
 aswooned
 atabeg
 ataraxia
@@ -437,11 +438,13 @@ bespeckles
 bespots
 besprinkles
 bestatued
+bethels
 betoils
 betowel
 bewails
 bezils
 bezoar
+bhels
 bhoots
 bhuna
 biathlons
@@ -550,6 +553,7 @@ bromouracils
 bronchiogenic
 bronchogenic
 bronteon
+brothels
 brulots
 buboed
 bubukles
@@ -569,6 +573,9 @@ bunya
 buoyant
 burbots
 burgeoned
+burhels
+burrhels
+bushels
 bushlots
 butsudan
 buttery
@@ -1398,6 +1405,7 @@ fardelet
 farenheit
 farinas
 faros
+farthels
 fascicles
 fashioned
 fatal
@@ -1530,6 +1538,7 @@ furuncles
 fusilli
 fusils
 fusspots
+futchels
 futzed
 fuzils
 fylfots
@@ -1725,6 +1734,7 @@ harmony
 haros
 harpooned
 haruspex
+hatchels
 hathi
 hattery
 havenet
@@ -1980,6 +1990,7 @@ ischiadic
 isoantigenic
 isocephaly
 isogenic
+isohels
 isolinolenic
 isostemony
 isoxime
@@ -2404,6 +2415,7 @@ modafinils
 modelli
 moellons
 mofussils
+mohels
 moils
 moirai
 mojo
@@ -2452,7 +2464,9 @@ mouflons
 moujik
 mouselet
 mousetails
+moygashels
 moyle
+muchels
 muckles
 muermo
 muflons
@@ -2568,6 +2582,7 @@ nitrils
 nitrogenic
 nitwittery
 nixon
+nochels
 noils
 nomadic
 nombrils
@@ -2610,6 +2625,7 @@ nooned
 nosism
 nosogenic
 nostrils
+notchels
 notelet
 notioned
 nots
@@ -2676,6 +2692,7 @@ opinioned
 optioned
 opuscles
 oracles
+orchels
 orchestrinas
 orchils
 organoantimony
@@ -3294,6 +3311,7 @@ rankles
 ranshackles
 ranshakles
 rapilli
+raschels
 ratal
 ratatat
 rationed
@@ -3492,6 +3510,7 @@ sarcinas
 sarcogenic
 saros
 sarsenet
+satchels
 satyrs
 saucepots
 saxitoxin
@@ -3768,6 +3787,7 @@ stadic
 stagese
 stairfoots
 staminas
+stanchels
 stanchioned
 stanek
 staphylotoxin
@@ -3895,6 +3915,7 @@ swankpots
 swashbuckles
 sweepup
 swies
+switchels
 swooned
 swordtails
 swots
@@ -4039,6 +4060,7 @@ tholeite
 tholli
 thorntails
 thowel
+threshels
 thrioboly
 throatal
 thrombocytopenic
@@ -4065,6 +4087,7 @@ tils
 timariots
 timbrel
 tinas
+tinchels
 tinfoils
 tinkles
 tinpots
