@@ -10,6 +10,7 @@ abstract
 abutilons
 academian
 acalyptratae
+acanthopod
 acatery
 accessioned
 accoils
@@ -23,12 +24,14 @@ acetylenic
 acidogenic
 acidophils
 acrimony
+acritol
 acroasphyxia
 acroataxia
 acrocephaly
 acrogenic
 actinobaccilli
 actinobacilli
+actinopod
 actioned
 aculeae
 adaptogenic
@@ -36,6 +39,7 @@ adbots
 adda
 addax
 addda
+adelopod
 adffrozen
 adfluxion
 adfrozen
@@ -46,6 +50,7 @@ admi
 adminicles
 admit
 adnexal
+adonitol
 adultery
 aegemony
 aerobots
@@ -80,6 +85,7 @@ ails
 airfoils
 airmails
 airshots
+aistopod
 ajaja
 akenobeite
 alabamian
@@ -87,6 +93,7 @@ alawa
 albacea
 albarelli
 alcyonacea
+alditol
 aldm
 aldoxime
 alexia
@@ -116,7 +123,6 @@ alumian
 aluminas
 alumroots
 amasthenic
-amatols
 amberinas
 ambitioned
 amboinas
@@ -143,11 +149,13 @@ anadesm
 anahau
 anaphylactogenic
 anaphylatoxin
+anarthropod
 anaspidacea
 anatinacea
 anatoxin
 anaxon
 ancles
+ancylopod
 androcles
 androgenic
 andromedotoxin
@@ -165,6 +173,7 @@ anhydroxime
 anilidoxime
 anils
 anisaldoxime
+anisopod
 anisosthenic
 ankles
 annexal
@@ -241,6 +250,7 @@ aqsaqal
 aquilons
 aquinas
 arabin
+arabitol
 arbuscles
 arcacea
 arcadic
@@ -262,6 +272,7 @@ arrowroots
 arsenic
 arseniopleite
 artery
+arthropod
 arthrotrauma
 articles
 aruspex
@@ -534,6 +545,7 @@ bowpots
 bowshots
 boxplots
 bracelet
+brachiopod
 brachistocephaly
 brachtmema
 brachycephaly
@@ -544,6 +556,7 @@ bradylexia
 brails
 brainier
 brainrots
+branchiopod
 brannier
 brantails
 brasils
@@ -559,7 +572,6 @@ brierroots
 brimstonier
 brinier
 bristletails
-bristols
 broadax
 broadtails
 brockram
@@ -657,7 +669,7 @@ capataz
 capelet
 capex
 capilli
-capitols
+capitol
 caponier
 capots
 caprifoils
@@ -724,6 +736,8 @@ cenacles
 centenier
 centesm
 centibar
+cephalopod
+cercopod
 cerebra
 cerebrasthenic
 ceremony
@@ -731,6 +745,7 @@ ceruleite
 cetacea
 chabuks
 chado
+chaetopod
 chainshots
 chakram
 chalons
@@ -762,14 +777,17 @@ cheapshots
 cheatery
 checke
 checkrails
+cheiropod
 chemicocautery
 chemiotaxic
 chemtrails
 chenet
 chenier
+chenopod
 cheroots
 chervils
 chesils
+chetopod
 cheverils
 cheviots
 chevroned
@@ -784,12 +802,14 @@ chikungunya
 chiliadic
 chilli
 chilomastix
+chilopod
 chimneypots
 chinachinas
 chinaroots
 chinas
 chinnier
 chirinola
+chiropod
 chlorambucils
 chlorogenic
 chloropalladic
@@ -821,6 +841,7 @@ cinquefoils
 circles
 circumcircles
 circumflexion
+cirrhopod
 civils
 ciwies
 clairvoyant
@@ -846,6 +867,7 @@ clubroots
 clustery
 cluttery
 clysmian
+cnidopod
 coadmit
 coattails
 coaxal
@@ -898,6 +920,7 @@ conceptacles
 concertinas
 conditioned
 condoned
+condylopod
 coned
 conelet
 confract
@@ -1034,7 +1057,7 @@ cyanogenic
 cyathi
 cycladic
 cycles
-cyclitols
+cyclitol
 cyclocephaly
 cyclodiolefin
 cycloolefin
@@ -1051,6 +1074,7 @@ daemony
 daffodils
 dagesh
 daguerreotyper
+dambonitol
 damocles
 dantoned
 daredevils
@@ -1156,6 +1180,7 @@ diphygenic
 diplocephaly
 diplogenic
 diplons
+diplopod
 diplostemony
 dirige
 disaproned
@@ -1253,11 +1278,12 @@ ducktails
 duelli
 duftery
 dulcigenic
-dulcitols
+dulcitol
 dummkopf
 dungeoned
 dunnier
 dunny
+duopod
 duotoned
 duraquara
 durukuli
@@ -1331,6 +1357,7 @@ encircles
 encrimsoned
 endocuticles
 endogenic
+endopod
 endotheliotoxin
 endotoxin
 endungeoned
@@ -1383,7 +1410,7 @@ erogenic
 erotogenic
 ervils
 erythrinas
-erythritols
+erythritol
 erythrogenic
 escargots
 eschalots
@@ -1399,13 +1426,11 @@ etaballi
 etabelli
 etalons
 eteocles
-ethambutols
 ethenic
 ethmopalatal
 ethnogenic
 ethylenic
 etiogenic
-eucalyptols
 eucaryots
 euconjugatae
 eudaemony
@@ -1435,11 +1460,11 @@ exocoelum
 exocuticles
 exogenic
 exon
+exopod
 exotery
 exotoxin
 exsiccatae
 extispex
-extols
 extract
 exxon
 eyelet
@@ -1643,10 +1668,12 @@ garoo
 garrisoned
 garrots
 gasogenic
+gasteropod
 gastrocnemian
 gastrogenic
 gastrophrenic
 gastroplenic
+gastropod
 gastrosplenic
 gauteite
 gavelet
@@ -1699,9 +1726,10 @@ gluepots
 gluttery
 glycogenic
 glycopexia
-glycosylphosphatidylinositols
+glycosylphosphatidylinositol
 glyoxal
 glyoxime
+gnathopod
 godrooned
 godslots
 goiterogenic
@@ -1711,6 +1739,7 @@ gomerils
 gonadic
 gonfalonier
 gonfalons
+gonopod
 goonier
 goosefoots
 gordiacea
@@ -1784,6 +1813,7 @@ haematogenic
 haematoin
 haematoxylons
 haemony
+haemopod
 haemotoxin
 haftarah
 haftaros
@@ -1844,6 +1874,7 @@ hemitery
 hemitremor
 hemogenic
 hemophileae
+hemopod
 hemotoxin
 hennier
 hepatodysentery
@@ -1853,6 +1884,7 @@ hepatotoxin
 heptadic
 heptaglots
 heptathlons
+heptitol
 herakles
 herbelet
 heriots
@@ -1868,6 +1900,7 @@ heterogenic
 heterognathi
 heterometaboly
 heterophils
+heteropod
 heterotaxia
 heterotaxic
 hexadic
@@ -1875,6 +1908,7 @@ hexafoils
 hexaglots
 hexathlons
 hexaxon
+hexitol
 hiatal
 hibernacles
 hieronymian
@@ -1883,6 +1917,7 @@ hightails
 hikuli
 hinahinas
 hintzeite
+hippopod
 hippopotamian
 hispanidads
 histogenic
@@ -1998,6 +2033,7 @@ ichthyotoxin
 icicles
 icterogenic
 idiots
+iditol
 ignaros
 igorots
 ihleite
@@ -2041,7 +2077,7 @@ inkles
 inkpots
 inkspots
 inogenic
-inositols
+inositol
 inscriptioned
 instils
 intentioned
@@ -2079,6 +2115,7 @@ isocephaly
 isogenic
 isohels
 isolinolenic
+isopod
 isostemony
 isoxime
 isthmian
@@ -2172,7 +2209,6 @@ kemboed
 kenotoxin
 keratogenic
 ketogenic
-ketols
 ketoxime
 kevils
 keystoned
@@ -2216,7 +2252,7 @@ labiatae
 labiopalatal
 lachrymogenic
 lactigenic
-lactitols
+lactitol
 lactobaccilli
 lactobacilli
 lactogenic
@@ -2295,9 +2331,9 @@ linnaeite
 linolenic
 linotyper
 linoxin
-lintols
 lipogenic
 lipopexia
+lipopod
 lipoxeny
 liquidogenic
 listicles
@@ -2335,6 +2371,7 @@ lunchpails
 lunier
 lunka
 lutelet
+lycopod
 lymphocytotoxin
 lymphogenic
 lymphotoxin
@@ -2348,6 +2385,7 @@ macrocephaly
 macrocycles
 macrofossils
 macromesentery
+macropod
 macroptery
 madreporacea
 maenadic
@@ -2365,10 +2403,10 @@ maithuna
 maizenic
 makeups
 makutued
+malacopod
 malapportioned
 malfunctioned
 malproportioned
-maltols
 mamboed
 mamelons
 mammogenic
@@ -2377,7 +2415,8 @@ mandarah
 mandrils
 mangabev
 manihots
-mannitols
+mannitol
+mannoheptitol
 mansioned
 mantelet
 marah
@@ -2398,6 +2437,7 @@ massicots
 masstige
 mastery
 masticots
+mastigopod
 mastix
 matachinas
 matelots
@@ -2425,6 +2465,7 @@ meibomian
 meigomian
 meikles
 melaenic
+melampyritol
 melanurenic
 melassigenic
 melenic
@@ -2463,7 +2504,6 @@ metataxic
 metavanadic
 metencephalons
 methylglyoxal
-metols
 metosteon
 metoxeny
 mezails
@@ -2540,6 +2580,7 @@ monogamian
 monogenic
 monoglots
 mononomian
+monopod
 monorails
 monothalamian
 monotoned
@@ -2610,10 +2651,12 @@ myelogenic
 myelons
 myofibrils
 myogenic
-myoinositols
+myoinositol
+myriopod
 mysidacea
 mystery
 mytilacea
+myxopod
 naartje
 nabob
 nails
@@ -2626,7 +2669,6 @@ nanodots
 nanoparticles
 naphthalenic
 naphthenic
-naphtols
 narceen
 narcissism
 nasopalatal
@@ -2643,6 +2685,7 @@ neckshots
 necro
 necrogenic
 necrophils
+nectopod
 neencephalons
 neglige
 negrophils
@@ -2667,6 +2710,7 @@ neuraxon
 neurofibrils
 neurogenic
 neuropils
+neuropod
 neurotoxia
 neurotoxin
 neutrophils
@@ -2688,6 +2732,7 @@ nisqualli
 nitery
 nitrils
 nitrogenic
+nitromannitol
 nitwittery
 nixon
 nochels
@@ -2770,6 +2815,7 @@ ocelots
 ochratoxin
 ocreatae
 octadic
+octopod
 oculli
 odax
 odelet
@@ -2793,9 +2839,11 @@ ondoyant
 onioned
 onionier
 ontogenic
+oopod
 oots
 oozoid
 opelet
+ophthalmopod
 opimian
 opinioned
 optioned
@@ -2809,11 +2857,13 @@ organoarsenic
 organogenic
 origenic
 orlons
+ornithopod
 orogenic
 orrisroots
 orthocephaly
 orthodoxal
 orthogenic
+orthopod
 orthopraxia
 orthorexia
 orthovanadic
@@ -2893,6 +2943,7 @@ pademelons
 padige
 padymelons
 paedogenic
+pagiopod
 paillons
 pails
 paintpots
@@ -2927,6 +2978,7 @@ pannier
 panorpatae
 pantalons
 pantalooned
+pantopod
 pantothenic
 papauma
 papillons
@@ -2980,6 +3032,7 @@ patoots
 patrimony
 patriots
 paurometaboly
+pauropod
 pavilioned
 pavillons
 paxilli
@@ -3014,14 +3067,19 @@ pensioned
 pensy
 pentacles
 pentadic
+pentaerythritol
 pentathlons
+pentitol
 penuckles
 peppercornier
 pepsinogenic
 peptogenic
 peptotoxin
 peract
+peraeopod
 peratae
+pereiopod
+pereopod
 pericardiacophrenic
 pericardiophrenic
 pericles
@@ -3033,12 +3091,15 @@ perinatal
 peripneumony
 periptery
 perisplenic
+peristeropod
 periwinkles
 permian
 permissioned
+peropod
 perovskias
 perruthenic
 perseite
+perseitol
 persicots
 persism
 personed
@@ -3061,8 +3122,8 @@ phanerogenic
 pharos
 pharyngognathi
 phellogenic
-phenetols
 phenic
+phenobarbitol
 phenomenic
 phenytoin
 philabeg
@@ -3093,14 +3154,16 @@ phrensy
 phrontistery
 phthisiogenic
 phthisipneumony
+phycitol
 phylactery
 phylartery
+phyllopod
 phyllotaxic
 phylogenic
 physiogenic
+physopod
 phytobezoar
 phytogenic
-phytols
 phytopathogenic
 phytophylogenic
 phytotoxin
@@ -3130,7 +3193,7 @@ pimgenet
 pinas
 pinier
 pinioned
-pinitols
+pinitol
 pinkroots
 pinnacles
 pinniewinkles
@@ -3146,7 +3209,6 @@ piratery
 pirrauru
 piscinas
 pistils
-pistols
 pitarah
 pitots
 pivots
@@ -3166,6 +3228,7 @@ platystencephaly
 plectognathi
 pleistocenic
 pleonexia
+pleopod
 pleurogenic
 pleurosteon
 plexal
@@ -3186,6 +3249,7 @@ poddige
 podophthalmian
 podophylli
 podophyllotoxin
+poecilopod
 poetastery
 poimenic
 poisoned
@@ -3315,7 +3379,6 @@ prionodesmacea
 prisoned
 procerebra
 processioned
-procotols
 progestogenic
 prognathi
 progressism
@@ -3326,6 +3389,7 @@ proponed
 proportioned
 propositioned
 propylons
+prosauropod
 prosecrecy
 proselenic
 prosimian
@@ -3334,6 +3398,7 @@ prothalli
 protogenic
 protomartyrs
 protonematal
+protopod
 protopresbytery
 protovertebra
 protract
@@ -3355,6 +3420,7 @@ pseudodysentery
 pseudomartyrs
 pseudoparticles
 pseudopeziza
+pseudopod
 pseudovelum
 psoadic
 psychasthenic
@@ -3362,6 +3428,7 @@ psychataxia
 psychogenic
 psychotogenic
 pterocles
+pteropod
 pterygopalatal
 ptyalogenic
 puckles
@@ -3381,6 +3448,7 @@ purtrayd
 pussyfoots
 puttyroots
 putzed
+pygopod
 pylons
 pyogenic
 pyots
@@ -3413,7 +3481,9 @@ quartzoid
 quasiparticles
 quatrefoils
 quayd
+quebrachitol
 queenier
+quercitol
 querimony
 questioned
 queue
@@ -3422,6 +3492,7 @@ quinaquinas
 quinas
 quinatoxin
 quininas
+quinitol
 quinquinas
 quisqueite
 quyte
@@ -3537,6 +3608,9 @@ retsinas
 rettery
 reupholstery
 rezoned
+rhabdopod
+rhamnitol
+rhamnohexitol
 rhenic
 rheumatogenic
 rhexia
@@ -3544,6 +3618,7 @@ rhinencephalons
 rhinestoned
 rhizogenic
 rhizoid
+rhizopod
 rhombencephalons
 rhombogenic
 rhymelet
@@ -3637,7 +3712,6 @@ sanicles
 sanka
 santoku
 santolinas
-santols
 saoshyant
 sapotoxin
 saprogenic
@@ -3652,6 +3726,7 @@ satchels
 satinier
 satyrs
 saucepots
+sauropod
 saxitoxin
 saxon
 sazhen
@@ -3661,6 +3736,7 @@ scaletails
 scaleups
 scammony
 scaphocephaly
+scaphopod
 scarlatinas
 scatterplots
 scattery
@@ -3669,6 +3745,7 @@ schizaxon
 schizogenic
 schizoid
 schizophrenic
+schizopod
 schnecke
 schoole
 schoolmastery
@@ -3677,6 +3754,7 @@ schvitzed
 schwarzlots
 scillitoxin
 scintillons
+scirtopod
 scissils
 scissortails
 sclerogenic
@@ -3690,6 +3768,7 @@ scroyle
 scug
 scungilli
 scutcheoned
+scyllitol
 seaboots
 seacunny
 sealioned
@@ -3796,7 +3875,6 @@ sirmian
 siruaballi
 sissoos
 skails
-skatols
 skelet
 skelum
 skeptophylaxia
@@ -3856,10 +3934,9 @@ sonatinas
 soole
 soots
 sophocles
-sorbitols
+sorbitol
 sortlige
 sotadic
-sotols
 sots
 sottery
 soudan
@@ -3957,6 +4034,7 @@ staycationed
 staysails
 steeple
 steepup
+steganopod
 steils
 stencils
 stenocephaly
@@ -3981,6 +4059,7 @@ stoccado
 stockpots
 stolons
 stomatal
+stomatopod
 stoned
 stoneite
 stoneshots
@@ -4010,6 +4089,7 @@ stunsails
 stupex
 sturmian
 stylli
+stylopod
 subabbots
 subalgebra
 subarticles
@@ -4118,6 +4198,7 @@ talayots
 talbots
 taleae
 talipots
+talitol
 talli
 talloel
 tallots
@@ -4146,6 +4227,7 @@ tattery
 tatued
 tauroboly
 tawnier
+taxeopod
 taxir
 taxol
 taxon
@@ -4216,6 +4298,7 @@ thermocautery
 thermogenic
 thermophils
 thermotaxic
+theropod
 thingamabob
 thingumabob
 thioarsenic
@@ -4351,6 +4434,7 @@ triolefin
 tripal
 tripletails
 tritheite
+trochalopod
 trochils
 trochleae
 trochocephaly
@@ -4397,6 +4481,7 @@ twinier
 twinkles
 twitterboned
 twittery
+tylopod
 typer
 typhlolexia
 typhlopexia
@@ -4596,6 +4681,7 @@ uracils
 urechitoxin
 urogenic
 uromastix
+uropod
 urosteon
 urosthenic
 urotoxia
@@ -4681,6 +4767,7 @@ vivipary
 voetstoots
 voicelet
 voicemails
+volemitol
 voorskots
 vowel
 vrils
@@ -4744,7 +4831,6 @@ winkles
 wintery
 witchknots
 witenagemots
-wittols
 witwantoned
 woodlots
 woodrowel
@@ -4766,7 +4852,7 @@ xanthogenic
 xenic
 xenogenic
 xieite
-xylitols
+xylitol
 yabbied
 yabu
 yadim
