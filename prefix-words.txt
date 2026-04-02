@@ -583,6 +583,7 @@ buttoned
 cabin
 cabob
 cabots
+cabuya
 cachalots
 cachepots
 cachexia
@@ -1687,6 +1688,7 @@ gutrots
 guttery
 gutturopalatal
 guyots
+gwyddbwyll
 gyeranjjim
 gynaecocoenic
 gyoji
@@ -2682,7 +2684,6 @@ omelet
 oncogenic
 ondoyant
 onioned
-onotogenic
 ontogenic
 oots
 oozoid
@@ -3608,6 +3609,7 @@ shenzhen
 sheroots
 shiatsus
 shibar
+shibuya
 shikimi
 shikimotoxin
 shilh
@@ -4589,7 +4591,6 @@ yokuts
 yowies
 ypsilons
 yuruk
-yurupary
 zaibatsus
 zambuks
 zany
