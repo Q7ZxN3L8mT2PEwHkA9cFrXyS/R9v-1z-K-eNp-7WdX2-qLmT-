@@ -1,7 +1,6 @@
 abandoned
 abbots
 abeyant
-abies
 abigails
 abiogenic
 abortogenic
@@ -96,7 +95,6 @@ algomian
 alguacils
 alguazils
 alibied
-alibies
 alidads
 alimony
 aliquots
@@ -111,7 +109,6 @@ allotriognathi
 allots
 allottery
 almemor
-alpax
 alphenic
 alphonsism
 alumian
@@ -142,7 +139,6 @@ amyosthenic
 amyotaxia
 anaboly
 anadesm
-anaerobies
 anahau
 anaphylactogenic
 anaphylatoxin
@@ -212,7 +208,6 @@ antioxygenic
 antiparticles
 antipathogenic
 antiplatelet
-antirabies
 antischizophrenic
 antisecrecy
 antispermotoxin
@@ -325,7 +320,6 @@ autoecy
 autogenic
 autonephrotoxin
 autoneurotoxin
-autophobies
 autopilots
 autotoxin
 autoxeny
@@ -344,7 +338,6 @@ azlons
 azoxime
 babelet
 babied
-babies
 baccilli
 bacilli
 bacilligenic
@@ -378,7 +371,6 @@ bantery
 banuyo
 bapistery
 baptistery
-barbies
 barbots
 barbudan
 bareboned
@@ -460,7 +452,6 @@ bicycles
 bigfoots
 bigots
 bikram
-bilbies
 billons
 binnacles
 binocles
@@ -498,7 +489,6 @@ bludgeoned
 bluefin
 blustery
 boattails
-bobbies
 bobtails
 bohemian
 boils
@@ -510,7 +500,6 @@ bonaci
 boned
 bonelet
 bonhomme
-boobies
 booboo
 bootery
 boots
@@ -562,8 +551,6 @@ bronchiogenic
 bronchogenic
 bronteon
 brulots
-brumbies
-bubbies
 buboed
 bubukles
 buccinas
@@ -582,13 +569,10 @@ bunya
 buoyant
 burbots
 burgeoned
-busbies
-bushbabies
 bushlots
 butsudan
 buttery
 buttoned
-cabbies
 cabin
 cabob
 cabots
@@ -635,7 +619,6 @@ canticles
 cantinas
 cantoned
 caparisoned
-capax
 capelet
 capex
 capilli
@@ -646,8 +629,6 @@ captioned
 captoprils
 carabin
 caract
-carapax
-carbies
 carboned
 carbuncles
 carcinogenic
@@ -699,7 +680,6 @@ ceils
 celli
 cemetery
 cenacles
-cenobies
 centesm
 centibar
 cerebra
@@ -835,7 +815,6 @@ coenacles
 coffeepots
 coils
 coistrils
-colbies
 colicroots
 collagenic
 collegese
@@ -844,7 +823,6 @@ colopexia
 colophenic
 colpheg
 coltsfoots
-combies
 comedogenic
 comenic
 comitadji
@@ -900,7 +878,6 @@ coracles
 coracosteon
 coralroots
 corbeils
-corbies
 corbinas
 cordax
 cordoned
@@ -972,13 +949,11 @@ crucifige
 crucifixion
 crunkles
 crustacea
-crybabies
 cryocautery
 cryogenic
 cryptogamian
 cryptogenic
 crystallogenic
-cubbies
 cubelet
 cubicles
 cuichunchulli
@@ -1017,7 +992,6 @@ dagesh
 daguerreotyper
 damocles
 dantoned
-darbies
 daredevils
 darkles
 daroo
@@ -1033,7 +1007,6 @@ deaconed
 deasils
 deasoils
 debacles
-debbies
 debeige
 deboned
 debowel
@@ -1070,7 +1043,6 @@ depots
 dequeue
 derails
 derationed
-derbies
 derequisitioned
 desmopexia
 despoils
@@ -1082,7 +1054,6 @@ deuce
 deuterogenic
 devils
 devots
-dhobies
 diabetogenic
 diachylons
 diadic
@@ -1158,8 +1129,6 @@ distomian
 distract
 distrails
 divots
-dobbies
-dobies
 doblons
 dofunny
 doggoned
@@ -1175,7 +1144,6 @@ dolorogenic
 domicils
 donepezils
 donnots
-doobies
 doocots
 doodads
 dooja
@@ -1204,7 +1172,6 @@ dreyfusism
 droils
 dromiacea
 droned
-dropax
 dropshots
 drupelet
 dryadic
@@ -1219,6 +1186,7 @@ duelli
 duftery
 dulcigenic
 dulcitols
+dummkopf
 dungeoned
 dunny
 duotoned
@@ -1537,7 +1505,6 @@ fraticelli
 fratricelli
 frazils
 freckles
-freebies
 freebootery
 freeboots
 freecycles
@@ -1566,7 +1533,6 @@ fusspots
 futzed
 fuzils
 fylfots
-gabies
 gabioned
 gadrooned
 gaffsails
@@ -1653,7 +1619,6 @@ glycopexia
 glycosylphosphatidylinositols
 glyoxal
 glyoxime
-gobies
 godrooned
 godslots
 goiterogenic
@@ -1662,7 +1627,6 @@ golomynka
 gomerils
 gonadic
 gonfalons
-goobies
 goosefoots
 gordiacea
 gorgelet
@@ -1676,7 +1640,6 @@ grails
 grakles
 gramarye
 grandads
-grandbabies
 granddads
 granduncles
 grapelet
@@ -1685,7 +1648,6 @@ grassplots
 grassroots
 gratae
 graymails
-graysbies
 greenmails
 greige
 gridironed
@@ -1695,7 +1657,6 @@ grockles
 groned
 grots
 groundplots
-grubbies
 grylli
 guacharos
 guara
@@ -1753,7 +1714,6 @@ handrails
 handtowel
 hanepoots
 hangnails
-hapax
 haphtarah
 haptenic
 hardboots
@@ -1833,7 +1793,6 @@ hintzeite
 hippopotamian
 hispanidads
 histogenic
-hobbies
 hobnails
 hoboed
 hockles
@@ -1880,14 +1839,12 @@ howadji
 howel
 howitz
 hoyle
-hubbies
 huckles
 huckstery
 huguenots
 huipils
 humaniformian
 hushabied
-hushabies
 hyaenic
 hydantoin
 hydatogenic
@@ -2063,7 +2020,6 @@ jittery
 jiujitsus
 jiujutsus
 jjim
-jobbies
 joblots
 jogtrots
 jokelet
@@ -2075,7 +2031,6 @@ joyant
 jugatae
 jujitsus
 jujutsus
-jumbies
 jumpshots
 kabob
 kabuki
@@ -2109,7 +2064,6 @@ katsinas
 katsus
 kauru
 kawaii
-kebbies
 keckles
 kehoeite
 keiretsus
@@ -2133,7 +2087,6 @@ kinetogenic
 kininogenic
 kinkles
 kiplingese
-kirbies
 kitchenet
 kitset
 klaxon
@@ -2143,7 +2096,6 @@ kneelet
 knots
 knuckles
 koggelmannetje
-kohlrabies
 kokums
 komitadji
 kommetje
@@ -2154,7 +2106,6 @@ kosotoxin
 kotschubeite
 kratogenic
 kubanka
-kubies
 kuli
 kumkums
 kwartje
@@ -2170,7 +2121,6 @@ lactogenic
 lactotoxin
 lakelet
 lamastery
-lambies
 lamestery
 laminas
 lampooned
@@ -2215,7 +2165,6 @@ leukaemogenic
 leukemogenic
 leukopenic
 leukoplakias
-lewdsbies
 lexia
 libre
 lichenic
@@ -2247,7 +2196,6 @@ littery
 livingstoneite
 lobatae
 lobbied
-lobbies
 lobbyer
 lobefin
 lobefoots
@@ -2256,7 +2204,6 @@ lobtails
 lockram
 longeve
 lonsdaleite
-loobies
 looksism
 loope
 loots
@@ -2273,7 +2220,6 @@ lucinacea
 lucumony
 lugsails
 lullabied
-lullabies
 luncheoned
 lunchpails
 lunka
@@ -2319,7 +2265,6 @@ manacles
 mandarah
 mandrils
 mangabev
-mangabies
 manihots
 mannitols
 mansioned
@@ -2348,7 +2293,6 @@ matfellons
 matfelons
 matrimony
 mattery
-maubies
 maxillopalatal
 mayda
 mcdojo
@@ -2436,7 +2380,6 @@ milltails
 mils
 minas
 minibar
-minirugbies
 minoxidils
 miocenic
 miquelet
@@ -2456,8 +2399,6 @@ missisauga
 mistery
 miszoned
 mitogenic
-mobbies
-mobies
 mocktails
 modafinils
 modelli
@@ -2490,7 +2431,6 @@ monoxime
 monoxylons
 monticles
 mony
-moobies
 moonboots
 mooned
 moonsails
@@ -2507,7 +2447,6 @@ motorails
 motorbicycles
 motorcycles
 mots
-moucharabies
 moufflons
 mouflons
 moujik
@@ -2609,7 +2548,6 @@ neuropils
 neurotoxia
 neurotoxin
 neutrophils
-newbies
 newfashioned
 newies
 nexal
@@ -2668,7 +2606,6 @@ nonsecrecy
 nontoned
 nonylenic
 nonzebra
-noobies
 nooned
 nosism
 nosogenic
@@ -2694,7 +2631,6 @@ nyloned
 nylons
 nymphonacea
 oakums
-obbies
 obdiplostemony
 obesogenic
 obied
@@ -2916,7 +2852,6 @@ patriots
 paurometaboly
 pavilioned
 pavillons
-pax
 paxilli
 payong
 pearceite
@@ -3007,7 +2942,6 @@ phillabeg
 philomots
 phlogogenic
 phloxin
-phobies
 phocenic
 pholadacea
 phoned
@@ -3113,7 +3047,6 @@ pneumatogenic
 pneumobacilli
 pneumony
 pneumotoxin
-pobbies
 pocoson
 poddige
 podophthalmian
@@ -3281,7 +3214,6 @@ pseudodysentery
 pseudomartyrs
 pseudoparticles
 pseudopeziza
-pseudorabies
 pseudovelum
 psoadic
 psychasthenic
@@ -3348,8 +3280,6 @@ quininas
 quinquinas
 quisqueite
 quyte
-rabbies
-rabies
 rabigenic
 rabin
 rachitogenic
@@ -3399,6 +3329,7 @@ recycles
 redfoots
 redimensioned
 redistils
+redox
 redroots
 redtails
 reenthroned
@@ -3468,7 +3399,6 @@ rhombogenic
 rhymelet
 rhynchonellacea
 rhytinas
-ribbies
 ribboned
 rickles
 ricksha
@@ -3489,7 +3419,6 @@ ritonavir
 ritornelli
 roastery
 robots
-rockabies
 rohuna
 roils
 roitelet
@@ -3506,15 +3435,11 @@ rots
 rottenstoned
 rowel
 rowies
-rubbies
 rubelet
 rubiconed
 rubied
-rubies
 ruckles
 rudbeckias
-rudesbies
-rugbies
 rumpots
 runkles
 runny
@@ -3567,13 +3492,11 @@ sarcinas
 sarcogenic
 saros
 sarsenet
-sassabies
 satyrs
 saucepots
 saxitoxin
 saxon
 sazhen
-scabies
 scails
 scalelet
 scaletails
@@ -3599,9 +3522,6 @@ scintillons
 scissils
 scissortails
 sclerogenic
-scobies
-scolopax
-scoobies
 scoog
 scoots
 scots
@@ -3717,7 +3637,6 @@ skittery
 skiwies
 skookums
 skysails
-slabbies
 slaistery
 slapshots
 slattery
@@ -3747,7 +3666,6 @@ snakelet
 snakeroots
 snapshots
 sneakeups
-sneaksbies
 snookums
 snoots
 snots
@@ -3908,7 +3826,6 @@ strinkles
 strobils
 stromatal
 strophomenacea
-stubbies
 studdingsails
 stumblebunny
 stunsails
@@ -3918,7 +3835,6 @@ stylli
 subabbots
 subalgebra
 subarticles
-subbies
 subbrachycephaly
 subcalibre
 subcommissioned
@@ -3973,7 +3889,6 @@ surveils
 susotoxin
 suspicioned
 svan
-swabbies
 swails
 swallowtails
 swankpots
@@ -3999,7 +3914,6 @@ syrmian
 taaffeite
 tabaxir
 tabbied
-tabbies
 tabernacles
 tachygenic
 tachyphylaxia
@@ -4158,9 +4072,7 @@ tintyper
 tittery
 tmema
 toastmastery
-tobies
 toccatinas
-toebies
 toenails
 toils
 tomelet
@@ -4235,7 +4147,6 @@ tridimensioned
 triglots
 trigonocephaly
 trilbied
-trilbies
 trilli
 trimpots
 trinkums
@@ -4570,7 +4481,6 @@ wagtails
 wails
 wainscots
 wakwak
-wallabies
 wallaroo
 waltzed
 wantoned
@@ -4584,7 +4494,6 @@ watery
 wavelet
 wavicles
 weaponed
-webbies
 webmails
 weensy
 weevils
@@ -4639,11 +4548,9 @@ wyllieite
 xanthogenic
 xenic
 xenogenic
-xenophobies
 xieite
 xylitols
 yabbied
-yabbies
 yabu
 yadim
 yahuna
@@ -4676,7 +4583,6 @@ zizany
 zizith
 zoanthacea
 zoid
-zombies
 zoned
 zonelet
 zoogenic
