@@ -79,7 +79,6 @@ adipopexia
 adjectivism
 adm
 admi
-adminicles
 admit
 adnexal
 adonitol
@@ -266,11 +265,9 @@ anaxon
 anchoretism
 anchoritism
 ancientism
-ancles
 ancylopod
 andabatism
 androcentrism
-androcles
 androdioecism
 androgynism
 andromedotoxin
@@ -428,7 +425,6 @@ antiochianism
 antioptimism
 antipacifism
 antipapism
-antiparticles
 antipatriotism
 antipedobaptism
 antipewism
@@ -509,7 +505,6 @@ apostolicism
 apotelesm
 apotropaism
 appayd
-appendicles
 apperceptionism
 apperils
 apportioned
@@ -534,7 +529,6 @@ arabitol
 arachnidism
 arachnism
 aramaism
-arbuscles
 arcacea
 arcadianism
 arcadic
@@ -574,7 +568,6 @@ arthritism
 arthropod
 arthrorheumatism
 arthrotrauma
-articles
 artificialism
 aruspex
 aryanism
@@ -652,7 +645,6 @@ auksinas
 aulicism
 aumails
 aumils
-auricles
 auspex
 australianism
 austrophilism
@@ -669,7 +661,6 @@ autocatheterism
 autocephaly
 autochthonism
 autocriticism
-autocycles
 autodidacticism
 autoecism
 autoecy
@@ -779,7 +770,6 @@ bardism
 bareboned
 bargelli
 barmpots
-barnacles
 barnier
 barnumism
 barotrauma
@@ -858,7 +848,6 @@ beribboned
 berkeleianism
 berkeleyism
 berkowitz
-bernicles
 beseige
 besognier
 besom
@@ -891,13 +880,13 @@ bibliopolism
 biblism
 bicameralism
 biculturalism
-bicycles
 bicyclism
 bidialectalism
 bigfoots
 bigots
 bigwiggism
 bijuralism
+bikh
 bikram
 bilateralism
 bilingualism
@@ -910,10 +899,7 @@ bimetallism
 binarism
 binationalism
 binitarianism
-binnacles
-binocles
 binomialism
-biocycles
 biodots
 bioenvironmentaly
 biologese
@@ -941,7 +927,6 @@ bissoned
 bistratal
 bisyllabism
 bitheism
-bittacles
 bitterroots
 bivouac
 blackguardism
@@ -1012,7 +997,6 @@ bots
 botticelli
 botulism
 boucherism
-boucles
 boughpots
 bouilli
 bouillons
@@ -1177,7 +1161,6 @@ caissoned
 calathi
 calibanism
 calibre
-calicles
 caligulism
 calli
 callosum
@@ -1185,7 +1168,6 @@ calor
 calpolli
 calpulli
 calvinism
-calycles
 calyptratae
 camails
 cambism
@@ -1216,7 +1198,6 @@ cannonism
 canola
 canterburianism
 cantharidism
-canticles
 cantinas
 cantinier
 cantonalism
@@ -1241,7 +1222,6 @@ caract
 carbinier
 carbonarism
 carboned
-carbuncles
 cardiacea
 cardiataxia
 cardiemphraxia
@@ -1272,7 +1252,6 @@ cartoned
 cartonnier
 cartooned
 cartoonier
-caruncles
 carvoepra
 cascado
 cassinas
@@ -1299,9 +1278,7 @@ catoism
 catonism
 cattails
 cattery
-caudicles
 caudillism
-caulicles
 cauma
 causationism
 causticism
@@ -1319,7 +1296,6 @@ celli
 celticism
 celtism
 cemetery
-cenacles
 cenizo
 cenobitism
 centenarianism
@@ -1405,7 +1381,6 @@ chevroned
 chewies
 chiaroscurism
 chickamauga
-chicles
 chicots
 chiffonier
 chiffonnier
@@ -1450,7 +1425,6 @@ chromonematal
 chromophils
 chromotropism
 chronaxia
-chronicles
 chronomastix
 chronotropism
 chuckles
@@ -1459,7 +1433,6 @@ churchism
 churchwardenism
 churnalism
 chyak
-cicatricles
 ciceroned
 ciceronianism
 ciceronism
@@ -1476,9 +1449,7 @@ cinnamony
 cinq
 cinquecentism
 cinquefoils
-circles
 circularism
-circumcircles
 circumflexion
 cirrhopod
 cisalpinism
@@ -1502,7 +1473,6 @@ classicalism
 classicism
 classism
 clattery
-clavicles
 claxon
 cledonism
 clericalism
@@ -1553,7 +1523,6 @@ cocooned
 codeinas
 codicils
 coeducationalism
-coenacles
 coenobitism
 coenodioecism
 coenomonoecism
@@ -1607,7 +1576,6 @@ comstockism
 comtism
 conacreism
 conbinas
-conceptacles
 conceptism
 conceptualism
 concertinas
@@ -1663,7 +1631,6 @@ contrarianism
 controversialism
 controversionalism
 contusioned
-conventicles
 conventionalism
 conventionism
 conversationalism
@@ -1690,7 +1657,6 @@ coprophilism
 copyism
 coquelicots
 coquinas
-coracles
 coracosteon
 coralroots
 corbeils
@@ -1699,7 +1665,6 @@ cordax
 cordoned
 corinthianism
 corncockles
-cornicles
 cornier
 corojo
 corporalism
@@ -1707,7 +1672,6 @@ corporationism
 corporatism
 corporativism
 corporealism
-corpuscles
 correlativism
 corrige
 cortinas
@@ -1774,7 +1738,6 @@ cremationism
 cremor
 creolism
 creophagism
-crepuscles
 crestmoreite
 creticism
 cretinism
@@ -1807,7 +1770,6 @@ cryptoproselytism
 cryptorchidism
 cryptorchism
 cryptovolcanism
-cubicles
 cubism
 cuffyism
 cuichunchulli
@@ -1824,18 +1786,15 @@ cunnilinguism
 cunny
 curialism
 curnier
-curricles
 curtails
 cushioned
 cushionier
 cuterebra
-cuticles
 cutiterebra
 cutset
 cyathi
 cyberterrorism
 cycladic
-cycles
 cyclicism
 cyclism
 cyclitol
@@ -1866,7 +1825,6 @@ daguerreotyper
 dakoit
 daltonism
 dambonitol
-damocles
 dandyism
 danicism
 danism
@@ -1895,7 +1853,6 @@ deadheadism
 deanthropomorphism
 deasils
 deasoils
-debacles
 debeige
 deboned
 debowel
@@ -1944,7 +1901,6 @@ denialism
 denier
 denominationalism
 dentalism
-denticles
 dentils
 denturism
 departmentalism
@@ -2261,7 +2217,6 @@ eatery
 ebionism
 ebionitism
 ebonige
-eccles
 ecclesiasticalism
 ecclesiasticism
 echeloned
@@ -2362,7 +2317,6 @@ encauma
 encephalons
 enchantery
 encinas
-encircles
 encratism
 encrimsoned
 encyclopaedism
@@ -2370,7 +2324,6 @@ encyclopedism
 endemism
 endocannibalism
 endocrinism
-endocuticles
 endofaradism
 endogalvanism
 endomorphism
@@ -2423,8 +2376,6 @@ epicenism
 epicism
 epicureanism
 epicurism
-epicuticles
-epicycles
 epigonism
 epigrammatism
 epilogism
@@ -2492,7 +2443,6 @@ etabelli
 etacism
 etalons
 etatism
-eteocles
 eternalism
 etherealism
 etherialism
@@ -2550,14 +2500,12 @@ exclusivism
 excursioned
 excursionism
 exemplarism
-exercycles
 exfils
 exhibitionism
 exion
 existentialism
 exocannibalism
 exocoelum
-exocuticles
 exogenism
 exomorphism
 exon
@@ -2604,9 +2552,7 @@ fahrenheit
 fails
 faineantism
 fairnitickles
-fairniticles
 fairnytickles
-fairnyticles
 fairyism
 faitery
 fakirism
@@ -2630,7 +2576,6 @@ farenheit
 farinas
 faros
 farthels
-fascicles
 fascism
 fashioned
 fashionier
@@ -2659,11 +2604,8 @@ fenianism
 fennier
 fernier
 fernitickles
-ferniticles
 ferntickles
-fernticles
 fernytickles
-fernyticles
 ferredoxin
 ferrimagnetism
 ferromagneticism
@@ -2747,7 +2689,6 @@ foism
 folklorism
 folkmoots
 folkmots
-follicles
 fontinas
 foodism
 footeite
@@ -2801,7 +2742,6 @@ freckles
 freebootery
 freeboots
 freechurchism
-freecycles
 freeganism
 freelovism
 freemasonism
@@ -2835,11 +2775,9 @@ functionalism
 functionarism
 functioned
 fundamentalism
-funicles
 funkias
 funnier
 funny
-furuncles
 fusilli
 fusils
 fusionism
@@ -2946,7 +2884,6 @@ ghibellinism
 ghostism
 giantism
 gidyea
-gigacycles
 gigantism
 giglots
 gigmanism
@@ -3033,7 +2970,6 @@ granddads
 grandeeism
 grandisonianism
 grandmotherism
-granduncles
 grangerism
 granola
 grapeshots
@@ -3200,7 +3136,6 @@ hematal
 hemerobaptism
 hemiapraxia
 hemiataxia
-hemicycles
 hemihedrism
 hemimetabolism
 hemimetaboly
@@ -3256,7 +3191,6 @@ heterism
 heterocarpism
 heterochromatism
 heterochronism
-heterocycles
 heterodontism
 heterodoxal
 heteroecism
@@ -3289,7 +3223,6 @@ hexathlons
 hexaxon
 hexitol
 hiatal
-hibernacles
 hibernianism
 hibernicism
 hidalgism
@@ -3367,7 +3300,6 @@ homotaxia
 homotaxic
 homothallism
 homothermism
-homuncles
 honed
 honeymooned
 honeypots
@@ -3548,7 +3480,6 @@ ichthyopolism
 ichthyosism
 ichthyotoxin
 ichthyotoxism
-icicles
 iconism
 iconoclasticism
 iconomaticism
@@ -3588,7 +3519,6 @@ imaumbarah
 imbizo
 imbrex
 imbrocado
-immanacles
 immanentism
 immaterialism
 immediatism
@@ -3616,7 +3546,6 @@ imprisoned
 impuritanism
 incendiarism
 incivism
-incles
 incommunicado
 incomunicado
 inconditioned
@@ -3685,7 +3614,6 @@ interact
 interactionism
 interantagonism
 interaxal
-interclavicles
 intercommoned
 interconnexion
 intercoxal
@@ -3923,7 +3851,6 @@ khwarazmian
 kibbitzed
 kibitzed
 kickxia
-kilocycles
 kimboed
 kinakinas
 kinas
@@ -4036,7 +3963,6 @@ lemoned
 lemonier
 lemony
 leninism
-lenticles
 lentils
 lepra
 leptocephaly
@@ -4090,7 +4016,6 @@ lipotropism
 lipoxeny
 liquidationism
 listerism
-listicles
 literalism
 literaryism
 littery
@@ -4167,11 +4092,9 @@ machiavellism
 machinism
 machoism
 mackles
-macles
 macrencephaly
 macrocephalism
 macrocephaly
-macrocycles
 macrodactylism
 macrodontism
 macrofossils
@@ -4223,7 +4146,6 @@ malthusianism
 mamboed
 mamelons
 mammonism
-manacles
 managerialism
 manaism
 manchesterism
@@ -4271,7 +4193,6 @@ martinoe
 martyrs
 marxianism
 marxism
-mascles
 mascotism
 mascots
 masculinism
@@ -4323,10 +4244,8 @@ mediopalatal
 medism
 mediterraneanism
 mediumism
-medrinacles
 meerkat
 megacephaly
-megacycles
 megadontism
 megalocephaly
 megalodactylism
@@ -4435,7 +4354,6 @@ microblepharism
 microcephalism
 microcephaly
 microcosmian
-microcycles
 microdactylism
 microdentism
 microdontism
@@ -4447,7 +4365,6 @@ microhabitat
 micromerism
 micromesentery
 microorganism
-microparticles
 microphonism
 microprism
 micropterism
@@ -4489,7 +4406,6 @@ minionism
 ministerialism
 minoxidils
 miqra
-miracles
 misallots
 misanthropism
 misarchism
@@ -4567,11 +4483,9 @@ monkeyism
 monkeypots
 monkism
 monochromatism
-monocles
 monoclinism
 monocots
 monocrotism
-monocycles
 monodactylism
 monodynamism
 monoecism
@@ -4610,7 +4524,6 @@ monoxylons
 monroeism
 montanism
 montessorianism
-monticles
 monumentalism
 mony
 moonboots
@@ -4639,8 +4552,6 @@ moslemism
 motioned
 motmots
 motorails
-motorbicycles
-motorcycles
 motorism
 mots
 mouchardism
@@ -4668,7 +4579,6 @@ mulism
 mullahism
 mullioned
 multiculturalism
-multicycles
 multifils
 multifoils
 multilateralism
@@ -4688,7 +4598,6 @@ municipalism
 munitioned
 murgeoned
 muridism
-muscles
 mushaa
 muskles
 muskmelons
@@ -4738,7 +4647,6 @@ nanobots
 nanocephalism
 nanocephaly
 nanodots
-nanoparticles
 napoleonism
 narceen
 narcism
@@ -4982,7 +4890,6 @@ nullism
 numinism
 numskullism
 nunatak
-nuncles
 nunny
 nutricism
 nuttery
@@ -5007,7 +4914,6 @@ obscurantism
 obscurism
 observationalism
 obsoletism
-obstacles
 obstructionism
 obstructivism
 ocarinas
@@ -5079,8 +4985,6 @@ oppositionism
 opticism
 optimism
 optioned
-opuscles
-oracles
 oralism
 orangeism
 orangism
@@ -5117,7 +5021,6 @@ orthovanadic
 osirism
 osmatism
 ossianism
-ossicles
 ostracea
 ostracism
 ostraeacea
@@ -5132,7 +5035,6 @@ ottomanism
 oudemian
 outcavils
 outfoots
-outmuscles
 outpassioned
 outplots
 outpupils
@@ -5270,13 +5172,11 @@ panentheism
 paneulogism
 panhellenism
 panhypopituitarism
-panicles
 panier
 panlogism
 panmerism
 panmixia
 pannationalism
-pannicles
 pannier
 panorpatae
 panphenomenalism
@@ -5375,7 +5275,6 @@ parsimony
 parsism
 parsoned
 partialism
-particles
 particularism
 partisanism
 partitioned
@@ -5440,25 +5339,21 @@ pedanticism
 pedantism
 peddlerism
 pedestrianism
-pedicles
 pedicurism
 pedobaptism
 pedomorphism
 pedrails
-peduncles
 peelism
 pegroots
 pejorism
 pekingese
 peladic
 pelagianism
-pellicles
 pelmanism
 pelons
 pelorism
 pembinas
 pencils
-pendicles
 penicilli
 penicils
 peninsularism
@@ -5471,7 +5366,6 @@ penroseite
 pensils
 pensioned
 pensy
-pentacles
 pentadactylism
 pentadic
 pentaerythritol
@@ -5496,8 +5390,6 @@ pereopod
 perfectibilism
 perfectionism
 perfectism
-pericles
-pericycles
 peridesm
 peridots
 perils
@@ -5673,10 +5565,8 @@ pinioned
 pinitol
 pinkertonism
 pinkroots
-pinnacles
 pinniewinkles
 pinnywinkles
-pinocles
 pinots
 pinspots
 pintails
@@ -5850,7 +5740,6 @@ ponytails
 pooja
 poots
 popeism
-popsicles
 popularism
 populism
 porcupinier
@@ -5924,7 +5813,6 @@ precisionism
 preconditioned
 precontract
 precriticism
-precycles
 predatism
 predestinarianism
 predestinationism
@@ -6120,7 +6008,6 @@ pseudometamerism
 pseudomorphism
 pseudoparallelism
 pseudoparasitism
-pseudoparticles
 pseudopeziza
 pseudopod
 pseudoprimitivism
@@ -6143,7 +6030,6 @@ psychorealism
 psychotheism
 psychoticism
 pteridophilism
-pterocles
 pteropod
 pterygopalatal
 ptolemaism
@@ -6217,7 +6103,6 @@ quails
 quakerism
 quartodecimanism
 quartzoid
-quasiparticles
 quatrefoils
 quatrocentism
 quattrocentism
@@ -6255,7 +6140,6 @@ racialism
 racism
 rackles
 radicalism
-radicles
 radiotelephoned
 radiotropism
 ragamuffinism
@@ -6310,11 +6194,9 @@ rebuttoned
 recado
 recandidacy
 recautioned
-receptacles
 receptionism
 rechabitism
 recidivism
-recircles
 recitationalism
 reckoned
 recoils
@@ -6325,7 +6207,6 @@ recontract
 recoyle
 rectilinearism
 rectipetaly
-recycles
 redfoots
 redimensioned
 redistils
@@ -6406,7 +6287,6 @@ resurrectionism
 retackles
 retails
 retestimony
-reticles
 retinas
 retract
 retreatal
@@ -6579,7 +6459,6 @@ sandemanism
 sandlots
 sangrails
 sanguinism
-sanicles
 sanitarianism
 sanka
 sansculottism
@@ -6715,7 +6594,6 @@ semianarchism
 semibarbarianism
 semibarbarism
 semicatholicism
-semicircles
 semicolonialism
 semicolons
 semiconditioned
@@ -6846,7 +6724,6 @@ siddhuism
 siderism
 sideshoots
 sidhuism
-siecles
 sigils
 sigmatism
 signalism
@@ -6854,7 +6731,6 @@ signorinas
 sikhism
 sikimi
 sildenafils
-silicles
 silicoflagellatae
 silktails
 sillabub
@@ -6882,7 +6758,6 @@ sintery
 sintoism
 sionism
 siphoned
-siphuncles
 sipunculacea
 sirmian
 siruaballi
@@ -6959,7 +6834,6 @@ socinianism
 sociocentrism
 sociologese
 sociologism
-socles
 socraticism
 socratism
 soils
@@ -6985,7 +6859,6 @@ soole
 soots
 sophism
 sophisticism
-sophocles
 sorbitol
 sortlige
 sotadic
@@ -7007,7 +6880,6 @@ spandrils
 sparkles
 spartacism
 spartanism
-sparticles
 spartinas
 spary
 spasmodism
@@ -7018,7 +6890,6 @@ spayd
 specialism
 speciesism
 speckles
-spectacles
 spectacularism
 spectralism
 speculativism
@@ -7044,7 +6915,6 @@ spinnier
 spinozism
 spinsterism
 spintherism
-spiracles
 spiralism
 spirantism
 spiriferacea
@@ -7192,13 +7062,11 @@ stylli
 stylopod
 subabbots
 subalgebra
-subarticles
 subbrachycephaly
 subcalibre
 subcommissioned
 subcontract
 subcouncils
-subcycles
 subdepots
 subdolichocephalism
 subdolichocephaly
@@ -7267,7 +7135,6 @@ supernaturalism
 superorganicism
 superorganism
 superparasitism
-superparticles
 superpatriotism
 superpatriots
 superpersonalism
@@ -7275,7 +7142,6 @@ superrealism
 superromanticism
 supersecrecy
 supersensualism
-superspectacles
 superthyroidism
 supracoxal
 supralapsarianism
@@ -7371,7 +7237,6 @@ tabacism
 tabagism
 tabaxir
 tabbied
-tabernacles
 tabooism
 tachism
 tachyphylaxia
@@ -7500,7 +7365,6 @@ tenet
 tennysonianism
 tenoned
 tensioned
-tentacles
 teocalli
 tepary
 teratism
@@ -7514,7 +7378,6 @@ terrorism
 tertullianism
 tesseract
 testacea
-testicles
 testimony
 testrils
 tetanism
@@ -7730,7 +7593,6 @@ trauma
 traumatism
 traumatropism
 travails
-treacles
 treckschuyt
 tredefowel
 treenails
@@ -7757,7 +7619,6 @@ trickles
 triconsonantalism
 tricots
 tricrotism
-tricycles
 tridimensioned
 triglots
 trigoneutism
@@ -7820,7 +7681,6 @@ tsarinas
 tsarism
 tsukimi
 tubatoxin
-tubercles
 tuberculotoxin
 tuchunism
 tuinas
@@ -7828,7 +7688,6 @@ tuism
 tumbrel
 tumbrils
 tuneups
-tunicles
 tunier
 tunka
 tunny
@@ -7931,7 +7790,6 @@ uncautioned
 unchampioned
 unchaperoned
 unchevroned
-uncles
 uncloned
 uncoaxal
 uncoguidism
@@ -7995,7 +7853,6 @@ uniatism
 uniaxal
 unicameralism
 unicism
-unicycles
 unidealism
 uniformitarianism
 unilateralism
@@ -8021,7 +7878,6 @@ unknots
 unlampooned
 unlessoned
 unlobbied
-unmanacles
 unmentioned
 unmotioned
 unmullioned
@@ -8104,7 +7960,6 @@ unzoned
 upanishadic
 upboils
 upcoils
-upcycles
 upholstery
 upperhandism
 uproots
@@ -8138,7 +7993,6 @@ utilitarianism
 utopianism
 utopism
 utraquism
-utricles
 uyezd
 vaadim
 vacationed
@@ -8182,7 +8036,6 @@ veganism
 vegetarianism
 vegeterianism
 vegetism
-vehicles
 veils
 veinier
 vellons
@@ -8192,7 +8045,6 @@ veneracea
 ventails
 ventige
 ventils
-ventricles
 ventriloquism
 verapamils
 verbalism
@@ -8206,19 +8058,15 @@ vermicelli
 vermilioned
 vermils
 verminier
-vernacles
 vernacularism
-vernicles
 vernier
 veronalism
-versicles
 versioned
 vertebra
 verticalism
 verticilli
 verticils
 verulamian
-vesicles
 vesiculatae
 vessails
 vestige
@@ -8226,7 +8074,6 @@ vestryism
 veterinarianism
 vetoism
 vexils
-vibratiuncles
 vicarianism
 vicariism
 victorianism
@@ -8249,7 +8096,6 @@ vishnuism
 visioned
 vitalism
 vitelli
-vitellicles
 vitruvianism
 viviparism
 vivipary
@@ -8305,7 +8151,6 @@ wastelots
 wastery
 watermelons
 watery
-wavicles
 weaponed
 weathercockism
 webmails
