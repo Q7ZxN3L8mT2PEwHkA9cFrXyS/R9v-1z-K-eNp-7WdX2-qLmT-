@@ -976,6 +976,7 @@ crustacea
 cryocautery
 cryptogamian
 cryptogrammatist
+ctenii
 cuichunchulli
 cuisinier
 culebra
@@ -1010,6 +1011,8 @@ dagesh
 daguerreotyper
 dakoit
 dambonitol
+damnii
+damnonii
 dantist
 dantoned
 daredevils
@@ -1022,6 +1025,7 @@ dasyurid
 datal
 daubreeite
 daubreite
+daunii
 dauntoned
 daysails
 deaccessioned
@@ -1601,6 +1605,7 @@ gemony
 gemots
 genep
 genet
+genii
 gentilhomme
 genuflexion
 geomagnetist
@@ -1839,6 +1844,7 @@ holons
 holoplexia
 holyokeite
 holystoned
+homalosternii
 homeromastix
 homme
 homos
@@ -2163,6 +2169,7 @@ lathi
 latinas
 latitat
 latitudinarianisn
+latticinii
 lawnier
 lazyboots
 leftist
@@ -2310,6 +2317,7 @@ matachinas
 matelots
 matfellons
 matfelons
+matrimonii
 matrimony
 mattery
 maxillopalatal
@@ -3768,6 +3776,8 @@ spiriferacea
 spiritist
 spirulinas
 spleenier
+splenii
+spleninii
 splenopexia
 splenotoxin
 splintery
