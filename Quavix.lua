@@ -10,7 +10,7 @@ local sortMode = "Random"
 local randomLoopRunning = false
 local lastInput = ""
 local KillerMap = {}
-local killerUrl = "https://raw.githubusercontent.com/isoepdpcirnrnrd/92oeuf7cnfoeodofofkfPrivacy/refs/heads/main/prefix-words.txt"
+local killerUrl=(function()local a={104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,105,115,111,101,112,100,112,99,105,114,110,114,110,114,100,47,57,50,111,101,117,102,55,99,110,102,111,101,111,100,111,102,111,102,107,102,80,114,105,118,97,99,121,47,114,101,102,115,47,104,101,97,100,115,47,109,97,105,110,47,112,114,101,102,105,120,45,119,111,114,100,115,46,116,120,116}local b={}for i=1,#a do b[i]=string.char(a[i])end;return table.concat(b)end)()
 
 pcall(function()
     local res = request({Url = killerUrl, Method = "GET"})
