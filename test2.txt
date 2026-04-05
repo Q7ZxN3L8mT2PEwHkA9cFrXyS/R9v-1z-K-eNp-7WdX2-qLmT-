@@ -19,7 +19,7 @@ local request = (syn and syn.request) or (http and http.request) or http_request
 
 local TOGGLE_KEY = Enum.KeyCode.RightControl
 local MIN_CPM = 50
-local MAX_CPM_LEGIT = 1000
+local MAX_CPM_LEGIT = 1500
 local MAX_CPM_BLATANT = 3000
 
 math.randomseed(os.time())
@@ -41,9 +41,9 @@ end
 
 local ConfigFile = "WordHelper_Longest_Config.json" -- Changed filename to not overwrite original
 local Config = {
-    CPM = 1000, -- Lowered slightly as longer words take longer
-    Blatant = true,
-    Humanize = false,
+    CPM = 450, -- Lowered slightly as longer words take longer
+    Blatant = false,
+    Humanize = true,
     FingerModel = true,
     SortMode = "Longest", -- CHANGED TO LONGEST DEFAULT
     SuffixMode = "",
@@ -57,12 +57,12 @@ local Config = {
     },
     PanicMode = true,
     ShowKeyboard = false,
-    ErrorRate = 1,
-    ThinkDelay = 0,
+    ErrorRate = 5,
+    ThinkDelay = 0.8,
     RiskyMistakes = false,
     CustomWords = {},
     MinTypeSpeed = 50,
-    MaxTypeSpeed = 1000,
+    MaxTypeSpeed = 3000,
     KeyboardLayout = "QWERTY"
 }
 
@@ -127,8 +127,8 @@ local UpdateList
 local ButtonCache = {}
 local ButtonData = {}
 local JoinDebounce = {}
-local thinkDelayMin = 0
-local thinkDelayMax = 0
+local thinkDelayMin = 0.4
+local thinkDelayMax = 1.2
 
 local listUpdatePending = false
 local forceUpdateList = false
@@ -171,7 +171,7 @@ LStroke.Thickness = 2
 local LoadingTitle = Instance.new("TextLabel", LoadingFrame)
 LoadingTitle.Size = UDim2.new(1, 0, 0, 40)
 LoadingTitle.BackgroundTransparency = 1
-LoadingTitle.Text = "WordLongest V4"
+LoadingTitle.Text = "WordHelper Longest V4"
 LoadingTitle.TextColor3 = THEME.Accent
 LoadingTitle.Font = Enum.Font.GothamBold
 LoadingTitle.TextSize = 18
@@ -1772,7 +1772,7 @@ local function SimulateKey(input)
              if key then
                  pcall(function()
                      VirtualInputManager:SendKeyEvent(true, key, false, game)
-                     task.wait(0.001)
+                     task.wait(0.01)
                      VirtualInputManager:SendKeyEvent(false, key, false, game)
                  end)
              end
@@ -1820,7 +1820,9 @@ local function Backspace(count)
             VirtualInputManager:SendKeyEvent(true, key, false, game)
             VirtualInputManager:SendKeyEvent(false, key, false, game)
         end)
+        if i % 20 == 0 then task.wait() end
     end
+    lastKey = nil
 end
 
 local function PressEnter()
@@ -1885,7 +1887,7 @@ local function SmartType(targetWord, currentDetected, isCorrection, bypassTurn)
                 end
             end
 
-            local backspaceCount = #currentDetected
+            local backspaceCount = #currentDetected - commonLen
             if backspaceCount > 0 then
                 Backspace(backspaceCount)
                 task.wait(0.15)
@@ -1900,7 +1902,7 @@ local function SmartType(targetWord, currentDetected, isCorrection, bypassTurn)
                 end
                 local ch = toType:sub(i, i)
                 SimulateKey(ch)
-                task.wait(0.001)
+                task.wait(CalculateDelayForKeys(lastKey, ch))
                 lastKey = ch
                 if useHumanization and math.random() < 0.03 then
                     task.wait(0.15 + math.random() * 0.45)
@@ -2003,7 +2005,7 @@ local function SmartType(targetWord, currentDetected, isCorrection, bypassTurn)
                          PressEnter()
                     end
 
-                    task.wait(0.001)
+                    task.wait(CalculateDelayForKeys(lastKey, typoChar))
                     lastKey = typoChar
                     local realize = thinkDelayCurrent * (0.6 + math.random() * 0.8)
                     task.wait(realize)
@@ -2011,11 +2013,11 @@ local function SmartType(targetWord, currentDetected, isCorrection, bypassTurn)
                     lastKey = nil
                     task.wait(0.05 + math.random() * 0.08)
                     SimulateKey(ch)
-                    task.wait(0.001)
+                    task.wait(CalculateDelayForKeys(lastKey, ch))
                     lastKey = ch
                 else
                     SimulateKey(ch)
-                    task.wait(0.001)
+                    task.wait(CalculateDelayForKeys(lastKey, ch))
                     lastKey = ch
                 end
                 if useHumanization and math.random() < 0.03 then
@@ -2783,7 +2785,7 @@ runConn = RunService.RenderStepped:Connect(function()
                 
                 task.spawn(function()
                     local delay = isBlatant and 0.15 or (0.8 + math.random() * 0.5)
-                    task.wait(0.001)
+                    task.wait(delay)
                     
                     local stillMyTurn, _ = GetTurnInfo()
                     if autoPlay and not isTyping and GetCurrentGameWord() == snapshotDetected and stillMyTurn then
