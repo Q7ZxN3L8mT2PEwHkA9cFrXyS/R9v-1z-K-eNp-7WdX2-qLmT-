@@ -19,8 +19,8 @@ local request = (syn and syn.request) or (http and http.request) or http_request
 
 local TOGGLE_KEY = Enum.KeyCode.RightControl
 local MIN_CPM = 50
-local MAX_CPM_LEGIT = 1000000
-local MAX_CPM_BLATANT = 1000000
+local MAX_CPM_LEGIT = 1000
+local MAX_CPM_BLATANT = 3000
 
 math.randomseed(os.time())
 
@@ -41,7 +41,7 @@ end
 
 local ConfigFile = "WordHelper_Longest_Config.json" -- Changed filename to not overwrite original
 local Config = {
-    CPM = 1000000, -- Lowered slightly as longer words take longer
+    CPM = 1000, -- Lowered slightly as longer words take longer
     Blatant = true,
     Humanize = false,
     FingerModel = true,
@@ -62,7 +62,7 @@ local Config = {
     RiskyMistakes = false,
     CustomWords = {},
     MinTypeSpeed = 50,
-    MaxTypeSpeed = 1000000,
+    MaxTypeSpeed = 1000,
     KeyboardLayout = "QWERTY"
 }
 
