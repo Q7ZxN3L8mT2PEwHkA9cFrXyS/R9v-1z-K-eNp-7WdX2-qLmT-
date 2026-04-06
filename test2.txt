@@ -1,6 +1,5 @@
 local HttpService = game:GetService("HttpService")
-local RbxAnalyticsService = game:GetService("RbxAnalyticsService")
-local connections = {}
+local RunService = game:GetService("RunService")
 
 local cloneref = cloneref or function(o) return o end
 local gethui = gethui or function() return CoreGui end
@@ -28,7 +27,7 @@ local MIN_CPM = 50
 local MAX_CPM_LEGIT = 1500
 local MAX_CPM_BLATANT = 3000
 
-math.randomseed(tick() * 100000)
+math.randomseed(tick() * 1e6)
 
 local THEME = {
     Background = Color3.fromRGB(20, 20, 24),
@@ -118,9 +117,8 @@ local logRequiredLetters = ""
 local turnExpiryTime = 0
 local Blacklist = {}
 local UsedWords = {}
-local RandomOrderCache = {}
-local RandomPriority = {}
 local lastDetected = "---"
+local lastRequiredLetter = ""
 local lastLogicUpdate = 0
 local lastAutoJoinCheck = 0
 local lastWordCheck = 0
@@ -174,16 +172,52 @@ LStroke.Transparency = 0.5
 LStroke.Thickness = 2
 
 local LoadingTitle = Instance.new("TextLabel", LoadingFrame)
-LoadingTitle.Size = UDim2.new(1, 0, 0, 40)
+LoadingTitle.Size = UDim2.new(1,0,0,40)
 LoadingTitle.BackgroundTransparency = 1
-LoadingTitle.Text = "WordHelper Longest V4"
+LoadingTitle.Text = ""
 LoadingTitle.TextColor3 = THEME.Accent
 LoadingTitle.Font = Enum.Font.GothamBold
 LoadingTitle.TextSize = 18
 
+task.spawn(function()
+    local text = "Skrylor V5"
+
+    for i = 1, #text do
+        LoadingTitle.Text = text:sub(1,i).."|"
+        task.wait(0.05)
+    end
+
+    LoadingTitle.Text = text
+end)
+
+local LoadingBarBG = Instance.new("Frame", LoadingFrame)
+LoadingBarBG.Size = UDim2.new(0.8,0,0,6)
+LoadingBarBG.Position = UDim2.new(0.1,0,0.65,0)
+LoadingBarBG.BackgroundColor3 = Color3.fromRGB(40,40,40)
+LoadingBarBG.BorderSizePixel = 0
+
+local LoadingBar = Instance.new("Frame", LoadingBarBG)
+LoadingBar.Size = UDim2.new(0,0,1,0)
+LoadingBar.BackgroundColor3 = THEME.Accent
+LoadingBar.BorderSizePixel = 0
+
+local LoadingInfo = Instance.new("TextLabel", LoadingFrame)
+LoadingInfo.Size = UDim2.new(1,0,0,20)
+LoadingInfo.Position = UDim2.new(0,0,0.8,0)
+LoadingInfo.BackgroundTransparency = 1
+LoadingInfo.Text = "Loading modules..."
+LoadingInfo.TextColor3 = Color3.fromRGB(200,200,200)
+LoadingInfo.Font = Enum.Font.Gotham
+LoadingInfo.TextSize = 14
+
+for i = 1,100 do
+    LoadingBar.Size = UDim2.new(i/100,0,1,0)
+    task.wait(0.01)
+end
+
 local LoadingStatus = Instance.new("TextLabel", LoadingFrame)
 LoadingStatus.Size = UDim2.new(1, -20, 0, 30)
-LoadingStatus.Position = UDim2.new(0, 10, 0, 50)
+LoadingStatus.Position = UDim2.new(0, 10, 0, 35)
 LoadingStatus.BackgroundTransparency = 1
 LoadingStatus.Text = "Initializing..."
 LoadingStatus.TextColor3 = THEME.Text
@@ -204,7 +238,9 @@ local function FetchWords()
     end)
     
     if success and res and res.StatusCode == 200 and res.Body then
+    if writefile then
         writefile(fileName, res.Body)
+    end
         UpdateStatus("Fetched successfully!", THEME.Success)
     else
         UpdateStatus("Fetch failed! Using cached.", Color3.fromRGB(255, 80, 80))
@@ -218,21 +254,60 @@ local Words = {}
 local SeenWords = {}
 
 local function LoadList(fname)
-    UpdateStatus("Parsing word list...", THEME.Warning)
-    if isfile(fname) then
-        local content = readfile(fname)
-        for w in content:gmatch("[^\r\n]+") do
-            local clean = w:gsub("[%s%c]+", ""):lower()
-            if #clean > 0 and not SeenWords[clean] then
-                SeenWords[clean] = true
-                table.insert(Words, clean)
-            end
-        end
-        UpdateStatus("Loaded " .. #Words .. " words!", THEME.Success)
-    else
-         UpdateStatus("No word list found!", Color3.fromRGB(255, 80, 80))
+    UpdateStatus("Preparing word list...", THEME.Warning)
+
+    if not isfile(fname) then
+        UpdateStatus("No word list found!", Color3.fromRGB(255, 80, 80))
+        return
     end
-    task.wait(1)
+
+    local content = readfile(fname)
+
+    local total = 0
+    for _ in content:gmatch("[^\r\n]+") do
+        total += 1
+    end
+
+    Words = table.create(total, "")
+    local index = 1
+
+    local loaded = 0
+    local startTime = tick()
+
+    for w in content:gmatch("[^\r\n]+") do
+        local clean = w:gsub("[%s%c]+", ""):lower()
+
+        if #clean > 0 and not SeenWords[clean] then
+            SeenWords[clean] = true
+            Words[index] = clean
+            index += 1
+        end
+
+        loaded += 1
+
+        if loaded % 1000 == 0 or loaded == total then
+            local percent = total > 0 and (loaded / total) or 0
+            local elapsed = tick() - startTime
+            local speed = elapsed > 0 and math.floor(loaded / elapsed) or loaded
+
+            LoadingBar.Size = UDim2.new(percent, 0, 1, 0)
+            LoadingInfo.Text = loaded.." / "..total.." Words Loaded ("..speed.." w/s)"
+
+            RunService.RenderStepped:Wait() -- occasional wait for GUI to update
+        end
+    end
+
+    for i = #Words, 1, -1 do
+        if Words[i] == nil then
+            table.remove(Words, i)
+        end
+    end
+
+    LoadingBar.Size = UDim2.new(1, 0, 1, 0)
+    LoadingInfo.Text = #Words .. " Words Loaded"
+
+    UpdateStatus("Completed!", THEME.Success)
+    task.wait(0.5)
 end
 
 LoadList(fileName)
@@ -508,7 +583,7 @@ Header.BackgroundColor3 = THEME.ItemBG
 Header.BorderSizePixel = 0
 
 local Title = Instance.new("TextLabel", Header)
-Title.Text = "Word<font color=\"rgb(114,100,255)\">Longest</font> V4"
+Title.Text = "<font color=\"rgb(114,100,255)\">Skrylor</font> V5"
 Title.RichText = true
 Title.Font = Enum.Font.GothamBold
 Title.TextSize = 18
@@ -548,8 +623,10 @@ CloseBtn.MouseButton1Click:Connect(function()
     if ScreenGui and ScreenGui.Parent then ScreenGui:Destroy() end
 end)
 
-for _, c in ipairs(connections) do
-    c:Disconnect()
+if connections then
+    for _, c in ipairs(connections) do
+        c:Disconnect()
+    end
 end
 
 local StatusFrame = Instance.new("Frame", MainFrame)
@@ -593,14 +670,9 @@ SearchBox.Text = ""
 SearchBox.TextXAlignment = Enum.TextXAlignment.Left
 
 SearchBox:GetPropertyChangedSignal("Text"):Connect(function()
-    local now = tick()
+    local now = os.clock()
     if now - lastInputTime < LIST_DEBOUNCE then return end
     lastInputTime = now
-
-    if UpdateList then
-        UpdateList(lastDetected, lastRequiredLetter)
-    end
-end)
 
     if UpdateList then
         UpdateList(lastDetected, lastRequiredLetter)
@@ -2505,7 +2577,6 @@ MinBtn.MouseButton1Click:Connect(function()
 end)
 
 local lastTypeVisible = false
-local lastRequiredLetter = ""
 
 local StatsData = {}
 
