@@ -1,7 +1,6 @@
 local HttpService = game:GetService("HttpService")
-local CoreGui = game:GetService("CoreGui")
-local Players = game:GetService("Players")
 local RbxAnalyticsService = game:GetService("RbxAnalyticsService")
+local connections = {}
 
 local cloneref = cloneref or function(o) return o end
 local gethui = gethui or function() return CoreGui end
@@ -15,14 +14,21 @@ local TweenService = cloneref(game:GetService("TweenService"))
 local LogService = cloneref(game:GetService("LogService"))
 local GuiService = cloneref(game:GetService("GuiService"))
 
-local request = (syn and syn.request) or (http and http.request) or http_request or (fluxus and fluxus.request) or request
+local request = (syn and syn.request)
+    or (http and http.request)
+    or http_request
+    or (fluxus and fluxus.request)
+
+if not request then
+    warn("No HTTP request function available!")
+end
 
 local TOGGLE_KEY = Enum.KeyCode.RightControl
 local MIN_CPM = 50
 local MAX_CPM_LEGIT = 1500
 local MAX_CPM_BLATANT = 3000
 
-math.randomseed(os.time())
+math.randomseed(tick() * 100000)
 
 local THEME = {
     Background = Color3.fromRGB(20, 20, 24),
@@ -82,7 +88,6 @@ local function LoadConfig()
 end
 LoadConfig()
 
--- Ensure Longest on start
 Config.SortMode = "Longest" 
 
 local currentCPM = Config.CPM
@@ -198,7 +203,7 @@ local function FetchWords()
         return request({Url = url, Method = "GET"})
     end)
     
-    if success and res and res.Body then
+    if success and res and res.StatusCode == 200 and res.Body then
         writefile(fileName, res.Body)
         UpdateStatus("Fetched successfully!", THEME.Success)
     else
@@ -235,7 +240,7 @@ LoadList(fileName)
 if LoadingGui then LoadingGui:Destroy() end
 
 table.sort(Words)
-Buckets = {}
+local Buckets = {}
 for _, w in ipairs(Words) do
     local c = w:sub(1,1) or ""
     if c == "" then c = "#" end
@@ -543,6 +548,10 @@ CloseBtn.MouseButton1Click:Connect(function()
     if ScreenGui and ScreenGui.Parent then ScreenGui:Destroy() end
 end)
 
+for _, c in ipairs(connections) do
+    c:Disconnect()
+end
+
 local StatusFrame = Instance.new("Frame", MainFrame)
 StatusFrame.Size = UDim2.new(1, -30, 0, 24)
 StatusFrame.Position = UDim2.new(0, 15, 0, 55)
@@ -584,6 +593,15 @@ SearchBox.Text = ""
 SearchBox.TextXAlignment = Enum.TextXAlignment.Left
 
 SearchBox:GetPropertyChangedSignal("Text"):Connect(function()
+    local now = tick()
+    if now - lastInputTime < LIST_DEBOUNCE then return end
+    lastInputTime = now
+
+    if UpdateList then
+        UpdateList(lastDetected, lastRequiredLetter)
+    end
+end)
+
     if UpdateList then
         UpdateList(lastDetected, lastRequiredLetter)
     end
@@ -746,7 +764,10 @@ local function GenerateKeyboard()
         end
     end
     local space = CreateKey(" ", UDim2.new(0.5, -100, 0, startY + 3*35), UDim2.new(0, 200, 0, 30))
-    space.FindFirstChild(space, "TextLabel").Text = "SPACE"
+    local lbl = space:FindFirstChild("TextLabel")
+    if lbl then
+         lbl.Text = "SPACE"
+    end
 end
 
 GenerateKeyboard()
