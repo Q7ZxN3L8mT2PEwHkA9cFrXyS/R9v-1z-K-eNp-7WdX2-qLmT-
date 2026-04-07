@@ -2345,6 +2345,7 @@ ischiadic
 isocephaly
 isochasm
 isohels
+isoln
 isopod
 isorhythm
 isorithm
@@ -4378,6 +4379,7 @@ solan
 solenostomus
 solifluxion
 solipsism
+soln
 solons
 solutioned
 somatist
@@ -4522,6 +4524,7 @@ stinkaroo
 stinkpots
 stoccado
 stockpots
+stoln
 stolons
 stomatal
 stomatopod
@@ -4631,6 +4634,7 @@ swedes
 sweepup
 swies
 switchels
+swoln
 swooned
 swoonier
 swordtails
@@ -5436,8 +5440,3 @@ zootoxin
 zooty
 zorils
 zudda
-isoln
-lincoln
-soln
-stoln
-swoln
