@@ -89,6 +89,7 @@ aistopod
 ajaja
 akenobeite
 akimbo
+akka
 alabamian
 alawa
 albacea
@@ -355,6 +356,7 @@ autoneurotoxin
 autopilots
 autotoxin
 autoxeny
+autumn
 autumnier
 avails
 avantist
@@ -553,6 +555,7 @@ boned
 bonhomme
 bonier
 bonnier
+bonxie
 booboo
 bootery
 boots
@@ -878,11 +881,13 @@ chromonematal
 chromophils
 chromos
 chronaxia
+chronaxie
 chronicles
 chronogrammatist
 chronomastix
 chuckles
 chuckram
+chukka
 chutist
 chyak
 cicatricles
@@ -959,8 +964,10 @@ colombo
 colons
 colopexia
 colpheg
+coltpixie
 coltsfoots
 columbo
+column
 combo
 comd
 comfits
@@ -1155,6 +1162,8 @@ damnonii
 damocles
 dantist
 dantoned
+darabukka
+darbukka
 daredevils
 darkles
 daroo
@@ -1207,6 +1216,7 @@ deludher
 demibastioned
 demibuckram
 demicaponier
+demicolumn
 democratist
 demonastery
 demotist
@@ -1224,6 +1234,7 @@ depots
 dequeue
 derails
 derationed
+derbukka
 derequisitioned
 derivatist
 dernier
@@ -1240,6 +1251,7 @@ deuce
 developmentist
 devils
 devots
+dexie
 diachylons
 diadic
 dialup
@@ -1330,6 +1342,7 @@ distr
 distract
 distrails
 divots
+dixie
 doblons
 docetist
 dodecadrachm
@@ -1356,6 +1369,7 @@ dooja
 doole
 doornails
 dorask
+dorsicolumn
 dorsiflexion
 dossils
 dothideacea
@@ -1370,6 +1384,7 @@ dowieite
 downier
 downzoned
 dowp
+doxie
 doyle
 dozen
 drachm
@@ -1399,6 +1414,7 @@ duecentist
 duelli
 duettist
 duftery
+dukka
 dulcitol
 dumbo
 dummkopf
@@ -1452,6 +1468,7 @@ egotist
 egrimony
 eidolons
 eightfoils
+ekka
 elatery
 electrocautery
 electromagnetist
@@ -1489,6 +1506,7 @@ encephalons
 enchantery
 encinas
 encircles
+encolumn
 encrimsoned
 endocuticles
 endodontist
@@ -1583,6 +1601,7 @@ euryaleae
 eurylaimi
 eutaxia
 eutaxic
+eutaxie
 eutexia
 eventognathi
 evermo
@@ -1743,6 +1762,7 @@ fossils
 foudroyant
 foundationed
 fourdrinier
+foxie
 foxtails
 foxtrots
 foyle
@@ -2006,6 +2026,7 @@ hails
 hailshots
 hailstoned
 hairtails
+hakka
 halalah
 halimots
 halons
@@ -2277,6 +2298,7 @@ interact
 interaxal
 intercedes
 interclavicles
+intercolumn
 intercommoned
 interconnexion
 intercoxal
@@ -2340,6 +2362,7 @@ jarul
 javelinas
 jawboned
 jawp
+jaxie
 jayant
 jennier
 jeofails
@@ -2360,6 +2383,7 @@ jinriksha
 jittery
 jiujitsus
 jiujutsus
+jixie
 jjim
 joblots
 jogtrots
@@ -2460,6 +2484,7 @@ koggelmannetje
 koklas
 kokuji
 kokums
+kolkka
 komitadji
 kommetje
 konfyt
@@ -2577,6 +2602,7 @@ lithotriptist
 lithotritist
 littery
 livingstoneite
+llajwa
 loasa
 lobatae
 lobbied
@@ -2680,6 +2706,7 @@ marathi
 maratist
 maray
 marinas
+markka
 marmots
 marooned
 maros
@@ -2728,6 +2755,7 @@ megohm
 meibomian
 meigomian
 meikles
+mekka
 melampyritol
 melee
 melilots
@@ -2784,6 +2812,7 @@ micromesentery
 microparticles
 microvilli
 microzymian
+midautumn
 middelskots
 milfoils
 millepedes
@@ -2882,6 +2911,7 @@ mouflons
 moujik
 mountainier
 mousetails
+moxie
 moygashels
 moyle
 mtscmd
@@ -2893,6 +2923,7 @@ mugshots
 muils
 mujik
 mullioned
+multicolumn
 multicycles
 multifils
 multifoils
@@ -3001,6 +3032,7 @@ nitery
 nitrils
 nitromannitol
 nitwittery
+nixie
 nixon
 nochels
 noils
@@ -3220,6 +3252,7 @@ pagurid
 paillons
 pails
 paintpots
+pakka
 palaeoartist
 palaeomagnetist
 palaeostriatal
@@ -3505,6 +3538,7 @@ pitarah
 pitau
 pitots
 pivots
+pixie
 plagiocephaly
 planaru
 plancheite
@@ -3676,6 +3710,7 @@ pretestimony
 prevails
 previsioned
 prevoyant
+prexie
 priapulacea
 priceite
 prickles
@@ -3763,6 +3798,7 @@ puckrel
 pudda
 puggi
 pugils
+pukka
 pulli
 pulvilli
 pulvils
@@ -3795,6 +3831,7 @@ pyrovanadic
 pyrrhotist
 pyrrhuloxia
 pysanka
+pyxie
 qabalah
 qabbalah
 qajaqs
@@ -3825,6 +3862,7 @@ quininas
 quinitol
 quinquinas
 quisqueite
+quokka
 quyte
 rabin
 rackles
@@ -4008,6 +4046,7 @@ rots
 rottenstoned
 rowel
 rowies
+roxie
 rubiconed
 rubied
 ruckles
@@ -4146,6 +4185,7 @@ semiabstract
 semian
 semicircles
 semicolons
+semicolumn
 semiconditioned
 semidrachm
 semiflexion
@@ -4619,6 +4659,7 @@ tanh
 tanier
 tanka
 tankias
+tankka
 tantawy
 tapasvi
 tapeinocephaly
@@ -4742,6 +4783,7 @@ tietacs
 tige
 tiggywinkles
 tiglons
+tikka
 tils
 timariots
 timawa
@@ -4853,6 +4895,7 @@ tripal
 tripletails
 tritheite
 triurid
+trixie
 trochalopod
 trochils
 trochleae
@@ -5089,6 +5132,7 @@ unzoned
 upanishadic
 upboils
 upcoils
+upcolumn
 upcycles
 upholstery
 uplit
@@ -5267,6 +5311,7 @@ wintery
 witchknots
 witenagemots
 witwantoned
+wokka
 womplit
 woodlots
 woodrowel
@@ -5294,6 +5339,7 @@ yabu
 yachtist
 yadim
 yahuna
+yakka
 yaksha
 yammadji
 yaray
