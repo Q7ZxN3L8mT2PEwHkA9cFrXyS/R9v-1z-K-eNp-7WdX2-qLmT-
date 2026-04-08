@@ -1,5 +1,4 @@
 local HttpService = game:GetService("HttpService")
-local RunService = game:GetService("RunService")
 
 local cloneref = cloneref or function(o) return o end
 local gethui = gethui or function() return CoreGui end
@@ -22,7 +21,6 @@ if not request then
     warn("No HTTP request function available!")
 end
 
-local TOGGLE_KEY = Enum.KeyCode.RightControl
 local MIN_CPM = 50
 local MAX_CPM_LEGIT = 1500
 local MAX_CPM_BLATANT = 3000
@@ -536,14 +534,39 @@ if inputConn then
     inputConn:Disconnect()
 end
 
+local TOGGLE_KEY = Enum.KeyCode.LeftControl
+local AUTOPLAY_KEY = Enum.KeyCode.LeftAlt
+local autoPlayDebounce = false
+
 inputConn = UserInputService.InputBegan:Connect(function(input, gameProcessed)
-    if gameProcessed then return end
-    
-    if input.KeyCode == TOGGLE_KEY then
+    local key = input.KeyCode
+
+    if key ~= TOGGLE_KEY and key ~= AUTOPLAY_KEY then
+        if gameProcessed or UserInputService:GetFocusedTextBox() then
+            return
+        end
+    end
+
+    if key == TOGGLE_KEY then
         guiVisible = not guiVisible
         ScreenGui.Enabled = guiVisible
-        
-        ShowToast(guiVisible and "UI Enabled" or "UI Hidden", "success")
+        ShowToast(guiVisible and "UI Enabled" or "UI Hidden","success")
+
+    elseif key == AUTOPLAY_KEY then
+        if autoPlayDebounce then return end
+        autoPlayDebounce = true
+
+        autoPlay = not autoPlay
+        Config.AutoPlay = autoPlay
+
+        AutoBtn.Text = "Auto Play: "..(autoPlay and "ON" or "OFF")
+        AutoBtn.TextColor3 = autoPlay and THEME.Success or Color3.fromRGB(255,100,100)
+
+        ShowToast(autoPlay and "Auto Play Enabled" or "Auto Play Disabled","success")
+
+        task.delay(0.2, function()
+            autoPlayDebounce = false
+        end)
     end
 end)
 
@@ -1108,6 +1131,20 @@ local AutoBtn = CreateToggle("Auto Play: "..(autoPlay and "ON" or "OFF"), UDim2.
 end)
 AutoBtn.TextColor3 = autoPlay and THEME.Success or Color3.fromRGB(255, 100, 100)
 AutoBtn.Size = UDim2.new(0, 130, 0, 24)
+
+UserInputService.InputBegan:Connect(function(input, gameProcessed)
+    if gameProcessed or UserInputService:GetFocusedTextBox() then return end
+
+    if input.KeyCode == Enum.KeyCode.LeftAlt then
+        autoPlay = not autoPlay
+        Config.AutoPlay = autoPlay
+
+        AutoBtn.Text = "Auto Play: "..(autoPlay and "ON" or "OFF")
+        AutoBtn.TextColor3 = autoPlay and THEME.Success or Color3.fromRGB(255,100,100)
+
+        ShowToast(autoPlay and "Auto Play Enabled" or "Auto Play Disabled","success")
+    end
+end)
 
 local AutoJoinBtn = CreateToggle("Auto Join: "..(autoJoin and "ON" or "OFF"), UDim2.new(0, 15, 0, 61), function()
     autoJoin = not autoJoin
@@ -1923,8 +1960,19 @@ end
 local function Backspace(count)
     local focused = UserInputService:GetFocusedTextBox()
     if focused and focused:IsDescendantOf(game) and focused.TextEditable then
-        local text = focused.Text
-        focused.Text = text:sub(1, -count - 1)
+        for i = 1, count do
+            pcall(function()
+                VirtualInputManager:SendKeyEvent(true, Enum.KeyCode.Backspace, false, game)
+                VirtualInputManager:SendKeyEvent(false, Enum.KeyCode.Backspace, false, game)
+            end)
+
+            if focused.Text ~= "" then
+                focused.Text = focused.Text:sub(1, -2)
+            end
+
+            task.wait(0.05 + math.random() * 0.05)
+        end
+
         lastKey = nil
         return
     end
