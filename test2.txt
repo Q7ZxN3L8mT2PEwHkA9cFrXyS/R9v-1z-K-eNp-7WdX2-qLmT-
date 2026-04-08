@@ -471,7 +471,12 @@ ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 env.WordHelperInstance = ScreenGui
 
-local ToastContainer = Instance.new("Frame", ScreenGui)
+local ToastGui = Instance.new("ScreenGui")
+ToastGui.Name = "ToastGui"
+ToastGui.Parent = ParentTarget
+ToastGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+local ToastContainer = Instance.new("Frame", ToastGui)
 ToastContainer.Name = "ToastContainer"
 ToastContainer.Size = UDim2.new(0, 300, 1, 0)
 ToastContainer.Position = UDim2.new(1, -320, 0, 20)
@@ -524,6 +529,23 @@ local function ShowToast(message, type)
         end
     end)
 end
+
+local guiVisible = true
+
+if inputConn then
+    inputConn:Disconnect()
+end
+
+inputConn = UserInputService.InputBegan:Connect(function(input, gameProcessed)
+    if gameProcessed then return end
+    
+    if input.KeyCode == TOGGLE_KEY then
+        guiVisible = not guiVisible
+        ScreenGui.Enabled = guiVisible
+        
+        ShowToast(guiVisible and "UI Enabled" or "UI Hidden", "success")
+    end
+end)
 
 local MainFrame = Instance.new("Frame")
 MainFrame.Name = "MainFrame"
