@@ -579,6 +579,7 @@ billowy
 billyos
 bimbette
 bimbo
+bingoed
 binh
 binnacles
 binocles
@@ -857,6 +858,7 @@ carbuncles
 cardiacea
 cardiataxia
 cardiemphraxia
+cargoed
 caribal
 carilloned
 carillons
@@ -1208,6 +1210,7 @@ consolette
 consomme
 contadinas
 contagioned
+contangoed
 contemplatist
 contortioned
 contract
@@ -1526,6 +1529,7 @@ dilogarithm
 dimbo
 dimensioned
 dinette
+dingoed
 dinka
 dinkums
 dinoflagellatae
@@ -1555,6 +1559,7 @@ discommissioned
 discommoned
 discomplexion
 disconnexion
+disembargoed
 disembowel
 disembroils
 disemvowel
@@ -1755,6 +1760,7 @@ emanatist
 emancipatist
 embails
 emballonurid
+embargoed
 embarricado
 embastioned
 emblazoned
@@ -2142,6 +2148,7 @@ fumishly
 fumistery
 funckias
 functioned
+fungoed
 funicles
 funkias
 funnier
@@ -2788,6 +2795,7 @@ jezails
 jigots
 jillaroo
 jimbo
+jingoed
 jinricksha
 jinriksha
 jittery
@@ -3061,6 +3069,7 @@ lobulette
 lockram
 locn
 logarithm
+logoed
 logomachize
 longeve
 lonsdaleite
@@ -4218,6 +4227,7 @@ podurid
 poecilopod
 poepol
 poetastery
+pogoed
 poisoned
 pokerishly
 pokeroots
@@ -5512,6 +5522,7 @@ tanaidacea
 tanchelmian
 tangeite
 tanglefoots
+tangoed
 tanh
 tanier
 tanka
@@ -5895,6 +5906,7 @@ uncantoned
 uncaparisoned
 uncaptioned
 uncarboned
+uncargoed
 uncartooned
 uncautioned
 uncellar
