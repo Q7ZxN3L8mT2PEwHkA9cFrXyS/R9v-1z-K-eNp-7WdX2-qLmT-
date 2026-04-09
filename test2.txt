@@ -1126,6 +1126,7 @@ local AutoBtn = CreateToggle("Auto Play: "..(autoPlay and "ON" or "OFF"), UDim2.
     Config.AutoPlay = autoPlay
     return autoPlay, "Auto Play: "..(autoPlay and "ON" or "OFF"), autoPlay and THEME.Success or Color3.fromRGB(255, 100, 100)
 end)
+
 AutoBtn.TextColor3 = autoPlay and THEME.Success or Color3.fromRGB(255, 100, 100)
 AutoBtn.Size = UDim2.new(0, 130, 0, 24)
 
@@ -1138,8 +1139,6 @@ UserInputService.InputBegan:Connect(function(input, gameProcessed)
 
         AutoBtn.Text = "Auto Play: "..(autoPlay and "ON" or "OFF")
         AutoBtn.TextColor3 = autoPlay and THEME.Success or Color3.fromRGB(255,100,100)
-
-        ShowToast(autoPlay and "Auto Play Enabled" or "Auto Play Disabled","success")
     end
 end)
 
