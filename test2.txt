@@ -550,7 +550,6 @@ inputConn = UserInputService.InputBegan:Connect(function(input, gameProcessed)
     if key == TOGGLE_KEY then
         guiVisible = not guiVisible
         ScreenGui.Enabled = guiVisible
-        ShowToast(guiVisible and "UI Enabled" or "UI Hidden","success")
 
     elseif key == AUTOPLAY_KEY then
         if autoPlayDebounce then return end
@@ -561,8 +560,6 @@ inputConn = UserInputService.InputBegan:Connect(function(input, gameProcessed)
 
         AutoBtn.Text = "Auto Play: "..(autoPlay and "ON" or "OFF")
         AutoBtn.TextColor3 = autoPlay and THEME.Success or Color3.fromRGB(255,100,100)
-
-        ShowToast(autoPlay and "Auto Play Enabled" or "Auto Play Disabled","success")
 
         task.delay(0.2, function()
             autoPlayDebounce = false
