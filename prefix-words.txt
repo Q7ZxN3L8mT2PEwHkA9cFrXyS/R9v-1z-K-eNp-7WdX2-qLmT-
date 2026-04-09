@@ -97,7 +97,6 @@ akenobeite
 akimbo
 akka
 alabamian
-alawa
 albacea
 albarelli
 albertist
@@ -257,7 +256,6 @@ anvils
 aoudads
 apachette
 apathize
-apayd
 apetaly
 apex
 aphakias
@@ -273,7 +271,6 @@ apotelesm
 apothegm
 apothegmatist
 apothgm
-appayd
 appendicles
 apperils
 apportioned
@@ -423,8 +420,6 @@ bahamian
 bailli
 bails
 bakkwa
-baklawa
-balawa
 balconette
 baldicoots
 balladic
@@ -1488,7 +1483,6 @@ disimpassioned
 disimprisoned
 diskette
 disli
-dismayd
 dismayl
 disoblige
 disomus
@@ -2782,7 +2776,6 @@ latticinii
 launderette
 laundrette
 lavette
-lawa
 lawnier
 layette
 lazarette
@@ -4010,7 +4003,6 @@ potshots
 pottery
 poudrette
 poulette
-pourtrayd
 poussette
 poysoned
 pozzolan
@@ -4172,7 +4164,6 @@ punny
 puntist
 pupils
 purey
-purtrayd
 pussyfoots
 putelee
 puttyroots
@@ -4207,7 +4198,6 @@ quasiparticles
 quatrefoils
 quatrocentist
 quattrocentist
-quayd
 quebrachitol
 queenier
 quercitol
@@ -4387,7 +4377,6 @@ rigel
 rightist
 rigolette
 riksha
-rilawa
 rillette
 rimshots
 ringboned
@@ -4790,7 +4779,6 @@ spartinas
 spary
 spasmotoxin
 spawnier
-spayd
 speciesism
 speckles
 spectacles
@@ -5757,6 +5745,7 @@ weevils
 weibyeite
 weihnachtsmarkt
 weils
+welke
 welkt
 wennier
 weroole
@@ -5783,7 +5772,6 @@ widowy
 wifock
 wilcoxon
 wilkeite
-willawa
 willi
 william
 willowy
@@ -5832,6 +5820,7 @@ yakka
 yaksha
 yammadji
 yaray
+yarmelke
 yawnier
 yawp
 yedes
