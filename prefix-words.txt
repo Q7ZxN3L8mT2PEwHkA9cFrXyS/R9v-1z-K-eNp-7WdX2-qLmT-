@@ -36,6 +36,7 @@ actinobacilli
 actinopod
 actioned
 aculeae
+adagial
 adbots
 adda
 addax
@@ -288,6 +289,7 @@ apraxic
 apricots
 aproned
 aprosexia
+apterygial
 apyrexia
 aqsaqal
 aquafits
@@ -307,6 +309,7 @@ archegoniatae
 archicerebra
 archils
 archimedes
+archipterygial
 archpillar
 archpresbytery
 arcsinh
@@ -483,6 +486,7 @@ baruya
 barye
 basenet
 basils
+basipterygial
 basophils
 bassette
 bastioned
@@ -872,6 +876,7 @@ carniolan
 carolan
 carolinas
 carombolette
+carposporangial
 carract
 carrizo
 carrots
@@ -1035,6 +1040,7 @@ chlorophaeite
 choils
 choisya
 chokecoils
+choleic
 chorasmian
 chorizo
 chorizontist
@@ -1147,6 +1153,7 @@ colicroots
 collar
 collarette
 collegese
+collegial
 collembolan
 colloq
 cologarithm
@@ -1201,6 +1208,7 @@ confits
 confract
 congelifract
 conjugatae
+conjugial
 connatal
 connexion
 conseils
@@ -1468,6 +1476,7 @@ denticles
 dentils
 dentist
 denyer
+deoxyribonucleic
 dephase
 dephilosophize
 dephlegm
@@ -1482,6 +1491,7 @@ derivatist
 dernier
 descantist
 desmopexia
+desoxyribonucleic
 despoils
 despotist
 despots
@@ -1737,6 +1747,7 @@ editioned
 edriophthalmian
 edwina
 eensy
+effigial
 effluxion
 effrontery
 egotist
@@ -1794,6 +1805,7 @@ encolumn
 encrimsoned
 endocuticles
 endodontist
+endolymphangial
 endophragm
 endopod
 endotheliotoxin
@@ -2187,6 +2199,7 @@ gambelli
 gambette
 gambo
 gambrel
+gametangial
 gammoned
 ganymedes
 garboils
@@ -2292,6 +2305,7 @@ golomynka
 gombo
 gomerils
 gonadic
+gonangial
 gonfalonier
 gonfalons
 gongyos
@@ -2602,6 +2616,7 @@ hypopetaly
 hypophypophysism
 hypopraxia
 hypoprosexia
+hypopygial
 hypotaxia
 hypotaxic
 hypothalli
@@ -2740,6 +2755,7 @@ isochasm
 isohels
 isolette
 isoln
+isooleic
 isopod
 isorhythm
 isorithm
@@ -3036,6 +3052,7 @@ linguopalatal
 linier
 linkrots
 linnaeite
+linoleic
 linotyper
 linoxin
 lipogrammatist
@@ -3115,6 +3132,7 @@ lushly
 lutist
 lwp
 lycopod
+lymphangial
 lymphocytotoxin
 lymphotoxin
 lynette
@@ -3158,6 +3176,7 @@ malacopod
 malagigi
 malambo
 malapportioned
+maleic
 malfunctioned
 malproportioned
 mamamu
@@ -3272,6 +3291,7 @@ mesocephaly
 mesocolons
 mesophragm
 mesopotamian
+mesopterygial
 mesoscutellar
 mesosternebra
 mespils
@@ -3281,6 +3301,7 @@ metamorphize
 metaphase
 metaphragm
 metapostscutellar
+metapterygial
 metascutellar
 metataxic
 metavanadic
@@ -3649,6 +3670,7 @@ noxal
 noyant
 nucellar
 nucelli
+nucleic
 nuculacea
 nudzh
 numismatist
@@ -3701,6 +3723,7 @@ ohm
 oils
 oilstoned
 olefin
+oleic
 oligarchize
 olivette
 olympiadic
@@ -3879,6 +3902,7 @@ pallette
 palli
 palmette
 palmipedes
+palmitoleic
 palpebra
 palytoxin
 panacea
@@ -3918,6 +3942,7 @@ paragraphize
 parah
 parahopeite
 paralexia
+paranucleic
 parapegm
 paraphragm
 paraphraxia
@@ -3954,6 +3979,7 @@ pasteurelleae
 pastils
 pastinas
 pastitsio
+patagial
 patellar
 pathetist
 patinas
@@ -3992,6 +4018,7 @@ pegroots
 pekepoo
 pekingese
 peladic
+pelagial
 pellar
 pellicles
 pelons
@@ -4032,6 +4059,7 @@ peridesm
 peridots
 peridromos
 perils
+perilymphangial
 perinatal
 periodontist
 peripneumony
@@ -4417,12 +4445,14 @@ prolan
 promo
 promos
 proned
+propatagial
 prophase
 prophecy
 prophylactodontist
 proponed
 proportioned
 propositioned
+propterygial
 propurchase
 propylons
 prosauropod
@@ -4480,8 +4510,10 @@ psychotherapeutist
 pterocles
 pteropaedes
 pteropod
+pterygial
 pterygopalatal
 ptilopaedes
+ptychopterygial
 puckishly
 puckles
 puckrel
@@ -4512,6 +4544,7 @@ puttyroots
 putzed
 puzzolan
 pygopod
+pylangial
 pylons
 pyots
 pyreneite
@@ -4659,6 +4692,7 @@ relativitist
 remails
 remastery
 remedes
+remigial
 renails
 renditioned
 rendzinas
@@ -4723,6 +4757,8 @@ rhythm
 rhytinas
 ribboned
 ribbonier
+ribonucleic
+ricinoleic
 rickles
 ricksha
 ridgils
@@ -5230,6 +5266,7 @@ spooned
 spoonier
 spoots
 sporadic
+sporangial
 sporidesm
 sporozoid
 spots
@@ -5279,6 +5316,7 @@ statist
 statohm
 statued
 statuette
+stauropegial
 staycationed
 staysails
 steakette
@@ -5351,6 +5389,7 @@ stunsails
 stuntist
 stupex
 sturmian
+stygial
 stylishly
 stylli
 stylopod
@@ -5363,6 +5402,7 @@ subbrachycephaly
 subcalibre
 subcellar
 subcerebellar
+subcollegial
 subcommissioned
 subcontract
 subcouncils
@@ -5401,7 +5441,12 @@ suedette
 suffixal
 suffixion
 suffragette
+suffragial
 sulafat
+sulfoleic
+sulforicinoleic
+sulpholeic
+sulphoricinoleic
 summoned
 sumphishly
 sunnier
@@ -5463,6 +5508,7 @@ symbiots
 sympathize
 sympetaly
 symphonette
+synangial
 syncretist
 syndyasmian
 synentognathi
@@ -5477,6 +5523,7 @@ syphoned
 syrette
 syrmian
 systematist
+syzygial
 taaffeite
 tabaxir
 tabbied
@@ -5653,6 +5700,7 @@ throned
 thujene
 thumbnails
 thumbpots
+thymonucleic
 thyreoantitoxin
 thyroantitoxin
 thyroxin
@@ -5786,6 +5834,7 @@ tributist
 trichinas
 trichiurid
 trichobezoar
+trichosporangial
 trichromatist
 trickishly
 trickles
@@ -5802,6 +5851,7 @@ trilli
 trimpots
 trinkums
 triolefin
+trioleic
 tripal
 triphase
 tripletails
@@ -5816,6 +5866,7 @@ trochocephaly
 trolleite
 trollimog
 tropary
+trophospongial
 trots
 troubleshoots
 trouv
@@ -6098,6 +6149,7 @@ urechitoxin
 uromantist
 uromastix
 uropod
+uropygial
 urosteon
 urotoxia
 urotoxin
@@ -6172,6 +6224,7 @@ vesicles
 vesiculatae
 vessails
 vestige
+vestigial
 vexillar
 vexils
 vibratiuncles
@@ -6356,6 +6409,7 @@ yellowtails
 yellowy
 yeomanette
 yeow
+yepeleic
 yessir
 yewen
 yobbishly
@@ -6392,6 +6446,7 @@ zoogleae
 zoomantist
 zoomorphize
 zooned
+zoosporangial
 zootoca
 zootoxin
 zooty
