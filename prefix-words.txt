@@ -61,6 +61,7 @@ adventist
 advt
 aedes
 aegemony
+aegle
 aegyos
 aerobots
 aerofoils
@@ -461,6 +462,7 @@ baddishly
 bagnette
 baguette
 bahamian
+baidar
 bailli
 bails
 bakkwa
@@ -496,6 +498,7 @@ barbette
 barbots
 barbudan
 bareboned
+baresma
 bargelli
 barmpots
 barnacles
@@ -559,6 +562,7 @@ belee
 belli
 belons
 bemoils
+benamidar
 benefits
 benet
 benzaldoxime
@@ -589,6 +593,7 @@ bezils
 bezoar
 bhels
 bhoots
+bhumidar
 bhuna
 biathlons
 biatomic
@@ -599,6 +604,7 @@ bibliophils
 bibliotist
 bichromic
 bicycles
+bidar
 bigfoots
 bigots
 bikh
@@ -1076,6 +1082,7 @@ chlorophaeite
 choils
 choisya
 chokecoils
+chokidar
 choleic
 chorasmian
 chorizo
@@ -1083,6 +1090,7 @@ chorizontist
 choryos
 chouette
 chouquette
+chowkidar
 chrematist
 christianomastix
 christkindlesmarkt
@@ -1103,6 +1111,7 @@ chrysostomic
 chuckles
 chuckram
 chukka
+churidar
 churlishly
 chutist
 chyak
@@ -1536,6 +1545,7 @@ derivatist
 dermatomic
 dernier
 descantist
+desma
 desmodromic
 desmopexia
 desoxyribonucleic
@@ -1951,6 +1961,7 @@ esotery
 espagnolette
 esparsette
 esperantist
+espiegle
 espinette
 essayette
 estafet
@@ -2894,6 +2905,7 @@ jaxie
 jayant
 jeanette
 jeannette
+jemidar
 jennier
 jeofails
 jerbils
@@ -3133,6 +3145,7 @@ libelee
 libre
 librettist
 lickerishly
+lidar
 lieberkuhn
 lienotoxin
 lientery
@@ -3166,6 +3179,7 @@ lisette
 listicles
 literatist
 lithochromic
+lithodesma
 lithodomus
 lithographize
 lithontriptist
@@ -3394,6 +3408,7 @@ mesenchymatal
 mesentery
 mesocephaly
 mesocolons
+mesodesma
 mesophragm
 mesopotamian
 mesopterygial
@@ -3982,6 +3997,7 @@ overveils
 overweaponed
 owies
 owlishly
+owlspiegle
 owyheeite
 oxime
 oxtails
@@ -4002,6 +4018,7 @@ pademelons
 padige
 padymelons
 paedobaptist
+paegle
 paepae
 paganishly
 pagiopod
@@ -4124,6 +4141,7 @@ pathognomic
 pathologicoanatomic
 patinas
 patmian
+patnidar
 patoots
 patrimony
 patriots
@@ -4368,6 +4386,7 @@ planetist
 plantagenet
 plaquette
 plasmodesm
+plasmodesma
 plastery
 plastilinas
 platery
@@ -4739,6 +4758,7 @@ quaich
 quails
 quakerishly
 qualmishly
+quaresma
 quartette
 quartzoid
 quasiparticles
@@ -4849,6 +4869,7 @@ refract
 refrozen
 reginas
 regioned
+regle
 reglementist
 regredes
 reguerdoned
@@ -4892,6 +4913,7 @@ reshoots
 resinier
 resplit
 respots
+ressaidar
 restationed
 resummoned
 retackles
@@ -5188,6 +5210,7 @@ serotoxin
 serpette
 servette
 serviette
+sesma
 sestette
 sestinas
 sewen
@@ -5595,6 +5618,7 @@ subdepots
 subdolichocephaly
 subeconomic
 subfossils
+subidar
 subjectist
 sublots
 submytilacea
