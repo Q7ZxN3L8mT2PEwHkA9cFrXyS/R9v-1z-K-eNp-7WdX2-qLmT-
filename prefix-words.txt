@@ -942,6 +942,7 @@ cataract
 catastrophize
 catechize
 caterpillar
+caterva
 catery
 cathexion
 catostomus
@@ -1255,6 +1256,7 @@ conditioned
 condoned
 condylopod
 coned
+conferva
 confits
 confract
 congelifract
@@ -1275,6 +1277,7 @@ contortioned
 contract
 contrails
 contrapuntist
+contrayerva
 controvertist
 contusioned
 conventicles
@@ -1825,6 +1828,7 @@ eightfoils
 ekka
 elatery
 elbowy
+electret
 electrocautery
 electrochromic
 electromagnetist
@@ -1916,6 +1920,7 @@ enzooty
 eosinophils
 epaulette
 epencephalons
+eperva
 epharmony
 epiboly
 epicedes
@@ -3472,6 +3477,7 @@ millipedes
 milltails
 mils
 minas
+minerva
 minette
 minibar
 minicassette
@@ -4970,6 +4976,7 @@ rinneite
 riotist
 riots
 ripal
+riserva
 ritonavir
 ritornelli
 roastery
@@ -5581,6 +5588,7 @@ stratal
 strathspey
 streite
 streptobacilli
+stret
 strette
 striatal
 strickles
@@ -6049,6 +6057,7 @@ trefoils
 tregohm
 tremor
 trenails
+tret
 trevette
 treyf
 triadic
@@ -6571,6 +6580,8 @@ whiptails
 whiskerette
 whitepots
 whitetails
+whitret
+whittret
 whoope
 whoots
 whoreishly
@@ -6649,6 +6660,7 @@ yellowy
 yeomanette
 yeow
 yepeleic
+yerva
 yessir
 yewen
 yobbishly
