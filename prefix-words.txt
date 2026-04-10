@@ -33,8 +33,6 @@ acroasphyxia
 acroataxia
 acrocephaly
 acrux
-actinobaccilli
-actinobacilli
 actinopod
 actioned
 aculeae
@@ -110,7 +108,6 @@ akka
 alabama
 alabamian
 albacea
-albarelli
 albertist
 alcyonacea
 alditol
@@ -198,7 +195,6 @@ andouillette
 androcles
 andromedotoxin
 anecdotist
-anelli
 anemony
 anencephaly
 anesthetist
@@ -220,7 +216,6 @@ ankles
 annette
 annexal
 annexion
-annulli
 anomalogonatae
 anomiacea
 anomic
@@ -232,6 +227,7 @@ antecedes
 antecoxal
 antefixal
 anteflexion
+antemetallic
 antenatal
 antepalatal
 anteroflexion
@@ -333,11 +329,11 @@ arctophils
 aredes
 arette
 argemony
+argillic
 argils
 argots
 argyrosomus
 ariette
-arilli
 arils
 armils
 aros
@@ -353,16 +349,10 @@ articles
 artigi
 artist
 aruspex
-aryballi
-arybballi
 asbolan
-ascelli
 ascidiacea
 asclepiadic
 ascots
-aselli
-asperggilli
-aspergilli
 asphyxia
 aspiratae
 assails
@@ -448,10 +438,8 @@ babblishly
 babied
 babishly
 babyishly
-baccilli
 bachelorette
 bacillar
-bacilli
 backboned
 backfits
 backgammoned
@@ -463,7 +451,6 @@ bagnette
 baguette
 bahamian
 baidar
-bailli
 bails
 bakkwa
 balalaika
@@ -472,7 +459,6 @@ baldicoots
 balladic
 balladromic
 ballerinas
-balli
 ballonette
 ballons
 ballooned
@@ -499,7 +485,6 @@ barbots
 barbudan
 bareboned
 baresma
-bargelli
 barmpots
 barnacles
 barnier
@@ -559,7 +544,7 @@ beigel
 beikost
 beknots
 belee
-belli
+bellic
 belons
 bemoils
 benamidar
@@ -616,6 +601,7 @@ billowy
 billyos
 bimbette
 bimbo
+bimetallic
 bingoed
 binh
 binnacles
@@ -695,11 +681,9 @@ boson
 bossism
 bossyboots
 bots
-botticelli
 bouchette
 boucles
 boughpots
-bouilli
 bouillons
 bounderishly
 bourette
@@ -840,21 +824,16 @@ cakette
 calathi
 calibre
 calicles
-calli
 callosum
 calombo
 calor
-calpolli
-calpulli
 calycles
 calyptratae
 camails
 cambrel
 camelots
 campanulatae
-canccelli
 cancelbots
-cancelli
 candidacy
 canette
 cangenet
@@ -877,7 +856,6 @@ caparisoned
 capataz
 capette
 capex
-capilli
 capitellar
 capitol
 caponette
@@ -933,7 +911,6 @@ cassinas
 cassinette
 cassolette
 castellar
-castelli
 casuarinas
 catabaptist
 cataclysmatist
@@ -967,7 +944,6 @@ ceils
 celibatist
 cellar
 cellarette
-celli
 celomic
 celtist
 cemetery
@@ -984,6 +960,7 @@ cephalopod
 cercelee
 cercopod
 cerebellar
+cerebellic
 cerebra
 ceremony
 ceruleite
@@ -1062,7 +1039,6 @@ chignoned
 chikungunya
 childishly
 chiliadic
-chilli
 chilomastix
 chilopod
 chimneypots
@@ -1138,6 +1114,7 @@ circumtonsillar
 cirrhipedes
 cirrhopod
 cirripedes
+citronellic
 civils
 ciwies
 clairvoyant
@@ -1177,8 +1154,6 @@ coadmit
 coattails
 coaxal
 cobblestoned
-coccobaccilli
-coccobacilli
 cochleae
 cochleleae
 cockamaroo
@@ -1300,6 +1275,7 @@ coquettishly
 coquinas
 coracles
 coracosteon
+corallic
 coralroots
 corbeils
 corbinas
@@ -1403,19 +1379,17 @@ cryocautery
 cryptarithm
 cryptogamian
 cryptogrammatist
+crystallic
 crzette
 ctelette
 ctenii
 cubbishly
 cubicles
-cuichunchulli
 cuisinier
 cuj
 culebra
-cultelli
 cultishly
 cultist
-culttelli
 cumacea
 cumulatist
 cunette
@@ -1444,6 +1418,7 @@ cycloolefin
 cyclotomic
 cymbocephaly
 cypriots
+cyrillic
 cytotaxonomic
 cytotoxin
 czarinas
@@ -1589,19 +1564,19 @@ dietetist
 dietist
 dietzeite
 diffract
+digallic
 digitoxin
 diglots
 diglottist
 digoxin
-dikamalli
 dikaryophase
 dikast
 diksha
 dilettantist
-dilli
 dilogarithm
 dimbo
 dimensioned
+dimetallic
 dinette
 dingoed
 dinka
@@ -1685,6 +1660,7 @@ dogtrots
 dohyos
 dojo
 dolichocephaly
+dolichopellic
 dolichotmema
 dolinas
 dollar
@@ -1759,7 +1735,6 @@ ducktails
 dudette
 dudishly
 duecentist
-duelli
 duettist
 duftery
 dukka
@@ -1971,8 +1946,6 @@ espinette
 essayette
 estafet
 estafette
-etaballi
-etabelli
 etalons
 etatist
 eteocles
@@ -2049,7 +2022,6 @@ fallalishly
 falsettist
 falsism
 familistery
-famulli
 fanioned
 fankles
 fannier
@@ -2076,6 +2048,7 @@ federatist
 feedlots
 fehm
 feijoada
+fellic
 felons
 fennier
 fenouillette
@@ -2205,8 +2178,6 @@ frails
 francophils
 frankums
 fratery
-fraticelli
-fratricelli
 frazils
 freakishly
 freckles
@@ -2252,7 +2223,6 @@ funnier
 funny
 furrowy
 furuncles
-fusilli
 fusils
 fusspots
 futchels
@@ -2272,7 +2242,7 @@ galeod
 galette
 galiots
 galipots
-galli
+gallic
 galliots
 gallipots
 gallons
@@ -2280,7 +2250,6 @@ gallooned
 galloots
 galoots
 galvanocautery
-gambelli
 gambette
 gambo
 gambrel
@@ -2340,6 +2309,7 @@ gesundheit
 getmjlkost
 ghedda
 ghoulishly
+gibberellic
 gidyea
 gigacycles
 gigaherz
@@ -2352,9 +2322,7 @@ gilenyer
 gillar
 gillaroo
 gils
-gingelli
 gingerroots
-gingilli
 gingiva
 ginkgo
 ginnier
@@ -2378,6 +2346,7 @@ glucinas
 glucke
 gluepots
 gluttery
+glycollic
 glycopexia
 glycosylphosphatidylinositol
 glyoxal
@@ -2418,6 +2387,7 @@ graffitist
 grails
 grainier
 grakles
+grallic
 gramarye
 grammatist
 grandads
@@ -2450,7 +2420,6 @@ grooty
 grots
 groundplots
 grumpishly
-grylli
 guacharos
 guadua
 guara
@@ -2556,6 +2525,7 @@ helladic
 hellishly
 helluva
 helots
+helvellic
 hematal
 hemerobaptist
 hemiapraxia
@@ -2604,6 +2574,7 @@ heterophils
 heteropod
 heterotaxia
 heterotaxic
+heterothallic
 heuvel
 hexadic
 hexafoils
@@ -2653,9 +2624,12 @@ homeromastix
 homme
 homochromic
 homodoxian
+homophyllic
 homos
 homotaxia
 homotaxic
+homothallic
+homovanillic
 homuncles
 honed
 honeymooned
@@ -2726,9 +2700,7 @@ hypoprosexia
 hypopygial
 hypotaxia
 hypotaxic
-hypothalli
 hypothetist
-hypotthalli
 hypovanadic
 hypoxia
 hypsibrachycephaly
@@ -2748,6 +2720,7 @@ ichthyotoxin
 icicles
 idiots
 iditol
+idyllic
 ignaros
 ignorantist
 igorots
@@ -2758,6 +2731,7 @@ illuminatist
 illusioned
 imambarah
 imaumbarah
+imbellic
 imbizo
 imbrex
 imbrocado
@@ -2826,14 +2800,15 @@ interfibre
 interfibrillar
 interknots
 interlamellar
-interloculli
 intermaxillar
+intermetallic
 intermunicipal
 interphase
 interponed
 interrails
 interstellar
 intertribal
+intervallic
 intervertebra
 inthroned
 intonaci
@@ -2874,11 +2849,12 @@ isopod
 isorhythm
 isorithm
 isostemony
+isovanillic
 isoxime
 isthm
 isthmian
 italy
-ithyphalli
+ithyphallic
 ixia
 ixion
 izafat
@@ -2961,7 +2937,6 @@ kahau
 kahuna
 kaika
 kails
-kakaralli
 kakkak
 kalamian
 kamaainas
@@ -3066,8 +3041,6 @@ labiatae
 labiopalatal
 labrosaurid
 lactitol
-lactobaccilli
-lactobacilli
 lactotoxin
 laddishly
 ladette
@@ -3093,8 +3066,6 @@ langspils
 languette
 lanier
 lansquenet
-lapilli
-lappilli
 larkishly
 larmoyant
 larnier
@@ -3136,6 +3107,7 @@ lenticles
 lentils
 lepra
 leptocephaly
+leptopellic
 leptosomic
 lernaeacea
 lesioned
@@ -3186,6 +3158,7 @@ literatist
 lithochromic
 lithodesma
 lithodomus
+lithofellic
 lithographize
 lithontriptist
 lithotomic
@@ -3262,6 +3235,7 @@ lynette
 lynnette
 mabi
 mabyer
+machiavellic
 mackles
 macles
 macrencephaly
@@ -3280,6 +3254,7 @@ maenadic
 magazinette
 maggots
 magistery
+magnecrystallic
 magnetist
 magots
 magyar
@@ -3369,6 +3344,7 @@ meadowy
 meatal
 mecca
 medaillons
+medallic
 medallioned
 medinas
 mediopalatal
@@ -3391,6 +3367,7 @@ mekka
 melampyritol
 melee
 melilots
+mellic
 mellowy
 melodramatist
 melonier
@@ -3408,6 +3385,7 @@ merlons
 merlots
 mesails
 mesaticephaly
+mesatipellic
 mesencephalons
 mesenchymatal
 mesentery
@@ -3415,6 +3393,7 @@ mesocephaly
 mesocolons
 mesodesma
 mesophragm
+mesophyllic
 mesopotamian
 mesopterygial
 mesoscutellar
@@ -3422,6 +3401,7 @@ mesosternebra
 mespils
 mestizo
 metaboly
+metallic
 metamorphize
 metaphase
 metaphragm
@@ -3462,7 +3442,6 @@ micropipette
 microsomic
 microtomic
 microvillar
-microvilli
 microzymian
 midautumn
 middelskots
@@ -3495,6 +3474,7 @@ miscaptioned
 misfashioned
 misfits
 misfunctioned
+misogallic
 misoxeny
 mispositioned
 misproportioned
@@ -3507,7 +3487,6 @@ miszoned
 mobbishly
 mocktails
 modafinils
-modelli
 moderantist
 moderatist
 modishly
@@ -3547,6 +3526,7 @@ monoecy
 monofils
 monogamian
 monoglots
+monometallic
 mononomian
 monophase
 monopod
@@ -3574,7 +3554,6 @@ moorishly
 moots
 mopishly
 moquette
-morbilli
 morgellons
 mormo
 mornette
@@ -3619,6 +3598,7 @@ multicycles
 multifils
 multifoils
 multilamellar
+multimetallic
 multipedes
 multiphase
 multitoned
@@ -3638,10 +3618,8 @@ muskles
 muskmelons
 muskroots
 muslinette
-mutawalli
 mutist
 muttonier
-mutwalli
 muzjik
 myacea
 mycotoxin
@@ -3734,7 +3712,6 @@ nhandu
 nickles
 nickums
 nicolette
-nielli
 nigel
 nightery
 nightmarishly
@@ -3743,7 +3720,6 @@ nihils
 nils
 ninjitsus
 ninjutsus
-nisqualli
 nitery
 nitrils
 nitromannitol
@@ -3780,8 +3756,10 @@ nonfatal
 nonfeverishly
 nonfrozen
 nonharmony
+nonidyllic
 nonloxodromic
 nonmastery
+nonmetallic
 nonmunicipal
 nonnarcissism
 nonnomadic
@@ -3818,7 +3796,6 @@ nowy
 noxal
 noyant
 nucellar
-nucelli
 nucleic
 nuculacea
 nudzh
@@ -3848,7 +3825,6 @@ ocarinas
 occasioned
 occultist
 ocellar
-ocelli
 ocelots
 ochratoxin
 ocreatae
@@ -3856,7 +3832,6 @@ octadic
 octadrachm
 octette
 octopod
-oculli
 ocydromus
 odax
 odonatist
@@ -3908,6 +3883,7 @@ orecchiette
 oreillette
 organette
 organoantimony
+organometallic
 organonomic
 orguinette
 orlons
@@ -3917,6 +3893,7 @@ ornithopod
 oromo
 orphize
 orrisroots
+orsellic
 orthocephaly
 orthodontist
 orthodoxal
@@ -4036,7 +4013,9 @@ pails
 paintpots
 pakka
 palaeoartist
+palaeocrystallic
 palaeomagnetist
+palaeometallic
 palaeostriatal
 palanka
 palatal
@@ -4044,7 +4023,9 @@ palatist
 paleae
 paleencephalons
 paleoartist
+paleocrystallic
 paleomagnetist
+paleometallic
 paleostriatal
 palermo
 paletots
@@ -4057,7 +4038,6 @@ palinurid
 palladic
 pallar
 pallette
-palli
 palmette
 palmipedes
 palmitoleic
@@ -4119,6 +4099,7 @@ parcimony
 pardoned
 parecy
 parelectronomic
+parellic
 parfumeur
 parkette
 parnassism
@@ -4132,6 +4113,7 @@ particles
 partitioned
 pashm
 pashminas
+pasquillic
 pasquils
 passioned
 passir
@@ -4157,7 +4139,6 @@ pauropod
 pavilioned
 pavillons
 paxillar
-paxilli
 payong
 peacockishly
 peahen
@@ -4190,7 +4171,6 @@ pembinas
 pemphigi
 pencils
 pendicles
-penicilli
 penicils
 pennatae
 pennatulacea
@@ -4261,7 +4241,7 @@ pfennige
 phaenogamian
 phalangette
 phalanstery
-phalli
+phallic
 phanerogamian
 phantomic
 pharmaceutist
@@ -4325,7 +4305,6 @@ pibloktoq
 picarooned
 picaros
 picayunishly
-piccalilli
 pickadils
 pickles
 picots
@@ -4399,6 +4378,7 @@ platery
 platinas
 platooned
 platycephaly
+platypellic
 platysomus
 platystencephaly
 plectognathi
@@ -4420,7 +4400,6 @@ plushette
 plushly
 plutonomic
 pneumatist
-pneumobacilli
 pneumony
 pneumotoxin
 pochette
@@ -4428,7 +4407,7 @@ pococurantist
 pocoson
 poddige
 podophthalmian
-podophylli
+podophyllic
 podophyllotoxin
 podurid
 poecilopod
@@ -4470,6 +4449,7 @@ polypragmatist
 polyrhythm
 polyschematist
 polysomic
+polystellic
 polysynthesism
 polythalamian
 pomatomus
@@ -4577,6 +4557,7 @@ prefrozen
 preharmony
 prelatist
 premastery
+premetallic
 premunicipal
 prenatal
 preoblige
@@ -4653,16 +4634,16 @@ prosthodontist
 proteomic
 proteosaurid
 protestantishly
-prothalli
+prothallic
 protist
 protoctist
 protomartyrs
+protometallic
 protonematal
 protopod
 protopresbytery
 protovertebra
 protract
-protthalli
 proudishly
 provisioned
 proxenet
@@ -4687,9 +4668,11 @@ pseudofeverishly
 pseudographize
 pseudomantist
 pseudomartyrs
+pseudometallic
 pseudonavicellar
 pseudoparticles
 pseudopeziza
+pseudophallic
 pseudopod
 pseudoscientist
 pseudotribal
@@ -4713,9 +4696,7 @@ pudda
 puggi
 pugils
 pukka
-pulli
 pulvillar
-pulvilli
 pulvils
 punany
 punctist
@@ -4746,6 +4727,7 @@ pyrgocephaly
 pyridoxal
 pyridoxin
 pyrochromic
+pyrogallic
 pyrognomic
 pyrotoxin
 pyrovanadic
@@ -4760,6 +4742,7 @@ qipchaqs
 qishlaqs
 quackishly
 quackles
+quadrimetallic
 quaich
 quails
 quakerishly
@@ -4811,7 +4794,6 @@ ranchette
 rankles
 ranshackles
 ranshakles
-rapilli
 raquette
 rascette
 raschels
@@ -4978,9 +4960,9 @@ riots
 ripal
 riserva
 ritonavir
-ritornelli
 roastery
 robots
+roccellic
 roguishly
 rohuna
 roils
@@ -5020,6 +5002,7 @@ rubiconed
 rubied
 ruckles
 rudbeckias
+rufigallic
 rumbo
 rumpots
 runkles
@@ -5035,7 +5018,6 @@ ryotwar
 ryper
 sabbathize
 sabbatist
-sabelli
 sabin
 sabots
 saccadic
@@ -5057,7 +5039,6 @@ salmony
 salons
 salopette
 salpingopalatal
-saltarelli
 saltcellar
 saltery
 saltishly
@@ -5097,6 +5078,7 @@ scails
 scaletails
 scaleups
 scalpellar
+scalpellic
 scammony
 scampishly
 scaphocephaly
@@ -5148,7 +5130,6 @@ screenshots
 scribal
 scroyle
 scug
-scungilli
 scutcheoned
 scutellar
 scyllitol
@@ -5173,7 +5154,6 @@ seils
 sekt
 selfishly
 sellar
-selli
 semainier
 semiabstract
 semian
@@ -5184,9 +5164,11 @@ semicolons
 semicolumn
 semicomic
 semiconditioned
+semicrystallic
 semidrachm
 semiflexion
 semillons
+semimetallic
 seminomadic
 semiphase
 semiquietist
@@ -5224,14 +5206,12 @@ sewen
 sexfoils
 sexpots
 sextette
-sgabelli
 shackles
 shado
 shadowishly
 shadowy
 shakeups
 shakt
-shalli
 shallons
 shallots
 shallowy
@@ -5277,6 +5257,7 @@ shrewishly
 shutoku
 shvitzed
 sialons
+sibyllic
 sickishly
 sickles
 sicyos
@@ -5307,7 +5288,6 @@ siphuncles
 sipunculacea
 sirmian
 siroccoishly
-siruaballi
 sissoos
 skails
 skatist
@@ -5574,7 +5554,6 @@ stoneshots
 stonier
 stoope
 storiette
-stornelli
 storyette
 stotinka
 stots
@@ -5587,7 +5566,6 @@ stratagematist
 stratal
 strathspey
 streite
-streptobacilli
 stret
 strette
 striatal
@@ -5605,7 +5583,6 @@ stupex
 sturmian
 stygial
 stylishly
-stylli
 stylopod
 styxian
 subabbots
@@ -5629,6 +5606,7 @@ subfossils
 subidar
 subjectist
 sublots
+submetallic
 submytilacea
 subpartitioned
 subpatellar
@@ -5663,6 +5641,7 @@ sulafat
 sulfoleic
 sulforicinoleic
 sulphochromic
+sulphogallic
 sulpholeic
 sulphoricinoleic
 summoned
@@ -5724,6 +5703,7 @@ sycophantishly
 syllabub
 sylphize
 symbiots
+symmetallic
 sympathize
 sympetaly
 symphonette
@@ -5751,7 +5731,6 @@ tabernacles
 tablanette
 tachyphylaxia
 tackles
-taculli
 tadalafils
 tadjik
 taffrails
@@ -5773,7 +5752,6 @@ talbots
 taleae
 talipots
 talitol
-talli
 talloel
 tallots
 tallowy
@@ -5796,6 +5774,7 @@ tanka
 tankette
 tankias
 tankka
+tannogallic
 tantawy
 tapasvi
 tapeinocephaly
@@ -5864,10 +5843,10 @@ tenet
 tenoned
 tensioned
 tentacles
-teocalli
 tepary
 teraohm
 terebra
+terephthallic
 terracette
 tessellar
 tesseract
@@ -5895,7 +5874,7 @@ tettix
 tezcatlipoca
 thalamencephalons
 thaliacea
-thalli
+thallic
 thalwegs
 thanatist
 thematist
@@ -5917,11 +5896,8 @@ theropod
 thievishly
 thingamabob
 thingumabob
-thiobaccilli
-thiobacilli
 thiouracils
 tholeite
-tholli
 thornier
 thorntails
 thowel
@@ -6002,7 +5978,6 @@ torchlit
 tormentils
 tornadic
 torpex
-tortelli
 torticollar
 tortillons
 toshly
@@ -6073,6 +6048,7 @@ trichiurid
 trichobezoar
 trichomic
 trichosporangial
+trichothallic
 trichotomic
 trichromatist
 trichromic
@@ -6087,7 +6063,8 @@ triglots
 trigonocephaly
 trilamellar
 trilbied
-trilli
+trimellic
+trimetallic
 trimpots
 trinkums
 triolefin
@@ -6113,10 +6090,10 @@ troubleshoots
 trouv
 trowel
 truckles
-trulli
 trumscheit
 truncheoned
 trunnioned
+truxillic
 trypanosomic
 trysails
 tsarinas
@@ -6167,6 +6144,7 @@ ultrastellar
 ultratinier
 uluhi
 umbellar
+umbellic
 umbo
 umbrel
 umbrette
@@ -6273,6 +6251,7 @@ unhoned
 unhorizoned
 uniaxal
 unicycles
+unidyllic
 unilamellar
 unillusioned
 unimpassioned
@@ -6291,6 +6270,7 @@ unlobbied
 unmanacles
 unmannishly
 unmentioned
+unmetallic
 unmodishly
 unmotioned
 unmullioned
@@ -6422,6 +6402,7 @@ valor
 vampishly
 vanadic
 vandenbrandeite
+vanillic
 variadic
 varicellar
 varietist
@@ -6450,7 +6431,6 @@ verfremdungseffekt
 veritist
 vermeils
 vermian
-vermicelli
 vermilioned
 vermilionette
 vermils
@@ -6462,7 +6442,6 @@ versette
 versicles
 versioned
 vertebra
-verticilli
 verticils
 verulamian
 vesicles
@@ -6485,7 +6464,6 @@ vignettist
 villaette
 villanette
 villar
-villi
 vinaigrette
 vinas
 vincetoxin
@@ -6495,12 +6473,10 @@ vinier
 violan
 violette
 violinette
-violoncelli
 viperishly
 viretots
 virtued
 visioned
-vitelli
 vitellicles
 vivipary
 vixenishly
@@ -6594,7 +6570,6 @@ wifock
 wilcoxon
 wildishly
 wilkeite
-willi
 william
 willowy
 wimbrel
@@ -6638,6 +6613,7 @@ wurmian
 wuxia
 wyllieite
 xanthochromic
+xanthophyllic
 xenosaurid
 xieite
 xylitol
