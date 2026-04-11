@@ -1,4 +1,4 @@
-local url = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/words.txt"
+local url = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/casual_words.txt"
 
 local Words = {}
 local loaded = false
@@ -10,7 +10,7 @@ local sortMode = "Random"
 local randomLoopRunning = false
 local lastInput = ""
 local KillerMap = {}
-local killerUrl = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/prefix-words.txt"
+local killerUrl = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/casual-prefix-words.txt"
 
 pcall(function()
     local res = request({Url = killerUrl, Method = "GET"})

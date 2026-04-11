@@ -49,6 +49,28 @@ local function shuffle(t)
     end
 end
 
+local function formatWord(word, prefix, index)
+    local prefixLen = #prefix
+    local firstPart = word:sub(1, prefixLen)
+    local restPart = word:sub(prefixLen + 1)
+
+    local prefixColor
+    if index == 1 then
+        prefixColor = "0,255,0"
+    elseif index == 2 then
+        prefixColor = "255,255,0"
+    else
+        prefixColor = "255,0,0"
+    end
+
+    return string.format(
+        '<font color="rgb(%s)">%s</font>%s',
+        prefixColor,
+        firstPart,
+        restPart
+    )
+end
+
 local function SuggestWords(input, count)
     if not loaded then return {"loading words...", "please wait"} end
     if #Words == 0 then return {"no words available", "check connection"} end
@@ -108,13 +130,75 @@ local function SuggestWords(input, count)
     return results
 end
 
-local a = Instance.new("ScreenGui", game.CoreGui)
+local Players = game:GetService("Players")
+local player = Players.LocalPlayer
+
+local a = Instance.new("ScreenGui")
 a.Name = "WordSuggestor"
+a.ResetOnSpawn = false
+a.Parent = player:WaitForChild("PlayerGui")
 
 local b = Instance.new("Frame", a)
 local UserInputService = game:GetService("UserInputService")
 
 local guiVisible = true
+
+local playerGui = player:WaitForChild("PlayerGui")
+
+local gui = playerGui:FindFirstChild("CtrlButtonGui")
+if not gui then
+    gui = Instance.new("ScreenGui")
+    gui.Name = "CtrlButtonGui"
+    gui.ResetOnSpawn = false
+    gui.Parent = playerGui
+end
+
+local hitbox = gui:FindFirstChild("CtrlHitbox")
+
+if not hitbox then
+    hitbox = Instance.new("TextButton")
+    hitbox.Name = "CtrlHitbox"
+    hitbox.Parent = gui
+end
+
+hitbox.Size = UDim2.new(0, 40, 0, 40)
+hitbox.Position = UDim2.new(0, 10, 0.5, -20)
+hitbox.BackgroundTransparency = 1
+hitbox.Text = ""
+hitbox.BorderSizePixel = 0
+hitbox.AutoButtonColor = false
+
+local dot = hitbox:FindFirstChild("Dot")
+
+if not dot then
+    dot = Instance.new("Frame")
+    dot.Name = "Dot"
+    dot.Parent = hitbox
+end
+
+dot.Size = UDim2.new(0, 6, 0, 6)
+dot.Position = UDim2.new(0.5, 0, 0.5, 0)
+dot.AnchorPoint = Vector2.new(0.5, 0.5)
+dot.BackgroundColor3 = Color3.fromRGB(200, 200, 200)
+dot.BackgroundTransparency = 0.2
+dot.BorderSizePixel = 0
+
+local corner = dot:FindFirstChildOfClass("UICorner")
+if not corner then
+    corner = Instance.new("UICorner")
+    corner.Parent = dot
+end
+corner.CornerRadius = UDim.new(1, 0)
+
+local stroke = dot:FindFirstChildOfClass("UIStroke")
+if not stroke then
+    stroke = Instance.new("UIStroke")
+    stroke.Parent = dot
+end
+
+stroke.Thickness = 1
+stroke.Color = Color3.fromRGB(255, 255, 255)
+stroke.Transparency = 0.4
 
 UserInputService.InputBegan:Connect(function(input, gameProcessed)
     if gameProcessed then return end
@@ -123,6 +207,11 @@ UserInputService.InputBegan:Connect(function(input, gameProcessed)
         guiVisible = not guiVisible
         a.Enabled = guiVisible
     end
+end)
+
+hitbox.MouseButton1Click:Connect(function()
+    guiVisible = not guiVisible
+    a.Enabled = guiVisible
 end)
 
 b.Size = UDim2.new(0,250,0,400)
@@ -141,13 +230,13 @@ contentFrame.BackgroundTransparency = 1
 
 local title = Instance.new("TextLabel",b)
 title.Size=UDim2.new(1,-10,0,25)
-title.Position=UDim2.new(0,5,0,5)
+title.Position=UDim2.new(0,10,0,5)
 title.BackgroundTransparency=1
 title.Text="Word Finder V3.25"
 title.TextColor3=Color3.fromRGB(255,255,255)
 title.Font=Enum.Font.GothamBold
 title.TextSize=14
-title.TextXAlignment=Enum.TextXAlignment.Center
+title.TextXAlignment=Enum.TextXAlignment.Left
 
 local minimizeButton = Instance.new("TextButton", b)
 minimizeButton.Size = UDim2.new(0,25,0,25)
@@ -351,7 +440,8 @@ function UpdateSuggestions(fromTyping)
         btn.TextColor3 = Color3.fromRGB(255,255,255)
         btn.Font = Enum.Font.Gotham
         btn.TextSize = 12
-        btn.Text = word
+        btn.RichText = true
+        btn.Text = formatWord(word, h.Text:lower(), i - startIndex + 1)
         btn.AutoButtonColor = true
         Instance.new("UICorner", btn).CornerRadius = UDim.new(0,4)
         btn.Selectable = false
@@ -406,7 +496,7 @@ spawn(function()
     wait(0.1)
     notify("Word Finder V3.25 is now active! All words work on Pro Server.")
     wait(0.1)
-    notify("New Tips For PC User... Click (CTRL) to Hide GUI")
+    notify("Updated Dictionary By Quavix.")
     wait(0.1)
     notify("Script Privated!")
     wait(5)
@@ -420,10 +510,105 @@ spawn(function()
     end
 end)
 
-local detectPrefix=(function()local p=game:GetService("Players").LocalPlayer local g=p:WaitForChild("PlayerGui") return function()for _,o in ipairs(g:GetDescendants())do if o.Name=="CurrentWord"then local l={} for _,c in ipairs(o:GetChildren())do if c and c:IsA("GuiObject") and c.Visible then local t=c:FindFirstChild("Letter") if t and t:IsA("TextLabel")then l[#l+1]={t.Text,c.AbsolutePosition.X} end end end table.sort(l,function(a,b)return a[2]<b[2]end) local r="" for i=1,#l do r=r..l[i][1]end return string.lower(r) end end return "" end end)()
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
 
-local UpdatePrefixSuggestions=(function()return function(pf) if pf=="" then return end ClearSuggestions() local s=SuggestWords(pf,50) for i=1,#s do local b=Instance.new("TextButton",list) b.Size=UDim2.new(1,0,0,22) b.BackgroundColor3=Color3.fromRGB(45,45,45) b.TextColor3=Color3.fromRGB(255,255,255) b.Font=Enum.Font.Gotham b.TextSize=12 b.Text=s[i] b.AutoButtonColor=true Instance.new("UICorner",b).CornerRadius=UDim.new(0,4) b.Selectable=false b.Active=false end end end)()
+local function detectPrefix()
+    for _, obj in ipairs(PlayerGui:GetDescendants()) do
+        if obj.Name == "CurrentWord" then
+            local letters = {}
 
-local lastPrefix=""
+            for _, child in ipairs(obj:GetChildren()) do
+                if child and child:IsA("GuiObject") and child.Visible then
+                    local letterLabel = child:FindFirstChild("Letter")
+                    if letterLabel and letterLabel:IsA("TextLabel") then
+                        table.insert(letters, {letterLabel.Text, child.AbsolutePosition.X})
+                    end
+                end
+            end
 
-task.spawn((function()return function() while true do local p=detectPrefix() if string.find(p,"%.%.%.") or string.find(p,"#+") then prefixLabel.Text="Prefix: ..." prefixLabel.TextColor3=Color3.fromRGB(255,255,0) task.wait(0.25) else local t=string.sub(p,1,11) if t~=lastPrefix then lastPrefix=t if h.Text=="" then ClearSuggestions() end if t~="" then prefixLabel.Text="Prefix: "..t local e=false local f=t:sub(1,1) local w=WordDictionary[f] or Words for _,wd in ipairs(w) do if wd==t then e=true break end end if e then prefixLabel.TextColor3=Color3.fromRGB(0,255,0) else prefixLabel.TextColor3=Color3.fromRGB(255,0,0) end UpdatePrefixSuggestions(t) else prefixLabel.Text="Prefix: -" prefixLabel.TextColor3=Color3.fromRGB(255,255,255) end end end task.wait(0.1) end end end)())
+            table.sort(letters, function(a, b) return a[2] < b[2] end)
+
+            local result = ""
+            for i = 1, #letters do
+                result = result .. letters[i][1]
+            end
+
+            return string.lower(result)
+        end
+    end
+
+    return ""
+end
+
+local function UpdatePrefixSuggestions(prefix)
+    if prefix == "" then return end
+    ClearSuggestions()
+
+    local suggestions = SuggestWords(prefix, 50)
+    for i = 1, #suggestions do
+        local button = Instance.new("TextButton", list)
+        button.Size = UDim2.new(1, 0, 0, 22)
+        button.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+        button.TextColor3 = Color3.fromRGB(255, 255, 255)
+        button.Font = Enum.Font.Gotham
+        button.TextSize = 12
+        button.RichText = true
+        button.Text = formatWord(suggestions[i], prefix, i)
+        button.AutoButtonColor = true
+        Instance.new("UICorner", button).CornerRadius = UDim.new(0, 4)
+        button.Selectable = false
+        button.Active = false
+    end
+end
+
+local lastPrefix = ""
+
+task.spawn(function()
+    while true do
+        local prefix = detectPrefix()
+
+        if string.find(prefix, "%.%.%.") or string.find(prefix, "#+") then
+            prefixLabel.Text = "Prefix: ..."
+            prefixLabel.TextColor3 = Color3.fromRGB(255, 255, 0)
+            task.wait(0.25)
+        else
+            local truncatedPrefix = string.sub(prefix, 1, 11)
+            if truncatedPrefix ~= lastPrefix then
+                lastPrefix = truncatedPrefix
+
+                if h.Text == "" then
+                    ClearSuggestions()
+                end
+
+                if truncatedPrefix ~= "" then
+                    prefixLabel.Text = "Prefix: " .. truncatedPrefix
+
+                    local exists = false
+                    local firstLetter = truncatedPrefix:sub(1, 1)
+                    local wordList = WordDictionary[firstLetter] or Words
+                    for _, word in ipairs(wordList) do
+                        if word == truncatedPrefix then
+                            exists = true
+                            break
+                        end
+                    end
+
+                    if exists then
+                        prefixLabel.TextColor3 = Color3.fromRGB(0, 255, 0)
+                    else
+                        prefixLabel.TextColor3 = Color3.fromRGB(255, 0, 0)
+                    end
+
+                    UpdatePrefixSuggestions(truncatedPrefix)
+                else
+                    prefixLabel.Text = "Prefix: -"
+                    prefixLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+                end
+            end
+        end
+
+        task.wait(0.1)
+    end
+end)
