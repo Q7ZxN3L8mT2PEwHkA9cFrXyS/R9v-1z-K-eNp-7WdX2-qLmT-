@@ -38,6 +38,7 @@ actinopod
 actioned
 aculeae
 adagial
+adapa
 adbots
 adda
 addax
@@ -533,6 +534,7 @@ bechase
 bechignoned
 becke
 beckoned
+becquerel
 becushioned
 bedes
 bedevils
@@ -657,6 +659,7 @@ boarishly
 boattails
 bobbishly
 bobtails
+bockerel
 boffinier
 bohemian
 boiette
@@ -812,6 +815,7 @@ cachepots
 cachexia
 cacholots
 cacimbo
+cackerel
 cackles
 cacodoxian
 caddishly
@@ -837,6 +841,7 @@ calyptratae
 camails
 cambrel
 camelots
+campanini
 campanulatae
 cancelbots
 candidacy
@@ -1030,6 +1035,7 @@ cheroots
 chervils
 chesils
 chetopod
+cheverel
 cheverils
 cheviots
 chevrette
@@ -1163,6 +1169,7 @@ cobblestoned
 cochleae
 cochleleae
 cockamaroo
+cockerel
 cockishly
 cockles
 cockneyishly
@@ -1311,6 +1318,7 @@ cotoin
 cotonier
 cots
 cotset
+cotterel
 cottoned
 cottonier
 cottontails
@@ -1658,6 +1666,7 @@ doblons
 docetist
 dodecadrachm
 dofunny
+doggerel
 doggishly
 doggoned
 dogmatist
@@ -1696,6 +1705,7 @@ dorsiflexion
 dossils
 dothideacea
 dots
+dotterel
 douanier
 doublette
 doughfoots
@@ -1803,6 +1813,7 @@ eensy
 effigial
 effluxion
 effrontery
+efl
 egotist
 egrimony
 eidolons
@@ -2047,6 +2058,7 @@ fattist
 fauconnier
 fauteuils
 fauvette
+faverel
 favipiravir
 fawnier
 featishly
@@ -2057,6 +2069,7 @@ fehm
 feijoada
 fellic
 felons
+fenitar
 fennier
 fenouillette
 fernier
@@ -2218,6 +2231,7 @@ ftncmd
 fuchsia
 fughette
 fulfils
+fumerel
 fumette
 fumishly
 fumistery
@@ -2261,7 +2275,9 @@ gambette
 gambo
 gambrel
 gametangial
+gammerel
 gammoned
+gangerel
 ganymedes
 garboils
 gargoyle
@@ -2370,6 +2386,7 @@ goliathize
 gollar
 golomynka
 gombo
+gomerel
 gomerils
 gonadic
 gonangial
@@ -2429,6 +2446,7 @@ grots
 groundplots
 grumpishly
 guacharos
+guadagnini
 guadua
 guara
 guardrails
@@ -2440,6 +2458,7 @@ guige
 guillemots
 guillermo
 guineapig
+guitar
 gullishly
 gumbo
 gumboils
@@ -2514,6 +2533,7 @@ hatchels
 hathi
 hattery
 havenet
+haverel
 hawaii
 hawkishly
 hawthornier
@@ -2617,6 +2637,7 @@ hoboed
 hockles
 hodads
 hodmandod
+hoggerel
 hoggishly
 hokums
 holesom
@@ -2987,6 +3008,7 @@ kembo
 kemboed
 kenotist
 kenotoxin
+kerel
 kerseynette
 ketoxime
 kette
@@ -3013,6 +3035,7 @@ kiplingese
 kirghiz
 kirombo
 kiswa
+kitar
 kitchenet
 kitchenette
 kitset
@@ -3035,6 +3058,7 @@ kolkka
 komitadji
 kommetje
 konfyt
+konini
 kookums
 koradji
 kordax
@@ -3247,6 +3271,7 @@ lynnette
 mabi
 mabyer
 machiavellic
+mackerel
 mackles
 macles
 macrencephaly
@@ -3297,10 +3322,12 @@ mamillar
 mammillar
 manacles
 manchette
+mandapa
 mandarah
 mandrils
 mangabev
 manihots
+manini
 mannishly
 mannitol
 mannoheptitol
@@ -3390,6 +3417,7 @@ mentioned
 mercado
 mercedes
 mercurid
+merel
 merils
 merlette
 merlons
@@ -3459,6 +3487,7 @@ middelskots
 midinette
 mignonette
 milfoils
+militar
 millepedes
 millibar
 milliohm
@@ -3887,6 +3916,7 @@ opisthodomus
 optioned
 opuscles
 oracles
+orbitar
 orcanette
 orchels
 orchestrinas
@@ -4063,6 +4093,7 @@ pandemian
 pangrammatist
 panicles
 panier
+panini
 panisic
 panmixia
 pannicles
@@ -4321,6 +4352,7 @@ picarooned
 picaros
 picayunishly
 pickadils
+pickerel
 pickles
 picots
 picrotoxin
@@ -4700,11 +4732,13 @@ psychorhythm
 psychotherapeutist
 pterocles
 pteropaedes
+pterophryne
 pteropod
 pterygial
 pterygopalatal
 ptilopaedes
 ptychopterygial
+puckerel
 puckishly
 puckles
 puckrel
@@ -4866,6 +4900,7 @@ reenthroned
 refashioned
 reffrozen
 refits
+refl
 reflexion
 refoots
 reforfeit
@@ -5085,6 +5120,7 @@ satinier
 satyrs
 saucepots
 sauropod
+savitar
 saxitoxin
 saxon
 sayette
@@ -5123,6 +5159,7 @@ schvitzed
 schwarzlots
 scientist
 scillitoxin
+scimitar
 scintillons
 scirtopod
 scissils
@@ -5144,6 +5181,7 @@ scrawp
 screenshots
 scribal
 scroyle
+scryne
 scug
 scutcheoned
 scutellar
@@ -5190,6 +5228,7 @@ semiquietist
 semirhythm
 semisecrecy
 semiseparatist
+semitar
 semitist
 semivowel
 semolinas
@@ -5294,6 +5333,7 @@ sillar
 silurid
 silvertails
 simian
+simitar
 simonkolleite
 simony
 sinh
@@ -5304,6 +5344,7 @@ sipunculacea
 sirmian
 siroccoishly
 sissoos
+sitar
 skails
 skatist
 skelum
@@ -5395,6 +5436,7 @@ soole
 soots
 sooty
 sophocles
+sopranini
 sorbitol
 sorrowy
 sortlige
@@ -5573,6 +5615,7 @@ storiette
 storyette
 stotinka
 stots
+stotterel
 stowp
 stract
 stradiots
@@ -5624,6 +5667,7 @@ subjectist
 sublots
 submetallic
 submytilacea
+suborbitar
 subpartitioned
 subpatellar
 subphase
@@ -5644,6 +5688,7 @@ subumbellar
 subumbrellar
 subventioned
 suckabob
+suckerel
 suckles
 suctioned
 sudan
@@ -5688,6 +5733,7 @@ superspectacles
 superstylishly
 supracoxal
 suprameatal
+supraorbitar
 supratonsillar
 suprematist
 surette
@@ -5719,6 +5765,7 @@ sycophantishly
 syllabub
 sylphize
 symbiots
+symitar
 symmetallic
 sympathize
 sympetaly
@@ -5749,6 +5796,7 @@ tachyphylaxia
 tackles
 tadalafils
 tadjik
+tafferel
 taffrails
 taharah
 tahinas
@@ -5958,7 +6006,9 @@ tinpots
 tintist
 tintyper
 tisic
+titar
 titoki
+titterel
 tittery
 tix
 tmema
