@@ -22,8 +22,8 @@ if not request then
 end
 
 local MIN_CPM = 50
-local MAX_CPM_LEGIT = 1500
-local MAX_CPM_BLATANT = 3000
+local MAX_CPM_LEGIT = 5000
+local MAX_CPM_BLATANT = 20000
 
 math.randomseed(tick() * 1e6)
 
@@ -65,7 +65,7 @@ local Config = {
     RiskyMistakes = false,
     CustomWords = {},
     MinTypeSpeed = 50,
-    MaxTypeSpeed = 3000,
+    MaxTypeSpeed = 20000,
     KeyboardLayout = "QWERTY"
 }
 
