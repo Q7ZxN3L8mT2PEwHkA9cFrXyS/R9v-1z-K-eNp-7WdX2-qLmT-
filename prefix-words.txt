@@ -453,6 +453,7 @@ bahamian
 baidar
 bails
 bakkwa
+baktun
 balalaika
 balconette
 baldicoots
@@ -3853,6 +3854,7 @@ olefin
 oleic
 oligarchize
 olivette
+olykoek
 olympiadic
 ombrette
 ombrophils
@@ -5012,7 +5014,6 @@ runtishly
 rushlit
 russism
 ruttishly
-rux
 ryots
 ryotwar
 ryper
@@ -5417,6 +5418,7 @@ speckles
 spectacles
 speculatist
 speils
+spekkoek
 spekt
 spermatist
 spermatoxin
@@ -6449,6 +6451,7 @@ vesiculatae
 vessails
 vestige
 vestigial
+vetkoek
 vexillar
 vexils
 vibratiuncles
