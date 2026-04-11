@@ -6,6 +6,7 @@ abeyant
 abigails
 abohm
 abovementioned
+abscisic
 abseils
 absohm
 absolutist
@@ -211,6 +212,7 @@ anils
 animatist
 anisaldoxime
 anisette
+anisic
 anisopod
 ankles
 annette
@@ -261,6 +263,7 @@ antiparticles
 antipathize
 antipedobaptist
 antiphase
+antiphthisic
 antipragmatist
 antiprelatist
 antisecrecy
@@ -342,6 +345,7 @@ arrowroots
 arrowy
 arroyos
 arseniopleite
+artemisic
 artery
 arthropod
 arthrotrauma
@@ -1085,6 +1089,7 @@ chronaxie
 chronicles
 chronogrammatist
 chronomastix
+chrysanisic
 chrysostomic
 chuckles
 chuckram
@@ -1360,6 +1365,7 @@ crinkleroots
 crinkles
 crinolette
 crioboly
+crisic
 crockpots
 croisette
 crojik
@@ -2293,6 +2299,7 @@ genevrette
 genii
 genomic
 gentilhomme
+gentisic
 genuflexion
 geoagronomic
 geographize
@@ -2623,8 +2630,10 @@ homalosternii
 homatomic
 homeromastix
 homme
+homoanisic
 homochromic
 homodoxian
+homogentisic
 homophyllic
 homos
 homotaxia
@@ -3041,6 +3050,7 @@ kwela
 labiatae
 labiopalatal
 labrosaurid
+lackadaisic
 lactitol
 lactotoxin
 laddishly
@@ -4053,6 +4063,7 @@ pandemian
 pangrammatist
 panicles
 panier
+panisic
 panmixia
 pannicles
 pannier
@@ -4074,6 +4085,7 @@ paracerebellar
 parachutist
 paracotoin
 paradigm
+paradisic
 paradoxal
 paradromic
 paraffinier
@@ -4284,6 +4296,7 @@ photoshoots
 phots
 phrensy
 phrontistery
+phthisic
 phthisipneumony
 phycitol
 phylactery
@@ -4504,6 +4517,7 @@ postnatal
 postneonatal
 postpalatal
 postpatellar
+postphthisic
 postponed
 postscutellar
 posttensioned
@@ -5943,6 +5957,7 @@ tinola
 tinpots
 tintist
 tintyper
+tisic
 titoki
 tittery
 tix
