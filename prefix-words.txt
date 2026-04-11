@@ -3,6 +3,7 @@ abandoned
 abarambo
 abbots
 abeyant
+abietes
 abigails
 abohm
 abovementioned
@@ -21,6 +22,7 @@ accedes
 accessioned
 accoils
 accompanier
+accretes
 aceite
 acepots
 acetoin
@@ -34,6 +36,7 @@ acroasphyxia
 acroataxia
 acrocephaly
 acrux
+actinomycetes
 actinopod
 actioned
 aculeae
@@ -59,6 +62,7 @@ adultery
 adumbrellar
 adventist
 advt
+aecidiomycetes
 aedes
 aegemony
 aegle
@@ -67,6 +71,7 @@ aerobots
 aerofoils
 aeronomic
 aerosteon
+aesthetes
 affectioned
 affixal
 affixion
@@ -79,12 +84,14 @@ afteract
 aftercataract
 agadic
 agalaxia
+agametes
 agamian
 aggadic
 aggregatae
 agitpunkt
 agnails
 agonostomus
+agonothetes
 agoranomus
 agouara
 agrimony
@@ -158,6 +165,8 @@ ametaboly
 amidakuji
 amidoxime
 amixia
+ammocetes
+ammocoetes
 ammunitioned
 amoreuxia
 amourette
@@ -179,6 +188,7 @@ anadesm
 anaesthetist
 anagrammatist
 anahau
+analphabetes
 anaphase
 anaphylatoxin
 anarchize
@@ -214,6 +224,7 @@ animatist
 anisaldoxime
 anisette
 anisic
+anisogametes
 anisopod
 ankles
 annette
@@ -253,6 +264,7 @@ antieconomic
 antiegotist
 antielitist
 antiendotoxin
+antifungals
 antikenotoxin
 antilogarithm
 antilottery
@@ -284,6 +296,7 @@ apetaly
 apex
 aphakias
 apishly
+aplanogametes
 apocalyptist
 apodematal
 apometaboly
@@ -324,6 +337,7 @@ archegoniatae
 archicerebra
 archils
 archimedes
+archimycetes
 archipterygial
 archpillar
 archpresbytery
@@ -331,7 +345,9 @@ arcsinh
 arctanh
 arctophils
 aredes
+aretes
 arette
+argals
 argemony
 argillic
 argils
@@ -357,6 +373,7 @@ aruspex
 asbolan
 ascidiacea
 asclepiadic
+ascomycetes
 ascots
 asphyxia
 aspiratae
@@ -368,10 +385,12 @@ assoils
 assots
 astomatal
 astoned
+astragals
 astronomic
 astrophels
 astrospherecentrosomic
 aswooned
+asynartetes
 atabeg
 ataraxia
 ataraxic
@@ -380,6 +399,8 @@ ataxia
 ataxic
 ataxinomic
 ataxonomic
+athletes
+athlothetes
 atigi
 atmocautery
 atmosteon
@@ -397,6 +418,7 @@ audiophils
 auditioned
 auftakt
 auksinas
+auletes
 aulostomus
 aumails
 aumils
@@ -407,7 +429,9 @@ autist
 autoabstract
 autoantitoxin
 autobahn
+autobasidiomycetes
 autocephaly
+autocompletes
 autocycles
 autoecy
 autoette
@@ -503,6 +527,7 @@ bartramian
 baruya
 barye
 basenet
+basidiomycetes
 basils
 basipterygial
 basophils
@@ -553,10 +578,12 @@ beknots
 belee
 bellic
 belons
+bemetes
 bemoils
 benamidar
 benefits
 benet
+bengals
 benzaldoxime
 benzantialdoxime
 benzils
@@ -576,6 +603,7 @@ besplit
 bespots
 besprinkles
 bestatued
+betes
 bethels
 betoils
 betowel
@@ -587,6 +615,7 @@ bhels
 bhoots
 bhumidar
 bhuna
+biathletes
 biathlons
 biatomic
 biaxal
@@ -641,6 +670,7 @@ blackspots
 blacktails
 blakeite
 blanquette
+blastomycetes
 blazoned
 blemmyes
 blimpishly
@@ -667,6 +697,7 @@ boils
 bojo
 bolectioned
 boleite
+boletes
 bolonka
 bombazette
 bombo
@@ -831,6 +862,7 @@ cairnier
 caissoned
 cakette
 calathi
+calcretes
 calibre
 calicles
 callosum
@@ -962,8 +994,10 @@ cenizo
 centaurid
 centenier
 centesm
+centetes
 centibar
 centipedes
+centrifugals
 centropomus
 centrosomic
 cephalopod
@@ -976,8 +1010,10 @@ ceremony
 ceruleite
 cervantist
 cetacea
+cetes
 chabuks
 chado
+chaetetes
 chaetopod
 chainette
 chainshots
@@ -1194,6 +1230,7 @@ collarette
 collegese
 collegial
 collembolan
+colletes
 colloq
 cologarithm
 colombo
@@ -1224,6 +1261,8 @@ companioned
 comparatist
 compassioned
 compatriots
+competes
+completes
 completist
 complexion
 complexioned
@@ -1239,6 +1278,7 @@ conceptacles
 concertinas
 concertist
 concettist
+concretes
 concretist
 conditioned
 condoned
@@ -1248,10 +1288,12 @@ conferva
 confits
 confract
 congelifract
+coniomycetes
 conjugatae
 conjugial
 connatal
 connexion
+connochaetes
 conseils
 conservatist
 consolan
@@ -1424,6 +1466,7 @@ cutlette
 cutset
 cuvette
 cyathi
+cyberathletes
 cycladic
 cycles
 cyclitol
@@ -1486,11 +1529,13 @@ debowel
 decadic
 decadrachm
 decantist
+decathletes
 decathlons
 decibar
 decisioned
 decke
 deckles
+decolletes
 decommissioned
 deconditioned
 decretist
@@ -1506,6 +1551,7 @@ dehydrofrozen
 deils
 dekadrachm
 deletery
+deletes
 deloul
 deludher
 demibastioned
@@ -1527,6 +1573,7 @@ deoxyribonucleic
 dephase
 dephilosophize
 dephlegm
+depletes
 deponed
 depots
 dequeue
@@ -1551,12 +1598,14 @@ dethroned
 detract
 dette
 deuce
+deuteromycetes
 deuteronomic
 developmentist
 devilishly
 devils
 devots
 dexie
+diabetes
 diachylons
 diadic
 dialup
@@ -1602,6 +1651,7 @@ diobolons
 dioecy
 diolefin
 diomedes
+diotheletes
 dioxime
 dioxin
 diphase
@@ -1624,6 +1674,7 @@ discomfits
 discommissioned
 discommoned
 discomplexion
+discomycetes
 disconnexion
 disembargoed
 disembowel
@@ -1660,6 +1711,7 @@ distomian
 distr
 distract
 distrails
+ditheletes
 divots
 dixie
 doblons
@@ -1688,6 +1740,7 @@ domicils
 domoviy
 domus
 donatist
+donegals
 donepezils
 donnishly
 donnots
@@ -1746,6 +1799,7 @@ drysaltery
 dsomos
 dtset
 duadic
+duathletes
 duathlons
 dubbeltje
 ducktails
@@ -1779,6 +1833,7 @@ dweeb
 dyadic
 dybbuks
 dynamitist
+dyotheletes
 dysentery
 dyslexia
 dysodils
@@ -1964,20 +2019,25 @@ espinette
 essayette
 estafet
 estafette
+esthetes
 etalons
 etatist
 eteocles
+eteocretes
 ethize
 ethmopalatal
 ethonomic
 etiquette
+euascomycetes
 eucaryots
 euconjugatae
 eudaemony
 eudemian
 eudemony
 eudoxian
+euergetes
 eukaryots
+eumycetes
 eunomian
 eunuchize
 eupad
@@ -1995,7 +2055,9 @@ euthycomic
 eventognathi
 evermo
 evils
+excretes
 excursioned
+exegetes
 exegetist
 exercycles
 exfils
@@ -2080,10 +2142,13 @@ fernticles
 fernytickles
 fernyticles
 ferredoxin
+ferroconcretes
 ferrotyper
 festooned
+fetes
 fetichize
 fetishize
+feuilletes
 feverishly
 feverroots
 fewtrils
@@ -2237,6 +2302,7 @@ fumishly
 fumistery
 funckias
 functioned
+fungals
 fungoed
 funicles
 funkias
@@ -2255,6 +2321,7 @@ gadrooned
 gaffsails
 gageite
 galahad
+galangals
 galatae
 galaxian
 galbijjim
@@ -2270,11 +2337,13 @@ gallons
 gallooned
 galloots
 galoots
+gals
 galvanocautery
 gambette
 gambo
 gambrel
 gametangial
+gametes
 gammerel
 gammoned
 gangerel
@@ -2288,6 +2357,7 @@ garoo
 garrisoned
 garrots
 gashly
+gasteromycetes
 gasteropod
 gastrocnemian
 gastronomic
@@ -2346,6 +2416,7 @@ gilenyer
 gillar
 gillaroo
 gils
+gingals
 gingerroots
 gingiva
 ginkgo
@@ -2431,6 +2502,7 @@ grazie
 greenier
 greenmails
 greesagh
+greetes
 greige
 grenier
 greund
@@ -2442,6 +2514,7 @@ grockles
 groned
 groomishly
 grooty
+grossieretes
 grots
 groundplots
 grumpishly
@@ -2522,6 +2595,7 @@ hardboots
 hardtails
 harestails
 haricots
+harigals
 harlots
 harmony
 harmotomic
@@ -2557,7 +2631,9 @@ helvellic
 hematal
 hemerobaptist
 hemiapraxia
+hemiascomycetes
 hemiataxia
+hemibasidiomycetes
 hemicycles
 hemidrachm
 hemimetaboly
@@ -2574,6 +2650,7 @@ hepatopexia
 hepatotoxin
 heptadic
 heptaglots
+heptathletes
 heptathlons
 heptatomic
 heptitol
@@ -2595,6 +2672,7 @@ heterochromic
 heterocycles
 heterodoxal
 heteroecy
+heterogametes
 heterognathi
 heterometaboly
 heteronomic
@@ -2603,6 +2681,7 @@ heteropod
 heterotaxia
 heterotaxic
 heterothallic
+hetes
 heuvel
 hexadic
 hexafoils
@@ -2708,6 +2787,7 @@ hydrocephaly
 hydroextract
 hydrofoils
 hydroparastatae
+hymenomycetes
 hyper
 hyperalgebra
 hyperbrachycephaly
@@ -2719,6 +2799,7 @@ hyperorexia
 hyperpietist
 hyperprosexia
 hyperpyrexia
+hyphomycetes
 hypnotist
 hypnotoxin
 hypochromic
@@ -2758,6 +2839,7 @@ igorots
 ihleite
 ijarah
 iliadic
+illegals
 illuminatist
 illusioned
 imambarah
@@ -2776,6 +2858,7 @@ impassioned
 impedes
 imperils
 impishly
+impletes
 implexion
 imponed
 impots
@@ -2871,6 +2954,8 @@ ischiadic
 isocephaly
 isochasm
 isodomic
+isoetes
+isogametes
 isohels
 isolette
 isoln
@@ -2925,6 +3010,7 @@ jeremian
 jeromian
 jessamy
 jesuitist
+jetes
 jetfoils
 jettisoned
 jewies
@@ -2933,6 +3019,7 @@ jezails
 jigots
 jillaroo
 jimbo
+jingals
 jingoed
 jinricksha
 jinriksha
@@ -2952,6 +3039,7 @@ joseite
 jots
 jowel
 joyant
+jugals
 jugatae
 jujitsus
 jujutsus
@@ -3010,6 +3098,7 @@ kenotist
 kenotoxin
 kerel
 kerseynette
+ketes
 ketoxime
 kette
 kevils
@@ -3049,6 +3138,7 @@ knavishly
 knots
 knoxian
 knuckles
+kogals
 koggelmannetje
 koibal
 koklas
@@ -3105,6 +3195,7 @@ larkishly
 larmoyant
 larnier
 larvacea
+laryngals
 latakias
 latanier
 latebra
@@ -3131,6 +3222,7 @@ leatherette
 lecturette
 ledes
 leftist
+legals
 legioned
 legitimatist
 lehrjahre
@@ -3218,6 +3310,7 @@ locn
 logarithm
 logoed
 logomachize
+logothetes
 longeve
 lonsdaleite
 looksism
@@ -3270,6 +3363,7 @@ lynette
 lynnette
 mabi
 mabyer
+machetes
 machiavellic
 mackerel
 mackles
@@ -3279,6 +3373,7 @@ macrocephaly
 macrocycles
 macroeconomic
 macrofossils
+macrogametes
 macromesentery
 macropod
 macroptery
@@ -3286,6 +3381,7 @@ macrourid
 madapolan
 madrasah
 madreporacea
+madrigals
 maenadic
 magazinette
 maggots
@@ -3326,6 +3422,7 @@ mandapa
 mandarah
 mandrils
 mangabev
+mangals
 manihots
 manini
 mannishly
@@ -3348,6 +3445,7 @@ marplots
 marquisette
 marrowy
 marshmallowy
+martingals
 martinoe
 martyrs
 marxian
@@ -3393,6 +3491,7 @@ medullar
 meerkat
 megacephaly
 megacycles
+megagametes
 megahit
 megalocephaly
 megalopa
@@ -3450,9 +3549,11 @@ metascutellar
 metataxic
 metavanadic
 metencephalons
+metes
 methylglyoxal
 metosteon
 metoxeny
+metretes
 metronomic
 mezails
 mhm
@@ -3473,6 +3574,7 @@ microfibre
 microfibrillar
 microfibrils
 microfossils
+microgametes
 microhabitat
 microhm
 micromesentery
@@ -3490,6 +3592,7 @@ milfoils
 militar
 millepedes
 millibar
+milligals
 milliohm
 millioned
 millipedes
@@ -3573,6 +3676,7 @@ monopod
 monorails
 monosomic
 monothalamian
+monotheletes
 monotoned
 monoxime
 monoxylons
@@ -3662,6 +3766,8 @@ mutist
 muttonier
 muzjik
 myacea
+mycetes
+mycomycetes
 mycotoxin
 myelencephalons
 myelocerebellar
@@ -3673,14 +3779,17 @@ myotomic
 myriopod
 mysidacea
 mystery
+mysticetes
 mythize
 mytilacea
+myxomycetes
 myxopod
 naartje
 nabob
 nabobishly
 nagaika
 nails
+naivetes
 nandinas
 nandu
 nankingese
@@ -3729,6 +3838,7 @@ nepotist
 nereite
 nervosism
 neshly
+netes
 netiquette
 netroots
 neurataxia
@@ -3773,11 +3883,13 @@ nomadic
 nombrils
 nomic
 nomos
+nomothetes
 nonabsolutist
 nonabstract
 nonanatomic
 nonartist
 nonastronomic
+nonathletes
 nonatomic
 nonbookishly
 nonbuoyant
@@ -3844,6 +3956,7 @@ numismatist
 nunatak
 nuncles
 nunny
+nuthetes
 nuttery
 nyerereite
 nyloned
@@ -3860,6 +3973,7 @@ oblongatae
 oblongatal
 obscurantist
 observantist
+obsoletes
 obstacles
 ocarinas
 occasioned
@@ -3876,6 +3990,7 @@ ocydromus
 odax
 odonatist
 odontist
+odontocetes
 odontoloxia
 oecodomic
 oeconomic
@@ -3892,6 +4007,7 @@ oilstoned
 olefin
 oleic
 oligarchize
+oligochaetes
 olivette
 olykoek
 olympiadic
@@ -3902,6 +4018,8 @@ omikuji
 ondoyant
 onioned
 onionier
+oogametes
+oomycetes
 oopod
 oots
 oozoid
@@ -3963,6 +4081,7 @@ oubliette
 oudemian
 outcavils
 outchase
+outcompetes
 outfits
 outfoots
 outlandishly
@@ -4114,6 +4233,7 @@ papillar
 papillons
 paracerebellar
 parachutist
+paracletes
 paracotoin
 paradigm
 paradisic
@@ -4126,7 +4246,9 @@ paragrammatist
 paragraphize
 parah
 parahopeite
+paralegals
 paralexia
+paranetes
 paranucleic
 parapegm
 paraphragm
@@ -4146,6 +4268,7 @@ parecy
 parelectronomic
 parellic
 parfumeur
+parietes
 parkette
 parnassism
 paroecy
@@ -4195,9 +4318,11 @@ peckishly
 pectinacea
 pedagese
 pedes
+pedetes
 pediadontist
 pedicellar
 pedicles
+pedioecetes
 pedionomus
 pedobaptist
 pedodontist
@@ -4231,6 +4356,7 @@ pentadic
 pentadrachm
 pentaerythritol
 pentathla
+pentathletes
 pentathlons
 pentatomic
 pentitol
@@ -4243,6 +4369,7 @@ peract
 peraeopod
 peratae
 perchromic
+peregals
 pereiopod
 pereopod
 perfectist
@@ -4292,6 +4419,7 @@ phantomic
 pharmaceutist
 pharmacogenomic
 pharos
+pharyngals
 pharyngognathi
 phase
 phasm
@@ -4301,6 +4429,7 @@ philabeg
 philamots
 philippinas
 phillabeg
+philoctetes
 philodramatist
 philomots
 philosophize
@@ -4330,6 +4459,7 @@ phrontistery
 phthisic
 phthisipneumony
 phycitol
+phycomycetes
 phylactery
 phylartery
 phyllomic
@@ -4415,6 +4545,7 @@ planaru
 plancheite
 planchette
 planetist
+planogametes
 plantagenet
 plaquette
 plasmodesm
@@ -4474,6 +4605,8 @@ polyatomic
 polyaxon
 polybuttoned
 polycephaly
+polychaetes
+polychetes
 polychromatist
 polychromic
 polychsia
@@ -4503,6 +4636,7 @@ pomatomus
 pombo
 pomme
 pomos
+pongals
 ponier
 pontils
 pontist
@@ -4592,6 +4726,7 @@ precoce
 preconditioned
 precontract
 precycles
+prediabetes
 preeconomic
 preextract
 prefashioned
@@ -4647,6 +4782,7 @@ problematist
 procedes
 procerebra
 processioned
+prodigals
 prodomos
 prodromic
 prodromus
@@ -4684,6 +4820,8 @@ proteosaurid
 protestantishly
 prothallic
 protist
+protoascomycetes
+protobasidiomycetes
 protoctist
 protomartyrs
 protometallic
@@ -4731,6 +4869,7 @@ psychonomic
 psychorhythm
 psychotherapeutist
 pterocles
+pterocletes
 pteropaedes
 pterophryne
 pteropod
@@ -4766,11 +4905,13 @@ putelee
 puttyroots
 putzed
 puzzolan
+pygals
 pygopod
 pylangial
 pylons
 pyots
 pyreneite
+pyrenomycetes
 pyrenopeziza
 pyrexia
 pyrgocephaly
@@ -4906,6 +5047,7 @@ refoots
 reforfeit
 refract
 refrozen
+regals
 reginas
 regioned
 regle
@@ -4935,6 +5077,7 @@ reoutfits
 repartitioned
 repeatal
 rephase
+repletes
 replots
 reponed
 repositioned
@@ -4957,6 +5100,7 @@ restationed
 resummoned
 retackles
 retails
+retes
 retestimony
 reticles
 retinas
@@ -5071,6 +5215,7 @@ sabbatist
 sabin
 sabots
 saccadic
+saccharomycetes
 sacroischiadic
 sadic
 saffroned
@@ -5092,6 +5237,7 @@ salpingopalatal
 saltcellar
 saltery
 saltishly
+salvetes
 sambo
 samian
 samogonka
@@ -5145,6 +5291,7 @@ schistosomus
 schizaxon
 schizo
 schizoid
+schizomycetes
 schizopod
 schnecke
 schoenobatist
@@ -5196,6 +5343,7 @@ secedes
 seckles
 secohm
 secrecy
+secretes
 sectioned
 sectist
 secy
@@ -5304,6 +5452,7 @@ shootist
 shoots
 shopbots
 shoq
+shotcretes
 shots
 shoulderette
 showy
@@ -5498,6 +5647,8 @@ spiracles
 spiriferacea
 spirillar
 spiritist
+spirochaetes
+spirochetes
 spirulinas
 spleenier
 spleenishly
@@ -5523,6 +5674,7 @@ sprackles
 spraich
 spreeuw
 sprigtails
+springals
 springhase
 springtails
 sprinkles
@@ -5625,6 +5777,7 @@ stratagematist
 stratal
 strathspey
 streite
+streptomycetes
 stret
 strette
 striatal
@@ -5694,6 +5847,8 @@ suctioned
 sudan
 suedes
 suedette
+suetes
+suffetes
 suffixal
 suffixion
 suffragette
@@ -5714,6 +5869,7 @@ sunspots
 sunspottery
 suomic
 superabstract
+superathletes
 supercedes
 supercerebellar
 supercoils
@@ -5776,7 +5932,9 @@ syndromic
 syndyasmian
 synentognathi
 syngnathi
+synoecetes
 synoecy
+synoeketes
 synoptist
 syntagm
 synthase
@@ -5798,6 +5956,7 @@ tadalafils
 tadjik
 tafferel
 taffrails
+tagetes
 taharah
 tahinas
 tahsils
@@ -5911,6 +6070,7 @@ tepary
 teraohm
 terebra
 terephthallic
+teretes
 terracette
 tessellar
 tesseract
@@ -5920,6 +6080,7 @@ testicles
 testimony
 testrils
 tetanotoxin
+tetes
 tetrabromo
 tetrachromic
 tetract
@@ -5957,6 +6118,8 @@ thermochromic
 thermophils
 thermotaxic
 theropod
+thesmothetes
+thetes
 thievishly
 thingamabob
 thingumabob
@@ -6074,6 +6237,7 @@ tragelaph
 tragicoheroicomic
 tragicomic
 trails
+trametes
 trampette
 trampishly
 tranka
@@ -6103,6 +6267,7 @@ tret
 trevette
 treyf
 triadic
+triathletes
 triathlons
 triatomic
 triaxal
@@ -6272,6 +6437,7 @@ uncoquettishly
 uncottoned
 uncounterfeit
 uncushioned
+undeletes
 underact
 undercellar
 underfoots
@@ -6449,6 +6615,7 @@ uroxin
 urutu
 usenet
 usherette
+usipetes
 utensils
 uteropexia
 utricles
@@ -6464,6 +6631,7 @@ vaginas
 vails
 vaisya
 vakils
+valetes
 vallar
 valor
 vampishly
@@ -6489,6 +6657,7 @@ velocipedes
 velum
 vendettist
 veneracea
+venetes
 ventails
 ventige
 ventils
@@ -6581,6 +6750,8 @@ waltzed
 wanier
 wantoned
 warbots
+warragals
+warrigals
 washpots
 waspishly
 wassails
@@ -6738,6 +6909,7 @@ zoanthacea
 zoid
 zoned
 zonurid
+zoogametes
 zoogleae
 zoomantist
 zoomorphize
@@ -6750,3 +6922,4 @@ zootoxin
 zooty
 zorils
 zudda
+zygomycetes
