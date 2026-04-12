@@ -464,7 +464,6 @@ ageratum
 ageustia
 aggadas
 aggadic
-aggier
 agglomerator
 agglutinator
 agglutinogen
@@ -817,7 +816,6 @@ ambulette
 ambuscado
 ambuscadoed
 amebula
-amelet
 ameliorator
 amelu
 amenage
@@ -1034,7 +1032,6 @@ angdistis
 angekkoks
 angekoks
 angeled
-angelet
 angelica
 angelicas
 angelolater
@@ -1287,7 +1284,6 @@ antipewism
 antiphase
 antiphona
 antiphthisic
-antiplatelet
 antipragmaticism
 antipragmatist
 antipredator
@@ -1354,7 +1350,6 @@ apatan
 apatheia
 apathize
 apedom
-apelet
 aperture
 aperulosid
 apetaly
@@ -2103,7 +2098,6 @@ baaing
 baalebatim
 babbishly
 babblishly
-babelet
 babes
 babiche
 babied
@@ -2169,7 +2163,6 @@ bagani
 bagaraatan
 bagdi
 bageled
-baggier
 baghouse
 bagie
 bagnes
@@ -2270,7 +2263,6 @@ bandaite
 bandariya
 bandeau
 bandeira
-bandelet
 bandelette
 bandeng
 banderillero
@@ -2362,7 +2354,6 @@ barragan
 barrater
 barrator
 barreled
-barrelet
 barreleye
 barrelhouse
 barrette
@@ -2576,7 +2567,6 @@ behooves
 behoves
 beigel
 beigeled
-beigier
 beignes
 beikost
 beikosts
@@ -2643,7 +2633,6 @@ bepraiser
 berairou
 berberid
 berceaunette
-bercelet
 berceuse
 bereason
 bergamasko
@@ -2808,7 +2797,6 @@ bilbies
 biles
 bilevels
 bilgewater
-bilgier
 bilingual
 billette
 billons
@@ -2905,7 +2893,6 @@ blackshirt
 blackspots
 blacktails
 blackwater
-bladelet
 blaes
 blaise
 blakeite
@@ -2940,7 +2927,6 @@ bletia
 blimpishly
 blindage
 blindstoreys
-blingier
 blistery
 blithe
 blitzed
@@ -2950,7 +2936,6 @@ bloater
 blockhouse
 blockishly
 blocks
-bloggier
 blogposts
 blokedom
 bloodmobiles
@@ -2973,7 +2958,6 @@ bludgeoned
 bluefin
 bluet
 bluette
-bluggier
 bluntish
 blustery
 blype
@@ -2998,7 +2982,6 @@ bockerel
 bocks
 boconcini
 boddagh
-bodgier
 bodyshamed
 bodyshirt
 bodysuits
@@ -3007,8 +2990,6 @@ boers
 boethian
 boffinier
 bogan
-boggier
-bogier
 bogledom
 boglet
 bohairic
@@ -3046,7 +3027,6 @@ bonaught
 bonaventure
 bondage
 boned
-bonelet
 bongar
 bonhomies
 bonhomme
@@ -3135,7 +3115,6 @@ bougar
 boughed
 boughpots
 bought
-bougier
 bouillons
 boulle
 bouncy
@@ -3146,12 +3125,10 @@ bourbonian
 bourette
 bourgeoisifies
 bourgeoned
-bourgier
 bourguignonne
 bourignian
 bourkhas
 bourne
-bourrelet
 bouse
 bousouki
 boustrophedon
@@ -3177,7 +3154,6 @@ bozal
 bozos
 bozzetti
 bracae
-bracelet
 bracery
 brachah
 brachiator
@@ -3200,7 +3176,6 @@ bradylexia
 bradyphagia
 bradyphrenia
 bragadisme
-braggier
 braggishly
 braguette
 brahm
@@ -3411,7 +3386,6 @@ bugaboo
 bugan
 bugbearish
 bugeye
-buggier
 bughouse
 bught
 buglet
@@ -3422,7 +3396,6 @@ bulbuls
 bulgaric
 bulghur
 bulghurs
-bulgier
 bulgine
 bulimiac
 bulimies
@@ -3525,7 +3498,6 @@ byssin
 caaing
 cabalette
 caballero
-cabbagier
 cabbalah
 cabbies
 cabdriver
@@ -3574,7 +3546,6 @@ caddoan
 cadeau
 cadenette
 cadette
-cadgier
 cadua
 caducean
 caducecaducean
@@ -3588,7 +3559,6 @@ caestus
 caesuras
 cafenet
 cafetoria
-cagier
 cagots
 cahoots
 cahuy
@@ -3761,7 +3731,6 @@ canzonette
 capacitator
 caparisoned
 capataz
-capelet
 capercailzies
 capernaite
 capernaitish
@@ -3978,7 +3947,6 @@ cassoulet
 cassumunars
 castalio
 castanian
-castelet
 castellany
 castellar
 casthouse
@@ -4079,7 +4047,6 @@ cavatinas
 caveat
 caveatee
 caveator
-cavelet
 cavels
 caveola
 cavetti
@@ -4315,7 +4282,6 @@ chanteuse
 chaoua
 chapeau
 chapeled
-chapelet
 chapellany
 chaperonage
 chaperoned
@@ -4364,7 +4330,6 @@ chassepots
 chastiser
 chatbots
 chatchka
-chatelet
 chatellany
 chatoyant
 chattanoogan
@@ -4825,7 +4790,6 @@ cladoselachian
 cladosporia
 cladrastis
 claes
-claggier
 claibornian
 claircolle
 clairecolle
@@ -4895,7 +4859,6 @@ climatal
 climature
 clinandrdria
 clinandria
-clingier
 clinid
 clinocephaly
 clinopinacoid
@@ -4918,7 +4881,6 @@ clocks
 cloddishly
 clodhopperish
 clogdogdo
-cloggier
 clogwyn
 cloisonnage
 cloisonne
@@ -5302,7 +5264,6 @@ condoned
 conduits
 condylopod
 coned
-conelet
 conepatl
 confabulator
 confecture
@@ -5569,7 +5530,6 @@ corrober
 corroborator
 corrosive
 corrugator
-corselet
 corselette
 corsive
 corslet
@@ -5635,7 +5595,6 @@ cotranslator
 cotranspire
 cots
 cotset
-cottagier
 cotterel
 cottonade
 cottoned
@@ -5695,7 +5654,6 @@ countervails
 counterweighed
 countinghouse
 coupe
-coupelet
 couper
 coupledom
 couponed
@@ -5721,7 +5679,6 @@ couveuse
 couxia
 covado
 covarecan
-covelet
 coverture
 coves
 covido
@@ -5751,7 +5708,6 @@ cracknels
 crackpots
 crackskull
 craftily
-craggier
 crajuru
 cramasie
 crambo
@@ -5816,7 +5772,6 @@ crenas
 crenature
 creneled
 crenelee
-crenelet
 crenels
 creophagia
 creped
@@ -5844,7 +5799,6 @@ criminator
 criminol
 crimsoned
 crinet
-cringier
 criniculture
 crinid
 crinkleroots
@@ -5952,7 +5906,6 @@ cubature
 cubbies
 cubbishly
 cubbyhouse
-cubelet
 cubic
 cubicas
 cubicles
@@ -6095,7 +6048,6 @@ cymbalom
 cymbalos
 cymbocephaly
 cymbopogon
-cymelet
 cymol
 cymophane
 cynara
@@ -6150,7 +6102,6 @@ dads
 daffies
 daffodils
 dagesh
-daggier
 daghesh
 daglocks
 daguerreotyper
@@ -6885,7 +6836,6 @@ diisatogen
 dikaryophase
 dikast
 dikdiks
-dikelet
 dikereeve
 diksha
 dilapidator
@@ -6915,7 +6865,6 @@ dinaric
 dinars
 dinette
 dingar
-dingier
 dingoed
 dinitrogen
 dinka
@@ -7197,7 +7146,6 @@ dodecagynian
 dodecanoic
 dodecasyllabic
 dodecatemory
-dodgier
 dodonaena
 dodonian
 dodos
@@ -7209,7 +7157,6 @@ dogedom
 dogfought
 doggerel
 doggereled
-doggier
 doggishly
 doggoned
 doggrel
@@ -7335,7 +7282,6 @@ douzainier
 dovecots
 dovehouse
 doveishly
-dovelet
 doves
 dovetails
 dovishly
@@ -7364,7 +7310,6 @@ drachm
 draconian
 dracovenator
 draftily
-draggier
 dragonade
 dragonet
 dragonise
@@ -7376,7 +7321,6 @@ dragoonage
 dragooned
 drails
 drainage
-drakelet
 dramaticism
 dramatiser
 dramatist
@@ -7398,7 +7342,6 @@ dreamwhiles
 dreare
 drearer
 dreep
-dreggier
 dreich
 dreint
 drekky
@@ -7438,14 +7381,12 @@ drought
 drouk
 droves
 drugge
-druggier
 druidry
 drumbeater
 drummies
 drummocks
 drungar
 drupal
-drupelet
 drusedom
 drusen
 dryadic
@@ -7515,7 +7456,6 @@ duncishly
 dungan
 dungaree
 dungeoned
-dungier
 dunkadoo
 dunnage
 dunnier
@@ -7541,7 +7481,6 @@ duramater
 duraquara
 duras
 durdums
-durgier
 duriavenator
 durra
 durukuli
@@ -7601,7 +7540,6 @@ earlocks
 earpieces
 earshots
 earthian
-earwiggier
 easeled
 easle
 eastlin
@@ -7663,7 +7601,6 @@ eczema
 edaphosaurid
 edda
 edgeboned
-edgier
 edificator
 edifies
 ediles
@@ -7692,7 +7629,6 @@ egeran
 eggbeater
 eggeater
 eggfruits
-eggier
 egotist
 egressive
 egrimonle
@@ -8606,7 +8542,6 @@ extrusive
 exumbral
 exumbrellar
 exxon
-eyelet
 eyepieces
 eyeshadow
 eyeshots
@@ -8711,7 +8646,6 @@ faradiser
 farceuse
 farcifies
 fardage
-fardelet
 fardh
 farenheit
 farer
@@ -8813,7 +8747,6 @@ feminise
 femmier
 femtometre
 femurs
-fencelet
 fenetre
 fenian
 fenitar
@@ -8901,7 +8834,6 @@ fierasferid
 fierte
 fifteens
 figeater
-figgier
 figura
 figurette
 fijian
@@ -8979,22 +8911,18 @@ flagellar
 flagellatae
 flagellator
 flageolet
-flaggier
 flaglet
 flagonet
 flails
 flaite
-flakelet
 flaks
 flamboyant
 flamed
-flamelet
 flamier
 flaminian
 flanconade
 flanconnade
 flanneled
-flannelet
 flannelette
 flannels
 flapperish
@@ -9018,7 +8946,6 @@ flaxen
 flchette
 fleabug
 flechette
-fledgier
 fleeces
 fleerish
 flegm
@@ -9099,7 +9026,6 @@ fodda
 foeture
 fogeater
 fogfruits
-foggier
 fogon
 foils
 foldage
@@ -9135,7 +9061,6 @@ foraminiferan
 forastero
 forbearer
 force
-forcelet
 forchase
 fordonne
 foreadapt
@@ -9332,9 +9257,7 @@ frieseite
 frigor
 frigots
 frijol
-fringelet
 fringepod
-fringier
 frisco
 frisette
 frislet
@@ -9349,7 +9272,6 @@ frizzies
 frocks
 frogeater
 frogeye
-froggier
 froglet
 froideur
 frokin
@@ -9395,13 +9317,11 @@ fthm
 ftncmd
 fuchsia
 fucoid
-fudgier
 fueled
 fuerte
 fugal
 fugato
 fugatos
-fuggier
 fughette
 fujian
 fulfils
@@ -9587,8 +9507,6 @@ ganoidei
 ganowanian
 ganza
 gaolbroken
-garagier
-garbagier
 garboils
 garburator
 garda
@@ -9666,7 +9584,6 @@ gaurie
 gauss
 gauteite
 gaveled
-gavelet
 gavelocks
 gavels
 gavots
@@ -9903,7 +9820,6 @@ glittery
 glitzed
 glizzies
 gloater
-globelet
 globetrots
 globigerina
 globigerinas
@@ -10056,7 +9972,6 @@ gorcocks
 gordiacea
 gordiacean
 gorge
-gorgelet
 gorgonacea
 gorgonacean
 gorgoniacea
@@ -10136,7 +10051,6 @@ granulator
 granulet
 granza
 grapefruits
-grapelet
 grapelouse
 grapeshots
 graphalloy
@@ -10231,7 +10145,6 @@ grizard
 groans
 grocery
 grockles
-groggier
 groned
 groomishly
 groomy
@@ -10261,7 +10174,6 @@ gruft
 grumbletonian
 grumphie
 grumpishly
-grungier
 gruppetti
 grusinian
 gryde
@@ -10343,9 +10255,7 @@ gummi
 gummier
 gummies
 gunbearer
-gundelet
 gunfought
-gungier
 gunhouse
 gunlocks
 gunmetals
@@ -10696,7 +10606,6 @@ hectocotyli
 hectometre
 hectyli
 hedarim
-hedgier
 hedyphane
 heeled
 heelpieces
@@ -10833,7 +10742,6 @@ heracleum
 heraclid
 heraclidan
 herakles
-herbelet
 hercogamies
 herculanian
 herculid
@@ -11089,7 +10997,6 @@ homalosternii
 homatomic
 homaxonial
 homefarer
-homelet
 homeothermies
 homerid
 homeromastix
@@ -11211,7 +11118,6 @@ house
 houseboater
 housebroken
 houseled
-houselet
 houve
 hoveled
 hovels
@@ -11232,7 +11138,6 @@ huckstery
 huddledom
 hudsonian
 huffishly
-huggier
 hugmatee
 huguenots
 huipiles
@@ -12285,7 +12190,6 @@ jadishly
 jagaing
 jagatai
 jagataic
-jaggier
 jailbroken
 jailhouse
 jails
@@ -12395,7 +12299,6 @@ jezails
 jiffies
 jigaboo
 jigamaree
-jiggier
 jigots
 jilebi
 jillaroo
@@ -12434,7 +12337,6 @@ johnsonian
 jointist
 jointure
 jojutsu
-jokelet
 jokol
 jollifies
 jollofs
@@ -12464,7 +12366,6 @@ jubiles
 jubus
 judaiser
 judas
-judgier
 judicator
 judicature
 judogi
@@ -12645,7 +12546,6 @@ kebbies
 kebbocks
 kebyar
 keckles
-kedgier
 keeled
 keens
 keepsaky
@@ -12731,7 +12631,6 @@ kibitz
 kibitzed
 kickapoo
 kickxia
-kidgier
 kidnapee
 kielbasy
 kieran
@@ -12815,14 +12714,11 @@ klepht
 kleptos
 kletterschuh
 klikitat
-kludgier
 knack
-knaggier
 knappishly
 knars
 knavishly
 kneeled
-kneelet
 kneepieces
 kneesocks
 kneippism
@@ -12995,7 +12891,6 @@ lagan
 lagenae
 lagenas
 lagenian
-laggier
 lagostomus
 lagrimoso
 lagune
@@ -13011,7 +12906,6 @@ laiser
 laithe
 lajasvenator
 lakatan
-lakelet
 lamaite
 lamarckian
 lamastery
@@ -13044,7 +12938,6 @@ lampukas
 lamut
 lanai
 lanaz
-lancelet
 lancelot
 lancepod
 landage
@@ -13189,7 +13082,6 @@ lectica
 lectual
 lecture
 lecturette
-ledgier
 ledums
 leecheater
 leeped
@@ -13209,7 +13101,6 @@ legator
 legatos
 legature
 legendary
-leggier
 legioned
 legislator
 legislature
@@ -13343,14 +13234,12 @@ lidar
 lidos
 lieberkuhn
 liegedom
-liegier
 lienectomies
 lienotoxin
 lientery
 liepot
 lierre
 lievaart
-lifelet
 liflod
 ligamentary
 ligas
@@ -13395,14 +13284,12 @@ lincture
 lineas
 lineatum
 lineature
-linelet
 linenette
 linenier
 linet
 lineups
 liney
 lingayat
-lingier
 lingots
 lingoum
 lingual
@@ -13527,7 +13414,6 @@ lobcokt
 lobectomies
 lobefin
 lobefoots
-lobelet
 lobotomies
 lobscouse
 lobsterish
@@ -13558,9 +13444,7 @@ loeil
 loftily
 logan
 logarithm
-loggier
 logicism
-logier
 loglet
 loglog
 logodaedaly
@@ -13613,7 +13497,6 @@ louche
 louis
 louisianian
 loukas
-loungier
 loupe
 loure
 lourie
@@ -13639,7 +13522,6 @@ loxodromies
 loxodromy
 lozell
 lozen
-lozengier
 lubricator
 lubritoria
 lucianovenator
@@ -13696,7 +13578,6 @@ lusovenator
 lustily
 luteic
 luteinise
-lutelet
 luteo
 luteotrophin
 luteotropic
@@ -13828,7 +13709,6 @@ maftirs
 mafurra
 magani
 magazinage
-magazinelet
 magazinette
 magaziny
 magdalenian
@@ -13990,7 +13870,6 @@ mangals
 mangalsutra
 manganja
 mangar
-mangier
 mangkukulam
 mangonel
 mangonels
@@ -14015,7 +13894,6 @@ manqu
 mansioned
 mansuetude
 mantegar
-mantelet
 mantelpieces
 manticism
 mantisia
@@ -14176,7 +14054,6 @@ matzot
 maubies
 maught
 mauler
-maungier
 mauretanian
 mauritanian
 mausoleum
@@ -14474,7 +14351,6 @@ metallotherapeutic
 metals
 metamorphize
 metanym
-metapelet
 metaphase
 metaphragm
 metapleuron
@@ -14624,7 +14500,6 @@ middelskots
 middlebrowism
 middlesex
 midewin
-midgier
 midianitish
 midinette
 midis
@@ -14681,7 +14556,6 @@ mineraliser
 mineralocorticoid
 minerva
 minette
-mingier
 miniator
 miniature
 minibar
@@ -14712,7 +14586,6 @@ minxishly
 minyan
 miombo
 miqra
-miquelet
 mirabilis
 miracles
 mirchi
@@ -15118,7 +14991,6 @@ mosette
 moshavim
 moskonfyt
 mosotho
-mosquelet
 mosquito
 mosso
 mossy
@@ -15163,7 +15035,6 @@ mounture
 mourne
 mouse
 mousekin
-mouselet
 mousepieces
 mousetails
 mousse
@@ -15204,7 +15075,6 @@ mueslis
 muette
 mufasal
 muflons
-muggier
 muggletonian
 mughal
 mughouse
@@ -15284,7 +15154,6 @@ murmurs
 murra
 murragh
 murraro
-murrelet
 murreys
 murrhas
 murrina
@@ -15417,7 +15286,6 @@ naemorhedus
 naevi
 nagaika
 nagapie
-naggier
 nagoya
 nagual
 nahane
@@ -15622,7 +15490,6 @@ nereocystis
 neronian
 nervature
 nerve
-nervelet
 nervosism
 nervulet
 neshly
@@ -16117,7 +15984,6 @@ notator
 notcheled
 notchels
 notekin
-notelet
 notemigge
 notemugge
 nothofagus
@@ -16140,7 +16006,6 @@ nourish
 nouriture
 nourriture
 novator
-novelet
 noveletist
 novelette
 novelettish
@@ -16195,11 +16060,9 @@ nunny
 nuragh
 nursedom
 nursekin
-nurselet
 nurture
 nuthetes
 nuthouse
-nutmeggier
 nutricism
 nutriculture
 nutriture
@@ -16321,7 +16184,6 @@ oculopalpebral
 ocydromus
 odacoid
 odax
-odelet
 odinian
 odonatist
 odontist
@@ -16337,7 +16199,6 @@ oeconomic
 oeconomus
 oecumenian
 oedemerid
-oelet
 oenochoae
 oenolic
 oenophiles
@@ -16400,7 +16261,6 @@ ombrette
 ombrophiles
 ombrophils
 omegoid
-omelet
 omelette
 omikuji
 omissive
@@ -16452,7 +16312,6 @@ oozoid
 opacifies
 opaleye
 opalinid
-opelet
 openairish
 operagoers
 operatee
@@ -16501,7 +16360,6 @@ opuscles
 opuscula
 oracles
 oracula
-orangier
 orator
 orature
 orbitals
@@ -16635,7 +16493,6 @@ osmanli
 osmodysphoria
 ospreys
 ossature
-osselet
 osseomucoid
 ossetish
 ossicles
@@ -17007,7 +16864,6 @@ oxysulphid
 oxytocic
 oxytricha
 oxyurid
-oyelet
 oysterhouse
 oysterish
 ozaena
@@ -17563,7 +17419,6 @@ peeped
 peepeye
 peeve
 peevishly
-peggier
 peghed
 peglet
 pegomastax
@@ -18155,7 +18010,6 @@ pidjajap
 pieces
 piecette
 piehouse
-pielet
 pielum
 piemag
 piercarlo
@@ -18169,7 +18023,6 @@ pietist
 pifferaro
 pifferaros
 pigeoned
-piggier
 piggishly
 piglet
 pigmentary
@@ -18181,7 +18034,6 @@ pigroots
 pigsnie
 pigtails
 pikake
-pikelet
 pilapil
 pilei
 pileorhize
@@ -18343,7 +18195,6 @@ plastochondria
 plastogamies
 platan
 platanista
-platelet
 plater
 platery
 platinas
@@ -18432,7 +18283,6 @@ ploughtails
 plowtails
 plumbagine
 plumcots
-plumelet
 plumeopicean
 plumette
 plumier
@@ -18480,7 +18330,6 @@ pocoson
 podargine
 podaxonial
 podetia
-podgier
 podophthalmian
 podophyllic
 podophyllotoxin
@@ -18654,14 +18503,12 @@ pomos
 pompelmouse
 pompon
 pomwater
-poncelet
 pondage
 ponent
 ponera
 ponerid
 ponga
 pongals
-pongier
 ponier
 ponticello
 pontifex
@@ -18722,7 +18569,6 @@ porogamies
 porokaiwhiria
 poroscopic
 porphyrogeniture
-porridgier
 portabello
 portals
 portator
@@ -19059,7 +18905,6 @@ prefrozen
 pregamed
 pregenial
 pregeniculatum
-preggier
 pregracile
 pregustator
 prehabs
@@ -19226,7 +19071,6 @@ primulic
 princedom
 princeite
 princekin
-princelet
 princocks
 printanier
 printery
@@ -19628,17 +19472,14 @@ puckles
 puckrel
 pudda
 puddinghouse
-puddingier
 puddocks
 pudeur
-pudgier
 puericulture
 puffinet
 pugaree
 pugenello
 puggaree
 puggi
-puggier
 pugils
 pujari
 pukas
@@ -19824,7 +19665,6 @@ quadruplicature
 quadruply
 quaeritur
 quaestio
-quaggier
 quaich
 quaigh
 quails
@@ -19845,7 +19685,6 @@ quare
 quarer
 quaresma
 quarreled
-quarrelet
 quartette
 quartetti
 quartiles
@@ -19990,7 +19829,6 @@ raffinase
 raffishly
 rafik
 ragequits
-raggier
 raghouse
 ragini
 raglet
@@ -20035,7 +19873,6 @@ ranchette
 random
 randomiser
 ranforce
-rangier
 raninian
 rankles
 ranli
@@ -20382,7 +20219,6 @@ relator
 relatum
 relay
 releasee
-relet
 relevator
 releveled
 relict
@@ -20716,7 +20552,6 @@ rhomphaia
 rhotacism
 rhumbaed
 rhumbaing
-rhymelet
 rhynchocoele
 rhynchonellacea
 rhynchosia
@@ -20744,8 +20579,6 @@ rickles
 ricksha
 ricolettaite
 rideau
-ridgelet
-ridgier
 ridgils
 ridiculer
 riemannian
@@ -20841,7 +20674,6 @@ roguedom
 roguishly
 rohuna
 roils
-roitelet
 rokelay
 rokkaku
 rollcollar
@@ -20853,7 +20685,6 @@ romaika
 romaji
 romal
 romancean
-romancelet
 romandom
 romanian
 romanise
@@ -20867,7 +20698,6 @@ romneya
 rompishly
 rondavels
 rondeau
-rondelet
 rondeletia
 ronga
 ronggeng
@@ -20898,7 +20728,6 @@ roripa
 rosacea
 rosacean
 rosel
-roselet
 roseola
 roseroots
 roset
@@ -20967,7 +20796,6 @@ rubbies
 rubbishly
 rubbity
 rubefies
-rubelet
 rubeola
 rubiator
 rubiconed
@@ -20995,7 +20823,6 @@ ruffiandom
 rufigallic
 rugal
 rugbies
-ruggier
 rugine
 rugosa
 ruinator
@@ -21024,7 +20851,6 @@ rushlit
 rusin
 ruskinian
 russe
-russelet
 russetish
 russificator
 russifies
@@ -21098,9 +20924,7 @@ sagaie
 sagan
 sagapen
 sageretia
-saggier
 saghavart
-sagier
 sagitarii
 sagittarii
 sagittary
@@ -21377,7 +21201,6 @@ scaena
 scaffies
 scaffoldage
 scails
-scalelet
 scaletails
 scaleups
 scalodo
@@ -21536,7 +21359,6 @@ scouse
 scoutish
 scovy
 scowp
-scraggier
 scraich
 scraigh
 scraighed
@@ -21576,9 +21398,7 @@ scritoire
 scrivello
 scriver
 scrobicula
-scroggier
 scroinogh
-scroungier
 scroyle
 scruf
 scruft
@@ -21596,7 +21416,6 @@ scug
 sculle
 sculpture
 scummier
-scungier
 scungili
 scuppaug
 scuse
@@ -21662,7 +21481,6 @@ sedanier
 sedarim
 sedater
 sedentary
-sedgier
 sedimentary
 sedums
 seechelt
@@ -21947,7 +21765,6 @@ shadowier
 shadowishly
 shadowy
 shaganappi
-shaggier
 shagia
 shaglet
 shagrag
@@ -22121,7 +21938,6 @@ shrapnels
 shreeve
 shrewishly
 shrewmouse
-shrinelet
 shriveled
 shrivels
 shriver
@@ -22247,7 +22063,6 @@ singh
 singillatim
 singledom
 singlet
-singsongier
 sinh
 sinhasan
 sinian
@@ -22309,7 +22124,6 @@ skear
 skeens
 skeer
 skeich
-skelet
 skeletonian
 skeletonise
 skeletoniser
@@ -22365,10 +22179,8 @@ skyrockety
 skysails
 slabbies
 slaes
-slaggier
 slaistery
 slalom
-slangier
 slangishly
 slapshots
 slater
@@ -22377,7 +22189,6 @@ slattery
 slaughterhouse
 slaughtery
 slaum
-slavelet
 slavicism
 slavin
 slavishly
@@ -22391,7 +22202,6 @@ sleeken
 sleepsuits
 sleeve
 sleeveens
-sleevelet
 sleighed
 slenderish
 slibbersauce
@@ -22401,7 +22211,6 @@ slightily
 slightish
 slimier
 slims
-slingier
 slingshots
 sliphouse
 slipknots
@@ -22428,7 +22237,6 @@ sloughed
 slovakian
 slovenia
 slovenian
-sludgier
 sluggishly
 sluig
 sluits
@@ -22462,7 +22270,6 @@ smithereens
 smithian
 smithsonian
 smocks
-smoggier
 smoiles
 smokeho
 smokehouse
@@ -22476,7 +22283,6 @@ smoothy
 smoots
 smouse
 smoyle
-smudgier
 smuggishly
 smurs
 smuttily
@@ -22484,13 +22290,11 @@ smyrnaite
 smyrniot
 snack
 snackette
-snaggier
 snaggletooth
 snagrel
 snaileater
 snailishly
 snails
-snakelet
 snakeroots
 snaphaan
 snappishly
@@ -22559,7 +22363,6 @@ sodomitish
 softish
 softlocks
 sogdianian
-soggier
 sohurs
 soiesette
 soils
@@ -22816,13 +22619,11 @@ spieled
 spiffies
 spignels
 spigots
-spikelet
 spiles
 spilt
 spinage
 spinars
 spinas
-spinelet
 spinels
 spinet
 spinette
@@ -22841,7 +22642,6 @@ spiracles
 spiracula
 spiraliser
 spire
-spirelet
 spiric
 spiriferacea
 spiriferid
@@ -22884,10 +22684,8 @@ splinterd
 splintery
 split
 splittist
-splodgier
 splog
 sploots
-splurgier
 spluttery
 spoils
 spoilt
@@ -22895,9 +22693,7 @@ spokan
 spoken
 spoliator
 spondylizema
-spongelet
 spongiculture
-spongier
 spongoid
 spooned
 spoonier
@@ -22923,14 +22719,12 @@ sprawl
 spreazed
 spredde
 spreeuw
-spriggier
 spriglet
 sprigtails
 springald
 springals
 springhase
 springhouse
-springier
 springlet
 springtails
 springwater
@@ -22973,13 +22767,11 @@ squeald
 squeamishly
 squeg
 squelette
-squidgier
 squill
 squinnier
 squinny
 squiredom
 squireens
-squirelet
 squirish
 squirmier
 squirreled
@@ -23004,8 +22796,6 @@ stagedom
 stagehouse
 stagese
 stagette
-staggier
-stagier
 stagnature
 staia
 stairfoots
@@ -23047,7 +22837,6 @@ stasimon
 statal
 statary
 statehouse
-statelet
 stater
 statim
 stationed
@@ -23181,7 +22970,6 @@ stimies
 stimulater
 stimulator
 stingaree
-stingier
 stinkaroo
 stinko
 stinkpots
@@ -23206,7 +22994,6 @@ stocklocks
 stockpiles
 stockpots
 stocks
-stodgier
 stoicism
 stokvels
 stolkjaerre
@@ -23310,7 +23097,6 @@ strigiles
 strigilis
 strigils
 strigine
-stringier
 stringpieces
 strinkles
 striolet
@@ -23338,7 +23124,6 @@ studdingsails
 stude
 studenty
 stuffies
-stuggier
 stuiver
 stultifies
 stumblebunny
@@ -23747,7 +23532,6 @@ surbater
 surette
 surfeit
 surfies
-surgier
 surma
 surmenage
 surmiser
@@ -23818,7 +23602,6 @@ swimsuits
 swinburnian
 swindledom
 swiney
-swingier
 swinishly
 switchels
 swithe
@@ -23996,7 +23779,6 @@ tafinagh
 tagabilis
 tagareens
 tagetes
-taggier
 tagine
 taglet
 tagrag
@@ -24104,7 +23886,6 @@ tangaloa
 tangantangan
 tangaroa
 tangeite
-tangier
 tanglefoots
 tangoed
 tangun
@@ -24191,7 +23972,6 @@ tasajo
 taslet
 tasmanian
 tasseled
-tasselet
 tastekin
 tastily
 tataric
@@ -24279,7 +24059,6 @@ tegumentary
 teheran
 tehsils
 tehuantepecan
-tehuelet
 teils
 tejano
 teknonymies
@@ -24379,7 +24158,6 @@ tepor
 tequistlatecan
 teraohm
 teratogen
-tercelet
 tercentennial
 terebinthian
 terebra
@@ -24524,7 +24302,6 @@ thelorrhagia
 thelyotoky
 thelytoky
 thematist
-themelet
 thenage
 thenars
 theobromic
@@ -24605,7 +24382,6 @@ thigmotropic
 thigmotropism
 thingamabob
 thingamies
-thingier
 thinglet
 thingumabob
 thingumaree
@@ -24635,7 +24411,6 @@ tholemod
 tholoi
 thomsonian
 thonga
-thongier
 thoracectomies
 thoracopagus
 thoracostomies
@@ -24669,7 +24444,6 @@ thrombokinase
 thrombopenia
 throned
 thronedom
-thronelet
 throwoff
 thrummier
 thuban
@@ -24720,7 +24494,6 @@ tiderip
 tidewater
 tidife
 tieclasp
-tiercelet
 tietac
 tietacs
 tifinagh
@@ -24864,7 +24637,6 @@ tombal
 tombe
 tombocs
 tomboyishly
-tomelet
 tommies
 tommyrots
 tomos
@@ -24877,7 +24649,6 @@ tonette
 tonfa
 tonga
 tongan
-tonguelet
 tonguy
 tonier
 tonifies
@@ -25134,7 +24905,6 @@ treckschuyt
 tredecile
 tredefowel
 treehouse
-treelet
 treenails
 treens
 trefoils
@@ -25175,7 +24945,6 @@ triazin
 triazolic
 tribadic
 tribal
-tribelet
 tribromomethane
 tribune
 tributary
@@ -25383,7 +25152,6 @@ tswana
 tuataras
 tubatoxin
 tubectomies
-tubelet
 tubercles
 tubercula
 tuberculid
@@ -25485,7 +25253,6 @@ twaddledom
 twaite
 twals
 twana
-twangier
 tweeled
 tweenage
 tweens
@@ -25495,7 +25262,6 @@ twentyfourmo
 twibil
 twibils
 twier
-twiggier
 twiglet
 twinier
 twinkles
@@ -25680,7 +25446,6 @@ unbouncy
 unbowel
 unboweled
 unboyishly
-unbracelet
 unbroken
 unbrought
 unbrute
@@ -26526,7 +26291,6 @@ valsa
 valuator
 valval
 valvata
-valvelet
 vampire
 vampiric
 vampirish
@@ -26567,7 +26331,6 @@ vasal
 vascula
 vasculature
 vasectomies
-vaselet
 vasodilator
 vasoligature
 vasopressin
@@ -26591,8 +26354,6 @@ veganise
 vegeculture
 vegetals
 vegetist
-veggier
-vegier
 vehicles
 vehicula
 vehm
@@ -26675,7 +26436,6 @@ vernier
 veronicas
 verre
 versa
-verselet
 versette
 versicles
 versificator
@@ -26760,8 +26520,6 @@ vigorish
 viharas
 vilifies
 villaette
-villagelet
-villagier
 villainage
 villaindom
 villanage
@@ -26786,7 +26544,6 @@ vinegarer
 vinegarette
 vinegarish
 vinegarrette
-vinelet
 vinet
 viniculture
 vinier
@@ -26865,9 +26622,7 @@ vociferator
 vocoid
 vodums
 voetstoots
-vogier
 voguishly
-voicelet
 voicemails
 voiles
 voisinage
@@ -26914,7 +26669,6 @@ vrbaite
 vrils
 vrouw
 vrystater
-vuggier
 vulcanian
 vulcanise
 vulcaniser
@@ -27031,7 +26785,6 @@ watson
 wauchle
 waughed
 waught
-wavelet
 waveson
 wavicles
 wawaing
@@ -27066,7 +26819,6 @@ webinars
 webmails
 wedel
 wedeled
-wedgier
 wedlocks
 weeaboo
 weeb
@@ -27151,7 +26903,6 @@ whils
 whimbrel
 whimmier
 whiney
-whingier
 whinier
 whinnier
 whinny
@@ -27190,10 +26941,8 @@ widdrim
 widowy
 wifedom
 wifekin
-wifelet
 wifies
 wifock
-wiggier
 wiglet
 wilcoxon
 wildishly
@@ -27224,7 +26973,6 @@ windway
 winehouse
 winepot
 winey
-wingier
 winglet
 wingsuits
 winier
@@ -27520,14 +27268,12 @@ zeuxian
 zhajiangmian
 zhomos
 ziganka
-zigzaggier
 zimentwater
 zincifies
 zinckifies
 zincoid
 zincy
 zingani
-zingier
 zinkifies
 zinober
 zipa
@@ -27557,7 +27303,6 @@ zombies
 zombifies
 zomotherapeutic
 zoned
-zonelet
 zonulet
 zonurid
 zooculture
