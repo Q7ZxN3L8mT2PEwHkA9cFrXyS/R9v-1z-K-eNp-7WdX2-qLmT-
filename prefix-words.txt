@@ -8,7 +8,6 @@ abama
 abamp
 abandoned
 abarambo
-abassin
 abater
 abator
 abature
@@ -63,7 +62,6 @@ abrosia
 absalom
 abscisic
 abscissa
-abscissin
 abseils
 absinthian
 absohm
@@ -420,7 +418,6 @@ affixture
 afflict
 affluxion
 affogato
-affogatos
 afforce
 aficionadas
 aficionado
@@ -469,7 +466,6 @@ aggrandiser
 aggravator
 aggregatae
 aggregator
-aggressin
 aggressive
 agistator
 agitator
@@ -1063,7 +1059,6 @@ animalcula
 animater
 animatist
 animator
-animatos
 animo
 animoso
 anisaldoxime
@@ -1675,7 +1670,6 @@ arrenotoky
 arrhenatherum
 arrhenotoky
 arribadas
-arricciatos
 arrish
 arrivederla
 arriver
@@ -1780,7 +1774,6 @@ assafetida
 assafoetida
 assagais
 assails
-assassin
 assassinator
 assausive
 assecurator
@@ -2056,9 +2049,7 @@ avys
 awaredom
 awarer
 awater
-awatos
 awesomesauce
-awhatos
 awhirl
 awnier
 awoken
@@ -3022,7 +3013,6 @@ bongar
 bonhomies
 bonhomme
 bonhommies
-boniatos
 bonier
 bonitary
 bonne
@@ -3485,7 +3475,6 @@ buzzard
 buzzies
 bwana
 byronian
-byssin
 caaing
 cabalette
 caballero
@@ -3810,7 +3799,6 @@ carburator
 carburiser
 carcajou
 carcinogen
-cardaissin
 cardecue
 cardhouse
 cardiacea
@@ -3941,7 +3929,6 @@ castigator
 castocks
 castrater
 castrator
-castratos
 casual
 casuarina
 casuarinas
@@ -5211,7 +5198,6 @@ concept
 conceptacles
 conceptual
 conceptualiser
-concertatos
 concertgoers
 concertinaing
 concertinas
@@ -6106,7 +6092,6 @@ dalarnian
 dalibarda
 daltonian
 damaskeens
-damassin
 dambonitol
 damier
 damnifies
@@ -6165,7 +6150,6 @@ datary
 dater
 datil
 datiscosid
-datos
 datum
 daturas
 daubreeite
@@ -8615,7 +8599,6 @@ fantails
 fantasie
 fantasiser
 fantasmagoria
-fantassin
 fantasticism
 fantoccini
 faqirs
@@ -9130,7 +9113,6 @@ fortitude
 fortranh
 fortuitist
 fortunise
-forzatos
 fossette
 fossils
 fossoria
@@ -9299,7 +9281,6 @@ fueled
 fuerte
 fugal
 fugato
-fugatos
 fughette
 fujian
 fulfils
@@ -9587,7 +9568,6 @@ geitonogamies
 geladas
 gelatinise
 gelatiniser
-gelatos
 gelee
 gemaric
 gemel
@@ -9780,7 +9760,6 @@ glasnosts
 glasseye
 glasshouse
 glassifies
-glassin
 glathsheim
 glaucophane
 glaum
@@ -11574,7 +11553,6 @@ impundulu
 impune
 inadhesive
 inaggressive
-inamoratos
 inappertinent
 inapprehensive
 inapropos
@@ -12205,7 +12183,6 @@ jarmo
 jarul
 jason
 jateorhizin
-jatos
 jauntily
 javelinas
 javelot
@@ -12754,7 +12731,6 @@ koumis
 koupreys
 kouras
 kousin
-koussin
 kovil
 kowhais
 kowhaiwhais
@@ -13067,7 +13043,6 @@ legatee
 legati
 legato
 legator
-legatos
 legature
 legendary
 legioned
@@ -13322,7 +13297,6 @@ literaliser
 literatim
 literatist
 literator
-literatos
 literature
 lithe
 lithi
@@ -13599,7 +13573,6 @@ macaronicism
 macas
 macaviator
 maccheroncini
-macchiatos
 macebearer
 macedon
 macedonian
@@ -13895,8 +13868,6 @@ marathonian
 maratist
 maravedis
 maray
-marcassin
-marcatos
 marcello
 marchetti
 marcionitish
@@ -13937,7 +13908,6 @@ marseillaise
 marshlocks
 marshmallowier
 marshmallowy
-martellatos
 martello
 marteniko
 martinet
@@ -14294,7 +14264,6 @@ mesozoans
 mespils
 mesquits
 messidor
-messin
 mestizo
 mesvinian
 metabolic
@@ -14681,7 +14650,6 @@ mobiles
 mobiliser
 moble
 mobula
-mocassin
 moccenigo
 mocha
 mochi
@@ -14700,7 +14668,6 @@ modenas
 moderantist
 moderatist
 moderator
-moderatos
 modernise
 moderniser
 modif
@@ -14950,7 +14917,6 @@ morula
 morw
 mosaicism
 mosasaurid
-moscatos
 mosel
 mosette
 moshavim
@@ -15427,7 +15393,6 @@ neophytish
 neopilinas
 neoplasma
 neoplasticism
-neossin
 neostriatum
 neotenia
 neotoxin
@@ -16055,7 +16020,6 @@ obadiah
 obbies
 obbligati
 obbligato
-obbligatos
 obdiplostemony
 obeliscoid
 obesogen
@@ -16068,7 +16032,6 @@ objurgator
 obligati
 obligato
 obligator
-obligatos
 obligatum
 obligor
 obliterator
@@ -16469,7 +16432,6 @@ osteosuture
 osteotomies
 ostertagia
 ostia
-ostinatos
 ostomies
 ostracea
 ostracean
@@ -18098,12 +18060,10 @@ pithecanthropic
 pithecism
 pithecoid
 pitots
-pitressin
 pituitary
 pivots
 pixie
 pizzaioli
-pizzicatos
 placater
 placean
 placebo
@@ -18666,7 +18626,6 @@ poursuits
 pousadas
 pousse
 poussette
-poussin
 poverish
 powerhouse
 powhatan
@@ -19297,7 +19256,6 @@ prunier
 prusiks
 prussianise
 prussianiser
-prussin
 prutoth
 psaltery
 psammophiles
@@ -19643,7 +19601,6 @@ quashey
 quasicrystals
 quasiparticles
 quasquicentennial
-quassin
 quatrayle
 quatrefoils
 quatrocentist
@@ -19731,7 +19688,6 @@ quomodos
 quotennial
 quotha
 quyte
-rabatos
 rabbi
 rabbies
 rabbindom
@@ -19868,7 +19824,6 @@ rationalisticism
 rationed
 ratlin
 ratooned
-ratos
 rattails
 rattaree
 ratteens
@@ -19941,7 +19896,6 @@ reavails
 reawoken
 rebandage
 rebater
-rebatos
 rebbe
 rebecca
 rebekah
@@ -20740,7 +20694,6 @@ rowy
 roxie
 roystonea
 rubaboo
-rubatos
 rubbaboo
 rubbies
 rubbishly
@@ -20938,7 +20891,6 @@ saltarello
 saltary
 saltator
 saltatoria
-saltatos
 saltcellar
 saltery
 salthouse
@@ -21693,8 +21645,6 @@ sextodecimo
 sextolet
 sextuply
 sfogato
-sforzatos
-sfumatos
 sgabello
 sgraffiti
 sgraffito
@@ -22445,7 +22395,6 @@ sozolic
 spacesuits
 spackles
 spadaite
-spadassin
 spadefoots
 spado
 spaedom
@@ -22549,7 +22498,6 @@ sphinxian
 sphragide
 sphyraena
 spicas
-spiccatos
 spicehouse
 spicery
 spicknels
@@ -22725,7 +22673,6 @@ stabiliser
 stabilizator
 stacationed
 staccado
-staccatos
 stacte
 stadda
 stadhouse
@@ -22887,10 +22834,8 @@ stewhouse
 stewier
 stewpots
 sthenia
-stiacciatos
 stibic
 sticcado
-sticcatos
 stichado
 stickles
 stickums
@@ -23885,7 +23830,6 @@ tarlatan
 tarletan
 taroc
 tarogato
-tarogatos
 taros
 tarots
 tarrish
@@ -24156,7 +24100,6 @@ tetradecanoic
 tetradiapason
 tetradic
 tetradrachm
-tetradrachmon
 tetradynamian
 tetragynian
 tetrahydrid
@@ -24212,7 +24155,6 @@ thallogen
 thalwegs
 thanage
 thanatist
-thanatos
 thane
 thanedom
 thanksgiver
@@ -26261,7 +26203,6 @@ vasculature
 vasectomies
 vasodilator
 vasoligature
-vasopressin
 vasopuncture
 vasospasm
 vasotomies
@@ -26414,7 +26355,6 @@ viator
 vibracula
 vibratiuncles
 vibrator
-vibratos
 vibrissa
 vibroscopic
 vicarii
