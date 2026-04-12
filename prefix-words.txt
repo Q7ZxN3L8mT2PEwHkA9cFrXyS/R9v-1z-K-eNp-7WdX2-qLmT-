@@ -8,7 +8,6 @@ abama
 abamp
 abandoned
 abarambo
-abassin
 abater
 abator
 abature
@@ -63,7 +62,6 @@ abrosia
 absalom
 abscisic
 abscissa
-abscissin
 abseils
 absinthian
 absohm
@@ -469,7 +467,6 @@ aggrandiser
 aggravator
 aggregatae
 aggregator
-aggressin
 aggressive
 agistator
 agitator
@@ -1780,7 +1777,6 @@ assafetida
 assafoetida
 assagais
 assails
-assassin
 assassinator
 assausive
 assecurator
@@ -3485,7 +3481,6 @@ buzzard
 buzzies
 bwana
 byronian
-byssin
 caaing
 cabalette
 caballero
@@ -3810,7 +3805,6 @@ carburator
 carburiser
 carcajou
 carcinogen
-cardaissin
 cardecue
 cardhouse
 cardiacea
@@ -6106,7 +6100,6 @@ dalarnian
 dalibarda
 daltonian
 damaskeens
-damassin
 dambonitol
 damier
 damnifies
@@ -8615,7 +8608,6 @@ fantails
 fantasie
 fantasiser
 fantasmagoria
-fantassin
 fantasticism
 fantoccini
 faqirs
@@ -9780,7 +9772,6 @@ glasnosts
 glasseye
 glasshouse
 glassifies
-glassin
 glathsheim
 glaucophane
 glaum
@@ -12754,7 +12745,6 @@ koumis
 koupreys
 kouras
 kousin
-koussin
 kovil
 kowhais
 kowhaiwhais
@@ -13895,7 +13885,6 @@ marathonian
 maratist
 maravedis
 maray
-marcassin
 marcatos
 marcello
 marchetti
@@ -14294,7 +14283,6 @@ mesozoans
 mespils
 mesquits
 messidor
-messin
 mestizo
 mesvinian
 metabolic
@@ -14681,7 +14669,6 @@ mobiles
 mobiliser
 moble
 mobula
-mocassin
 moccenigo
 mocha
 mochi
@@ -15427,7 +15414,6 @@ neophytish
 neopilinas
 neoplasma
 neoplasticism
-neossin
 neostriatum
 neotenia
 neotoxin
@@ -18098,7 +18084,6 @@ pithecanthropic
 pithecism
 pithecoid
 pitots
-pitressin
 pituitary
 pivots
 pixie
@@ -18666,7 +18651,6 @@ poursuits
 pousadas
 pousse
 poussette
-poussin
 poverish
 powerhouse
 powhatan
@@ -19297,7 +19281,6 @@ prunier
 prusiks
 prussianise
 prussianiser
-prussin
 prutoth
 psaltery
 psammophiles
@@ -19643,7 +19626,6 @@ quashey
 quasicrystals
 quasiparticles
 quasquicentennial
-quassin
 quatrayle
 quatrefoils
 quatrocentist
@@ -22445,7 +22427,6 @@ sozolic
 spacesuits
 spackles
 spadaite
-spadassin
 spadefoots
 spado
 spaedom
@@ -24156,7 +24137,6 @@ tetradecanoic
 tetradiapason
 tetradic
 tetradrachm
-tetradrachmon
 tetradynamian
 tetragynian
 tetrahydrid
@@ -26261,7 +26241,6 @@ vasculature
 vasectomies
 vasodilator
 vasoligature
-vasopressin
 vasopuncture
 vasospasm
 vasotomies
