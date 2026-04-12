@@ -1051,7 +1051,6 @@ angiotensinase
 angiotonase
 anglaise
 anglepod
-angles
 anglic
 anglicism
 anglifies
@@ -1633,7 +1632,6 @@ argillic
 argils
 arginase
 argine
-argles
 argolet
 argolic
 argonautic
@@ -2285,7 +2283,6 @@ banduras
 bandwagoned
 bangkoks
 bangladeshi
-bangles
 bangtails
 banh
 banian
@@ -2480,7 +2477,6 @@ beaconage
 beaconed
 beadhouse
 beadledom
-beagles
 beamed
 beamhouse
 beamier
@@ -2523,7 +2519,6 @@ becrawl
 becreep
 becudgeled
 becushioned
-bedaggles
 bedazed
 bedeafen
 bedegar
@@ -2534,7 +2529,6 @@ bedin
 bedlamitish
 bedouse
 bedposts
-bedraggles
 bedrails
 bedrid
 bedriveled
@@ -2620,7 +2614,6 @@ beluga
 bemadamed
 bemazed
 bemetes
-bemingles
 bemoans
 bemocks
 bemoils
@@ -2697,7 +2690,6 @@ besonian
 besots
 besought
 bespake
-bespangles
 bespeckles
 besplit
 bespoken
@@ -2832,7 +2824,6 @@ bimetallic
 bimetals
 bimillenial
 bimillennial
-bingles
 bingoed
 binh
 binnacles
@@ -3017,10 +3008,8 @@ boethian
 boffinier
 bogan
 boggier
-boggles
 bogier
 bogledom
-bogles
 boglet
 bohairic
 bohemian
@@ -3084,7 +3073,6 @@ boomah
 boomier
 boomy
 boondocks
-boondoggles
 boopic
 boorish
 boorishly
@@ -3229,7 +3217,6 @@ branchiopod
 branchiostege
 branchiura
 brandrith
-brangles
 branial
 branle
 brannier
@@ -3427,7 +3414,6 @@ bugeye
 buggier
 bughouse
 bught
-bugles
 buglet
 bukkake
 bulbilis
@@ -3462,7 +3448,6 @@ bumpkinet
 bumpoff
 buncombe
 bundocks
-bungles
 buninahua
 bunkhouse
 bunko
@@ -3487,7 +3472,6 @@ burgamot
 burgeoned
 burghal
 burghuls
-burgles
 burgonet
 burhels
 buriat
@@ -3727,7 +3711,6 @@ canephoroi
 canette
 cangan
 cangenet
-cangles
 canicula
 canier
 canioned
@@ -3986,7 +3969,6 @@ cassenas
 cassette
 cassinas
 cassinette
-cassingles
 cassinian
 cassius
 cassocks
@@ -4667,7 +4649,6 @@ christendom
 christianise
 christianiser
 christianomastix
-christingles
 christkindlesmarkt
 christkindlmarkt
 christophe
@@ -5063,7 +5044,6 @@ coffeepots
 coformulator
 cogenerator
 cogenial
-coggles
 cogitator
 cogito
 cognise
@@ -5191,7 +5171,6 @@ cometary
 comfiture
 comfreys
 comic
-comingles
 comitadji
 comitje
 commaing
@@ -5204,7 +5183,6 @@ commentary
 commentator
 commies
 comminator
-commingles
 commiserator
 commissariat
 commissioned
@@ -5867,7 +5845,6 @@ criminol
 crimsoned
 crinet
 cringier
-cringles
 criniculture
 crinid
 crinkleroots
@@ -6174,7 +6151,6 @@ daffies
 daffodils
 dagesh
 daggier
-daggles
 daghesh
 daglocks
 daguerreotyper
@@ -6218,7 +6194,6 @@ dandifies
 dandisette
 dandizette
 dandyishly
-dangles
 danian
 danicism
 danli
@@ -6236,7 +6211,6 @@ darbies
 darbukka
 daredevils
 darer
-dargles
 daric
 darii
 darkles
@@ -6685,7 +6659,6 @@ desulphurs
 desume
 desuperheater
 details
-detangles
 detasseled
 detentist
 deteriorator
@@ -6943,7 +6916,6 @@ dinars
 dinette
 dingar
 dingier
-dingles
 dingoed
 dinitrogen
 dinka
@@ -7036,12 +7008,10 @@ disembargoed
 disembay
 disembowel
 disemboweled
-disembrangles
 disembroils
 disemvowel
 disennoble
 disentails
-disentangles
 disenthroned
 disentrails
 disentrayle
@@ -7295,7 +7265,6 @@ donegals
 donepezils
 donet
 donga
-dongles
 dongxiao
 donjons
 donko
@@ -7396,7 +7365,6 @@ draconian
 dracovenator
 draftily
 draggier
-draggles
 dragonade
 dragonet
 dragonise
@@ -7627,7 +7595,6 @@ dystrophin
 dysury
 dzeren
 dzungar
-eagles
 eaglet
 earjewel
 earlocks
@@ -7850,7 +7817,6 @@ embowel
 emboweled
 embraceor
 embracery
-embrangles
 embrocado
 embroils
 embroscopic
@@ -8062,7 +8028,6 @@ ensulphur
 entablature
 entails
 entamed
-entangles
 entayle
 enterectomies
 entericoid
@@ -8110,7 +8075,6 @@ enucleator
 enumerator
 enunciator
 enveigle
-enveigles
 enventual
 envermeil
 envermeils
@@ -8725,11 +8689,9 @@ famulli
 fanaticism
 fanbearer
 fancifies
-fandangles
 fandom
 fanegadas
 fanfaronade
-fangles
 fanglet
 fanhouse
 fanioned
@@ -8851,7 +8813,6 @@ feminise
 femmier
 femtometre
 femurs
-fenagles
 fencelet
 fenetre
 fenian
@@ -8965,7 +8926,6 @@ filmogen
 filosofe
 fils
 fimbriatum
-finagles
 finaliser
 finfoots
 fingan
@@ -9140,7 +9100,6 @@ foeture
 fogeater
 fogfruits
 foggier
-fogles
 fogon
 foils
 foldage
@@ -9220,7 +9179,6 @@ forethink
 forethought
 foretoken
 foretooth
-foretriangles
 foreuse
 foreweighed
 forewrought
@@ -9445,7 +9403,6 @@ fugato
 fugatos
 fuggier
 fughette
-fugles
 fujian
 fulfils
 fulgide
@@ -9526,7 +9483,6 @@ gaduin
 gaelicism
 gaffsails
 gageite
-gaggles
 gagtooth
 gainage
 galactagoguic
@@ -9620,7 +9576,6 @@ gandhian
 gangan
 gangava
 gangerel
-gangles
 gangliasthenia
 ganglionectomies
 ganglioneuron
@@ -9640,7 +9595,6 @@ garda
 gardenia
 gardinol
 garewaite
-gargles
 gargoyle
 gargoylishly
 garish
@@ -9864,7 +9818,6 @@ gigamaree
 gigas
 gigge
 giggledom
-giggles
 gigi
 giglet
 giglots
@@ -9891,7 +9844,6 @@ gingili
 gingilis
 gingiva
 gingivectomies
-gingles
 ginglymi
 ginhouse
 ginkgo
@@ -10031,7 +9983,6 @@ goetae
 goethian
 goetia
 gogga
-goggles
 goglet
 goitrogen
 goldbeater
@@ -10089,7 +10040,6 @@ goober
 goobies
 goodenia
 goodyera
-googles
 gooma
 goombay
 goonier
@@ -10263,7 +10213,6 @@ grieces
 griffinage
 griffonage
 griffonne
-griggles
 grihyasutra
 grilse
 grimier
@@ -10366,7 +10315,6 @@ guetre
 guffies
 gufought
 gugal
-guggles
 gugglet
 guglet
 guidage
@@ -10408,7 +10356,6 @@ gunny
 gunshots
 gunstocks
 gurdwaras
-gurgles
 gurglet
 gurgoyl
 gurgoyle
@@ -10507,7 +10454,6 @@ haggadal
 haggadas
 haggadic
 haggishly
-haggles
 hagia
 hagiolater
 hagioscopic
@@ -11028,7 +10974,6 @@ hieroglyphize
 hierogrammatist
 hieronymian
 hifalutin
-higgles
 highbrowism
 highed
 highfalutin
@@ -11224,7 +11169,6 @@ horme
 hormigo
 hormogon
 hornier
-hornswoggles
 horntails
 horoekas
 horoptery
@@ -11660,7 +11604,6 @@ imbellic
 imbizo
 imblazed
 imbracery
-imbrangles
 imbrex
 imbrocado
 imbrue
@@ -11680,7 +11623,6 @@ immersive
 immies
 immigrator
 imminent
-immingles
 immixture
 immobiles
 immobiliser
@@ -11888,7 +11830,6 @@ ingenia
 ingenier
 ingine
 ingiver
-ingles
 inglesa
 ingorge
 ingots
@@ -12050,7 +11991,6 @@ intermedin
 intermembral
 intermetallic
 intermingledom
-intermingles
 intermissive
 intermixture
 intermomentary
@@ -12085,7 +12025,6 @@ interspire
 interstellar
 interstratifies
 interstructure
-intertangles
 intertextual
 intertexture
 intertribal
@@ -12154,10 +12093,8 @@ inupiaqs
 inupiat
 invalidator
 invasive
-inveagles
 inveighed
 inveigle
-inveigles
 inventary
 inverisimilitude
 inversive
@@ -12372,7 +12309,6 @@ jamnia
 jampan
 jampots
 jangar
-jangles
 jannocks
 japanise
 japishly
@@ -12460,7 +12396,6 @@ jiffies
 jigaboo
 jigamaree
 jiggier
-jiggles
 jigots
 jilebi
 jillaroo
@@ -12469,7 +12404,6 @@ jimbo
 jimmies
 jinbeis
 jingals
-jingles
 jinglet
 jingoed
 jinjilis
@@ -12494,7 +12428,6 @@ jocko
 jocks
 joculator
 jocuno
-joggles
 jogtrots
 johnian
 johnsonian
@@ -12541,7 +12474,6 @@ jugals
 jugatae
 jugerum
 juggernautish
-juggles
 juglet
 juicery
 jujitsus
@@ -12559,7 +12491,6 @@ jumprocks
 jumpshots
 jumpsuits
 juncture
-jungles
 junkanoo
 junkerish
 junonian
@@ -12766,7 +12697,6 @@ ketupat
 keuper
 kevels
 kevils
-keybugles
 keyseater
 keystoned
 kgotlas
@@ -12831,7 +12761,6 @@ kinase
 kindjal
 kineticism
 kinetoscopic
-kingles
 kinglet
 kingposts
 kininogen
@@ -12880,7 +12809,6 @@ kiwifruits
 kkakdugi
 klaxon
 klaxoned
-kleagles
 kleinian
 klendusive
 klepht
@@ -12972,7 +12900,6 @@ krausen
 krautrocks
 kreep
 krina
-kringles
 krishi
 krishna
 krishnaite
@@ -13476,7 +13403,6 @@ lineups
 liney
 lingayat
 lingier
-lingles
 lingots
 lingoum
 lingual
@@ -14066,7 +13992,6 @@ manganja
 mangar
 mangier
 mangkukulam
-mangles
 mangonel
 mangonels
 mangosteens
@@ -14710,7 +14635,6 @@ midseason
 midsummerish
 midwater
 midway
-miggles
 mightily
 mignonette
 mignonne
@@ -14758,7 +14682,6 @@ mineralocorticoid
 minerva
 minette
 mingier
-mingles
 miniator
 miniature
 minibar
@@ -14843,8 +14766,6 @@ misfiles
 misframed
 misfunctioned
 misgesture
-misguggles
-mishguggles
 misidentifies
 misimagine
 misimproves
@@ -15284,7 +15205,6 @@ muette
 mufasal
 muflons
 muggier
-muggles
 muggletonian
 mughal
 mughouse
@@ -15757,7 +15677,6 @@ nevels
 neverthelater
 newbies
 newel
-newfangles
 newfashioned
 newies
 newishly
@@ -15797,7 +15716,6 @@ niello
 niflheim
 niftily
 nigel
-niggles
 nighed
 nightery
 nightish
@@ -16382,7 +16300,6 @@ octadrachm
 octaeterid
 octals
 octandria
-octangles
 octary
 octavo
 octennial
@@ -16436,7 +16353,6 @@ offseason
 offshoots
 ofthink
 oftwhiles
-ogles
 ogreishly
 ogrish
 ogrishly
@@ -16810,7 +16726,6 @@ outhauler
 outhouse
 outhut
 outish
-outjuggles
 outlandishly
 outlaughed
 outliver
@@ -17152,7 +17067,6 @@ paganishly
 pagedom
 pagine
 pagiopod
-pagles
 pagnes
 pagoda
 pagurid
@@ -17161,7 +17075,6 @@ paiche
 paiconeca
 paideutic
 paigle
-paigles
 pailette
 paillette
 paillons
@@ -17725,7 +17638,6 @@ pentagynian
 pentameran
 pentamerid
 pentandria
-pentangles
 pentanoic
 pentasyllabic
 pentathla
@@ -18308,7 +18220,6 @@ pindaric
 pindjajap
 pinealectomies
 piney
-pingles
 pinguecula
 pinguefies
 pinguicula
@@ -18786,7 +18697,6 @@ popsicles
 popsocks
 populariser
 populator
-porbeagles
 porcelainise
 porcellanian
 porcellanise
@@ -18839,7 +18749,6 @@ portulaca
 portulacas
 portunian
 porture
-porwiggles
 porwigle
 posadas
 poseidonian
@@ -19730,7 +19639,6 @@ pugenello
 puggaree
 puggi
 puggier
-puggles
 pugils
 pujari
 pukas
@@ -19773,7 +19681,6 @@ punctuator
 puncture
 puneca
 pungar
-pungles
 punier
 punitur
 punjabi
@@ -19894,7 +19801,6 @@ qorma
 quackishly
 quackles
 quadrae
-quadrangles
 quadratojugal
 quadrator
 quadratum
@@ -20085,7 +19991,6 @@ raffishly
 rafik
 ragequits
 raggier
-raggles
 raghouse
 ragini
 raglet
@@ -20328,7 +20233,6 @@ recreator
 recriminator
 recruitals
 recruits
-rectangles
 rectectomies
 recti
 rectificator
@@ -20465,7 +20369,6 @@ reisner
 reistafel
 reiterator
 reiver
-rejuggles
 rejustifies
 rejuvenator
 rejuvenise
@@ -20623,7 +20526,6 @@ reseiser
 reserve
 resex
 reshearer
-reshingles
 reshoots
 resignatary
 resiles
@@ -21666,7 +21568,6 @@ screwdriver
 screwier
 scribal
 scribbledom
-scriggles
 scripophiles
 scriptoria
 scripture
@@ -21806,7 +21707,6 @@ semialcoholic
 semiamplitude
 semian
 semianatomic
-semiangles
 semiape
 semiaperture
 semibarbaric
@@ -22154,7 +22054,6 @@ shillhouse
 shilluk
 shillyshallyer
 shimmies
-shingles
 shinier
 shinny
 shinola
@@ -22188,13 +22087,11 @@ shocks
 shockumentary
 shode
 shoers
-shoggles
 shojo
 sholom
 shona
 shoneens
 shonen
-shoogles
 shoole
 shoora
 shootist
@@ -22349,7 +22246,6 @@ singarip
 singh
 singillatim
 singledom
-singles
 singlet
 singsongier
 sinh
@@ -22582,7 +22478,6 @@ smouse
 smoyle
 smudgier
 smuggishly
-smuggles
 smurs
 smuttily
 smyrnaite
@@ -22590,7 +22485,6 @@ smyrniot
 snack
 snackette
 snaggier
-snaggles
 snaggletooth
 snagrel
 snaileater
@@ -22610,7 +22504,6 @@ sneakishly
 sneaksbies
 snebbe
 sniffishly
-sniggles
 sniglet
 snithe
 snitz
@@ -22640,7 +22533,6 @@ snowsuits
 snowy
 snubbe
 snubbishly
-snuggles
 soapie
 soaproots
 soare
@@ -22828,7 +22720,6 @@ spammier
 spammies
 spanceled
 spandrils
-spangles
 spanglet
 spanioli
 spanishize
@@ -23026,7 +22917,6 @@ sprachle
 sprackles
 spraich
 spraing
-sprangles
 sprauchle
 sprauncy
 sprawl
@@ -23041,7 +22931,6 @@ springals
 springhase
 springhouse
 springier
-springles
 springlet
 springtails
 springwater
@@ -23085,7 +22974,6 @@ squeamishly
 squeg
 squelette
 squidgier
-squiggles
 squill
 squinnier
 squinny
@@ -23371,13 +23259,11 @@ stracchino
 stract
 stradiots
 stradl
-straggles
 straightish
 strak
 straka
 stramony
 strandage
-strangles
 strappado
 strappadoed
 stratagem
@@ -23444,7 +23330,6 @@ strophe
 strophomenacea
 structure
 strudel
-struggles
 struthian
 struv
 stubbies
@@ -23859,7 +23744,6 @@ surahi
 suras
 surbahar
 surbater
-surcingles
 surette
 surfeit
 surfies
@@ -23935,7 +23819,6 @@ swinburnian
 swindledom
 swiney
 swingier
-swingles
 swinishly
 switchels
 swithe
@@ -24130,7 +24013,6 @@ taich
 taichi
 taigas
 taigle
-taigles
 taihoaing
 taiko
 taikun
@@ -24224,7 +24106,6 @@ tangaroa
 tangeite
 tangier
 tanglefoots
-tangles
 tangoed
 tangun
 tanh
@@ -24358,7 +24239,6 @@ tcawi
 tcharik
 tcherkess
 teacherish
-teagles
 teahouse
 teaing
 teamed
@@ -24888,7 +24768,6 @@ tinderish
 tineas
 tineola
 tinfoils
-tingles
 tinguaite
 tinguy
 tinhouse
@@ -24956,7 +24835,6 @@ toenails
 toepieces
 toerag
 toffies
-toggles
 tohubohu
 toiles
 toilette
@@ -25168,7 +25046,6 @@ trampette
 trampishly
 trampism
 trampy
-trangles
 tranka
 trankums
 tranq
@@ -25283,7 +25160,6 @@ triacontaeterid
 triadic
 triakisoctahedrid
 triandria
-triangles
 triangulator
 triangulid
 triarii
@@ -25369,7 +25245,6 @@ trimpots
 trina
 trinerve
 tringine
-tringles
 tringoid
 trinitrocarbolic
 trinitromethane
@@ -25611,7 +25486,6 @@ twaite
 twals
 twana
 twangier
-twangles
 tweeled
 tweenage
 tweens
@@ -26184,7 +26058,6 @@ unmentioned
 unmetallic
 unmicroscopic
 unmilitary
-unmingles
 unmisanthropic
 unmoble
 unmodeled
@@ -26410,7 +26283,6 @@ untackles
 untactual
 untaloned
 untamed
-untangles
 untasseled
 untastily
 untaught
@@ -26679,7 +26551,6 @@ varas
 varda
 vareuse
 variadic
-variagles
 variator
 varicellar
 varicoid
@@ -27063,7 +26934,6 @@ wafture
 wagati
 wagedom
 waggishly
-waggles
 waggonage
 waggoned
 waggonette
@@ -27099,14 +26969,12 @@ walleye
 wallonian
 wallowishly
 wallydraigle
-wallydraigles
 walsh
 waltonian
 waltzed
 wamed
 wandought
 wangan
-wangles
 wangtooth
 wangun
 wanier
@@ -27129,7 +26997,6 @@ warmhouse
 warnage
 warniss
 warragals
-warragles
 warratau
 warreys
 warrigals
@@ -27327,7 +27194,6 @@ wifelet
 wifies
 wifock
 wiggier
-wiggles
 wiglet
 wilcoxon
 wildishly
@@ -27389,7 +27255,6 @@ wizard
 woadwaxen
 wochua
 wocks
-woggles
 woken
 wokka
 wolfishly
@@ -27447,11 +27312,9 @@ wots
 wourali
 wowserish
 wraithe
-wrangles
 wraple
 wrawl
 wreathage
-wriggles
 wrinkles
 wrinklie
 wristlocks
