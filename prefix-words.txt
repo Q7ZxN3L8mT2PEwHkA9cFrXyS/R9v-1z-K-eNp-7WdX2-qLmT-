@@ -97,7 +97,6 @@ acantholimon
 acanthopod
 acanthopteran
 acapnial
-acaras
 acaridan
 acarina
 acastus
@@ -406,7 +405,6 @@ aesture
 aestus
 aethogen
 aetiotropic
-afaras
 affaite
 affeare
 affectioned
@@ -515,7 +513,6 @@ aguara
 aguishly
 agura
 ahaaina
-ahamkaras
 ahrimanian
 aidis
 aidoi
@@ -553,7 +550,6 @@ ajari
 ajhar
 ajonjoli
 ajoure
-akaras
 akaroa
 akathisia
 akazgine
@@ -561,7 +557,6 @@ akcheh
 akene
 akenial
 akenobeite
-akharas
 akhrot
 akimbo
 akiraho
@@ -1129,7 +1124,6 @@ antanagoge
 antapex
 antaphrodisiac
 antapocha
-antaras
 antarctica
 anteater
 antecabinet
@@ -1482,7 +1476,6 @@ aprilis
 aproned
 apropos
 aprosexia
-apsaras
 apteran
 apterygial
 apterygogenea
@@ -1502,7 +1495,6 @@ aquilons
 aquinas
 aquitanian
 aquiver
-araaras
 arabic
 arabicas
 arabicism
@@ -2117,7 +2109,6 @@ babyhouse
 babyishly
 babylonian
 bacauan
-baccaras
 bacchian
 bachata
 bachelorette
@@ -3778,14 +3769,12 @@ capture
 capuche
 capul
 capulet
-capybaras
 caqueteuse
 caquetoire
 carabidan
 carabin
 carabinier
 caraboa
-caracaras
 caracas
 caracoa
 caract
@@ -3809,7 +3798,6 @@ carbonade
 carbonado
 carbonadoed
 carbonara
-carbonaras
 carbonator
 carboned
 carbonette
@@ -3922,7 +3910,6 @@ caryota
 casal
 cascado
 cascaduras
-cascaras
 casebearer
 casefies
 caseinogen
@@ -4292,8 +4279,6 @@ characinid
 charact
 characteriser
 charactery
-chararas
-charas
 charbonnier
 charbroils
 charer
@@ -4464,7 +4449,6 @@ chiffonnier
 chignoned
 chihuahua
 chihuahuas
-chikaras
 chikungunya
 childage
 childishly
@@ -4495,7 +4479,6 @@ chinas
 chinchillette
 chinchona
 chink
-chinkaras
 chinnier
 chinny
 chino
@@ -4763,7 +4746,6 @@ cistus
 citals
 citator
 citatum
-citharas
 citharista
 citharoedus
 citicism
@@ -5964,7 +5946,6 @@ cupronickels
 curacaoans
 curacoa
 curagh
-curaras
 curator
 curavecan
 curette
@@ -6416,7 +6397,6 @@ demarcature
 demaree
 demasculinise
 demeane
-demeraras
 demesgnes
 demesnial
 demibastioned
@@ -6492,7 +6472,6 @@ denture
 denty
 denunciator
 denyer
-deodaras
 deodoriser
 deoxidator
 deoxidiser
@@ -7435,7 +7414,6 @@ dukely
 dukka
 dukkhas
 dulat
-dulcamaras
 dulcifies
 dulcineas
 dulcitol
@@ -10265,7 +10243,6 @@ gunnera
 gunny
 gunshots
 gunstocks
-gurdwaras
 gurglet
 gurgoyl
 gurgoyle
@@ -10355,7 +10332,6 @@ haemorrhage
 haemorrhagia
 haemotoxin
 haftarah
-haftaras
 haftaros
 hagadic
 hagdin
@@ -10465,7 +10441,6 @@ hanseled
 hanuman
 haphazard
 haphtarah
-haphtaras
 hapkidos
 haplobiont
 haplomi
@@ -10481,7 +10456,6 @@ haptotropism
 hapukas
 haramda
 haramzadas
-haras
 hardboots
 hardbought
 hardlocks
@@ -10620,7 +10594,6 @@ heils
 heishe
 heishi
 hejazi
-heketaras
 helcoid
 heled
 helewou
@@ -12495,7 +12468,6 @@ karakias
 karakul
 karamojo
 karangaing
-karas
 karatekas
 karmathian
 karoo
@@ -12654,7 +12626,6 @@ kimbo
 kimboed
 kinakinas
 kinara
-kinaras
 kinas
 kinase
 kindjal
@@ -12686,7 +12657,6 @@ kitchendom
 kitchenet
 kitchenette
 kitcheny
-kitharas
 kithe
 kitish
 kitschifies
@@ -12820,7 +12790,6 @@ kuli
 kullaite
 kuman
 kumarahou
-kumaras
 kumikumis
 kumis
 kumkums
@@ -13835,7 +13804,6 @@ mammogen
 mammondom
 mammonitish
 mamoty
-mamparas
 mampoers
 manacles
 manage
@@ -13920,7 +13888,6 @@ marah
 marajoara
 maraka
 maranathas
-maras
 marascas
 maraschino
 marathi
@@ -13940,7 +13907,6 @@ mariculture
 marina
 marinade
 marinara
-marinaras
 marinas
 marinera
 mariolater
@@ -13986,7 +13952,6 @@ marvels
 marxian
 masanobu
 mascaraing
-mascaras
 mascles
 mascots
 masculinise
@@ -15111,7 +15076,6 @@ multilingual
 multilobar
 multimetallic
 multimillennial
-multiparas
 multiphase
 multiphoton
 multipicture
@@ -15325,8 +15289,6 @@ nanotesla
 naphthas
 naphthoresorcinol
 napoo
-naqqaras
-naras
 narceen
 narceens
 narciscissi
@@ -15552,13 +15514,11 @@ newtonian
 nexal
 nexum
 nexus
-ngararas
 ngati
 nguni
 ngunnawal
 ngwee
 nhandu
-niagaras
 niccolic
 nicenian
 nicetish
@@ -16044,7 +16004,6 @@ nudzh
 nugator
 nullificator
 nullifies
-nulliparas
 nullisomic
 numbskull
 numerator
@@ -16226,7 +16185,6 @@ oilstove
 oinochoai
 oiticicas
 okanagan
-okaras
 okinagan
 okinawa
 oklahannali
@@ -16479,7 +16437,6 @@ orthoxazin
 ortolan
 ortygine
 orvietan
-oryctolagus
 oschophoria
 oscillator
 oscillatoria
@@ -17173,7 +17130,6 @@ paranucleic
 paranuclein
 paranym
 paranyms
-paraparas
 parapegm
 paraphototropism
 paraphragm
@@ -17185,7 +17141,6 @@ parapterum
 paraquito
 pararhotacism
 pararosolic
-paras
 parasails
 parascenia
 parasceve
@@ -17684,7 +17639,6 @@ pestis
 petals
 petaly
 petametre
-petaras
 petary
 petasma
 petaurista
@@ -17970,7 +17924,6 @@ pibal
 piblokto
 pibloktoq
 picaninny
-picaras
 picarii
 picarooned
 picaros
@@ -18137,7 +18090,6 @@ pistils
 pistolero
 pistolet
 pitarah
-pitaras
 pitau
 pitawas
 piteira
@@ -18292,7 +18244,6 @@ pluraliser
 plurel
 plurennial
 plurilingual
-pluriparas
 plurisyllabic
 plushette
 plushly
@@ -19063,7 +19014,6 @@ primatals
 primeur
 primigenial
 primigenian
-primiparas
 primogenial
 primogenitary
 primogeniture
@@ -21007,7 +20957,6 @@ salutoria
 salvator
 salvetes
 samaan
-samaras
 sambaed
 sambaing
 sambal
@@ -21031,9 +20980,7 @@ samosatenian
 sampaloc
 sampan
 sampire
-samsaras
 samsaric
-samskaras
 samsonian
 sanai
 sanatoria
@@ -21137,15 +21084,12 @@ sarsenet
 sartish
 saruk
 sasan
-sasararas
 sassabies
 sassafac
 sassanian
-sassararas
 sastrugi
 satai
 satan
-sataras
 satcheled
 satchels
 sateens
@@ -21191,7 +21135,6 @@ saxonian
 sayette
 sayon
 sayonara
-sayonaras
 sayons
 sazhen
 sbaikian
@@ -21860,7 +21803,6 @@ shibuya
 shieled
 shiftily
 shikar
-shikaras
 shikaree
 shikimi
 shikimol
@@ -22383,7 +22325,6 @@ solenacean
 solenette
 solenial
 solenostomus
-solfataras
 solfataric
 solfeggi
 solicitude
@@ -22588,7 +22529,6 @@ spermatozoid
 spermophiles
 spermotoxin
 speronara
-speronaras
 speronaros
 sperre
 speug
@@ -23854,7 +23794,6 @@ tamanaca
 tamandu
 tamanoas
 tamaraite
-tamaras
 tamaroa
 tamaulipecan
 tambaroora
@@ -23906,8 +23845,6 @@ tannogen
 tanoan
 tanquelinian
 tantaliser
-tantararas
-tantaras
 tantawy
 tanuki
 tanzanian
@@ -23932,12 +23869,9 @@ taqiya
 taquito
 taramea
 tarantaraing
-tarantaras
 tarantist
 tarantulid
-taras
 taratantaraing
-taratantaras
 tarazed
 tarbagan
 tarbogan
@@ -24175,7 +24109,6 @@ termitary
 terpinol
 terracette
 terraculture
-terramaras
 terraquedus
 terre
 terreens
@@ -24478,7 +24411,6 @@ thyrotrophin
 thyrotropic
 thyroxin
 thysanopteran
-tiaras
 tibetan
 tibicen
 tibiofibula
@@ -24730,7 +24662,6 @@ totalitarianise
 totalizator
 totals
 totaquina
-totaras
 totchka
 totery
 totipalmatae
@@ -24765,7 +24696,6 @@ towy
 toxicoid
 toxin
 toxiphagus
-toxocaras
 toxon
 toxoplasma
 toyhouse
@@ -25149,7 +25079,6 @@ tsuki
 tsukimi
 tsurugi
 tswana
-tuataras
 tubatoxin
 tubectomies
 tubercles
@@ -26311,7 +26240,6 @@ vapouriser
 vapourish
 varahan
 varanian
-varas
 varda
 vareuse
 variadic
@@ -26517,7 +26445,6 @@ vignette
 vignettist
 vigor
 vigorish
-viharas
 vilifies
 villaette
 villainage
@@ -27039,7 +26966,6 @@ woolshearer
 wooned
 woopsed
 woorali
-wooraras
 woosel
 wordage
 wordishly
