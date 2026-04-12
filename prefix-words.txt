@@ -1,5 +1,4 @@
 aardvark
-aaron
 abacas
 abaiser
 abamp
@@ -20,7 +19,6 @@ abies
 abietes
 abigails
 abitur
-ablepharon
 abnaki
 aboardage
 abobra
@@ -109,8 +107,6 @@ acetoin
 acetonitriles
 acetoxime
 acetract
-acetylaminobenzene
-acetylbenzene
 acetylenogen
 acetylmethylcarbinol
 acetylthymol
@@ -193,7 +189,6 @@ acutilingual
 acutish
 acyclovir
 acylamido
-acylamidobenzene
 acylogen
 acyloxy
 acystia
@@ -560,7 +555,6 @@ alloy
 allumette
 allusive
 alluvio
-allylbenzene
 almanack
 almemor
 almightily
@@ -644,7 +638,6 @@ ametaboly
 ametropic
 amidakuji
 amido
-amidoazobenzene
 amidocyanogen
 amidogen
 amidoxime
@@ -653,8 +646,6 @@ amiga
 amigas
 amigo
 amiles
-aminoazobenzene
-aminobenzene
 aminogen
 amioidei
 amixia
@@ -858,7 +849,6 @@ anisopod
 anisotropic
 ankles
 ankush
-ankyloblepharon
 annelidan
 annerre
 annette
@@ -1043,7 +1033,6 @@ antiritual
 antischizophrenia
 antiscolic
 antiscorbutic
-antisecrecy
 antiseparatist
 antiserum
 antishocks
@@ -1365,7 +1354,6 @@ arroyo
 arroyos
 arsacidan
 arseniopleite
-arsenobenzene
 artefactual
 artemisia
 artemisic
@@ -1400,10 +1388,8 @@ arverni
 asafetida
 asafoetida
 asaphid
-asaron
 asbolan
 ascanian
-ascaron
 ascend
 ascendeur
 ascensive
@@ -1574,7 +1560,6 @@ aurora
 ausonian
 auspex
 autacoid
-autecy
 authoriser
 autist
 autoabstract
@@ -1590,7 +1575,6 @@ autocoid
 autocompletes
 autocycles
 autodrainage
-autoecy
 autoette
 autogamies
 autointellectual
@@ -1672,12 +1656,9 @@ azeotropic
 azerbaijanian
 azeri
 azido
-aziminobenzene
 azlons
-azobenzene
 azogallein
 azoxime
-azoxybenzene
 aztecan
 baaing
 babbishly
@@ -1879,7 +1860,6 @@ barnier
 barocks
 barolo
 barometz
-baron
 baronage
 baronduki
 baronet
@@ -2021,7 +2001,6 @@ beauclerc
 beaume
 beautifuler
 beaverette
-bebaron
 bebuttoned
 becater
 bechalk
@@ -2131,8 +2110,6 @@ benty
 benzaldoxime
 benzamido
 benzantialdoxime
-benzene
-benzeneazobenzene
 benzils
 benzoglycolic
 benzoid
@@ -2731,11 +2708,9 @@ brogan
 broils
 broken
 bromal
-brombenzene
 bromian
 bromic
 bromo
-bromobenzene
 bromocyanogen
 bromothymol
 bromouracils
@@ -3031,7 +3006,6 @@ calypsonian
 calyptratae
 calyptrogen
 camails
-camaron
 cambouis
 cambrel
 camelot
@@ -3233,7 +3207,6 @@ carolan
 carolinas
 carolinian
 carombolette
-caron
 carouba
 carouse
 carpathian
@@ -3273,7 +3246,6 @@ casal
 cascado
 cascaduras
 cascaras
-cascaron
 caseinogen
 casern
 casette
@@ -3591,7 +3563,6 @@ charlatan
 charlestoned
 charlocks
 charmeuse
-charon
 charonian
 charoset
 charreadas
@@ -3791,7 +3762,6 @@ chloasma
 chlor
 chloragogen
 chlorambucils
-chlorobenzene
 chlorochromic
 chloropalladic
 chlorophaeite
@@ -3937,7 +3907,6 @@ cimbal
 cimbalom
 cimicoid
 cimier
-cimmaron
 cinchona
 cinct
 cinemagoers
@@ -4253,7 +4222,6 @@ columneas
 comal
 comanage
 comatulid
-combaron
 combasou
 combater
 combe
@@ -4960,7 +4928,6 @@ cutwater
 cuvette
 cuzzies
 cyano
-cyanobenzene
 cyanogen
 cyanophycean
 cyathi
@@ -5483,7 +5450,6 @@ diaspirin
 diastataxic
 diastolic
 diastrophe
-diatessaron
 diathermies
 diatomacean
 diatomic
@@ -5493,16 +5459,12 @@ diaulos
 diaxon
 diazeutic
 diazinon
-diazoaminobenzene
-diazobenzene
 diazoimido
 diazos
 dibatag
 dibbuks
-dibromobenzene
 dicaryophase
 dicastery
-dichlorobenzene
 dichogamies
 dichotomal
 dichotomic
@@ -5583,7 +5545,6 @@ dimedon
 dimensioned
 dimensive
 dimetallic
-dimethylbenzene
 dimethylcarbinol
 diminuendoed
 dinars
@@ -5592,7 +5553,6 @@ dingar
 dingier
 dingles
 dingoed
-dinitrobenzene
 dinitrogen
 dinka
 dinkums
@@ -5600,7 +5560,6 @@ dinoceratan
 dinoflagellatae
 dinomic
 diobolons
-dioecy
 diolefin
 dionysiac
 diotheletes
@@ -6700,7 +6659,6 @@ esiles
 eskimauan
 eskolaite
 eskuara
-esnecy
 esocataphoria
 esophagorrhagia
 esophagospasm
@@ -6752,7 +6710,6 @@ ethmonasal
 ethmopalatal
 ethnonyms
 ethonomic
-ethylbenzene
 etiotropic
 etiquette
 etoiles
@@ -7008,7 +6965,6 @@ famulli
 fandangles
 fandom
 fanegadas
-fanfaron
 fanfaronade
 fangles
 fanglet
@@ -7274,7 +7230,6 @@ flchette
 fleabug
 flechette
 fledgier
-fleecy
 flegm
 flesh
 fleshly
@@ -7323,8 +7278,6 @@ fluidacetextract
 fluidextract
 fluidiser
 fluidrachm
-fluorbenzene
-fluorobenzene
 fluorogen
 fluoroscopic
 fluorouracils
@@ -7758,7 +7711,6 @@ gargoylishly
 garishly
 garlandage
 garlopa
-garon
 garoo
 garrisoned
 garrisonian
@@ -8865,7 +8817,6 @@ heteroclitica
 heterocycles
 heterodoxal
 heterodromy
-heteroecy
 heterogametes
 heterogamies
 heterogen
@@ -8901,7 +8852,6 @@ hexadic
 hexafoils
 hexaglots
 hexagynian
-hexahydrobenzene
 hexahydrothymol
 hexandria
 hexasticha
@@ -9217,7 +9167,6 @@ hydrae
 hydrastis
 hydratropic
 hydrazino
-hydrazobenzene
 hydria
 hydrid
 hydroalcoholic
@@ -9248,8 +9197,6 @@ hydrospiric
 hydrothecal
 hydrotherapeutic
 hydrotropic
-hydroxyazobenzene
-hydroxybenzene
 hydrozoans
 hydrula
 hyemal
@@ -9278,7 +9225,6 @@ hypercoracoid
 hypercrisia
 hyperdiapason
 hyperdiastolic
-hyperdiatessaron
 hyperdolichocephaly
 hyperendocrisia
 hypereuryprosopic
@@ -9338,7 +9284,6 @@ hypoconulid
 hypocoracoid
 hypocrater
 hypodiapason
-hypodiatessaron
 hypoendocrisia
 hypogeiody
 hypohydrochloria
@@ -9837,11 +9782,8 @@ invt
 inwrought
 iodids
 iodiser
-iodobenzene
 iodol
 iodoso
-iodosobenzene
-iodoxybenzene
 ionian
 ionidium
 ioniser
@@ -10671,7 +10613,6 @@ larkishly
 larmier
 larmoyant
 larnier
-laron
 larruper
 larva
 larvacea
@@ -11223,7 +11164,6 @@ mabi
 mabyer
 macadamed
 macadamiser
-macaron
 macas
 maccheroncini
 macchiatos
@@ -11494,7 +11434,6 @@ markka
 marlowism
 marmoset
 marmots
-maron
 maronian
 marooned
 maror
@@ -11526,7 +11465,6 @@ marxian
 masanobu
 mascaraing
 mascaras
-mascaron
 mascles
 mascots
 mashgiach
@@ -11665,7 +11603,6 @@ megalopic
 megalosplenia
 megametre
 megaphoned
-megaron
 megasclerum
 megascopic
 megatonnage
@@ -11866,11 +11803,8 @@ methinketh
 methodeutic
 methodiser
 methought
-methoxybenzene
 methoxychlor
-methylbenzene
 methylglyoxal
-methyltrinitrobenzene
 metica
 meticas
 metochy
@@ -12234,8 +12168,6 @@ monkeyrony
 monkishly
 monoatomic
 monochlor
-monochlorbenzene
-monochlorobenzene
 monochromic
 monochromies
 monochromy
@@ -12254,7 +12186,6 @@ monodelphian
 monodramatist
 monodromic
 monodromy
-monoecy
 monofils
 monogamian
 monogamies
@@ -12270,7 +12201,6 @@ monolater
 monolingual
 monometallic
 monongahela
-mononitrobenzene
 mononomian
 mononyms
 monophagia
@@ -12287,7 +12217,6 @@ monosomic
 monosomies
 monostrophe
 monosyllabic
-monotessaron
 monothalamian
 monothecal
 monotheletes
@@ -12886,7 +12815,6 @@ nitidulid
 nitinol
 nitriles
 nitrils
-nitrobenzene
 nitrogen
 nitrolic
 nitromannitol
@@ -13115,7 +13043,6 @@ nonsatiric
 nonscientist
 nonseasoned
 nonseclusive
-nonsecrecy
 nonsedentary
 nonsegmentary
 nonsensual
@@ -13195,7 +13122,6 @@ noughtily
 noumeaite
 noumeite
 nounier
-novarsenobenzene
 novelet
 noveletist
 novelette
@@ -13897,7 +13823,6 @@ oxonian
 oxtails
 oxyaena
 oxyazo
-oxybenzene
 oxycephaly
 oxygeniser
 oxyhydrogen
@@ -13927,7 +13852,6 @@ paccioli
 pachinkos
 pachisi
 pachomian
-pachyblepharon
 pachycephaly
 pachyhymenia
 pachymenia
@@ -14139,8 +14063,6 @@ paracletes
 paracoele
 paracotoin
 paracyanogen
-paradichlorbenzene
-paradichlorobenzene
 paradigm
 paradisia
 paradisiac
@@ -14217,7 +14139,6 @@ parchmenty
 parcimony
 pardieu
 pardoned
-parecy
 pareira
 parelectronomic
 parellic
@@ -14237,7 +14158,6 @@ parnassism
 paroccipitals
 parochian
 parodos
-paroecy
 paroemiac
 paronymies
 paronyms
@@ -14672,7 +14592,6 @@ phenolsulphonephthalein
 phenolsulphonphthalein
 phenomenas
 pheny
-phenylbenzene
 phenylcarbinol
 phenylglycolic
 phenytoin
@@ -15208,7 +15127,6 @@ pokunt
 polanisia
 polariscopic
 polariser
-polaron
 polatouche
 poliadic
 policedom
@@ -15272,7 +15190,6 @@ polymixia
 polymnia
 polymyarii
 polynomic
-polyoecy
 polyolefin
 polyonymies
 polyonyms
@@ -15848,7 +15765,6 @@ propel
 propensitude
 propensive
 prophase
-prophecy
 prophototropic
 prophylactodontist
 propiolic
@@ -15874,7 +15790,6 @@ proritual
 prosauropod
 proscenia
 proscutellar
-prosecrecy
 proselytiser
 proselytist
 proseminars
@@ -17210,7 +17125,6 @@ saccha
 saccharochemotropic
 saccharometabolic
 saccharomycetes
-saccharon
 sacramentals
 sacramentary
 sacrilumbal
@@ -17400,7 +17314,6 @@ sardonian
 saree
 sarip
 sarmies
-saron
 saros
 sarpedon
 sarracenia
@@ -17685,7 +17598,6 @@ secoisolariciresinol
 secondary
 secondrater
 secre
-secrecy
 secretariat
 secretary
 secretes
@@ -17694,7 +17606,6 @@ sectioned
 sectist
 secula
 seculariser
-secy
 sedan
 sedanier
 sedater
@@ -17755,7 +17666,6 @@ semidefensive
 semideltaic
 semideponent
 semidiapason
-semidiatessaron
 semidivisive
 semidocumentary
 semidrachm
@@ -17798,7 +17708,6 @@ semirotary
 semisatiric
 semisavagedom
 semisecondary
-semisecrecy
 semisedentary
 semiseparatist
 semisilica
@@ -17970,7 +17879,6 @@ shapoo
 shariat
 sharkishly
 sharnier
-sharon
 sharptails
 shastaite
 shatan
@@ -19397,7 +19305,6 @@ superparliamentary
 superparticles
 superpatriots
 superpraise
-supersecrecy
 supersensitiser
 supersensual
 supersessive
@@ -19522,7 +19429,6 @@ sylphid
 sylphize
 symbiont
 symbiots
-symblepharon
 symbolater
 symbolic
 symboliser
@@ -19569,7 +19475,6 @@ syngamies
 syngnathi
 synkaryons
 synoecetes
-synoecy
 synoeketes
 synonymies
 synonyms
@@ -20035,7 +19940,6 @@ tetratomic
 tetraxon
 tetraxonian
 tetrazane
-tetrazene
 tetri
 tetrodotoxin
 tetrolic
@@ -20663,14 +20567,12 @@ trilingual
 trimellic
 trimensual
 trimetallic
-trimethylbenzene
 trimpots
 trina
 trinerve
 tringine
 tringles
 tringoid
-trinitrobenzene
 trinitrocarbolic
 trinkety
 trinkums
@@ -20780,7 +20682,6 @@ tsukimi
 tsurugi
 tswana
 tuataras
-tubaron
 tubatoxin
 tubectomies
 tubelet
@@ -21443,7 +21344,6 @@ unseamed
 unseason
 unseasoned
 unseclusive
-unsecrecy
 unsectioned
 unsedentary
 unsegmentary
@@ -21646,7 +21546,6 @@ urticas
 urubu
 urubus
 urutu
-usaron
 usenet
 usherette
 usipetes
@@ -21672,7 +21571,6 @@ uvulectomies
 uvulotomies
 uyezd
 uyghur
-uzaron
 vaadim
 vaagmaer
 vacationed
@@ -21733,7 +21631,6 @@ vareuse
 variadic
 variagles
 varicellar
-varicoblepharon
 varicoid
 varicotomies
 varicula
@@ -21915,7 +21812,6 @@ vinelet
 vinet
 vinier
 vinny
-vinylbenzene
 violacean
 violan
 violater
