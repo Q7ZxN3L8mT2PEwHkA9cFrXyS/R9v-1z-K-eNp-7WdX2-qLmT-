@@ -10,6 +10,7 @@ abandoned
 abarambo
 abater
 abator
+abattoir
 abature
 abaue
 abave
@@ -52,6 +53,7 @@ aboves
 abraham
 abranchian
 abrazos
+abreuvoir
 abricocks
 abricot
 abrogator
@@ -307,7 +309,6 @@ adonian
 adonise
 adonitol
 adorno
-adreamed
 adrenalectomies
 adrenocorticotrophin
 adrenocorticotropic
@@ -411,7 +412,6 @@ aflagellar
 aflaj
 aflatoxin
 aforementioned
-aforenamed
 aforethought
 afrormosia
 afrovenator
@@ -459,7 +459,6 @@ aglipayano
 aglus
 aglycon
 agnails
-agnamed
 agnes
 agnise
 agnoetae
@@ -476,7 +475,6 @@ agonothetes
 agoranomus
 agouara
 agpaite
-agramed
 agrammatica
 agrauleum
 agrestis
@@ -520,6 +518,7 @@ airohydrogen
 airposts
 airshots
 aissaoua
+aisteoir
 aistopod
 aitiotropic
 aitutakian
@@ -918,7 +917,6 @@ anagoge
 anagrammatist
 anahau
 anaheim
-analogal
 analogon
 analphabetes
 analyt
@@ -1101,6 +1099,7 @@ antarctica
 anteater
 antecabinet
 antecaecal
+antechoir
 antecloset
 antecolic
 antecoxal
@@ -1362,7 +1361,6 @@ apoliticism
 apollinian
 apollo
 apollonian
-apologal
 apologiser
 apometabolic
 apometaboly
@@ -1700,7 +1698,6 @@ ascula
 aselar
 asepticism
 asfetida
-ashamed
 asharasi
 ashiver
 ashrafi
@@ -1714,6 +1711,7 @@ asparagine
 asparagus
 aspartokinase
 aspectual
+aspersoir
 aspersoria
 asperula
 asphyxia
@@ -1991,6 +1989,7 @@ avijja
 avisandums
 avizandums
 avocado
+avoir
 avoset
 avoure
 avoutrer
@@ -2180,7 +2179,6 @@ balonea
 balor
 balsa
 balsamea
-balsamed
 balsamier
 balsamy
 balthazar
@@ -2399,7 +2397,6 @@ beaconage
 beaconed
 beadhouse
 beadledom
-beamed
 beamhouse
 beamier
 beamishly
@@ -2474,7 +2471,6 @@ beetroots
 beetrooty
 beeve
 befleaing
-befoamed
 beforementioned
 befouler
 befraught
@@ -2531,14 +2527,12 @@ beloves
 belucki
 belue
 beluga
-bemadamed
 bemazed
 bemetes
 bemoans
 bemocks
 bemoils
 bemurmurs
-benamed
 benamidar
 benedicta
 benegro
@@ -2595,7 +2589,6 @@ besayle
 bescrawl
 bescreens
 beshadow
-beshamed
 beshiver
 besighed
 besleeve
@@ -2825,7 +2818,6 @@ blackwater
 blaes
 blaise
 blakeite
-blamed
 blanchisseuse
 blankety
 blanquette
@@ -2911,7 +2903,6 @@ bockerel
 bocks
 boconcini
 boddagh
-bodyshamed
 bodyshirt
 bodysuits
 boerbuls
@@ -2965,6 +2956,7 @@ bonne
 bonnier
 bonnocks
 bononian
+bonsoir
 bonxie
 boobie
 boobies
@@ -3038,6 +3030,7 @@ bouche
 bouchette
 boucles
 boudeuse
+boudoir
 bougar
 boughed
 boughpots
@@ -3149,7 +3142,6 @@ brazils
 breadfruits
 breadroots
 breakwater
-breamed
 breare
 breastrails
 breechblocks
@@ -3293,7 +3285,6 @@ buckishly
 buckles
 buckone
 buckram
-buckramed
 buckshots
 bucktails
 bucktooth
@@ -4466,6 +4457,7 @@ chocoholic
 chode
 choel
 choils
+choir
 choirscreens
 choisya
 chokecoils
@@ -4928,6 +4920,7 @@ coils
 coinage
 coinspire
 coinvestigator
+coir
 coistrils
 coiture
 colan
@@ -5109,12 +5102,12 @@ compotator
 compots
 comprachico
 compromiser
+comptoir
 compurgator
 computator
 computist
 comtist
 comus
-conamed
 conbinas
 concatenator
 concavenator
@@ -5491,6 +5484,7 @@ cougar
 coughed
 couhage
 coulibiacas
+couloir
 coumaric
 councils
 counseled
@@ -5580,6 +5574,7 @@ cozenage
 cozies
 cozzies
 crabeater
+crachoir
 crackles
 cracknels
 crackpots
@@ -5630,7 +5625,6 @@ crayons
 craythurs
 crazed
 crazies
-creamed
 creamier
 creator
 creature
@@ -6066,7 +6060,6 @@ dauphin
 dauw
 davoch
 dawcocks
-daydreamed
 daydreamier
 daysails
 dazed
@@ -6077,7 +6070,6 @@ deactivator
 deadhouse
 deadishly
 deadlocks
-deadnamed
 deadstocks
 deadwater
 deaerator
@@ -6185,7 +6177,6 @@ deeve
 defaecator
 defaitisme
 defalcator
-defamed
 defaulture
 defeatee
 defeater
@@ -6208,7 +6199,6 @@ deflexion
 deflocculator
 deflourish
 defluxion
-defoamed
 defoliator
 deforce
 deforceor
@@ -6383,7 +6373,6 @@ deprecator
 depreciator
 depredator
 depriver
-deprogramed
 depurator
 deputator
 dequeue
@@ -6456,7 +6445,6 @@ despouse
 despraise
 destabiliser
 destocks
-destreamed
 destrer
 desuetude
 desugar
@@ -6502,6 +6490,7 @@ devinct
 devirginator
 deviser
 devitrifies
+devoir
 devon
 devonian
 devons
@@ -6556,7 +6545,6 @@ diaetetae
 diageotropic
 diageotropism
 diagonial
-diagramed
 diaheliotropic
 diaheliotropism
 dialecticism
@@ -6814,7 +6802,6 @@ disentrayle
 disenvironed
 disespouse
 diseuse
-disfamed
 disfeature
 disflesh
 disfranchiser
@@ -6989,7 +6976,6 @@ dodos
 doeglic
 doers
 dofunny
-dogal
 dogedom
 dogfought
 doggerel
@@ -7147,6 +7133,7 @@ drachm
 draconian
 dracovenator
 draftily
+drageoir
 dragonade
 dragonet
 dragonise
@@ -7173,7 +7160,6 @@ drazel
 dreadlocks
 dreadnaught
 dreadnought
-dreamed
 dreamier
 dreamwhiles
 dreare
@@ -7183,6 +7169,7 @@ dreich
 dreint
 drekky
 drengh
+dressoir
 dreyfusism
 dreys
 drillstocks
@@ -7382,6 +7369,7 @@ eastlin
 eater
 eatery
 ebauche
+ebauchoir
 ebionise
 ebonise
 ebullioscopic
@@ -7717,10 +7705,8 @@ enerve
 enfeature
 enfeloned
 enfelons
-enflamed
 enflesh
 enforce
-enframed
 enfranchiser
 enfreedom
 enfrozen
@@ -7770,7 +7756,6 @@ enrolle
 enroots
 enroughed
 ensculpture
-enseamed
 ensete
 enshadow
 enshawl
@@ -7784,7 +7769,6 @@ ensteeped
 ensulphur
 entablature
 entails
-entamed
 entayle
 enterectomies
 entericoid
@@ -8413,7 +8397,6 @@ falsifies
 falsism
 falunian
 falutin
-famed
 fameuse
 familiariser
 familistery
@@ -8710,7 +8693,6 @@ flails
 flaite
 flaks
 flamboyant
-flamed
 flamier
 flaminian
 flanconade
@@ -8813,7 +8795,6 @@ flyer
 flype
 flyscreens
 foalfoots
-foamed
 foamier
 fodda
 foeture
@@ -8839,6 +8820,7 @@ fondu
 fontanels
 fontinas
 foobar
+foodoir
 foolishly
 footeite
 footfarer
@@ -8860,6 +8842,7 @@ foreadapt
 foreanent
 forecabin
 forechase
+forechoir
 forecondemn
 forefin
 foreglimpsed
@@ -8875,7 +8858,6 @@ forelay
 forelocks
 forelouper
 forementioned
-forenamed
 forenent
 foreran
 foresails
@@ -8987,7 +8969,6 @@ frails
 fraise
 fraiser
 framea
-framed
 franchiser
 francisc
 francisco
@@ -9263,7 +9244,6 @@ gambreled
 gambs
 gamdeboo
 gamecocks
-gamed
 gamesy
 gametes
 gametophagia
@@ -9540,7 +9520,6 @@ gimel
 gimmies
 gingals
 gingerroots
-ginghamed
 gingili
 gingilis
 gingiva
@@ -9591,7 +9570,6 @@ glaucophane
 glaum
 glaury
 glazed
-gleamed
 gleamier
 gleba
 gleeishly
@@ -9848,6 +9826,7 @@ grassroots
 grater
 gratifies
 gratitude
+grattoir
 gratuito
 gravat
 gravata
@@ -10210,7 +10189,6 @@ hamadas
 hamatsa
 hamatum
 hamboned
-hamed
 hameil
 hamesoken
 hametz
@@ -10798,7 +10776,6 @@ homogenise
 homogeniser
 homogentisic
 homoiothermies
-homologal
 homologiser
 homologon
 homonymies
@@ -11428,7 +11405,6 @@ ineffectual
 ineptitude
 inexactitude
 inextinct
-infamed
 infamies
 infamonise
 infantado
@@ -11439,7 +11415,6 @@ infinitude
 infirmarer
 infixal
 infixion
-inflamed
 inflater
 inflator
 inflesh
@@ -11512,7 +11487,6 @@ insanie
 insanitary
 inscriptioned
 insculpture
-inseamed
 insectary
 inseminator
 inserve
@@ -11642,7 +11616,6 @@ interrails
 interreign
 interrogatee
 interrogator
-interseamed
 intersomnial
 interspire
 interstellar
@@ -12435,7 +12408,6 @@ knuckles
 koans
 kobocha
 kogai
-kogal
 kogals
 koggelmannetje
 kohlrabies
@@ -12612,7 +12584,6 @@ lamblia
 lambs
 lamby
 lamda
-lamed
 lamellar
 lamestery
 laminas
@@ -12766,7 +12737,6 @@ leadage
 leaderette
 leadway
 leafen
-leamed
 leare
 leatherette
 lecanoscopic
@@ -13080,7 +13050,6 @@ liver
 liverish
 liverishly
 livestocks
-livestreamed
 livingstoneite
 livishly
 livonian
@@ -13091,7 +13060,6 @@ lizzies
 llajwa
 loadage
 loaferish
-loamed
 loamier
 loans
 loasa
@@ -13145,6 +13113,7 @@ logon
 logophiles
 logothetes
 lohar
+loir
 lomilomi
 londonian
 longa
@@ -13313,7 +13282,6 @@ mabi
 mabuti
 mabyer
 macaasim
-macadamed
 macadamiser
 macaronicism
 macas
@@ -13367,7 +13335,6 @@ maculature
 maculocerebral
 macupa
 macusi
-madamed
 madapolan
 madapollam
 madcaply
@@ -13441,7 +13408,6 @@ mailshots
 maimon
 mainferre
 mainsails
-mainstreamed
 maintopsails
 maioli
 maiolica
@@ -13575,6 +13541,7 @@ manlikely
 mannishly
 mannitol
 mannoheptitol
+manoir
 manqu
 mansioned
 mansuetude
@@ -13724,6 +13691,7 @@ matronise
 mattery
 mattifies
 mattocks
+mattoir
 mature
 maturish
 matzot
@@ -13850,9 +13818,7 @@ meith
 mekka
 melaena
 melaenas
-melamed
 melampyritol
-melanagogal
 melancholic
 melanchthonian
 melanian
@@ -13895,6 +13861,7 @@ membral
 membrette
 memnon
 memnonian
+memoir
 memoire
 memorandums
 memoria
@@ -14305,7 +14272,6 @@ misfashioned
 misfeature
 misfeign
 misfiles
-misframed
 misfunctioned
 misgesture
 misidentifies
@@ -14316,7 +14282,6 @@ mismanage
 mismet
 mismetre
 mismoves
-misnamed
 misnurture
 misobserve
 misocatholic
@@ -14328,7 +14293,6 @@ mispickels
 mispositioned
 mispraise
 mispriser
-misprogramed
 misproportioned
 mispurchase
 misraise
@@ -14429,6 +14393,7 @@ mohuas
 mohurs
 moiles
 moils
+moir
 moirai
 moire
 moirette
@@ -14461,6 +14426,7 @@ molybdocolic
 momentary
 momme
 mommies
+momoir
 momus
 monachize
 monactinellidan
@@ -14536,7 +14502,6 @@ monoglots
 monoglycerid
 monogon
 monogoneutic
-monogramed
 monogynian
 monohydrogen
 monolater
@@ -14685,6 +14650,7 @@ motser
 motswana
 moucharabies
 mouche
+mouchoir
 moufflons
 mouflons
 mought
@@ -14966,7 +14932,6 @@ nakhod
 nakir
 namby
 namda
-named
 nanaimo
 nandinas
 nandu
@@ -15223,7 +15188,6 @@ nickeled
 nickels
 nickles
 nicknack
-nicknamed
 nickums
 nicobar
 nicolette
@@ -15303,8 +15267,8 @@ nocturne
 noddi
 noduli
 nogai
-nogal
 noils
+noir
 noire
 noirish
 noisette
@@ -16118,7 +16082,6 @@ ourali
 ourie
 ouroboroi
 outadd
-outbeamed
 outblazed
 outbought
 outbrawl
@@ -16135,16 +16098,11 @@ outdeliver
 outdistrict
 outdoers
 outdraught
-outdreamed
 outdueled
-outfamed
-outflamed
 outflourish
 outfoots
 outfought
-outgamed
 outgazed
-outgleamed
 outgoers
 outhauler
 outhouse
@@ -16156,7 +16114,6 @@ outliver
 outloves
 outmoves
 outmuscles
-outnamed
 outorganise
 outparish
 outpassioned
@@ -16179,11 +16136,9 @@ outrocks
 outroots
 outros
 outsails
-outscreamed
 outserve
 outset
 outshadow
-outshamed
 outshoots
 outshots
 outsin
@@ -16230,7 +16185,6 @@ overawe
 overbarish
 overbearer
 overbejeweled
-overblamed
 overblithe
 overblouse
 overboils
@@ -16266,7 +16220,6 @@ overeater
 overexpenditure
 overeye
 overfacile
-overfamed
 overflexion
 overflourish
 overfoolishly
@@ -16310,7 +16263,6 @@ overmature
 overmodifies
 overmoisture
 overmultitude
-overnamed
 overnoble
 overnourish
 overnoveled
@@ -16322,7 +16274,6 @@ overplenty
 overplots
 overposts
 overpraise
-overprogramed
 overprominent
 overproportioned
 overprotract
@@ -16773,6 +16724,7 @@ parellic
 parer
 parflesh
 parfumeur
+parfumoir
 parietals
 parietary
 parietes
@@ -16927,7 +16879,6 @@ peculator
 pecunial
 pedage
 pedagese
-pedagogal
 pedalos
 pedanticism
 pedary
@@ -16968,6 +16919,7 @@ peghed
 peglet
 pegomastax
 pegroots
+peignoir
 peinct
 peiser
 peitho
@@ -17159,6 +17111,7 @@ perjinkety
 perjinkity
 perla
 perlingual
+perloir
 perlustrator
 permaculture
 permafrosts
@@ -17659,6 +17612,7 @@ pisciculture
 piscinas
 pisco
 pishoge
+pissoir
 pistareens
 pistia
 pistillar
@@ -17844,6 +17798,7 @@ pnictogen
 pobbies
 pochaise
 pochette
+pochoir
 pockety
 pockhouse
 pocks
@@ -17899,6 +17854,7 @@ polatouche
 poliadic
 policedom
 poligar
+polissoir
 polista
 polit
 politist
@@ -18408,7 +18364,6 @@ preflexion
 prefract
 prefrontals
 prefrozen
-pregamed
 pregenial
 pregeniculatum
 pregracile
@@ -18473,7 +18428,6 @@ prepituitary
 preponed
 preportioned
 prepositure
-preprogramed
 prepubic
 prepunctual
 prepupal
@@ -18641,7 +18595,6 @@ progeotropism
 progestogen
 prognathi
 prognosticator
-programed
 programmatist
 progressism
 proheim
@@ -19272,6 +19225,7 @@ rackapee
 rackety
 rackles
 raclette
+racloir
 raconteuse
 radeau
 radeur
@@ -19296,6 +19250,7 @@ radula
 raffinase
 raffishly
 rafik
+rafraichissoir
 ragequits
 raghouse
 ragini
@@ -19325,7 +19280,6 @@ ramadan
 ramadas
 ramaite
 rambo
-ramed
 ramekin
 ramforce
 ramies
@@ -19364,6 +19318,7 @@ rascette
 raschels
 rasenna
 rashly
+rasoir
 rason
 rastik
 rastus
@@ -19435,7 +19390,6 @@ realarm
 realiser
 reallots
 realos
-reamed
 reamier
 reappareled
 reapportioned
@@ -19564,7 +19518,6 @@ redivorce
 redocks
 redon
 redox
-redreamed
 redroots
 redshirt
 redtails
@@ -19600,7 +19553,6 @@ refought
 refract
 refractary
 refracture
-reframed
 refrigerator
 refrozen
 refueled
@@ -19650,7 +19602,6 @@ reiki
 reimagine
 reimprisoned
 reinette
-reinflamed
 reinflict
 reinforce
 reink
@@ -19708,6 +19659,7 @@ remodeled
 remodifies
 remonstrator
 remontado
+remontoir
 remontoire
 removes
 remuda
@@ -19715,7 +19667,6 @@ remudas
 remunerator
 remurmurs
 renails
-renamed
 renature
 renditioned
 rendzinas
@@ -19734,6 +19685,7 @@ renminbi
 rennase
 renninogen
 renniogen
+renoir
 renomme
 renotifies
 renourish
@@ -19772,16 +19724,17 @@ reploughed
 reponed
 repositary
 repositioned
+reposoir
 repostponed
 reposts
 repot
 repots
 repousse
+repoussoir
 repraise
 repreeve
 reprobater
 reprobator
-reprogramed
 reproves
 reprovisioned
 reptiledom
@@ -19812,6 +19765,7 @@ reseason
 reseasoned
 reseiser
 reserve
+reservoir
 resex
 reshearer
 reshoots
@@ -19858,7 +19812,6 @@ retails
 retaliator
 retan
 retaught
-reteamed
 retes
 retestifies
 retestimony
@@ -19891,6 +19844,7 @@ retreatist
 retrieverish
 retrocaecal
 retrocecal
+retrochoir
 retrocolic
 retroengine
 retroflexion
@@ -19925,6 +19879,7 @@ reviles
 reviser
 reviver
 revivifies
+revoir
 revolutionise
 revolutioniser
 revuette
@@ -20088,7 +20043,6 @@ roadeo
 roadeos
 roadhouse
 roadway
-roamed
 roans
 roarer
 roastery
@@ -20389,7 +20343,6 @@ sakeber
 sakel
 sakellaridis
 sakias
-salaamed
 salacot
 salamandrina
 salaminian
@@ -20612,6 +20565,7 @@ saurischian
 sauropod
 sauropsidan
 saury
+sautoir
 sautoire
 savagedom
 savin
@@ -20810,7 +20764,6 @@ scrawm
 scrawnier
 scrawp
 scraye
-screamed
 screenage
 screendom
 screens
@@ -20872,7 +20825,6 @@ seacunny
 seafarer
 sealette
 sealioned
-seamed
 seamier
 seapieces
 seare
@@ -21207,7 +21159,6 @@ shalom
 shalots
 shaly
 shambolic
-shamed
 shamim
 shaminas
 shammasim
@@ -21510,7 +21461,6 @@ sirianian
 sirkeer
 sirki
 sirmian
-sirnamed
 siroccoishly
 sironise
 siroset
@@ -21632,7 +21582,6 @@ sliphouse
 slipknots
 sliprails
 slipsloppism
-slipstreamed
 sliver
 slivovicas
 slivowitz
@@ -21781,6 +21730,7 @@ sogdianian
 sohurs
 soiesette
 soils
+soir
 soken
 sokol
 sokols
@@ -22263,7 +22213,6 @@ staysails
 steaakhouse
 steakette
 steakhouse
-steamed
 steamier
 steamies
 steane
@@ -22470,7 +22419,6 @@ straught
 strauss
 strawier
 streahte
-streamed
 streamier
 streeled
 streep
@@ -22506,7 +22454,6 @@ strinkles
 striolet
 stripteuse
 striver
-stroamed
 strobiles
 strobils
 stroboscopic
@@ -22804,7 +22751,6 @@ summerish
 summoned
 sumphishly
 sumpture
-sunbeamed
 sunbeamier
 sunblocks
 sungar
@@ -22917,7 +22863,6 @@ surfies
 surma
 surmenage
 surmiser
-surnamed
 surphul
 surpriser
 surquidry
@@ -23039,7 +22984,6 @@ symploce
 symposia
 symposiac
 symposisia
-synagogal
 synandria
 synapheia
 synapsed
@@ -23178,6 +23122,7 @@ taihoaing
 taiko
 taikun
 tailgater
+tailloir
 tailpieces
 tails
 tailstocks
@@ -23232,6 +23177,7 @@ tamacoare
 tamanaca
 tamandu
 tamanoas
+tamanoir
 tamaraite
 tamaroa
 tamaulipecan
@@ -23244,7 +23190,6 @@ tambourinade
 tambuki
 tamburas
 tamburello
-tamed
 tammanial
 tammies
 tamonea
@@ -23259,6 +23204,7 @@ tanaidacea
 tanaka
 tanakh
 tanchelmian
+tanchoir
 tandava
 tangaloa
 tangantangan
@@ -23392,7 +23338,6 @@ tcherkess
 teacherish
 teahouse
 teaing
-teamed
 teamman
 teapots
 tearer
@@ -23550,6 +23495,7 @@ terre
 terreens
 terreplein
 terrifies
+terroir
 terroriser
 terrors
 tersulphid
@@ -23678,7 +23624,6 @@ theocratist
 theodicean
 theodosia
 theohuman
-theologal
 theologicomilitary
 theologiser
 theomastix
@@ -24178,6 +24123,7 @@ trampette
 trampishly
 trampism
 trampy
+tranchoir
 tranka
 trankums
 tranq
@@ -24446,6 +24392,7 @@ trophotropism
 tropic
 tropism
 trots
+trottoir
 troubadourish
 troubleshoots
 troughed
@@ -24745,7 +24692,6 @@ unaproned
 unapropos
 unapt
 unaptitude
-unashamed
 unassuetude
 unatoned
 unauctioned
@@ -24757,7 +24703,6 @@ unbarreled
 unbarricadoed
 unbastinadoed
 unbeaconed
-unbeamed
 unbeckoned
 unbeguiles
 unbenign
@@ -24767,7 +24712,6 @@ unbethink
 unbethought
 unbetoken
 unbeveled
-unblamed
 unblazoned
 unblithe
 unblocks
@@ -24783,7 +24727,6 @@ unbroken
 unbrought
 unbrute
 unbuckles
-unbuckramed
 unbuoyant
 unbuttoned
 uncanceled
@@ -24867,7 +24810,6 @@ undazed
 undeceiver
 undecennial
 undecolic
-undefamed
 undeifies
 undeletes
 underact
@@ -24901,7 +24843,6 @@ underli
 underlielay
 undermediator
 undermentioned
-undernamed
 undernourish
 underpeeped
 underplots
@@ -24928,7 +24869,6 @@ understructure
 underswearer
 undertakerish
 undertaught
-underteamed
 underthane
 underthink
 underthought
@@ -24937,7 +24877,6 @@ underwater
 underwrought
 undeserve
 undethroned
-undiagramed
 undignifies
 undimensioned
 undisheveled
@@ -24951,7 +24890,6 @@ undoers
 undoweled
 undragoned
 undragooned
-undreamed
 undrossy
 undulator
 uneclipsed
@@ -24974,7 +24912,6 @@ unescutcheoned
 unextinct
 unfacile
 unfactual
-unfamed
 unfashioned
 unfazed
 unfeminise
@@ -24984,14 +24921,12 @@ unflamboyant
 unflesh
 unfleshly
 unflossy
-unfoamed
 unfoolishly
 unforeign
 unforethought
 unforfeit
 unforgiver
 unfought
-unframed
 unfraught
 unfreakishly
 unfreedom
@@ -25068,7 +25003,6 @@ unimpertinent
 unimpoisoned
 unimprisoned
 unincantoned
-uninflamed
 uninstals
 unintellectual
 uninthroned
@@ -25087,13 +25021,11 @@ universaliser
 universitary
 unjewel
 unjeweled
-unkamed
 unkeeled
 unkenneled
 unkennels
 unknots
 unlabeled
-unlamed
 unlampooned
 unlapsed
 unlaureled
@@ -25133,7 +25065,6 @@ unmyopic
 unmystery
 unnails
 unnaive
-unnamed
 unnapt
 unnasal
 unnature
@@ -25141,7 +25072,6 @@ unnegro
 unnerve
 unnibbied
 unnickeled
-unnicknamed
 unnoble
 unnomadic
 unnotioned
@@ -25237,7 +25167,6 @@ unschizoid
 unscioned
 unscribal
 unscutcheoned
-unseamed
 unseason
 unseasoned
 unsectioned
@@ -25250,7 +25179,6 @@ unsensual
 unsentineled
 unshackles
 unshadow
-unshamed
 unshapen
 unshawl
 unshoots
@@ -25283,14 +25211,12 @@ unsquare
 unsqueamishly
 unstationed
 unstatued
-unsteamed
 unsteeled
 unsteep
 unsteeped
 unstocks
 unstoken
 unstoned
-unstreamed
 unstrict
 unstylishly
 unsubventioned
@@ -25300,7 +25226,6 @@ unsummoned
 unsunnier
 unsunny
 unsupplementary
-unsurnamed
 unswampy
 unswiveled
 unswung
@@ -25309,11 +25234,9 @@ unsymbolic
 untackles
 untactual
 untaloned
-untamed
 untasseled
 untastily
 untaught
-unteamed
 unteaseled
 untenty
 untestamentary
@@ -25411,7 +25334,6 @@ upspire
 upspoken
 upstater
 upstirs
-upstreamed
 upswung
 upwhirl
 upwrought
@@ -25915,6 +25837,7 @@ votary
 voteens
 votish
 votist
+voussoir
 vowel
 voweled
 voyeuse
@@ -25979,7 +25902,6 @@ wallydraigle
 walsh
 waltonian
 waltzed
-wamed
 wandought
 wangan
 wangtooth
@@ -25996,7 +25918,6 @@ wardrober
 waregga
 warehouse
 warfarer
-wargamed
 warish
 warlikely
 warlocks
