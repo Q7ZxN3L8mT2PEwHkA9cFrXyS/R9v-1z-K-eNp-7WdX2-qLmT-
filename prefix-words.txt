@@ -1020,7 +1020,6 @@ anisette
 anisic
 anisocoria
 anisodactyla
-anisodactyli
 anisogametes
 anisogamies
 anisometropic
@@ -5852,7 +5851,6 @@ czarowitz
 czechoslovakian
 czigany
 dabbity
-dactyli
 dactyloscopic
 dadas
 daddocks
@@ -6309,7 +6307,6 @@ designatum
 desinent
 desma
 desmarestia
-desmodactyli
 desmodromic
 desmogen
 desmopexia
@@ -7370,7 +7367,6 @@ elenchize
 eleomargaric
 eleostearic
 eleusinian
-eleutherodactyli
 elevator
 elevon
 elevons
@@ -10129,9 +10125,7 @@ hecatompedon
 hecctkaerre
 heckles
 heckuva
-hectocotyli
 hectometre
-hectyli
 hedarim
 hedyphane
 heeled
@@ -18415,7 +18409,6 @@ psychotropic
 pterocaulon
 pterocles
 pterocletes
-pterodactyli
 pterophryne
 pteropod
 pterygogenea
@@ -21933,7 +21926,6 @@ sturshum
 sturte
 stycerinol
 styledom
-styli
 styliser
 stylishly
 stylopod
@@ -22432,7 +22424,6 @@ syncopic
 syncopism
 syncreticism
 syncretist
-syndactyli
 syndesmies
 syndicator
 syndromic
@@ -23321,7 +23312,6 @@ toccatinas
 tocharic
 tocharish
 tocks
-todayll
 todde
 toebies
 toenails
@@ -25672,7 +25662,6 @@ yferre
 yggdrasil
 yidaki
 yikirgaulit
-ylahayll
 yobbishly
 yocks
 yodeled
@@ -25822,7 +25811,6 @@ zudda
 zunian
 zuppa
 zygaena
-zygodactyli
 zygoid
 zygomycetes
 zygopteran
