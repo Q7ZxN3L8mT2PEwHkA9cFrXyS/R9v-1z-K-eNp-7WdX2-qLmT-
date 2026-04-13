@@ -250,7 +250,6 @@ acyloxy
 acyloxymethane
 acystia
 adage
-adagial
 adapa
 adapid
 adapt
@@ -1435,7 +1434,6 @@ aproned
 apropos
 aprosexia
 apteran
-apterygial
 apterygogenea
 aptitude
 apyrexia
@@ -1531,7 +1529,6 @@ archimagus
 archimorula
 archimycetes
 archineuron
-archipterygial
 architecture
 archiver
 archoplasma
@@ -2322,7 +2319,6 @@ basilissa
 basils
 basinasal
 basinet
-basipterygial
 basipterygoid
 basiscopic
 basivertebral
@@ -3811,7 +3807,6 @@ carpocapsa
 carpogonial
 carpometacarpi
 carpoptosia
-carposporangial
 carquaise
 carract
 carrageens
@@ -4028,7 +4023,6 @@ cenobies
 cenomanian
 censual
 centals
-centaurid
 centaury
 centavo
 centenier
@@ -4969,7 +4963,6 @@ collator
 colleens
 collegatary
 collegese
-collegial
 collembolan
 collembolic
 colleri
@@ -5199,7 +5192,6 @@ coniomycetes
 conjecture
 conjugal
 conjugator
-conjugial
 conjuncture
 conjurator
 conjurors
@@ -6055,7 +6047,6 @@ dasheens
 dashiki
 dashpots
 dasya
-dasyurid
 datagloves
 datakit
 datal
@@ -7409,7 +7400,6 @@ echeneis
 echinacea
 echinid
 echinidan
-echiurid
 echoers
 echopraxia
 ecklein
@@ -7443,7 +7433,6 @@ ectropic
 ecumenicism
 ecurie
 eczema
-edaphosaurid
 edda
 edgeboned
 edificator
@@ -7463,7 +7452,6 @@ effatum
 effectual
 effeir
 effeminise
-effigial
 effluxion
 efforce
 effrontery
@@ -7574,7 +7562,6 @@ emancipator
 emanent
 emasculator
 embails
-emballonurid
 embargoed
 embarricado
 embastioned
@@ -7704,7 +7691,6 @@ endodontist
 endogamies
 endogen
 endogenae
-endolymphangial
 endonyms
 endoparasitica
 endophragm
@@ -9279,7 +9265,6 @@ gamdeboo
 gamecocks
 gamed
 gamesy
-gametangial
 gametes
 gametophagia
 gamier
@@ -9496,7 +9481,6 @@ gerontophiles
 gerontophils
 gerontoxon
 geropigas
-gerrhosaurid
 gervais
 gesnera
 gestaltist
@@ -9733,7 +9717,6 @@ gonadic
 gonadotrophin
 gonadotropic
 gonagia
-gonangial
 gondelay
 gondolet
 gonef
@@ -10703,7 +10686,6 @@ hippopod
 hippopotamian
 hippotragine
 hippotragus
-hippurid
 hircocerf
 hirneola
 hirseled
@@ -11161,7 +11143,6 @@ hypopituitary
 hypopneas
 hypopraxia
 hypoprosexia
-hypopygial
 hypopyons
 hyposthenia
 hypostrophe
@@ -11206,7 +11187,6 @@ ichnofossils
 ichthyobatrachian
 ichthyophagan
 ichthyopsidan
-ichthyosaurid
 ichthyosism
 ichthyotoxin
 ichthyovenator
@@ -12566,7 +12546,6 @@ labiovelar
 labis
 laboulbenia
 labral
-labrosaurid
 labruscas
 labyrinthian
 lacatan
@@ -12845,7 +12824,6 @@ lemoned
 lemonier
 lemony
 lemosi
-lemurid
 lemurs
 lenifies
 lenitude
@@ -13284,7 +13262,6 @@ lunulet
 lupanars
 lupis
 lupulic
-lurid
 lushly
 lusitanian
 lusovenator
@@ -13308,7 +13285,6 @@ lycopod
 lycosa
 lycosid
 lymphadenia
-lymphangial
 lymphocytopenia
 lymphocytotoxin
 lymphoglandula
@@ -13385,7 +13361,6 @@ macroscopic
 macrostructure
 macrosymbiont
 macrotolagus
-macrourid
 macuahuitl
 macula
 maculature
@@ -13961,7 +13936,6 @@ mercery
 merchandiser
 merchantish
 mercifies
-mercurid
 meredithian
 merel
 merils
@@ -14014,7 +13988,6 @@ mesopic
 mesopleuron
 mesopotamian
 mesoprosopic
-mesopterygial
 mesopterygoid
 mesorhinian
 mesorrhinian
@@ -14054,7 +14027,6 @@ metaphase
 metaphragm
 metapleuron
 metapostscutellar
-metapterygial
 metapterygoid
 metarabic
 metascutellar
@@ -14678,7 +14650,6 @@ mortiser
 morula
 morw
 mosaicism
-mosasaurid
 mosel
 mosette
 moshavim
@@ -14839,7 +14810,6 @@ murderish
 murenas
 murgeoned
 muricoid
-murid
 murmurator
 murmurish
 murmurs
@@ -15929,7 +15899,6 @@ ophiophagus
 ophir
 ophiura
 ophiuras
-ophiurid
 ophthalaiater
 ophthalmiac
 ophthalmiater
@@ -16447,7 +16416,6 @@ oxystearic
 oxysulphid
 oxytocic
 oxytricha
-oxyurid
 oysterhouse
 oysterish
 ozaena
@@ -16509,7 +16477,6 @@ pagine
 pagiopod
 pagnes
 pagoda
-pagurid
 pagus
 paiche
 paiconeca
@@ -16580,7 +16547,6 @@ palimpset
 palindromic
 palinka
 palinopic
-palinurid
 palisadoed
 palladic
 pallar
@@ -16883,7 +16849,6 @@ pastorali
 pasture
 patacas
 patagia
-patagial
 patagonian
 patee
 patellar
@@ -17012,7 +16977,6 @@ pekepoo
 pekin
 pekingese
 peladic
-pelagial
 pelamyd
 pelecan
 pelecoid
@@ -17163,7 +17127,6 @@ perihermenial
 perihernial
 perilobar
 perils
-perilymphangial
 perinatal
 periodids
 periodontist
@@ -17896,7 +17859,6 @@ podophyllotoxin
 podos
 podothecal
 podsolic
-podurid
 podzolic
 poecile
 poecilopod
@@ -18720,7 +18682,6 @@ propagandiser
 propagator
 propanoic
 proparasceve
-propatagial
 propatronage
 propel
 propenoic
@@ -18747,7 +18708,6 @@ propranolol
 proprietariat
 proprietary
 proprovost
-propterygial
 propugnator
 propupal
 propurchase
@@ -18790,7 +18750,6 @@ proteinochromogen
 protelytropteran
 proteome
 proteomic
-proteosaurid
 proteosomal
 proterve
 protestantish
@@ -18972,12 +18931,10 @@ pterocletes
 pterodactyli
 pterophryne
 pteropod
-pterygial
 pterygogenea
 pterygoid
 pterygopalatal
 ptinid
-ptychopterygial
 pubic
 publica
 publicism
@@ -19095,7 +19052,6 @@ pygals
 pygmies
 pygopagus
 pygopod
-pylangial
 pylons
 pylorectomies
 pylorodilator
@@ -19745,7 +19701,6 @@ remanufacture
 remap
 remastery
 rembrandtish
-remigial
 remittals
 remittitur
 remixture
@@ -20796,7 +20751,6 @@ scirtopod
 scissils
 scissoria
 scissortails
-sciurid
 sclater
 sclavonian
 sclerectomies
@@ -21487,7 +21441,6 @@ sillabub
 sillar
 sillocks
 silphid
-silurid
 siluridan
 siluroidei
 silva
@@ -21727,7 +21680,6 @@ smeuse
 smift
 smiles
 sminthian
-sminthurid
 smirch
 smithereens
 smithian
@@ -22157,7 +22109,6 @@ spooned
 spoonier
 spoots
 sporadic
-sporangial
 sporidesm
 sporogen
 sporogonial
@@ -22306,7 +22257,6 @@ stature
 statutary
 stauraxonial
 stauromedusan
-stauropegial
 stauroscopic
 staycationed
 staysails
@@ -22592,7 +22542,6 @@ sturmian
 sturshum
 sturte
 stycerinol
-stygial
 styledom
 styli
 styliser
@@ -22632,7 +22581,6 @@ subcinctoria
 subcincttoria
 subcircuits
 subclassifies
-subcollegial
 subcommissioned
 subcompany
 subcomponent
@@ -22796,7 +22744,6 @@ suffixal
 suffixion
 suffragan
 suffragette
-suffragial
 sugan
 sugar
 sugarer
@@ -23094,7 +23041,6 @@ symposiac
 symposisia
 synagogal
 synandria
-synangial
 synapheia
 synapsed
 synapsidan
@@ -23160,7 +23106,6 @@ systematiser
 systematist
 systemiser
 systolic
-syzygial
 szopelka
 taaffeite
 tabacism
@@ -23416,7 +23361,6 @@ tauchnitz
 taught
 tauli
 taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu
-taurid
 tauroboly
 taurocholic
 tauromachian
@@ -24367,7 +24311,6 @@ tricep
 trichi
 trichinas
 trichinise
-trichiurid
 trichlormethane
 trichloroethane
 trichloromethane
@@ -24380,7 +24323,6 @@ tricholaena
 trichomic
 trichomonadal
 trichopteran
-trichosporangial
 trichothallic
 trichotomic
 trichotomies
@@ -24470,7 +24412,6 @@ triturature
 triture
 trityl
 triumphator
-triurid
 trivette
 trixie
 trizomal
@@ -24500,7 +24441,6 @@ trophesy
 trophobiont
 trophonian
 trophosomal
-trophospongial
 trophotropic
 trophotropism
 tropic
@@ -25517,7 +25457,6 @@ urokinase
 uromantist
 uromastix
 uropod
-uropygial
 urorrhagia
 uroscopic
 urostege
@@ -25784,7 +25723,6 @@ vessails
 vesseled
 vestals
 vestibula
-vestigial
 vestimentary
 vestinian
 vestiture
@@ -26417,7 +26355,6 @@ xenomenia
 xenophiles
 xenophobies
 xenopteran
-xenosaurid
 xenotropic
 xeraphin
 xeromenia
@@ -26617,7 +26554,6 @@ zombifies
 zomotherapeutic
 zoned
 zonulet
-zonurid
 zooculture
 zoodendria
 zooerastia
@@ -26637,7 +26573,6 @@ zoophagus
 zoophiles
 zoophytish
 zooscopic
-zoosporangial
 zootoca
 zootomic
 zootomies
