@@ -3753,7 +3753,6 @@ cecils
 cedary
 cedis
 cedula
-ceennacuelum
 ceile
 ceilis
 ceils
@@ -14102,7 +14101,6 @@ nanotesla
 naphthas
 naphthoresorcinol
 napoo
-narceen
 narceens
 narciscissi
 narcism
