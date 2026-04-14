@@ -2590,6 +2590,7 @@ bhagavat
 bhagavata
 bhais
 bhajan
+bhakti
 bhangra
 bhels
 bhikhus
@@ -4577,7 +4578,6 @@ citriculture
 citronade
 citronellic
 citropten
-citycism
 cityfies
 civicism
 civie
@@ -11685,6 +11685,7 @@ jiujutsus
 jiver
 jixie
 jjim
+jnanashakti
 jnanendriya
 joblots
 jockette
@@ -19757,6 +19758,7 @@ sakeber
 sakel
 sakellaridis
 sakias
+sakti
 salacot
 salamandrina
 salaminian
@@ -20537,6 +20539,7 @@ shakeups
 shakshuka
 shakshukas
 shakt
+shakti
 shalako
 shallons
 shallots
@@ -22230,6 +22233,7 @@ sutra
 suture
 suzette
 svan
+svarabhakti
 svelt
 swadeshi
 swails
@@ -25728,8 +25732,3 @@ zygopterid
 zymogen
 zyrenian
 zyryan
-bhakti
-jnanashakti
-sakti
-shakti
-svarabhakti
