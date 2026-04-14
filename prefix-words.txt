@@ -27,7 +27,6 @@ aberuncator
 abettals
 abeyant
 abhiseka
-abies
 abietes
 abigails
 abitur
@@ -529,7 +528,6 @@ akimbo
 akiraho
 akka
 akoasma
-aktistetae
 akwapim
 alabama
 alabamian
@@ -617,7 +615,6 @@ alguazils
 alhena
 alhenna
 alibied
-alibies
 alichino
 alicula
 alidads
@@ -888,7 +885,6 @@ anacletica
 anaculture
 anadenia
 anadesm
-anaerobies
 anaerobiont
 anaesthetist
 anagoge
@@ -1220,7 +1216,6 @@ antipredator
 antiprelatist
 antiproton
 antirabic
-antirabies
 antiracism
 antiresonator
 antiritual
@@ -1892,7 +1887,6 @@ autoneurotoxin
 autonomic
 autonomies
 autonyms
-autophobies
 autopilots
 autopista
 autoportraiture
@@ -1990,7 +1984,6 @@ babblishly
 babes
 babiche
 babied
-babies
 babis
 babishly
 babka
@@ -2189,7 +2182,6 @@ barbeled
 barberish
 barbette
 barbicanage
-barbies
 barbitals
 barbots
 barbudan
@@ -2659,7 +2651,6 @@ bikols
 bikram
 bilaan
 bilamellar
-bilbies
 biles
 bilevels
 bilgewater
@@ -2830,7 +2821,6 @@ boarishly
 boater
 boathouse
 boattails
-bobbies
 bobbinet
 bobbishly
 bobbysocks
@@ -2898,7 +2888,6 @@ bononian
 bonsoir
 bonxie
 boobie
-boobies
 booboo
 boodledom
 boohais
@@ -3183,7 +3172,6 @@ bruiser
 bruits
 brulots
 brulzies
-brumbies
 brummagem
 brunette
 brunonian
@@ -3199,7 +3187,6 @@ bryan
 bryozoans
 bskt
 bubbe
-bubbies
 buboed
 bubukles
 bubus
@@ -3310,8 +3297,6 @@ bursautee
 burut
 busan
 busaos
-busbies
-bushbabies
 bushbeater
 busheled
 bushels
@@ -3348,7 +3333,6 @@ caaing
 cabalette
 caballero
 cabbalah
-cabbies
 cabdriver
 cabestros
 cabin
@@ -3642,7 +3626,6 @@ caravels
 carbamido
 carbazin
 carbeens
-carbies
 carbinier
 carbinol
 carbohydrogen
@@ -3935,7 +3918,6 @@ cembalos
 cemetery
 cenacles
 cenizo
-cenobies
 cenomanian
 censual
 centals
@@ -4847,7 +4829,6 @@ colan
 colaphize
 colatitude
 colature
-colbies
 colchian
 colchica
 coldcocks
@@ -4935,7 +4916,6 @@ comatulid
 combasou
 combater
 combe
-combies
 combinator
 combo
 comd
@@ -5237,7 +5217,6 @@ corbeil
 corbeils
 corbeled
 corbicula
-corbies
 corbinas
 corbula
 cordage
@@ -5638,7 +5617,6 @@ crustily
 crux
 cruzado
 cruzies
-crybabies
 cryocautery
 cryogen
 cryopreserve
@@ -5666,7 +5644,6 @@ cuadrillero
 cuatros
 cuban
 cubature
-cubbies
 cubbishly
 cubbyhouse
 cubic
@@ -5914,7 +5891,6 @@ danube
 daphnephoria
 daquiri
 darabukka
-darbies
 darbukka
 daredevils
 darer
@@ -5974,7 +5950,6 @@ deasoils
 deathrocks
 debacles
 debater
-debbies
 debellator
 debenture
 debiteuse
@@ -6261,7 +6236,6 @@ dequeue
 derails
 derater
 derationed
-derbies
 derbukka
 derecognise
 deregulator
@@ -6396,7 +6370,6 @@ dhanuk
 dharmasutra
 dhobi
 dhobie
-dhobies
 dholaks
 dhoora
 dhooti
@@ -6817,9 +6790,7 @@ djersa
 djinny
 doater
 doatish
-dobbies
 dobie
-dobies
 doblons
 dobra
 docetae
@@ -6906,7 +6877,6 @@ donnishly
 donnots
 donovan
 doobie
-doobies
 doobreys
 doocots
 doodads
@@ -8786,7 +8756,6 @@ frazil
 frazils
 freakishly
 freckles
-freebies
 freebootery
 freeboots
 freebooty
@@ -8953,7 +8922,6 @@ futzed
 fuzils
 fylfots
 gaberlunzies
-gabies
 gabionade
 gabionage
 gabioned
@@ -9430,7 +9398,6 @@ gobar
 gobbe
 gobbi
 gobemouche
-gobies
 gobioidei
 gobivenator
 goburra
@@ -9495,7 +9462,6 @@ gonothecal
 gonotokont
 gonzalo
 goober
-goobies
 goodenia
 goodyera
 gooma
@@ -9576,7 +9542,6 @@ granado
 granage
 granatum
 grandads
-grandbabies
 granddads
 grandeur
 grandeza
@@ -9623,7 +9588,6 @@ gravitropism
 gravlaks
 grayle
 graymails
-graysbies
 graywater
 grazed
 grazie
@@ -9704,7 +9668,6 @@ grouse
 groveled
 grovels
 grownups
-grubbies
 grudgekin
 grueled
 grufe
@@ -10458,7 +10421,6 @@ hoarfrosts
 hoarish
 hoascas
 hoazin
-hobbies
 hobnails
 hoboed
 hochelaga
@@ -10641,7 +10603,6 @@ hsuan
 huarizo
 huastecan
 hubbaboo
-hubbies
 huckles
 huckstery
 huddledom
@@ -10686,7 +10647,6 @@ hurra
 hurraing
 husbandage
 hushabied
-hushabies
 hutchinsonian
 hutre
 huttonian
@@ -11726,7 +11686,6 @@ jiver
 jixie
 jjim
 jnanendriya
-jobbies
 joblots
 jockette
 jocko
@@ -11785,7 +11744,6 @@ jukskeis
 julid
 julidan
 jumbal
-jumbies
 jumbo
 jumhouriya
 jumpoff
@@ -11939,7 +11897,6 @@ kayle
 kayos
 kazatske
 kazatski
-kebbies
 kebbocks
 kebyar
 keckles
@@ -12068,7 +12025,6 @@ kiosk
 kiotomies
 kiplingese
 kipunji
-kirbies
 kirghiz
 kirimon
 kirombo
@@ -12130,7 +12086,6 @@ kobocha
 kogai
 kogals
 koggelmannetje
-kohlrabies
 kohlrabis
 kohutuhutu
 koibal
@@ -12199,7 +12154,6 @@ krypticism
 kshatriya
 kubanka
 kubie
-kubies
 kuccha
 kuehneola
 kuichua
@@ -12291,7 +12245,6 @@ lamarckian
 lamastery
 lambadas
 lambdacism
-lambies
 lamblia
 lambs
 lamby
@@ -12569,7 +12522,6 @@ levitator
 leviticism
 levotartaric
 levulic
-lewdsbies
 lewisia
 lexia
 lexica
@@ -12773,7 +12725,6 @@ loave
 lobachevskian
 lobar
 lobbied
-lobbies
 lobbyer
 lobcokt
 lobectomies
@@ -12830,7 +12781,6 @@ longilingual
 longinian
 longitude
 lonsdaleite
-loobies
 looksism
 lookup
 loonier
@@ -12912,7 +12862,6 @@ lukely
 lulabim
 lulavim
 lullabied
-lullabies
 lumbovertebral
 lumbricoid
 luminator
@@ -13215,7 +13164,6 @@ manent
 manetti
 mangabeira
 mangabev
-mangabies
 mangals
 mangalsutra
 manganja
@@ -13392,7 +13340,6 @@ mattoir
 mature
 maturish
 matzot
-maubies
 mauler
 mauretanian
 mauritanian
@@ -13884,7 +13831,6 @@ minifies
 minimiser
 minimitude
 minionette
-minirugbies
 ministrator
 ministrer
 miniver
@@ -14014,10 +13960,8 @@ mlechchha
 mnage
 moabitish
 moans
-mobbies
 mobbishly
 mobie
-mobies
 mobiles
 mobiliser
 moble
@@ -14220,7 +14164,6 @@ montuvio
 monumbo
 monuron
 mony
-moobies
 moocha
 moodishly
 moolet
@@ -14314,7 +14257,6 @@ motoscafo
 mots
 motser
 motswana
-moucharabies
 mouche
 mouchoir
 moufflons
@@ -14815,7 +14757,6 @@ neutrophils
 nevadan
 nevels
 neverthelater
-newbies
 newel
 newfashioned
 newies
@@ -15137,7 +15078,6 @@ nonvulval
 nonwaiver
 nonzebra
 noobie
-noobies
 noodledom
 nooned
 nooscopic
@@ -15270,7 +15210,6 @@ oasal
 oasthouse
 oater
 obadiah
-obbies
 obbligati
 obbligato
 obdiplostemony
@@ -16891,7 +16830,6 @@ phloxin
 phlyctaena
 phlyctaenae
 phlyctenae
-phobies
 phocacean
 phocaena
 phocean
@@ -17359,7 +17297,6 @@ pneumotropic
 pneumotropism
 pnicogen
 pnictogen
-pobbies
 pochaise
 pochette
 pochoir
@@ -18370,7 +18307,6 @@ pseudoplasma
 pseudopod
 pseudopupal
 pseudoquinol
-pseudorabies
 pseudorandom
 pseudoscientist
 pseudoscopic
@@ -18726,12 +18662,10 @@ quotennial
 quotha
 quyte
 rabbi
-rabbies
 rabbindom
 rabbity
 rabiator
 rabic
-rabies
 rabin
 rabinet
 rabis
@@ -19456,7 +19390,6 @@ rhythm
 rhytidectomies
 rhytinas
 ribavirin
-ribbies
 ribboned
 ribbonier
 ribeye
@@ -19549,7 +19482,6 @@ roble
 robots
 robusta
 roccellic
-rockabies
 rockaby
 rockelay
 rockety
@@ -19679,7 +19611,6 @@ roxie
 roystonea
 rubaboo
 rubbaboo
-rubbies
 rubbishly
 rubbity
 rubefies
@@ -19687,7 +19618,6 @@ rubeola
 rubiator
 rubiconed
 rubied
-rubies
 rubifies
 rubricator
 rubricism
@@ -19701,14 +19631,12 @@ rudderstocks
 ruddervator
 ruddocks
 rudenture
-rudesbies
 rudis
 rudista
 ruffianage
 ruffiandom
 rufigallic
 rugal
-rugbies
 rugine
 rugosa
 ruinator
@@ -20008,7 +19936,6 @@ sarsenet
 sartish
 saruk
 sasan
-sassabies
 sassafac
 sassanian
 sastrugi
@@ -20062,7 +19989,6 @@ sayons
 sazhen
 sbaikian
 scabbado
-scabies
 scaena
 scaffies
 scaffoldage
@@ -20194,11 +20120,9 @@ sclerotinial
 sclerotomic
 sclerotomies
 sclims
-scobies
 scoleces
 scolecoid
 scolopendrid
-scoobies
 scoots
 scopic
 scorbutic
@@ -20997,7 +20921,6 @@ skydiver
 skyf
 skyrockety
 skysails
-slabbies
 slaes
 slaistery
 slalom
@@ -21122,7 +21045,6 @@ snawle
 sneak
 sneakeups
 sneakishly
-sneaksbies
 snebbe
 sniffishly
 sniglet
@@ -21905,7 +21827,6 @@ structure
 strudel
 struthian
 struv
-stubbies
 stuccoers
 studdingsails
 stude
@@ -21946,7 +21867,6 @@ subatomic
 subauditur
 subaxillar
 subbasal
-subbies
 subblocks
 subbrachian
 subbrachycephaly
@@ -22311,7 +22231,6 @@ suture
 suzette
 svan
 svelt
-swabbies
 swadeshi
 swails
 swallowtails
@@ -22475,7 +22394,6 @@ tabacism
 tabagie
 tabaxir
 tabbied
-tabbies
 tabbinet
 tabefies
 tabernacles
@@ -23307,13 +23225,11 @@ toastmastery
 toazed
 tobaccoy
 tobagonian
-tobies
 toccatinas
 tocharic
 tocharish
 tocks
 todde
-toebies
 toenails
 toepieces
 toerag
@@ -23694,7 +23610,6 @@ trihalomethane
 triiodomethane
 trilamellar
 trilbied
-trilbies
 trilingual
 trimellic
 trimembral
@@ -25206,7 +25121,6 @@ walapai
 walcheren
 waldorf
 walkene
-wallabies
 wallaroo
 walleye
 wallonian
@@ -25295,7 +25209,6 @@ wearishly
 weaseled
 weason
 weathercocks
-webbies
 webcomic
 weber
 webeye
@@ -25580,7 +25493,6 @@ xenogamies
 xenoglossy
 xenomenia
 xenophiles
-xenophobies
 xenopteran
 xenotropic
 xeraphin
@@ -25605,7 +25517,6 @@ xylotomies
 xystus
 yabbi
 yabbied
-yabbies
 yaboo
 yabu
 yachtist
@@ -25773,7 +25684,6 @@ zoetropic
 zogan
 zoid
 zolle
-zombies
 zombifies
 zomotherapeutic
 zoned
@@ -25818,3 +25728,8 @@ zygopterid
 zymogen
 zyrenian
 zyryan
+bhakti
+jnanashakti
+sakti
+shakti
+svarabhakti
