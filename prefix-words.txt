@@ -987,7 +987,6 @@ angioplany
 angiospasm
 angiotensinase
 angiotonase
-anglaise
 anglepod
 anglic
 anglicism
@@ -1052,7 +1051,6 @@ anonyms
 anophoria
 anopubic
 anorak
-anorchi
 anorexia
 anosia
 anosognosia
@@ -1120,7 +1118,6 @@ antianaphylactogen
 antiandrogen
 antiantitoxin
 antiaphrodisiac
-antiarchi
 antibaryons
 antibenzaldoxime
 antibiont
@@ -1263,7 +1260,6 @@ aoudads
 apabhramsa
 apachette
 apagoge
-apaise
 apama
 apanage
 apartado
@@ -1377,7 +1373,6 @@ appoggiaturas
 appoggiature
 appomatox
 apportioned
-appraise
 appraiser
 appreciator
 appressoria
@@ -1421,7 +1416,6 @@ arabis
 arabitol
 arachnidan
 aragonian
-araise
 arancini
 araneidan
 arapaima
@@ -1454,7 +1448,6 @@ archaeolater
 archagitator
 archaic
 archaicism
-archaise
 archaiser
 archangelica
 archartist
@@ -1475,7 +1468,6 @@ archenia
 archesporia
 archespsporia
 archhouse
-archi
 archiater
 archibuteo
 archicerebra
@@ -2323,7 +2315,6 @@ bavardage
 bavette
 baviaantje
 bavin
-bawarchi
 bawcocks
 bawdyhouse
 bawneens
@@ -2353,7 +2344,6 @@ bearer
 bearfoots
 bearish
 bearishly
-bearnaise
 beastily
 beastish
 beatee
@@ -2491,7 +2481,6 @@ benzophloroglucinol
 beode
 beowulf
 bepicture
-bepraise
 bepraiser
 berairou
 berberid
@@ -2566,7 +2555,6 @@ betoken
 betorcinol
 betowel
 betoyan
-betraise
 betsimisaraka
 bettonga
 betulinamaric
@@ -2751,7 +2739,6 @@ blackspots
 blacktails
 blackwater
 blaes
-blaise
 blakeite
 blanchisseuse
 blankety
@@ -2918,7 +2905,6 @@ borak
 borborygm
 borborygmies
 bordage
-bordelaise
 bordello
 boredom
 boreens
@@ -3032,7 +3018,6 @@ brainier
 brainrots
 brainwater
 brairo
-braise
 bralette
 branchage
 branchiopod
@@ -3711,7 +3696,6 @@ carpocapsa
 carpogonial
 carpometacarpi
 carpoptosia
-carquaise
 carract
 carrageens
 carragheens
@@ -4027,7 +4011,6 @@ chainette
 chainon
 chainshots
 chais
-chaise
 chakalaka
 chakram
 chalah
@@ -4514,7 +4497,6 @@ cigarette
 ciguatoxin
 cilantros
 cilicism
-cimaise
 cimbal
 cimbalom
 cimicoid
@@ -5208,7 +5190,6 @@ coracoid
 coracoprocoracoid
 coracosteon
 coracovertebral
-coraise
 coraji
 corallic
 coralroots
@@ -5779,7 +5760,6 @@ cydippida
 cydonian
 cygnid
 cyllenian
-cymaise
 cymbal
 cymbalom
 cymbalos
@@ -6296,7 +6276,6 @@ despotat
 despotist
 despots
 despouse
-despraise
 destabiliser
 destocks
 destrer
@@ -6706,7 +6685,6 @@ disponed
 disponent
 dispositioned
 disposts
-dispraise
 dispraiser
 disprisoned
 disproportioned
@@ -7135,7 +7113,6 @@ dutra
 dvorak
 dwarfishly
 dwaum
-dweeb
 dwiles
 dyadic
 dybbuks
@@ -7218,7 +7195,6 @@ ecoid
 economic
 economies
 economiser
-ecossaise
 ecotecture
 ecotopic
 ecphoria
@@ -7967,7 +7943,6 @@ eventognathi
 eventual
 everbearer
 evergreens
-evermo
 evertebral
 everwhich
 evicke
@@ -8136,7 +8111,6 @@ factitude
 factual
 facture
 facula
-fadaise
 faddishly
 fadeur
 faecal
@@ -8729,7 +8703,6 @@ fragmentist
 frailero
 frailes
 frails
-fraise
 fraiser
 framea
 franchiser
@@ -8882,7 +8855,6 @@ funambulic
 funckias
 functioned
 fundamentals
-fundraise
 fundraiser
 funebral
 fungals
@@ -9733,7 +9705,6 @@ guideposts
 guidonian
 guiles
 guillemots
-guillermo
 guillotinade
 guiltily
 guineapig
@@ -10082,7 +10053,6 @@ hebdomadal
 hebdomadary
 hebephrenia
 hebetude
-hebraise
 hebrewism
 hecatompedon
 hecctkaerre
@@ -10239,7 +10209,6 @@ hermeneutist
 hermeticism
 hermetist
 hermitish
-hermo
 hermogenian
 hernial
 herniopuncture
@@ -10445,7 +10414,6 @@ hokkaido
 hokums
 holesom
 hollaing
-hollandaise
 hollo
 holloaing
 hollyhocks
@@ -11336,7 +11304,6 @@ intracolic
 intracompany
 intracranial
 intradas
-intradermo
 intradistrict
 intragroupal
 intralamellar
@@ -11591,7 +11558,6 @@ jargonier
 jargonise
 jarina
 jarinas
-jarmo
 jarul
 jason
 jateorhizin
@@ -12530,7 +12496,6 @@ lexicographian
 lexiphanicism
 leylandiis
 lezghian
-liaise
 liason
 libeled
 libelee
@@ -12919,7 +12884,6 @@ lyncean
 lynette
 lynnette
 lyonetia
-lyonnaise
 lyophiliser
 lyotropic
 lyperosia
@@ -13063,7 +13027,6 @@ maintopsails
 maioli
 maiolica
 maiolicas
-maise
 maisonette
 maisonnette
 maithuna
@@ -13091,7 +13054,6 @@ maladventure
 malaga
 malagigi
 malaguenas
-malaise
 malakon
 malambo
 malapportioned
@@ -13261,7 +13223,6 @@ marrowier
 marrowy
 marrucinian
 marsdenia
-marseillaise
 marshlocks
 marshmallowier
 marshmallowy
@@ -13346,7 +13307,6 @@ mauretanian
 mauritanian
 mausoleum
 mauvais
-mauvaise
 mauvette
 mavin
 mavourneens
@@ -13361,7 +13321,6 @@ maximon
 maxixe
 mayaca
 mayda
-mayonnaise
 mayos
 mazame
 mazard
@@ -13783,7 +13742,6 @@ mignonette
 mignonne
 migrator
 mikasuki
-milanaise
 mildewier
 mileposts
 miles
@@ -13852,7 +13810,6 @@ miombo
 miqra
 mirabilis
 miracles
-mirchi
 miriki
 mirin
 mirish
@@ -13864,7 +13821,6 @@ misallots
 misanthropic
 misanthropism
 misanthropos
-misappraise
 misassume
 misatoned
 misbandage
@@ -13915,11 +13871,9 @@ misoxene
 misoxeny
 mispickels
 mispositioned
-mispraise
 mispriser
 misproportioned
 mispurchase
-misraise
 misreason
 misreckoned
 misruler
@@ -14205,7 +14159,6 @@ morisco
 morish
 morisonian
 mormaer
-mormo
 mormondom
 mornette
 moroc
@@ -14306,7 +14259,6 @@ mudhen
 mudiria
 mudis
 mudrocks
-muermo
 muesli
 mueslis
 muette
@@ -14842,7 +14794,6 @@ nitros
 nitrotrichloromethane
 nitwittery
 nivellator
-nivernaise
 nixe
 nixie
 nixon
@@ -15665,12 +15616,10 @@ outpassioned
 outpeeped
 outplots
 outposts
-outpraise
 outpreens
 outprodigy
 outpsych
 outpupils
-outraise
 outre
 outreason
 outreasoned
@@ -15720,7 +15669,6 @@ overact
 overafflict
 overambitioned
 overappareled
-overappraise
 overassume
 overawe
 overbarish
@@ -15807,7 +15755,6 @@ overplenitude
 overplenty
 overplots
 overposts
-overpraise
 overprominent
 overproportioned
 overprotract
@@ -15971,7 +15918,6 @@ paintpots
 painture
 paiocks
 paisano
-paise
 paixiao
 pajahuello
 pajaroello
@@ -16014,7 +15960,6 @@ paleomagnetist
 paleometallic
 paleostriatal
 paleostriatum
-palermo
 palestinian
 paletots
 palette
@@ -17298,7 +17243,6 @@ pneumotropic
 pneumotropism
 pnicogen
 pnictogen
-pochaise
 pochette
 pochoir
 pockety
@@ -17372,7 +17316,6 @@ pollinise
 polliniser
 pollocks
 poloi
-polonaise
 polonial
 polonian
 polonise
@@ -17712,7 +17655,6 @@ prahm
 prahu
 prahus
 prairiedom
-praise
 praiser
 praiss
 pramnian
@@ -18400,7 +18342,6 @@ pumis
 pummeled
 pumpernickels
 pumphouse
-punaise
 punaluan
 punany
 punchinello
@@ -18722,7 +18663,6 @@ rainbowy
 rainier
 rainsuits
 rainwater
-raise
 raiser
 raisinier
 raisonne
@@ -18848,7 +18788,6 @@ realos
 reamier
 reappareled
 reapportioned
-reappraise
 reappraiser
 rearer
 rearii
@@ -19175,7 +19114,6 @@ repot
 repots
 repousse
 repoussoir
-repraise
 repreeve
 reprobater
 reprobator
@@ -19195,7 +19133,6 @@ requitals
 requits
 requoyle
 rerails
-reraise
 reran
 rereeve
 rereign
@@ -20297,7 +20234,6 @@ selfishly
 seljukian
 sellar
 semainier
-semaise
 semel
 semiabstract
 semialcoholic
@@ -20445,7 +20381,6 @@ serictery
 sericulture
 serinette
 seriocomic
-sermo
 sermoned
 sermonet
 sermonette
@@ -22161,7 +22096,6 @@ supernature
 superorganicism
 superparticles
 superpatriots
-superpraise
 superromanticism
 superscreens
 superseminator
@@ -22470,7 +22404,6 @@ tailzies
 taino
 tainture
 tainui
-taise
 taiver
 tajik
 tajine
@@ -22975,7 +22908,6 @@ therianthropism
 theriolater
 thermette
 thermidor
-thermo
 thermobaric
 thermobattery
 thermocautery
@@ -23861,7 +23793,6 @@ tweenage
 tweens
 tweeple
 twenty
-twentyfourmo
 twibil
 twibils
 twier
@@ -24135,7 +24066,6 @@ undermentioned
 undernourish
 underpeeped
 underplots
-underpraise
 underproportioned
 underreceiver
 underriver
@@ -24378,7 +24308,6 @@ unploughed
 unpoisoned
 unportioned
 unpostponed
-unpraise
 unprecautioned
 unprefixal
 unpremature
@@ -24561,7 +24490,6 @@ uppertendom
 uppiles
 uppishly
 upquiver
-upraise
 upraiser
 uprightish
 upriser
@@ -25112,7 +25040,6 @@ wails
 wainage
 wainscots
 wairch
-waise
 waive
 waiver
 waivode
@@ -25223,7 +25150,6 @@ wedel
 wedeled
 wedlocks
 weeaboo
-weeb
 weedage
 weekwam
 weenier
@@ -25487,7 +25413,6 @@ xanthogen
 xanthophane
 xanthophyllic
 xanthoproteic
-xenarchi
 xenia
 xenial
 xenian
