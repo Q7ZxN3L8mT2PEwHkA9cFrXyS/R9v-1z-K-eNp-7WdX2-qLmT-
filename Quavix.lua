@@ -180,7 +180,7 @@ dot.Size = UDim2.new(0, 6, 0, 6)
 dot.Position = UDim2.new(0.5, 0, 0.5, 0)
 dot.AnchorPoint = Vector2.new(0.5, 0.5)
 dot.BackgroundColor3 = Color3.fromRGB(200, 200, 200)
-dot.BackgroundTransparency = 0.2
+dot.BackgroundTransparency = 1
 dot.BorderSizePixel = 0
 
 local corner = dot:FindFirstChildOfClass("UICorner")
@@ -198,7 +198,7 @@ end
 
 stroke.Thickness = 1
 stroke.Color = Color3.fromRGB(255, 255, 255)
-stroke.Transparency = 0.4
+stroke.Transparency = 1
 
 UserInputService.InputBegan:Connect(function(input, gameProcessed)
     if gameProcessed then return end
@@ -319,7 +319,7 @@ sortButton.MouseButton1Click:Connect(function()
     currentPage = 1
     searchCache = {}
     
-    if h.Text ~= "" then
+    if h and h.Parent and h.Text ~= "" then
         UpdateSuggestions()
     end
 end)
@@ -454,6 +454,7 @@ end
 
 h:GetPropertyChangedSignal("Text"):Connect(function()
     task.wait(0.1)
+    if not h or not h.Parent then return end
     UpdateSuggestions(true)
 end)
 
@@ -505,7 +506,7 @@ spawn(function()
 
     statusLabel.Visible = false
 
-    if h.Text ~= "" then
+    if h and h.Parent and h.Text ~= "" then
         UpdateSuggestions()
     end
 end)
