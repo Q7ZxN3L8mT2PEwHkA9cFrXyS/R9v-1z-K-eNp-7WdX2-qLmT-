@@ -113,7 +113,6 @@ accompanier
 accompany
 accordaturas
 accordature
-accosts
 accouche
 accoucheuse
 accoutre
@@ -490,7 +489,6 @@ airish
 airlocks
 airmails
 airohydrogen
-airposts
 airshots
 aissaoua
 aisteoir
@@ -560,7 +558,6 @@ aldazin
 alditol
 aldm
 aldoxime
-alecosts
 alectoria
 alectryons
 alefs
@@ -910,7 +907,6 @@ anatopism
 anatox
 anatoxin
 anatum
-anaxon
 anchoret
 anchoretish
 anchorette
@@ -1904,7 +1900,6 @@ axillar
 axils
 axion
 axofugal
-axon
 axonemal
 axoneuron
 axonolipa
@@ -2316,7 +2311,6 @@ bedel
 bedevils
 bedin
 bedlamitish
-bedposts
 bedrails
 bedrid
 bedriveled
@@ -2359,7 +2353,6 @@ beigel
 beigeled
 beignes
 beikost
-beikosts
 beira
 bejeled
 bejesuits
@@ -2697,7 +2690,6 @@ blizzard
 bloater
 blockishly
 blocks
-blogposts
 blokedom
 bloodroots
 bloodstocks
@@ -2806,7 +2798,6 @@ boorish
 boorishly
 boost
 boosterish
-boosts
 bootery
 booth
 boothage
@@ -3737,7 +3728,6 @@ caveola
 cavetti
 cavils
 cavin
-caxon
 caxtonian
 caymanian
 cayos
@@ -4477,7 +4467,6 @@ clavicembalos
 clavicles
 clavicula
 clavicymbal
-claxon
 cleanups
 clearer
 clearish
@@ -4649,7 +4638,6 @@ cognosce
 cogon
 cohabs
 cohobator
-cohosts
 cohyponyms
 coiffeuse
 coiffure
@@ -4815,7 +4803,6 @@ complots
 componed
 component
 compositure
-composts
 composture
 compotator
 compots
@@ -5141,7 +5128,6 @@ costocolic
 costocoracoid
 costotomies
 costovertebral
-costs
 costumier
 costus
 coswearer
@@ -5856,7 +5842,6 @@ defoliator
 deforce
 deforceor
 defrocks
-defrosts
 defrozen
 defueled
 degauss
@@ -5962,7 +5947,6 @@ denars
 denature
 denaturiser
 denazifies
-dendraxon
 dendroeca
 dendrolagus
 dendrolater
@@ -6217,7 +6201,6 @@ diauli
 diaulic
 diaulos
 diavolo
-diaxon
 diazeutic
 diazin
 diazinon
@@ -6485,7 +6468,6 @@ dispergator
 disponed
 disponent
 dispositioned
-disposts
 dispraiser
 disprisoned
 disproportioned
@@ -6664,7 +6646,6 @@ doorba
 doorjambs
 doorknocks
 doornails
-doorposts
 doozies
 dopiazas
 doppios
@@ -8136,7 +8117,6 @@ finaliser
 finfoots
 fingan
 fingernails
-fingerposts
 finial
 finicism
 finickety
@@ -8310,7 +8290,6 @@ footeite
 footfarer
 foothils
 foothot
-footposts
 foots
 footstocks
 footy
@@ -8468,7 +8447,6 @@ freecycles
 freediver
 freedom
 freemason
-freeposts
 freethink
 freewheeled
 freinage
@@ -8524,7 +8502,6 @@ frontspieces
 fronture
 froren
 frostily
-frosts
 frosty
 frothi
 frothy
@@ -8792,7 +8769,6 @@ gastrotomic
 gastrotomies
 gastrotricha
 gastrula
-gateposts
 gater
 gatherum
 gator
@@ -8879,7 +8855,6 @@ geochrony
 geode
 geodiatropism
 geogen
-geognosts
 geographize
 geomagnetist
 geometricism
@@ -8933,7 +8908,6 @@ ghetti
 ghilgais
 ghostily
 ghostish
-ghosts
 ghosty
 ghoul
 ghoulishly
@@ -8994,7 +8968,6 @@ giuseppe
 giusto
 giver
 gizzard
-gjetosts
 glabellar
 gladiator
 gladioli
@@ -9009,7 +8982,6 @@ glamoriser
 glamourie
 glandula
 glareola
-glasnosts
 glasseye
 glassifies
 glathsheim
@@ -9048,7 +9020,6 @@ glossophagine
 glossospasm
 glossotomies
 glossy
-glosts
 glucinas
 glucke
 glucocorticoid
@@ -9083,7 +9054,6 @@ gnawa
 gnocchetti
 gnomic
 gnosticism
-goalposts
 goatee
 goatish
 goatishly
@@ -9408,7 +9378,6 @@ gugal
 gugglet
 guglet
 guidage
-guideposts
 guidonian
 guillemots
 guillotinade
@@ -9665,7 +9634,6 @@ harmonicism
 harmonise
 harmoniser
 harmony
-harmosts
 harmosty
 harmotomic
 haros
@@ -9764,7 +9732,6 @@ hedarim
 hedyphane
 heeled
 heelpieces
-heelposts
 heezies
 hefte
 heftily
@@ -9995,7 +9962,6 @@ hexasyllabic
 hexathlon
 hexathlons
 hexatomic
-hexaxon
 hexene
 hexitol
 hexobarbitals
@@ -10082,7 +10048,6 @@ hlubi
 hm
 hoagie
 hoaing
-hoarfrosts
 hoarish
 hoascas
 hoazin
@@ -10228,7 +10193,6 @@ hospitals
 hospitator
 hospodariat
 hosteled
-hosts
 hotchpots
 hotel
 hotfoots
@@ -10666,7 +10630,6 @@ imponed
 imponent
 importraiture
 importunator
-imposts
 imposture
 impots
 impoundage
@@ -10811,7 +10774,6 @@ inlapidatee
 inlocks
 inmixture
 innage
-innermosts
 innerve
 innominatum
 innovator
@@ -11636,7 +11598,6 @@ kindjal
 kineticism
 kinetoscopic
 kinglet
-kingposts
 kininogen
 kinkajou
 kinkles
@@ -11679,7 +11640,6 @@ kiwai
 kiwanian
 kiwifruits
 kkakdugi
-klaxon
 klaxoned
 kleinian
 klepht
@@ -11883,7 +11843,6 @@ lampadedromy
 lampadephoria
 lamplit
 lampooned
-lampposts
 lampreys
 lampsilis
 lampukas
@@ -11897,7 +11856,6 @@ landamman
 landaulet
 landaulette
 landdamnes
-landdrosts
 landforce
 landlouper
 landlubberish
@@ -12035,7 +11993,6 @@ leerish
 lefte
 leftish
 leftist
-leftmosts
 legaliser
 legals
 legatee
@@ -13352,7 +13309,6 @@ midianitish
 midinette
 midis
 midlatitude
-midmosts
 midseason
 midsummerish
 midwater
@@ -13363,7 +13319,6 @@ mignonne
 migrator
 mikasuki
 mildewier
-mileposts
 milesius
 milfoils
 militar
@@ -13629,7 +13584,6 @@ monatomic
 monaul
 monauli
 monaulos
-monaxon
 monaxonial
 mondegreens
 monedula
@@ -13797,7 +13751,6 @@ mosquito
 mosso
 mossy
 mostaccioli
-mosts
 mosul
 motacil
 motel
@@ -14031,7 +13984,6 @@ myrmidonian
 myrosinase
 myrrhed
 mysidacea
-mysosts
 mystax
 mystery
 mysticetes
@@ -14263,7 +14215,6 @@ netsuke
 neudeckian
 neurasthenia
 neurataxia
-neuraxon
 neurectomic
 neurectomies
 neurhypnotist
@@ -14885,7 +14836,6 @@ omophoria
 omphalopagus
 omphalos
 oncogen
-oncosts
 oncotomies
 ondoyant
 oneiric
@@ -15166,7 +15116,6 @@ outparish
 outpassioned
 outpeeped
 outplots
-outposts
 outpreens
 outprodigy
 outpsych
@@ -15298,7 +15247,6 @@ overpicture
 overplenitude
 overplenty
 overplots
-overposts
 overprominent
 overproportioned
 overprotract
@@ -15705,7 +15653,6 @@ parathas
 parathyroidectomies
 paratonnerre
 paravertebral
-paraxon
 parazoans
 parboils
 parbuckles
@@ -16065,7 +16012,6 @@ perils
 perinatal
 periodids
 periodontist
-periosts
 peripateticism
 peripenial
 peripetasma
@@ -16095,7 +16041,6 @@ perla
 perloir
 perlustrator
 permaculture
-permafrosts
 permalloy
 permanent
 permatan
@@ -16829,7 +16774,6 @@ polyamory
 polyandria
 polyanthas
 polyatomic
-polyaxon
 polybranchian
 polybuttoned
 polycephaly
@@ -17075,7 +17019,6 @@ postponed
 postprophesy
 postpubic
 postremogeniture
-posts
 postscorbutic
 postscutellar
 postseason
@@ -17645,7 +17588,6 @@ providor
 provisioned
 provocator
 provost
-provosts
 proxenet
 proxeny
 proxime
@@ -18553,7 +18495,6 @@ reponed
 repositioned
 reposoir
 repostponed
-reposts
 repot
 repots
 repousse
@@ -18818,7 +18759,6 @@ riots
 ripa
 riparii
 ripoff
-riposts
 riroriro
 riser
 riserva
@@ -18906,7 +18846,6 @@ roomies
 roomy
 roosevelt
 roost
-roosts
 roosty
 rootery
 rooti
@@ -18931,7 +18870,6 @@ rosminian
 rosolic
 rostellar
 rostis
-rosts
 rotachute
 rotacism
 rotator
@@ -18988,7 +18926,6 @@ ruche
 ruckles
 rudas
 rudbeckias
-rudderposts
 rudderstocks
 ruddervator
 ruddocks
@@ -19334,7 +19271,6 @@ savitar
 sawdustish
 sawtooth
 saxitoxin
-saxon
 saxondom
 saxonian
 sayette
@@ -19398,7 +19334,6 @@ schismatist
 schistosomal
 schistosomus
 schistus
-schizaxon
 schizo
 schizochroal
 schizoid
@@ -19756,7 +19691,6 @@ separatist
 separator
 separatum
 sephiric
-sepiosts
 septa
 septectomies
 septembral
@@ -19976,7 +19910,6 @@ shirtily
 shirtsleeve
 shirttails
 shishya
-shitposts
 shittily
 shivaree
 shiver
@@ -20079,7 +20012,6 @@ signifies
 signoria
 signorina
 signorinas
-signposts
 sikar
 sikimi
 siksiks
@@ -20531,7 +20463,6 @@ soufousse
 sougan
 soughed
 soundage
-soundposts
 souper
 souren
 sourish
@@ -20788,7 +20719,6 @@ squatinoidei
 squattily
 squattish
 squawroots
-squaxon
 squeald
 squeamishly
 squeg
@@ -20947,7 +20877,6 @@ sternebra
 sternebral
 sternocoracoid
 sternovertebral
-sternposts
 sternutator
 stero
 sterve
@@ -21262,7 +21191,6 @@ substratum
 substructure
 subsulphid
 subsume
-subtaxon
 subteens
 subterbrutish
 subterhuman
@@ -21917,7 +21845,6 @@ taxidriver
 taxinomic
 taxir
 taxol
-taxon
 taxonomic
 taxonomies
 tcawi
@@ -21977,7 +21904,6 @@ teleodesmacea
 teleonomic
 teleonomies
 teleostomian
-teleosts
 teleotrocha
 telepathize
 telephoned
@@ -22134,7 +22060,6 @@ tetratheite
 tetrathlon
 tetrathlons
 tetratomic
-tetraxon
 tetraxonian
 tetrazane
 tetrazin
@@ -22769,7 +22694,6 @@ triathlon
 triathlons
 triatomic
 triaxal
-triaxon
 triaxonian
 triazane
 triazin
@@ -23597,7 +23521,6 @@ unribboned
 unromanticism
 unroomy
 unroost
-unroosts
 unroots
 unroweled
 unrufe
@@ -23824,12 +23747,10 @@ uterotomies
 utilidor
 utiliser
 utilitarianise
-utmosts
 utopianise
 utopianiser
 utopism
 utricles
-uttermosts
 uvito
 uvulatomies
 uvulectomies
@@ -23859,7 +23780,6 @@ vagnera
 vagotomies
 vagotropic
 vagotropism
-vagueposts
 vagus
 vails
 vaisya
@@ -24202,7 +24122,6 @@ volatiliser
 volcanian
 volcanise
 volemitol
-volosts
 voltaic
 voltairish
 volto
@@ -24342,7 +24261,6 @@ wawaing
 wawas
 waxen
 wayfarer
-wayposts
 waywiser
 wazzocks
 weakishly
