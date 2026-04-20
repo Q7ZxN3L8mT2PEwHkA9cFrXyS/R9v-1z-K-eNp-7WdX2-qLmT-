@@ -89,7 +89,7 @@ local function SuggestWords(input, count)
 
     for i = 1, #searchList do
         local word = searchList[i]
-        if string.find(word, "^"..input) then
+        if word:sub(1, #input) == input then
             table.insert(possible, word)
         end
     end
