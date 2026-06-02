@@ -1594,8 +1594,8 @@ acadialite
 acadian
 acadie
 acaena
-acaeruloplasminaemia
-acaeruloplasminaemias
+acaeruloplasminaemia (+) / (×)
+acaeruloplasminaemias (+) / (×)
 acai
 acais
 acajou
@@ -53166,8 +53166,9 @@ brewst
 brewster
 brewsterite
 brewsters
+brexanolone (+)
 brexpiprazole
-brexpiprazoles
+brexpiprazoles (×)
 brey
 breyed
 breying
@@ -125155,6 +125156,7 @@ eichwaldite
 eicosane
 eicosanoid
 eicosanoids
+eid-al-fitr
 eid-ul-adha
 eid-ul-fitr
 eide
@@ -133636,6 +133638,7 @@ epsomite
 epsomites
 eptatretidae
 eptatretus
+eptifibatide (+)
 eptinezumab
 epuise
 epuisee
@@ -136499,6 +136502,8 @@ eudyptes
 euectic
 euemerism
 euergetes
+euergetism (+)
+euergetisms (+)
 euflavine
 eugarie
 eugaries
@@ -183317,6 +183322,8 @@ hosey
 hoseyed
 hoseying
 hoseys
+hoshigaki (+)
+hoshigakis (+)
 hosier
 hosieries
 hosiers
@@ -204394,9 +204401,9 @@ isthmistics
 isthmoid
 isthmus
 isthmuses
-istiophorid
-istiophoridae
-istiophorus
+istighfar
+istikhara
+istinja
 istle
 istles
 istoke
@@ -224219,6 +224226,8 @@ lomita
 loml
 lommock
 lomonite
+lomonosovite
+lomonosovites
 lompish
 lomta
 loncastuximab
@@ -227102,6 +227111,8 @@ maa
 maad
 maaed
 maaing
+maakouda
+maakoudas
 maam
 maamselle
 maana
@@ -230206,6 +230217,7 @@ maneging
 maneh
 manehs
 manei
+maneki-neko
 maneless
 manent
 manequin
@@ -244468,6 +244480,7 @@ mizzonite
 mizzonites
 mizzy
 mktg
+mlange
 mleccha
 mlechchha
 mlem
@@ -249175,6 +249188,7 @@ mpox
 mpoxes
 mpret
 mprets
+mpumalanga
 mrem
 mridamgam
 mridamgams
@@ -249190,8 +249204,6 @@ msalliance
 msec
 msemen
 msemens
-msemmen (+)
-msemmens (+)
 msg
 msink
 msource
@@ -255332,6 +255344,8 @@ nejd
 nejdi
 nek
 nekkar
+nekoite
+nekoites
 neks
 nekton
 nektonic
@@ -257180,6 +257194,7 @@ ngarara
 ngararas
 ngati
 ngatis
+ngemba
 ngl
 ngohiong
 ngohiongs
@@ -258463,6 +258478,7 @@ noahs
 noam
 noance
 noasaurus
+noasauruses
 nob
 nobackspace
 nobatch
@@ -268340,6 +268356,8 @@ npfx
 nqwebasaurus
 nrarucu
 nritta
+nsambya
+nsambyas
 nsec
 nsfw
 nshima
@@ -271989,6 +272007,7 @@ olallieberry (+)
 olam
 olamic
 olanzapine
+olanzapine-fluoxetine (+)
 olaratumab
 olax
 olcha
@@ -272804,6 +272823,7 @@ omoplatoscopy
 omostegite
 omosternal
 omosternum
+omotenashi
 omov
 omovs
 omphacine
@@ -347608,6 +347628,7 @@ reyoking
 reyouth
 reyson
 rez
+rezafungin
 rezala
 rezbanyite
 rezero
@@ -353396,6 +353417,7 @@ rutylene
 ruvid
 ruxolitinib
 ruyangosaurus
+ruyangosauruses
 rwanda
 rwandan
 rwandans
@@ -367597,6 +367619,7 @@ sgabelli
 sgabello
 sgabellos
 sgad
+sgian-dubh
 sgraffiato
 sgraffiti
 sgraffito
@@ -428312,6 +428335,7 @@ udallers
 udalman
 udals
 udanoceratops
+udanoceratopses
 udasi
 udder
 uddered
@@ -429204,6 +429228,7 @@ umbundu
 ume
 umeboshi
 umeboshis
+umeclidinium
 umes
 umest
 umfaan

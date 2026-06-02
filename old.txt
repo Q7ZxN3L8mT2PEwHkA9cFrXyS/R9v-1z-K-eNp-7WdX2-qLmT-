@@ -308,7 +308,6 @@ agglutinogen
 agitpunkt
 aglet
 aglipayan
-aglipayano
 aglus
 aglycon
 agnails
@@ -1761,7 +1760,6 @@ bavardage
 bavette
 baviaantje
 bawra
-bayano
 bayonet
 bazar
 bazouki
@@ -2092,7 +2090,6 @@ bizcochito
 bizzies
 blackishly
 blackmails
-blackneb
 blackspots
 blacktails
 blaes
@@ -2503,7 +2500,6 @@ bufotoxin
 bugaboo
 bugles
 buglet
-bukkake
 bulbils
 bulghur
 bulgine
@@ -2782,7 +2778,6 @@ caprifoils
 caprimulgine
 capryl
 capsa
-capsule
 capsuler
 captacula
 captaincy
@@ -3351,7 +3346,6 @@ chlorophaeite
 chlorophyll
 choanosomal
 chobie
-choca
 chocaholic
 chocko
 chocoholic
@@ -3361,8 +3355,6 @@ choils
 choir
 choisya
 chokecoils
-choko
-choky
 cholecystectomies
 cholecystis
 cholecystostomies
@@ -4358,7 +4350,6 @@ cutset
 cuvette
 cuzzies
 cyanmethemoglobin
-cyano
 cyanobenzene
 cyanogen
 cyanomethaemoglobin
@@ -6271,7 +6262,6 @@ finickety
 finitist
 finitude
 finnack
-finnesko
 finnier
 finny
 firepot
@@ -7375,7 +7365,6 @@ haidan
 haika
 haikai
 haiku
-haikun
 hails
 hailse
 hailshots
@@ -8124,7 +8113,6 @@ hypoconulid
 hypocoracoid
 hypodiapason
 hypoendocrisia
-hypogeiody
 hypohydrochloria
 hypoionian
 hypolimnia
@@ -8561,7 +8549,6 @@ isochrony
 isocolic
 isocoria
 isocorybulbin
-isocyano
 isocyanogen
 isodomic
 isodontals
@@ -8588,7 +8575,6 @@ isorhythm
 isorithm
 isorropic
 isoseist
-isothiocyano
 isotopic
 isotropic
 isovanillic
@@ -9019,7 +9005,6 @@ kirimon
 kirombo
 kismet
 kiswa
-kitab
 kitabis
 kitar
 kitchendom
@@ -9121,7 +9106,6 @@ kromskop
 kronen
 krouchka
 kruman
-krumkake
 krypticism
 kshatriya
 kubanka
@@ -9529,7 +9513,6 @@ liposomal
 lipotropic
 lipoxeny
 lippitude
-liquitab
 liquorishly
 lisette
 lisks
@@ -12174,7 +12157,6 @@ panade
 panagia
 panamanian
 panayan
-panayano
 panbabylonian
 panbroils
 panchayat
@@ -12788,7 +12770,6 @@ phlyctaena
 phlyctaenae
 phlyctenae
 phobies
-phoca
 phocacean
 phocaena
 phocean
@@ -12954,7 +12935,6 @@ pigritude
 pigroots
 pigsnie
 pigtails
-pikake
 pilapil
 pileum
 pileups
@@ -16960,7 +16940,6 @@ taigle
 taigles
 taihoaing
 taiko
-taikun
 tailloir
 tails
 tailzies
@@ -17383,7 +17362,6 @@ thingamies
 thinglet
 thingumabob
 thingummies
-thiocyano
 thiocyanogen
 thiogycolic
 thiokol
@@ -19204,6 +19182,7 @@ wormian
 wormier
 wormils
 wormroots
+wost
 wots
 wourali
 wraithe
