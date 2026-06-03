@@ -178,6 +178,8 @@ cochleleae
 coley
 collabs
 collegese
+colobin
+colosso
 colpheg
 comme
 concepti
@@ -342,8 +344,11 @@ good-o
 gooley
 gramarye
 grandeur
+gray-a
+grey-a
 groom-to-be
 grooms-to-be
+grosso
 guadagnini
 guemal
 gung-ho
@@ -524,6 +529,7 @@ monotremal
 mooley
 moonphase
 moror
+mosso
 motel
 moton
 mourvedre

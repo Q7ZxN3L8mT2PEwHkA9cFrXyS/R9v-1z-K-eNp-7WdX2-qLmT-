@@ -5252,8 +5252,6 @@ adorns
 adorsed
 ados
 adosculation
-adossed
-adossee
 adoulie
 adown
 adoxa
@@ -29830,7 +29828,6 @@ atypicality
 atypically
 atypy
 aua
-auantic
 auas
 aubade
 aubades
@@ -125156,6 +125153,7 @@ eichwaldite
 eicosane
 eicosanoid
 eicosanoids
+eid-al-adha
 eid-al-fitr
 eid-ul-adha
 eid-ul-fitr
@@ -174656,6 +174654,7 @@ hdwe
 he
 he'd
 he'd've
+he-he
 head
 head-carrying
 head-carryings
@@ -204401,6 +204400,9 @@ isthmistics
 isthmoid
 isthmus
 isthmuses
+istiophorid
+istiophoridae
+istiophorus
 istighfar
 istikhara
 istinja

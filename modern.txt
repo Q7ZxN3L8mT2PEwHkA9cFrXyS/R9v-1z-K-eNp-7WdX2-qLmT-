@@ -16,6 +16,7 @@ addn
 adespoton
 adiapneustia
 adib
+adjag
 aegle
 aeolipyle
 afer
@@ -200,6 +201,8 @@ coct
 coley
 collabs
 collegese
+colobin
+colosso
 colpheg
 cols
 comme
@@ -401,9 +404,12 @@ good-o
 gooley
 gramarye
 grandeur
+gray-a
 grex
+grey-a
 groom-to-be
 grooms-to-be
+grosso
 guadagnini
 guemal
 guib
@@ -520,6 +526,7 @@ kiaat
 kidel
 kiel
 kilan
+kilju
 kiloton
 kinaray-a
 kiplingese
@@ -624,6 +631,7 @@ monotremal
 mooley
 moonphase
 moror
+mosso
 motel
 moton
 mourvedre

@@ -9,6 +9,7 @@ abave
 abbots
 abcissa
 abecedary
+abeles
 abelmosks
 abelonian
 aberdonian
@@ -466,6 +467,7 @@ allantoin
 alleghenian
 allegheny
 allegro
+alleles
 allelotropic
 alleluia
 alleluja
@@ -699,6 +701,7 @@ andromedotoxin
 andromonoecism
 androphyll
 anecdotist
+aneles
 anemonol
 anemotropic
 anencephaly
@@ -709,6 +712,7 @@ anfract
 angareeb
 angarep
 angdistis
+angeles
 angelica
 angelicas
 angelot
@@ -740,6 +744,7 @@ anisocoria
 anisodactyli
 anisogametes
 anisogamies
+anisomeles
 anisometropic
 anisopod
 anisotropic
@@ -762,6 +767,7 @@ anomic
 anomies
 anonol
 anonyms
+anopheles
 anophelinae
 anophoria
 anopubic
@@ -947,6 +953,7 @@ apachette
 apagoge
 apaise
 apanage
+apanteles
 apartado
 aparthotel
 apatan
@@ -1074,7 +1081,6 @@ araise
 arancini
 araneidan
 araponga
-arauan
 araucanian
 arawa
 arawana
@@ -1321,6 +1327,7 @@ ataxia
 ataxinomic
 ataxonomic
 ateknia
+ateles
 atelorachidia
 atenolol
 atheist
@@ -1510,7 +1517,6 @@ babyccino
 babycino
 babyishly
 babylonian
-bacauan
 bacchian
 bachata
 bachelorette
@@ -1635,7 +1641,9 @@ banh
 banian
 baniya
 banjo
+banjoleles
 banjore
+banjuleles
 bannack
 bannerette
 banquette
@@ -2104,6 +2112,7 @@ blason
 blasphemies
 blastemal
 blastocoele
+blastocoeles
 blastomycetes
 blastophthoria
 blazar
@@ -2469,6 +2478,7 @@ bskt
 bubbe
 bubbies
 buboed
+bubonoceles
 bubukles
 bubus
 bucayo
@@ -3036,6 +3046,7 @@ centropomus
 centrosomic
 centu
 centuply
+cephaloceles
 cephalom
 cephalomenia
 cephalonasal
@@ -3085,6 +3096,7 @@ chachka
 chaconne
 chacte
 chado
+chaenomeles
 chaeta
 chaetae
 chaetetes
@@ -3568,6 +3580,7 @@ clerum
 cleveite
 cleverishly
 clidastes
+clienteles
 climactery
 clinid
 clinocephaly
@@ -3718,7 +3731,6 @@ colons
 colopexia
 colophonian
 coloquintida
-colosso
 colostomies
 colotomies
 colporrhagia
@@ -4401,6 +4413,7 @@ cystectomies
 cysticercoid
 cystidia
 cystis
+cystoceles
 cystorrhagia
 cystoscopic
 cystospasm
@@ -4581,6 +4594,7 @@ dekametre
 delapsed
 delay
 delegati
+deles
 deletery
 deletes
 delicti
@@ -4811,6 +4825,7 @@ dicotyledon
 dicta
 dictery
 dictyogen
+dictyosteles
 dictyota
 dicyanogen
 dicyclica
@@ -5421,6 +5436,9 @@ ejacula
 ejidos
 ekka
 ekphoria
+ekpweles
+ekueles
+ekweles
 elaenia
 elaeosia
 elamitish
@@ -5551,6 +5569,7 @@ encaustes
 enceint
 encephalasthenia
 encephalitogen
+encephaloceles
 encephalocoele
 encephalons
 encephalorrhagia
@@ -5654,8 +5673,10 @@ entamed
 entangles
 enterectomies
 entericoid
+enteroceles
 enterochlorophyll
 enterocoele
+enterocoeles
 enteropexia
 enteropneusta
 enterorrhagia
@@ -5830,7 +5851,6 @@ escopette
 escots
 escritoire
 escutcheoned
-eskimauan
 eskuara
 esocataphoria
 esophagojejunostomies
@@ -5936,6 +5956,7 @@ eurytopic
 eurytropic
 eustachian
 eustathian
+eusteles
 eusuchian
 eutaenia
 eutaxia
@@ -6228,6 +6249,7 @@ fidawi
 fideicommissa
 fideicommissumissa
 fideist
+fideles
 fidelio
 fidia
 fidicula
@@ -6277,6 +6299,7 @@ fisnomies
 fissilingual
 fissioned
 fissury
+fistmeles
 fiuman
 fiver
 fixion
@@ -7194,7 +7217,6 @@ grooty
 grooves
 groset
 grossieretes
-grosso
 grots
 grotzen
 groundage
@@ -7260,7 +7282,6 @@ guideposts
 guidonian
 guillemots
 guillotinade
-guinea-bissauan
 guineapig
 guineas
 guitar
@@ -7337,6 +7358,7 @@ hackles
 hadromerina
 haemal
 haematinon
+haematoceles
 haematocystis
 haematoin
 haematoxylons
@@ -7536,6 +7558,7 @@ heishi
 heist
 hejazi
 helcoid
+heles
 helewou
 helicoid
 heliconian
@@ -7566,6 +7589,7 @@ helpdesks
 helvellic
 helvetia
 hemal
+hematoceles
 hematocystis
 hematogen
 hemeralopic
@@ -7688,6 +7712,7 @@ heterogen
 heterognathi
 heterokaryons
 heterokont
+heteromeles
 heterometabolic
 heterometaboly
 heteronomic
@@ -8007,6 +8032,7 @@ hydrazobenzene
 hydrid
 hydroalcoholic
 hydrobromic
+hydroceles
 hydrocephaly
 hydrocholecystis
 hydrocoele
@@ -8574,7 +8600,9 @@ isorcinol
 isorhythm
 isorithm
 isorropic
+isosceles
 isoseist
+isoteles
 isotopic
 isotropic
 isovanillic
@@ -8799,6 +8827,7 @@ jyngine
 kabab
 kabaragoya
 kabbalah
+kabeles
 kabeljouw
 kabiet
 kabob
@@ -8844,6 +8873,7 @@ kanagi
 kanara
 kangani
 kankanai
+kanteles
 kantharos
 kanthas
 kantist
@@ -8896,6 +8926,7 @@ kayos
 kazatske
 kazatski
 kebbies
+kebeles
 kebyar
 keckles
 keepsaky
@@ -8971,7 +9002,6 @@ kikar
 kileskus
 kilim
 kilims
-kilju
 kilobar
 kilocurie
 kilocycles
@@ -9280,7 +9310,6 @@ latreutic
 latticicini
 latticini
 latticino
-lauan
 laughed
 laulau
 launderette
@@ -10145,6 +10174,7 @@ melbourne
 melburnian
 meleagrina
 meleagrinae
+meles
 meletski
 melica
 melilots
@@ -10178,6 +10208,7 @@ menage
 menangkabau
 mendelssohnian
 mengwe
+meningoceles
 meningorrhagia
 meniscectomies
 meniscoid
@@ -10191,6 +10222,7 @@ mentioned
 menudo
 menuki
 mephisto
+mephistopheles
 mephitinae
 mercado
 mercatoria
@@ -10672,6 +10704,7 @@ monorails
 monosemies
 monosomic
 monosomies
+monosteles
 monostrophe
 monosyllabic
 monotasks
@@ -10748,7 +10781,6 @@ mosks
 moslems
 mosotho
 mosquito
-mosso
 mossy
 mostaccioli
 mosts
@@ -10906,6 +10938,7 @@ mutual
 muzjik
 myacea
 myasthenia
+myceles
 mycetes
 mycetozoans
 mycobiont
@@ -11073,6 +11106,7 @@ necrotomic
 necrotomies
 nectopod
 nedette
+neeles
 neems
 neencephalons
 negativer
@@ -11141,6 +11175,7 @@ neurhypnotist
 neuroanatomic
 neuroanatomies
 neurocoele
+neurocoeles
 neurofibrillar
 neurofibrils
 neuroglic
@@ -11664,6 +11699,7 @@ oozoid
 opaleye
 opalinid
 operagoers
+operceles
 opercula
 operette
 operettist
@@ -12110,7 +12146,6 @@ palatist
 palatoalveolar
 palatonasal
 palatopterygoid
-palauan
 palayan
 paleanthropic
 paleencephalons
@@ -12469,6 +12504,7 @@ pelamyd
 pelecan
 pelecanoidinae
 pelecoid
+peles
 peletre
 pelikai
 peliom
@@ -12541,6 +12577,7 @@ peptotoxin
 pequistes
 peract
 peraeopod
+perameles
 perceiver
 percentual
 percept
@@ -13757,6 +13794,7 @@ protanomal
 protanopic
 protege
 proteinochromogen
+proteles
 proteome
 proteomic
 proteosomal
@@ -13792,6 +13830,7 @@ protoplasma
 protopod
 protopresbytery
 protospasm
+protosteles
 protothecal
 protovertebra
 protoxylems
@@ -13826,6 +13865,7 @@ pseudarachnidan
 pseudhaemal
 pseudhemal
 pseudisodomic
+pseudoalleles
 pseudoalveolar
 pseudoamateurishly
 pseudoanatomic
@@ -14343,6 +14383,7 @@ rectectomies
 recti
 rectipetaly
 rectitude
+rectoceles
 recur
 recycles
 redan
@@ -14419,6 +14460,7 @@ relapsed
 relativitist
 relay
 releasee
+reles
 relicti
 religieuse
 reliver
@@ -14586,6 +14628,7 @@ rewoken
 reykjavik
 rezoned
 rhabdocoele
+rhabdocoeles
 rhabdocoelidan
 rhabdomal
 rhabdomantist
@@ -14800,7 +14843,6 @@ roumanian
 roundelay
 rouper
 rousette
-rousseauan
 roussette
 roves
 rowdyishly
@@ -15016,6 +15058,7 @@ santolinas
 santonicas
 saoshyant
 sapajou
+sapeles
 saphena
 saphenae
 saphie
@@ -15330,6 +15373,7 @@ selbornian
 selenian
 selenitish
 selenotropic
+seles
 seleucidan
 selfishly
 sellar
@@ -15718,6 +15762,7 @@ siphonage
 siphoned
 siphonet
 siphonogamies
+siphonosteles
 siphorhinian
 siphuncles
 sipunculacea
@@ -16076,6 +16121,7 @@ spencean
 speranza
 spermathecal
 spermatist
+spermatoceles
 spermatoxin
 spermatozoans
 spermatozoid
@@ -16141,6 +16187,7 @@ spitals
 spitish
 splad
 splanchnicectomies
+splanchnoceles
 splanchnocoele
 splanchnoptosia
 splashs
@@ -16284,6 +16331,7 @@ steamier
 steamies
 steane
 steare
+steatoceles
 stedde
 steems
 steep
@@ -16296,6 +16344,7 @@ stegomus
 steils
 stekan
 stelar
+steles
 stellar
 stellerid
 stelleridan
@@ -17147,6 +17196,7 @@ teleostomian
 teleosts
 telephoned
 telerobots
+teles
 telescopic
 telesm
 teletyper
@@ -17526,7 +17576,6 @@ toilinette
 toils
 toitish
 toitoi
-tokelauan
 token
 tokneneng
 tokoloshe
@@ -17830,7 +17879,9 @@ tripolar
 triptyque
 triratna
 triricinolein
+trisceles
 trishna
+triskeles
 trisomic
 trisomies
 trisquare
@@ -18046,8 +18097,10 @@ uighur
 uirina
 ujamaa
 ukase
+ukeleles
 ukrainian
 ukranian
+ukuleles
 ulcery
 ulemorrhagia
 ulidia
@@ -18290,6 +18343,7 @@ unguerdoned
 unhabitual
 unhappi
 unharshly
+unheles
 unhoned
 unhorizoned
 unhoroscopic
@@ -18566,6 +18620,7 @@ urochromogen
 urocoptis
 urocyanogen
 urocystis
+urodeles
 urogenitals
 uromantist
 uromastix
@@ -18664,6 +18719,7 @@ vareuse
 variadic
 variagles
 varicellar
+varicoceles
 varicoid
 varicotomies
 varicula
@@ -18698,6 +18754,7 @@ veinier
 velar
 veldschoenen
 veldskoen
+veles
 vellenage
 vellons
 vellozia
