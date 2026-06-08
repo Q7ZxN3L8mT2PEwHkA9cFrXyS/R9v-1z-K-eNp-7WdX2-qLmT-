@@ -347,7 +347,6 @@ abby
 abc
 abcee
 abcees
-abcess
 abciximab
 abcoulomb
 abcoulombs
@@ -32685,6 +32684,8 @@ azorian
 azorite
 azorubine
 azosemide (+)
+azosulphine (×)
+azosulphonic (×)
 azotaemia
 azotaemias
 azotaemic
@@ -53166,7 +53167,7 @@ brewst
 brewster
 brewsterite
 brewsters
-brexanolone (+)
+brexanolone
 brexpiprazole
 brexpiprazoles (×)
 brey
@@ -137134,7 +137135,7 @@ esloyning
 esmayle
 esmeralda
 esmeraldan
-esmeraldite
+esmeraldite (×)
 esne
 esnecies
 esnecy
@@ -191729,7 +191730,8 @@ igbo
 igbos
 igdrasil
 igdyr
-igelstromite
+igede (+)
+igelstromite (×)
 igg
 igged
 igging
@@ -204448,6 +204450,7 @@ iof
 iolite
 iolites
 iomazenil (+)
+iomeprol (+)
 ion
 ional
 ione
@@ -211129,7 +211132,10 @@ kangla
 kangli
 kangri
 kangs
+kanienkeha (+)
 kanienkehaka (+)
+kanikawa (+)
+kaniwa (+)
 kanji
 kanjis
 kanjoos
@@ -255344,6 +255350,8 @@ nalas
 nalbuphine
 nalbuphines
 naldemedine (+)
+naldrettite (+)
+naldrettites (+)
 nale
 naled
 naleds
@@ -309701,8 +309709,10 @@ plymouthist
 plymouthite
 plymouths
 plynlymmon
+plyo
 plyometric
 plyometrics
+plyos
 plyscore
 plywood
 plywoods
@@ -333108,6 +333118,7 @@ quights
 quiina
 quiinaceae
 quiinaceous
+quijada
 quila
 quilate
 quileces
@@ -418652,6 +418663,8 @@ tlapallan
 tlascalan
 tlaxcalan
 tlaxcalans
+tlayuda
+tlayudas
 tlc
 tldr
 tlingit

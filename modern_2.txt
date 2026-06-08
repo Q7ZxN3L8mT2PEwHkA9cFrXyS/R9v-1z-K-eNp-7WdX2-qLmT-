@@ -7,11 +7,13 @@ acronych
 actinistia
 aculeae
 acystia
+adapt
 adespoton
 adiapneustia
 advocaat
 aegle
 aeolipyle
+aerosteon
 agawam
 ageustia
 aglipayano
@@ -57,7 +59,9 @@ asmoke
 atazir
 atenolol
 aurifex
+aurir
 autobahn
+avantlay
 axonemal
 azide
 azomethine-h
@@ -95,7 +99,9 @@ benzyl
 beowulf
 berkowitz
 besmoke
+besom
 betamax
+bhakta
 bhumidar
 bibenzyl
 bibiru
@@ -116,7 +122,6 @@ blurb
 boce
 boeuf
 bonhomme
-booley
 borshch
 boruca
 botel
@@ -129,6 +134,7 @@ brob
 brombenzyl
 bromo
 bromobenzyl
+bronteon
 brotel
 bubbletop
 buenas
@@ -189,10 +195,10 @@ churidar
 chuvash
 cichlid
 citropten
+coadapt
 coccyzus
 cochleae
 cochleleae
-coley
 collabs
 collegese
 colobin
@@ -203,9 +209,9 @@ concepti
 consomme
 contakion
 cooja
-cooley
 copei
 coprincipal
+coracosteon
 corojo
 corvillosum
 counselee
@@ -222,6 +228,7 @@ ctenizid
 cucujid
 cumec
 cunjevois
+curtlax
 cyanbenzyl
 cyano
 cytoblastemal
@@ -249,7 +256,6 @@ desmarestia
 desulphur
 detox
 devons
-dhooley
 diazide
 dibenzyl
 dicaryophase
@@ -265,9 +271,7 @@ divos
 djerib
 dlcs
 doen
-doley
 dooja
-dooley
 dopiazas
 dost
 dowy
@@ -311,6 +315,7 @@ eupad
 euryaleae
 euterpe
 extremal
+eyrir
 facit
 fadeur
 faenas
@@ -319,6 +324,7 @@ falanaka
 farruca
 felafel
 femal
+fenrir
 fibre
 fidel
 finetop
@@ -329,9 +335,9 @@ flabs
 flotel
 fluyt
 foen
-foley
 forchase
 forcipal
+foreadapt
 forechase
 forerib
 foretop
@@ -370,7 +376,6 @@ gnars
 goidel
 golomynka
 good-o
-gooley
 goramy
 gozell
 gramarye
@@ -413,13 +418,11 @@ hiemal
 hins
 hits
 hoed
-holey
 holochroal
 homalosternii
 homme
 homoeotel
 hongkongese
-hooley
 hotel
 houdan
 housetop
@@ -516,6 +519,7 @@ limesulphur
 liquitab
 logodaedaly
 longeve
+lophosteon
 louvar
 low-sulphur
 lowy
@@ -528,6 +532,7 @@ macroplastia
 maecenas
 mafic
 malaccamax
+maladapt
 malaguenas
 mandapa
 maneki-neko
@@ -555,6 +560,7 @@ mems
 messrs
 mestizo
 metaphase
+metosteon
 mian
 miauer
 microfibre
@@ -563,6 +569,7 @@ middelskots
 milan
 minars
 minilabs
+misadapt
 mispurchase
 mistakion
 modenas
@@ -573,7 +580,6 @@ momme
 monaphase
 monophase
 monotremal
-mooley
 moonphase
 moror
 mosso
@@ -606,6 +612,7 @@ nyanja
 nzema
 obadiah
 obex
+obeyeo
 oedipal
 omar
 omikuji
@@ -618,8 +625,10 @@ orifex
 oromo
 ostia
 oswego
+otosteon
 otsukimi
 outchase
+outlay
 outsaw
 outsmoke
 overchase
@@ -668,6 +677,7 @@ phospho
 photon
 photophase
 photoproton
+pianistiec
 piblokto
 pikake
 pillowy
@@ -678,11 +688,14 @@ pirai
 pistia
 pitsaw
 placit
+planaru
 plandok
 plazas
 pleiomastia
 pleomastia
-poley
+pleurosteon
+plyos
+poictesme
 polychsia
 polymastia
 polyphase
@@ -697,7 +710,9 @@ pooa
 pooja
 portugese
 post-panamax
+prabhu
 practolol
+preadapt
 prepurchase
 pretzel
 proal
@@ -727,6 +742,7 @@ quenas
 radeur
 ragini
 rainbowy
+readapt
 recercelee
 rechase
 recitativos
@@ -769,11 +785,11 @@ scarecrowy
 scenas
 schizo
 schizochroal
+schmalz
 schnecke
 schnitzel
 schuyt
 sciniph
-scoley
 scraich
 scroinogh
 scryne
@@ -789,6 +805,7 @@ seora
 septi
 sestia
 shadowy
+shakta
 shallowy
 shawl
 shemu
@@ -836,6 +853,7 @@ springhase
 stacey
 stagese
 stampedoed
+stanek
 steekkan
 steeplechase
 steepletop
@@ -864,7 +882,6 @@ swerd
 symphylan
 synthase
 tabletop
-tabooley
 tacit
 taich
 taikun
@@ -914,6 +931,7 @@ tugs
 tuvaluan
 tuxedoed
 ultramafic
+unadapt
 unbarricadoed
 unbastinadoed
 uncounterfeit
@@ -928,7 +946,9 @@ upsy
 urbex
 urenas
 urethylan
+urosteon
 vacual
+vauntlay
 veenas
 verbenas
 verruca
