@@ -323,6 +323,7 @@ falafel
 falanaka
 farruca
 felafel
+felo-de-se
 femal
 fenrir
 fibre
@@ -476,7 +477,6 @@ kamelaukion
 kanaka
 kanzus
 kapok
-karay-a
 katangese
 kayokyoku
 kemal
@@ -484,7 +484,6 @@ kiaat
 kidel
 kilan
 kiloton
-kinaray-a
 kiplingese
 kitab
 knaidel
@@ -508,6 +507,7 @@ lacrym
 lacunars
 lagenas
 laich
+latke
 latticinii
 lavash
 leora
@@ -769,7 +769,6 @@ ridgetop
 rijstafel
 rijsttafel
 ripal
-rivos
 rompu
 roton
 roux
@@ -791,6 +790,7 @@ schnitzel
 schuyt
 sciniph
 scraich
+scrampum
 scroinogh
 scryne
 seidel
@@ -911,6 +911,7 @@ tokomak
 toktokje
 tonjiru
 torchlit
+torgoch
 torpedoed
 towy
 tracey
@@ -921,7 +922,6 @@ tremor
 treponemal
 tripal
 triphase
-triple-a
 trochleae
 tropicalih
 tsukimi
@@ -958,6 +958,7 @@ wabi
 wakwak
 waldorf
 walu
+wampum
 wazir
 we'd
 weanyer
@@ -984,6 +985,7 @@ yardarm
 yatvyag
 yellowy
 ymca
+yo-heave-ho
 yogini
 yurok
 yuzus

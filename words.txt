@@ -14199,6 +14199,7 @@ amurru
 amus
 amusable
 amuse
+amuse-bouche
 amuse-bouches
 amuse-gueules
 amuseable
@@ -43603,8 +43604,8 @@ bicycloheptane
 bicycular
 bicylindrical
 bid
-bid-a-bid (+)
-bid-a-bids (+)
+bid-a-bid
+bid-a-bids
 bidactyl
 bidactyle
 bidactylous
@@ -57547,6 +57548,7 @@ buzzwigs
 buzzword
 buzzwords
 buzzy
+bwahaha
 bwana
 bwanas
 bwazi
@@ -119250,10 +119252,12 @@ doek
 doeks
 doeling
 doen
+doenjang
 doenjang-guk (+)
 doenjang-guks (+)
 doenjang-jjigae
 doenjang-jjigaes
+doenjangs
 doer
 doers
 does
@@ -136195,6 +136199,7 @@ erethitic
 erethizon
 erethizontidae
 eretrian
+ereuthophobia (+)
 erev
 erevs
 erewhile
@@ -146009,6 +146014,7 @@ fellsman
 fellwalker
 fellwalkers
 felly
+felo-de-se
 felodipine
 feloid
 felon
@@ -172915,6 +172921,8 @@ gyved
 gyves
 gyving
 ha
+ha'p'orth
+ha'p'orths
 haab
 haaf
 haafs
@@ -258257,6 +258265,7 @@ nesselrode
 nesselrodes
 nesses
 nesslerisation
+nesslerisations
 nesslerise
 nesslerised
 nesslerising
@@ -260877,6 +260886,7 @@ noisomeness
 noisomenesses
 noisy
 noix
+nokota
 nokta
 nol
 nolascan
@@ -273290,6 +273300,7 @@ odoured
 odourful
 odourless
 odours
+odronextamab (+)
 ods
 odso
 odsos
@@ -274938,6 +274949,7 @@ onanist
 onanistic
 onanists
 onartuzumab
+onasemnogene (+)
 onbeat
 onbeats
 onboard
@@ -278878,6 +278890,7 @@ otectomy
 otelcosis
 otelixizumab
 otello
+oteseconazole (+)
 othaematoma
 othake
 othelcosis
@@ -430536,6 +430549,7 @@ ukelele
 ukeleles
 ukes
 ukiyo-e
+ukiyo-ye
 ukiyoe
 ukiyoye
 ukraine
@@ -471791,6 +471805,7 @@ xoloitzcuintles
 xoloitzcuintli
 xoloitzcuintlis
 xolos
+xong
 xonotlite
 xonotlites
 xor
@@ -473018,6 +473033,7 @@ ympt
 ynambu
 ynambus
 yo
+yo-heave-ho
 yob
 yobberies
 yobbery
