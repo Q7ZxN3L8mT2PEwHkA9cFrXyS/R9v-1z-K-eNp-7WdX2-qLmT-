@@ -16417,7 +16417,7 @@ aniellidae
 aniente
 anientise
 anifrolumab
-anifrolumabs
+anifrolumabs (×)
 anigh
 anight
 anights
@@ -26855,6 +26855,7 @@ aryballoses
 aryballus
 arybballi
 aryepiglottic
+aryepiglottidean (×)
 aryl
 arylamine
 arylamino
@@ -28787,7 +28788,6 @@ atabrines
 atabrins
 atacaman
 atacamenan
-atacamenian
 atacameno
 atacamite
 atacamites
@@ -28826,7 +28826,6 @@ ataraxy
 atatschite
 ataunt
 ataunto
-atavi
 atavic
 atavism
 atavisms
@@ -100787,7 +100786,7 @@ daleswoman
 daleth
 daleths
 dalf
-dalfampridine
+dalfampridine (+)
 dalgona
 dalgonas
 dalgyte
@@ -118825,6 +118824,8 @@ djins
 djong
 djongs
 djuka
+djurleite
+djurleites
 dlc
 dlcs
 dlr
@@ -185361,8 +185362,8 @@ hosey
 hoseyed
 hoseying
 hoseys
-hoshigaki (+)
-hoshigakis (+)
+hoshigaki
+hoshigakis
 hosier
 hosieries
 hosiers
@@ -214196,7 +214197,7 @@ kjeldahlize
 kk
 kkakdugi
 kkanpunggi
-kkwabaegi
+kkwabaegi (+)
 kkwaenggwari
 klaberjass
 kladdkaka
@@ -216056,6 +216057,7 @@ kwamme
 kwan
 kwannon
 kwanza
+kwanzaa
 kwanzas
 kwapa
 kwarta
@@ -216200,6 +216202,7 @@ kyung
 kyurin
 kyurinish
 kyus
+l'chayim
 l-acetylcarnitine
 l-acetylcarnitines
 l-alanines
@@ -226278,7 +226281,7 @@ loming
 lomita
 loml
 lommock
-lomonite
+lomonite (×)
 lomonosovite
 lomonosovites
 lompish
@@ -235716,6 +235719,7 @@ mbiras
 mbori
 mbps
 mbuba
+mbukushu
 mbunda
 mbya
 mcallisterite
@@ -256517,6 +256521,7 @@ navipendular
 navipendulum
 navis
 navite
+navitoclax
 navs
 navvied
 navvies
@@ -273994,7 +273999,7 @@ ojibwas
 ojibway
 ojime
 ojimes
-ojoceratops
+ojoceratops (×)
 ojousama
 ojousamas
 ok
@@ -279129,6 +279134,7 @@ ouabains
 ouabaio
 ouabe
 ouachitite
+ouachitites
 ouagadougou
 ouakari
 ouakaris
@@ -457964,6 +457970,7 @@ venetian
 venetianed
 venetians
 venetic
+venetoclax
 veneur
 venewe
 venewes
@@ -471722,8 +471729,10 @@ xieite
 xieites
 xii
 xiii
-ximenean
+ximelagatran
+ximenean (×)
 ximenia
+ximmer
 xina
 xinca
 xing
