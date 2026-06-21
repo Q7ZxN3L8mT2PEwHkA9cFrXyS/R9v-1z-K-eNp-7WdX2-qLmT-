@@ -191921,6 +191921,7 @@ ikebanas
 ikey
 ikeyness
 ikhwan
+ikigai
 ikon
 ikona
 ikons
@@ -238716,8 +238717,8 @@ merycism
 merycisms
 merycismus
 merycoidodon
-merycoidodontidae
-merycopotamidae
+merycoidodontidae (×)
+merycopotamidae (×)
 merycopotamus
 mes
 mesa

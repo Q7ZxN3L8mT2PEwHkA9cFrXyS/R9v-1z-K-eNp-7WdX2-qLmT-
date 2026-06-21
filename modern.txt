@@ -141,8 +141,10 @@ bivouac
 bixa
 blabs
 blackneb
+blackprint
 blastemal
 blowy
+blueprint
 bluetop
 blurb
 boce
@@ -150,6 +152,7 @@ boeuf
 bogs
 boid
 bonhomme
+bootprint
 borshch
 boruca
 bowla
@@ -161,6 +164,7 @@ brides-to-be
 brob
 bromo
 bronteon
+brownprint
 brummagem
 brushoff
 bubbletop
@@ -240,6 +244,7 @@ colosso
 colpheg
 cols
 comme
+comprint
 concepti
 consomme
 contakion
@@ -287,6 +292,7 @@ demal
 denars
 denyer
 dephase
+deprint
 dermohemal
 descendeur
 desmarestia
@@ -347,7 +353,9 @@ elbowy
 elevon
 elevons
 emphase
+emprint
 enchase
+enprint
 enshawl
 ensulphur
 envois
@@ -378,6 +386,7 @@ extremal
 eyl
 eyrir
 faba
+faceprint
 facit
 fadeur
 faenas
@@ -390,9 +399,11 @@ felo-de-se
 femal
 fenrir
 ferd
+ferroprint
 fibre
 fidel
 finetop
+fingerprint
 fins
 firetop
 fits
@@ -402,6 +413,7 @@ fluyt
 foci
 foen
 fogs
+footprint
 forchase
 forcipal
 foreadapt
@@ -410,6 +422,7 @@ forerib
 foretop
 forfeit
 forfex
+forint
 foys
 fremd
 fremds
@@ -462,6 +475,7 @@ grandeur
 gray-a
 grex
 grey-a
+grint
 groom-to-be
 grooms-to-be
 grosso
@@ -489,6 +503,7 @@ hakea
 halp
 hamidieh
 handarm
+handprint
 hanif
 haplophase
 hapten
@@ -499,6 +514,7 @@ he'd
 he-he
 heavinsogme
 hebdomad
+heelprint
 heemraat
 hemal
 hemiageustia
@@ -519,6 +535,7 @@ holophrasm
 homme
 hongkongese
 hont
+hoofprint
 houdan
 housetop
 howitz
@@ -544,6 +561,7 @@ ijazat
 ikra
 ily
 imbrex
+imprint
 inchase
 indy
 infidel
@@ -649,6 +667,7 @@ limesulphur
 lingayat
 linkrot
 liny
+lithoprint
 litiopa
 livre
 logodaedaly
@@ -714,6 +733,7 @@ metosteon
 mian
 miauer
 microfibre
+microprint
 micropyle
 middelskots
 milan
@@ -721,7 +741,9 @@ minars
 minilabs
 minoxidils
 misadapt
+misprint
 mispurchase
+misreprint
 mistakion
 modenas
 modo
@@ -733,6 +755,7 @@ momme
 moms
 monaphase
 monophase
+monoprint
 monotremal
 moonphase
 moror
@@ -750,6 +773,7 @@ murenas
 musjid
 muts
 muzo
+nailprint
 nako
 nankingese
 narceen
@@ -761,17 +785,20 @@ ndogo
 neo-panamax
 neti
 netop
+newsprint
 nici
 noex
 noh
 nomad
 noncounterfeit
+nonprint
 nonpurchase
 nonrenewal
 norn
 nortenas
 nout
 novenas
+noverint
 nowy
 noys
 nyah
@@ -787,6 +814,7 @@ odz
 oedipal
 oer
 ofc
+offprint
 ois
 okro
 olam
@@ -811,7 +839,9 @@ outchase
 outlay
 outsaw
 outsmoke
+outsprint
 overchase
+overprint
 overpurchase
 oversmoke
 owls
@@ -823,6 +853,7 @@ pacey
 pachyrhizus
 paegle
 paleae
+palmprint
 panaka
 panchax
 panchayat
@@ -835,6 +866,7 @@ paso
 pasteurelleae
 patnidar
 pavois
+pawprint
 payong
 pbx
 peai
@@ -859,12 +891,15 @@ philopoenas
 phit
 phoo
 phospho
+photolithoprint
 photon
 photophase
+photoprint
 photoproton
 pial
 piblokto
 pickadils
+pieprint
 pikake
 pillowy
 pinakotheke
@@ -900,8 +935,11 @@ post-panamax
 practolol
 praham
 preadapt
+preprint
 prepurchase
 pretzel
+primprint
+print
 proal
 promissvry
 promo
@@ -954,12 +992,14 @@ regald
 regd
 regle
 reid
+reimprint
 reistafel
 renewal
 renomme
 rens
 renvois
 rephase
+reprint
 repurchase
 resarcelee
 responsa
@@ -1050,6 +1090,7 @@ smoke
 snars
 snowy
 sociologese
+soleprint
 solpuga
 sonars
 sopranini
@@ -1070,6 +1111,7 @@ spondylizema
 spraich
 springald
 springhase
+sprint
 stacey
 stagese
 stanek
@@ -1096,6 +1138,7 @@ suluan
 superfidel
 supt
 surfeit
+surprint
 swego
 swerd
 syftn
@@ -1120,6 +1163,7 @@ taus
 taxy
 tcawi
 teco
+teleprint
 telophase
 tenascin-r
 tetrabromo
@@ -1135,6 +1179,7 @@ thenars
 theopneustia
 tholemod
 thulr
+thumbprint
 thwartsaw
 tifos
 tils
@@ -1152,6 +1197,7 @@ toty
 towd
 towy
 tracey
+transprint
 travois
 treasr
 treckschuyt
@@ -1179,9 +1225,11 @@ ultramafic
 unadapt
 unagi
 uncounterfeit
+underprint
 unforfeit
 unie
 uniphase
+unprint
 unshawl
 unshowy
 unum
@@ -1206,6 +1254,7 @@ veta
 villa
 vivre
 vizy
+voiceprint
 voorskots
 vows
 wabe
@@ -1249,7 +1298,9 @@ wips
 witbooi
 wits
 woes
+woodprint
 woodsmoke
+workprint
 wost
 would-be
 wox
