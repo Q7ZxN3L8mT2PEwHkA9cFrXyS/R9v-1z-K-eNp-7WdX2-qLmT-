@@ -42,6 +42,7 @@ akra
 aku
 akwapim
 alcarrazas
+alcornoco
 aldm
 alleluja
 almemor
@@ -95,6 +96,7 @@ axonemal
 azomethine-h
 babaylan
 babracot
+backhoe
 bagwyn
 baham
 baidar
@@ -102,6 +104,7 @@ bajada
 bakkwa
 baloskion
 balsamy
+bambuk
 banuyo
 barazas
 barbudan
@@ -223,6 +226,7 @@ chowkidar
 chromo
 chromonemal
 chuet
+chumulu
 churidar
 chuvash
 cichlid
@@ -459,6 +463,7 @@ gilenyer
 gimmor
 ginkgo
 gins
+gipsyry
 gnars
 goan
 goby
@@ -495,6 +500,7 @@ gwyddbwyll
 gye
 gynaecomastia
 gynecomastia
+gypsyry
 haak
 hads
 haemal
@@ -536,6 +542,7 @@ homme
 hongkongese
 hont
 hoofprint
+hookup
 houdan
 housetop
 howitz
@@ -638,6 +645,7 @@ kugelhof
 kugelhopf
 kukeri
 kuli
+kumbuk
 kung
 kurn
 kuzus
@@ -673,6 +681,7 @@ livre
 logodaedaly
 loise
 longeve
+lookup
 lophosteon
 louis
 louvar
@@ -689,6 +698,7 @@ macroplastia
 macuahuitl
 maecenas
 mafic
+magaziny
 mahi
 majidieh
 maks
@@ -821,6 +831,7 @@ olam
 omar
 omikuji
 omnifidel
+onos
 ooh-la-la
 ooid
 oped
@@ -830,6 +841,7 @@ ordinars
 orgy
 orifex
 oromo
+oronoco
 orts
 ostia
 oswego
@@ -1014,6 +1026,7 @@ ridgetop
 rijstafel
 rijsttafel
 ripal
+roeneng
 rompu
 roton
 roux
@@ -1025,6 +1038,7 @@ saghavart
 saip
 salacot
 sallowy
+sambuk
 samh
 saphenas
 saucepot
@@ -1188,6 +1202,7 @@ toat
 tocs
 tody
 togo
+tokneneng
 tokomak
 toktokje
 tony
@@ -1269,6 +1284,7 @@ wampum
 wans
 wary
 washoff
+waswanipi
 watapeh
 wath
 wats
@@ -1331,6 +1347,7 @@ yo-heave-ho
 yogini
 yurok
 yuzus
+zambuk
 zanja
 zantiot
 zapateos

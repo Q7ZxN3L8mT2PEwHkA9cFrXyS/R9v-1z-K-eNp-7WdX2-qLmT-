@@ -67,6 +67,7 @@ bajada
 bakkwa
 baloskion
 balsamy
+bambuk
 banuyo
 barazas
 barbudan
@@ -175,6 +176,7 @@ chowkidar
 chromo
 chromonemal
 chuet
+chumulu
 churidar
 chuvash
 cichlid
@@ -210,6 +212,7 @@ cromme
 croton
 ctenizid
 cucujid
+cumbu
 cumec
 cunjevois
 curtlax
@@ -462,6 +465,7 @@ kontakion
 korova
 krumkake
 kudzus
+kumbuk
 kung
 kurn
 kuzus
@@ -500,6 +504,7 @@ macromastia
 macroplastia
 maecenas
 mafic
+magaziny
 malaccamax
 maladapt
 malaguenas
@@ -742,6 +747,7 @@ rushlit
 saghavart
 salacot
 sallowy
+sambuk
 saphenas
 saucepot
 scarecrowy
@@ -935,6 +941,7 @@ yo-heave-ho
 yogini
 yurok
 yuzus
+zambuk
 zanja
 zantiot
 zapateos

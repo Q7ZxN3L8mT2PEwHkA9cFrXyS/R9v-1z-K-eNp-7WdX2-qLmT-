@@ -1593,8 +1593,6 @@ acadialite
 acadian
 acadie
 acaena
-acaeruloplasminaemia (+) / (×)
-acaeruloplasminaemias (+) / (×)
 acai
 acais
 acajou
@@ -126928,7 +126926,6 @@ effuso
 effuviate
 efik
 efinaconazole
-efinaconazoles
 efl
 eflagelliferous
 eflapegrastim
@@ -128483,10 +128480,7 @@ eleventhly
 elevenths
 elevon
 elevons
-elexacaftor
-elexacaftor-tezacaftor-ivacaftor
-elexacaftor-tezacaftor-ivacaftors
-elexacaftors
+elexacaftor-tezacaftor-ivacaftor (+)
 elf
 elfdom
 elfed
@@ -135669,7 +135663,7 @@ epsilons
 epsom
 epsomite
 epsomites
-eptatretidae
+eptatretidae (×)
 eptatretus
 eptifibatide (+)
 eptinezumab
@@ -136558,8 +136552,8 @@ erotophobias
 erotylid
 erotylidae
 erpetoichthys
-erpetologist
-erpetology
+erpetologist (×)
+erpetology (×)
 erpornis (+)
 err
 errability
@@ -171691,6 +171685,7 @@ gujerat
 gujrati
 gukbap
 gukbaps
+guksu
 gul
 gula
 gulae
@@ -212927,6 +212922,7 @@ khlysti
 khmer
 khodja
 khodjas
+khoekhoe
 khoja
 khojah
 khojas
@@ -214950,6 +214946,7 @@ koellia
 koelreuteria
 koels
 koenenite
+koenenites
 koeri
 koff
 koffs
@@ -229170,6 +229167,7 @@ maaed
 maaing
 maakouda
 maakoudas
+maale
 maam
 maamselle
 maana
@@ -252638,6 +252636,7 @@ multurer
 multurers
 multures
 multuring
+mulukhiyah
 mulvel
 mum
 mumble
@@ -271518,6 +271517,7 @@ oats
 oatseed
 oaty
 oaves
+oaxaca
 ob
 oba
 obadiah
@@ -418678,6 +418678,7 @@ tjantings
 tjenkal
 tjosite
 tjurunga
+tkemali
 tlaco
 tlakluit
 tlapallan
@@ -431395,6 +431396,7 @@ umstroke
 umteen
 umteenth
 umu
+umundu
 umus
 umwelt
 umwelts
@@ -464342,6 +464344,7 @@ wasts
 wasty
 wasukuma
 waswahili
+waswanipi
 wat
 watala
 watap
