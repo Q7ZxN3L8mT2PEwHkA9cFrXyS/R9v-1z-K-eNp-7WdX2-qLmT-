@@ -9056,10 +9056,6 @@ aksakals
 aktashite
 aktashites
 aktiebolag
-aktistetae
-aktistete
-aktivismus
-aktivist
 aku
 akuammin
 akuammine
@@ -22082,8 +22078,6 @@ aphthongal
 aphthongia
 aphthonite
 aphthous
-aphydrotropic
-aphydrotropism
 aphyllies
 aphyllose
 aphyllous
@@ -43126,6 +43120,11 @@ bhoonas
 bhoosa
 bhoot
 bhoots
+bhop
+bhopal
+bhopped
+bhopping
+bhops
 bhotia
 bhotiya
 bhowani
@@ -121503,6 +121502,8 @@ dozings
 dozy
 dozzle
 dozzled
+dpm
+dps
 drab
 draba
 drabant
@@ -152110,7 +152111,6 @@ foh
 fohat
 fohn
 fohns
-fohs
 foible
 foibles
 foiblesse
