@@ -110059,6 +110059,7 @@ deuced
 deucedly
 deuces
 deucing
+deucravacitinib
 deuddarn
 deuddarns
 deul
@@ -191973,6 +191974,7 @@ ila
 ilama
 ilang-ilang
 ilang-ilangs
+ilaprazole
 ile
 ilea
 ileac
@@ -198792,6 +198794,8 @@ inia
 inial
 inidoneity
 inidoneous
+iniencephalies
+iniencephaly
 inigo
 inimaginable
 inimicability
@@ -204603,6 +204607,7 @@ iowans
 iowt
 ipalnemohuani
 ipamorelin
+ipatasertib
 ipatasertib (+)
 ipecac
 ipecacs
@@ -216103,7 +216108,7 @@ kvetchinesses
 kvetching
 kvetchings
 kvetchy
-kvevris (+)
+kvevris
 kvint
 kvinter
 kvlt
@@ -216116,7 +216121,7 @@ kwaito
 kwaitos
 kwak'wala
 kwakiutl
-kwakwaka'wakw (+)
+kwakwaka'wakw
 kwakwala
 kwamme
 kwan
@@ -256674,6 +256679,7 @@ nco
 ndali
 ndebele
 ndembu
+ndlambe
 ndoderm
 ndogo
 ndokwa
@@ -259326,6 +259332,7 @@ neyanda
 ngai
 ngaio
 ngaios
+ngakarimojong
 ngana
 nganas
 ngapi
@@ -259334,7 +259341,9 @@ ngararas
 ngati
 ngatis
 ngemba
+ngiti
 ngiyambaa
+ngiyampaa
 ngl
 ngohiong
 ngohiongs
@@ -259342,6 +259351,7 @@ ngoko
 ngoma
 ngomas
 ngondo
+ngqika
 ngram
 ngrams
 ngultrum
@@ -278363,11 +278373,15 @@ osetras
 oshac
 oshacs
 oshea
+oshibana
 oshibori
 oshiboris
+oshidashi
 oshikatsu
+oshinko
 oshiruko
 oshirukos
+oshitaoshi
 oshiwambo
 oshizushi
 oshizushis
@@ -306215,6 +306229,7 @@ pinyins
 pinyl
 pinyon
 pinyons
+pioglitazone
 piolet
 piolets
 pion
@@ -333949,7 +333964,7 @@ quyte
 quyted
 quytes
 quyting
-qvevris (+)
+qvevris
 qwerties
 qwerty
 qwertys
@@ -424339,6 +424354,7 @@ triamino
 triammonium
 triamorph
 triamorphous
+triamterene
 triamterene-hydrochlorothiazide
 triamterene-hydrochlorothiazides
 triamylose
@@ -431258,6 +431274,7 @@ umami
 umamis
 umangite
 umangites
+umashiashikabihikoji
 umatilla
 umaua
 umayyad
@@ -461063,6 +461080,7 @@ visitresses
 visitrix
 visits
 visive
+vismodegib
 visne
 visnes
 visney
@@ -471825,11 +471843,16 @@ xeruses
 xes-as-a-service (+)
 xhosa
 xi
+xiamen
+xiangfu
 xiangqi
+xiao'erjing
+xiao-chai-hu-tang
 xiaolongbao
 xiaolongbaos
 xiaosaurus
 xiaotingia
+xiaoyaosan
 xicak
 xicaque
 xieite
