@@ -15423,6 +15423,8 @@ ande
 andean
 anders
 anderson
+andersonite
+andersonites
 anderun
 andes
 andesaurus
@@ -21885,9 +21887,12 @@ apetalous
 apetalousness
 apetaly
 apex
+apexcardiographies
 apexed
 apexes
 apexing
+apexogeneses
+apexogenesis
 apfelstrudel
 apfelstrudels
 apgar
@@ -34102,6 +34107,7 @@ bafta
 baftah
 baftas
 bafts
+bafut
 bafyot
 bag
 bag-in-box
@@ -53168,6 +53174,10 @@ brewster
 brewsterite
 brewsters
 brexanolone
+brexiteer
+brexiteers
+brexiter
+brexiters
 brexpiprazole
 brey
 breyed
@@ -57755,6 +57765,7 @@ byzantinism
 byzantinize
 byzantium
 byzants
+bzzt
 c'mere
 c'mon
 c-akt
@@ -138283,6 +138294,7 @@ etonian
 etonogestrel
 etonogestrels
 etoposide
+etoricoxib
 etouffe
 etouffee
 etouffees
@@ -157141,9 +157153,7 @@ frying
 fryings
 frypan
 frypans
-fsiest
 fsr
-fstore
 ftfy
 fth
 fthm
@@ -190854,6 +190864,8 @@ icarianism
 icarus
 icasm
 icbm
+icchantika
+icchantikas
 ice
 ice-cold
 ice-skate
@@ -204504,6 +204516,8 @@ iomeprol (+)
 ion
 ional
 ione
+ionene
+ionenes
 ioni
 ionian
 ionic
@@ -204516,8 +204530,12 @@ ionicization
 ionicize
 ionics
 ionidium
+ionine
+ionines
 ionisable
 ionisation
+ionisation-recombination
+ionisation-recombinations
 ionisations
 ionise
 ionised
@@ -204531,6 +204549,8 @@ ionium
 ioniums
 ionizable
 ionization
+ionization-recombination
+ionization-recombinations
 ionizations
 ionize
 ionized
@@ -204540,9 +204560,13 @@ ionizes
 ionizing
 ionocyte
 ionocytes
+ionogel
+ionogels
 ionogen
 ionogenic
 ionogens
+ionogram
+ionograms
 ionoluminescence
 ionome
 ionomer
@@ -204551,6 +204575,11 @@ ionomers
 ionomes
 ionometer
 ionometers
+ionometric
+ionometrical
+ionometrically
+ionometries
+ionometry
 ionomic
 ionomics
 ionomycin
@@ -204571,11 +204600,19 @@ ionoregulatory
 ionornis
 ionosonde
 ionosondes
+ionosoprtion
+ionosorb
+ionosorbed
+ionosorbing
+ionosorbs
+ionosorptions
 ionosphere
 ionospheres
 ionospheric
 ionospherically
+ionothermally
 ionotropic
+ionotropically
 ionotropies
 ionotropy
 ionoxalis
@@ -204584,6 +204621,9 @@ iontophoreses
 iontophoresis
 iontophoretic
 iontophoretically
+iontronic
+iontronically
+iontronics
 iopanoic
 ioparameters
 iortn
@@ -209165,6 +209205,8 @@ joe
 joebush
 joel
 joes
+joesmithite
+joesmithites
 joewood
 joey
 joeyes
@@ -210567,7 +210609,15 @@ jynginae
 jyngine
 jynx
 jynxes
+jyotirlinga
+jyotirlingam
+jyotirlingams
+jyotirlingas
 jyutping
+k-indie
+k-indies
+k-invariant
+k-invariants
 k-pop
 ka
 kaaba
@@ -225747,6 +225797,7 @@ locies
 locing
 locis
 lock
+lock-in
 lockable
 lockage
 lockages
@@ -228005,6 +228056,7 @@ lulavim
 lulavs
 lulibub
 lulibubs
+luliconazole
 lull
 lullabied
 lullabies
@@ -257628,6 +257680,8 @@ nemorous
 nemos
 nempne
 nempt
+nenadkivichite
+nenadkivichites
 nenarche
 nene
 nenes
@@ -271484,6 +271538,8 @@ o-benzoquinone (+)
 o-benzoquinones (+)
 o-benzylhydroxylamine
 o-benzylhydroxylamines
+o-module
+o-modules
 oad
 oadal
 oaf
@@ -315690,6 +315746,7 @@ pozzy
 ppang (+)
 ppangs (+)
 ppm
+ppopgi
 pps
 pptn
 praam
@@ -316160,6 +316217,7 @@ pre-book
 pre-booked
 pre-booking
 pre-books
+pre-check-in
 pre-electronic
 pre-empt
 pre-empted
@@ -356379,6 +356437,8 @@ saecular
 saeculum
 saeculums
 saeima
+saek
+saeks
 saernaite
 saeta
 saeter
@@ -359374,6 +359434,8 @@ satyrism
 satyrlike
 satyromaniac
 satyrs
+satz
+satze
 sau
 sauba
 saubas
@@ -365637,6 +365699,7 @@ seleucidean
 seleucidian
 seleucidic
 self
+self-check-in
 self-control
 self-controlled
 self-deception
@@ -373069,6 +373132,7 @@ shtupped
 shtupping
 shtups
 shuanghuanglian (+)
+shuar
 shuba
 shubunkin
 shubunkins
@@ -378050,6 +378114,7 @@ slivovitzes
 slivowitz
 slivowitzes
 sliwer
+slo-mo
 sloan
 sloanea
 sloans
@@ -382125,6 +382190,7 @@ sonics
 soniferous
 sonification
 soning
+sonion
 soniou
 sonja
 sonk
@@ -463325,6 +463391,7 @@ walis
 walise
 walises
 walk
+walk-in
 walkable
 walkabout
 walkabouts
