@@ -163,7 +163,7 @@ abaddon
 abadengo
 abadite
 abaft
-abagusii (+)
+abagusii
 abaisance
 abaiser
 abaisse
@@ -8343,8 +8343,8 @@ ahorseback
 ahousaht
 ahoy
 ahoys
-ahrensite (+)
-ahrensites (+)
+ahrensite
+ahrensites
 ahriman
 ahrimanian
 ahs
@@ -15125,7 +15125,7 @@ anatheme
 anathemize
 anatherum
 anatidae
-anatidaephobia (+)
+anatidaephobia
 anatifa
 anatifae
 anatifer
@@ -16808,8 +16808,8 @@ anlaute
 anlet
 anlia
 anlotinib
-anmatyerr (+)
-anmatyerre (+)
+anmatyerr
+anmatyerre
 anmia
 ann
 anna
@@ -43986,8 +43986,8 @@ bihari
 biharmonic
 bihourly
 bihydrazine
-biinfinite (+)
-biinvariant (+)
+biinfinite
+biinvariant
 bija
 bijasal
 bijection
@@ -118845,8 +118845,12 @@ dlc
 dlcs
 dlr
 dlvy
+dm
+dmed
+dming
 dmisteinbergite
 dmisteinbergites
+dms
 dna
 dnieper
 do
@@ -128500,7 +128504,8 @@ eleventhly
 elevenths
 elevon
 elevons
-elexacaftor-tezacaftor-ivacaftor (+)
+elexacaftor
+elexacaftor-tezacaftor-ivacaftor
 elf
 elfdom
 elfed
@@ -132498,7 +132503,7 @@ enigmatography
 enigmatology
 enigmosaurus
 enigua
-enilconazole (+)
+enilconazole
 enisle
 enisled
 enisles
@@ -163584,6 +163589,7 @@ ghostwriting
 ghostwritten
 ghostwrote
 ghosty
+ghotuo
 ghoul
 ghoulery
 ghoulie
@@ -190863,6 +190869,7 @@ icarian
 icarianism
 icarus
 icasm
+icatibant
 icbm
 icchantika
 icchantikas
@@ -204635,6 +204642,8 @@ iotacisms
 iotacismus
 iotacist
 iotas
+iothalamate
+iothalamates
 iotization
 iotize
 iotized
@@ -206873,6 +206882,7 @@ izing
 izle
 izoklakeite
 izoklakeites
+izon
 izote
 iztle
 izumi
@@ -209034,7 +209044,9 @@ jjajangmyeon
 jjajangmyeons
 jjajangmyun
 jjajangmyuns
+jjampong
 jjamppong
+jjapaguri
 jjigae
 jjigaes
 jjim
@@ -234046,6 +234058,7 @@ marrowskyer
 marrowskying
 marrowy
 marrube
+marrubiin
 marrubium
 marrucinian
 marrum
@@ -259415,6 +259428,8 @@ nguni
 ngunis
 ngunnawal
 nguyen
+ngwa
+ngwato
 ngwee
 ngwees
 nhan
@@ -270569,6 +270584,7 @@ nsambyas
 nsec
 nsfw
 nshima
+nsongo
 nsutite
 nsutites
 nth
@@ -271540,6 +271556,10 @@ o-benzylhydroxylamine
 o-benzylhydroxylamines
 o-module
 o-modules
+o-tolualdehyde
+o-tolualdehydes
+o-toluidine
+o-toluidines
 oad
 oadal
 oaf
@@ -274216,12 +274236,12 @@ olacaceae
 olacaceous
 olacad
 olaf
-olallieberries (+)
-olallieberry (+)
+olallieberries
+olallieberry
 olam
 olamic
 olanzapine
-olanzapine-fluoxetine (+)
+olanzapine-fluoxetine
 olaratumab
 olax
 olcha
@@ -334907,6 +334927,8 @@ raduliform
 radwaste
 radwastes
 radzimir
+raejuusto
+raelian
 rafael
 rafale
 rafales
@@ -351326,6 +351348,7 @@ right-libertarianisms
 right-libertarianist
 right-libertarianists
 right-minded
+right-o
 right-to-life
 right-to-lifer
 right-to-lifers
@@ -355654,6 +355677,8 @@ ruvid
 ruxolitinib
 ruyangosaurus
 ruyangosauruses
+rvalue
+rvalues
 rwanda
 rwandan
 rwandans
@@ -455460,6 +455485,8 @@ usneoid
 usnic
 usnin
 usninic
+usodere
+usoderes
 uspanteca
 uspeaking
 uspoke
@@ -455683,6 +455710,7 @@ utilizing
 utinam
 utis
 utises
+utkatasana
 utlagary
 utlilized
 utmost
@@ -462521,6 +462549,7 @@ voyeuse
 voyeuses
 vozhd
 vozhds
+vpn
 vraic
 vraicker
 vraickers
@@ -472841,6 +472870,8 @@ yeggmen
 yeggs
 yeguita
 yeh
+yeite
+yeites
 yeld
 yeldrin
 yeldrine

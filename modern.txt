@@ -3,6 +3,7 @@ aas
 abacot
 abamp
 abasgi
+abdominal-a
 abib
 abohm
 abraham
@@ -108,6 +109,7 @@ aurifex
 aurir
 autobahn
 avantlay
+avaremotemo
 avg
 avocado
 awd
@@ -218,6 +220,7 @@ brushoff
 bubbletop
 buenas
 buffalo
+built-in
 bukkake
 bunya
 buteos
@@ -256,6 +259,7 @@ cellulomonas
 cenizo
 cercelee
 cercomonas
+cestui
 chabuk
 chaitra
 chalazas
@@ -277,6 +281,7 @@ chinars
 chitra
 chittak
 chlamydomonas
+chlorophyll-a
 choca
 chokidar
 choko
@@ -351,6 +356,7 @@ cumec
 cunjevois
 curcumas
 curtlax
+cut-in
 cuz
 cyanbenzyl
 cyano
@@ -563,6 +569,7 @@ genevois
 gentilhomme
 geocoronas
 geronimo
+ghotuo
 gigaherz
 gilenyer
 gimmor
@@ -570,6 +577,7 @@ ginkgo
 gins
 gipsyry
 gnars
+go-to
 goan
 goby
 goidel
@@ -672,6 +680,7 @@ hums
 hyaenas
 hydrae
 hydrogenomonas
+hydropot
 hyemal
 hyenas
 hypergeustia
@@ -871,6 +880,7 @@ manx
 manzanita
 maquahuitl
 marrowy
+marrubiin
 marshmallowy
 marsipobranchii
 martinoe
@@ -971,6 +981,7 @@ nepal
 neti
 netop
 newsprint
+ngwa
 nici
 niobe
 nitrosomonas
@@ -1247,6 +1258,7 @@ rhombi
 rhomphaia
 ribeye
 ridgetop
+right-o
 rijstafel
 rijsttafel
 rikk
@@ -1325,6 +1337,7 @@ shojo
 showy
 shtetel
 shtg
+shut-in
 sialagoguic
 sibs
 sics
@@ -1334,6 +1347,7 @@ silva
 simarouba
 sionas
 sish
+sit-in
 sitz
 skime
 skylabs
@@ -1376,6 +1390,7 @@ sprint
 staccado
 stacey
 stagese
+staia
 stanek
 steekkan
 steeplechase
