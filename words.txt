@@ -134532,14 +134532,14 @@ ephyra
 ephyrae
 ephyrula
 epi
-epiafzelechin (+)
-epiafzelechins (+)
+epiafzelechin
+epiafzelechins
 epiallele (+)
 epialleles (+)
 epiallelic
-epiandrosterone (+)
-epiandrosterones (+)
-epiaortic (+)
+epiandrosterone
+epiandrosterones
+epiaortic
 epibasal
 epibaterium
 epibatholithic
@@ -172238,6 +172238,7 @@ gushing
 gushingly
 gushingness
 gushy
+gusii
 gusla
 guslar
 guslars
@@ -182663,11 +182664,11 @@ hizzoner
 hizzoners
 hlai
 hlais
+hlengwe
 hlidhskjalf
 hlithskjalf
 hlonipha
 hlorrithi
-hlqn
 hlubi
 hm
 hmm
@@ -216059,7 +216060,11 @@ kupfferite
 kuphar
 kupper
 kurajong
+kuramite
+kuramites
 kuranko
+kurarinone
+kurarinones
 kurbash
 kurbashed
 kurbashes
@@ -418161,6 +418166,8 @@ tinfoils
 tinful
 tinfuls
 ting
+ting-a-ling
+ting-a-lings
 tinge
 tinged
 tingeing
