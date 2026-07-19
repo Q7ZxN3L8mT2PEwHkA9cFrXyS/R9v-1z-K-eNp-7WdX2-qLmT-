@@ -30,7 +30,6 @@ aerosteon
 afenil
 afer
 affluenza
-agathaumas
 agawam
 agaz
 ageustia
@@ -70,13 +69,11 @@ anabaenas
 anaphase
 anat
 ancien
-anconas
 anepia
 angolan
 angustia
 animo
 anita
-annonas
 ansu
 antibacchii
 antiphase
@@ -136,8 +133,6 @@ banat
 banuyo
 barazas
 barbudan
-barcelonas
-barotraumas
 barricado
 barszcz
 baruya
@@ -169,7 +164,6 @@ betamax
 betel
 bhakta
 bhil
-bhoonas
 bhumidar
 bibenzyl
 bibiru
@@ -239,8 +233,6 @@ cambouis
 campanini
 campilan
 cantilenas
-canzonas
-carboxydomonas
 carnifex
 carniolan
 carolan
@@ -255,10 +247,8 @@ cathedrae
 caveat
 cays
 cedre
-cellulomonas
 cenizo
 cercelee
-cercomonas
 cestui
 chabuk
 chaitra
@@ -280,7 +270,6 @@ chikungunya
 chinars
 chitra
 chittak
-chlamydomonas
 chlorophyll-a
 choca
 chokidar
@@ -299,7 +288,6 @@ chuvash
 chypre
 cibolan
 cichlid
-cinchonas
 citropten
 clepsydrae
 clogwyn
@@ -331,7 +319,6 @@ copei
 coprincipal
 coracosteon
 corojo
-coronas
 corvillosum
 couac
 counselee
@@ -340,7 +327,6 @@ counterstratagem
 cowy
 crawm
 credenza
-cremonas
 cremor
 crenas
 crenelee
@@ -354,7 +340,6 @@ cui
 cumbu
 cumec
 cunjevois
-curcumas
 curtlax
 cut-in
 cuz
@@ -367,7 +352,6 @@ dadaos
 daffodils
 dakoiti
 dalf
-dalgonas
 danoranja
 dao
 dase
@@ -411,13 +395,10 @@ dlcs
 doen
 dominie
 donald
-donas
 dooja
 doolan
-doonas
 dopiazas
 dost
-doumas
 dowy
 doxy
 dracaenas
@@ -430,7 +411,6 @@ dsr
 du'a'
 duenas
 duh
-dumas
 duodecimo
 duodenas
 dux
@@ -453,7 +433,6 @@ elasmobranchii
 elbowy
 elevon
 elevons
-embadomonas
 embarricado
 embrocado
 emphase
@@ -501,7 +480,6 @@ faenas
 faham
 falafel
 falanaka
-fanfaronas
 farruca
 felafel
 felo-de-se
@@ -550,7 +528,6 @@ fucinita
 fuh
 furrowy
 furzetop
-fusumas
 futhorc
 galactagoguic
 galeae
@@ -567,7 +544,6 @@ gelee
 genas
 genevois
 gentilhomme
-geocoronas
 geronimo
 ghotuo
 gigaherz
@@ -640,7 +616,6 @@ he'd
 he-he
 heavinsogme
 hebdomad
-hebonas
 heelprint
 heemraat
 heinie
@@ -650,7 +625,6 @@ hemibranchii
 hemitremor
 hemophileae
 henohenomoheji
-herpetomonas
 hestia
 hesychasm
 hetairai
@@ -675,11 +649,9 @@ hsi
 huarizo
 hugo
 human
-humas
 hums
 hyaenas
 hydrae
-hydrogenomonas
 hydropot
 hyemal
 hyenas
@@ -740,11 +712,9 @@ jessamy
 jhvh
 jibs
 joes
-jonas
 jovy
 junkanoo
 jussi
-kabloonas
 kadaif
 kalymmaukion
 kamelaukion
@@ -817,7 +787,6 @@ lehayim
 lehrjahre
 leora
 lepal
-leptomonas
 leucaethiop
 leucoethiop
 libelee
@@ -843,14 +812,11 @@ lookup
 lophobranchii
 lophosteon
 louis
-loumas
 louvar
 low-sulphur
 lowy
 lozell
-lucumas
 lulabs
-lumas
 lunars
 luo
 lupanars
@@ -859,7 +825,6 @@ macromastia
 macroplastia
 macuahuitl
 madapolan
-madronas
 maecenas
 mafic
 magaziny
@@ -888,7 +853,6 @@ masjid
 masknes
 mastoplastia
 maxixe
-mazumas
 mbeuer
 mcdonald
 meadowy
@@ -944,7 +908,6 @@ molendinars
 momme
 moms
 monaphase
-monas
 monophase
 monoprint
 monotremal
@@ -984,11 +947,9 @@ newsprint
 ngwa
 nici
 niobe
-nitrosomonas
 noex
 noh
 nomad
-nonas
 noncounterfeit
 nonprint
 nonpurchase
@@ -1040,7 +1001,6 @@ ostia
 oswego
 otosteon
 otsukimi
-oumas
 outchase
 outlay
 outsaw
@@ -1059,7 +1019,6 @@ paar
 paba
 pacey
 pachyrhizus
-padronas
 paegle
 paleae
 palmprint
@@ -1069,7 +1028,6 @@ panchax
 panchayat
 pandect
 panini
-papaumas
 parainfluenza
 paranja
 pardaos
@@ -1091,7 +1049,6 @@ pelasgi
 peloton
 pendn
 pergamyn
-personas
 pesh-kabz
 petrosum
 phagedaenas
@@ -1113,7 +1070,6 @@ photon
 photophase
 photoprint
 photoproton
-phytomonas
 pial
 pianistiec
 piblokto
@@ -1138,7 +1094,6 @@ pleiomastia
 pleomastia
 pleurosteon
 plyos
-pneumas
 podophylli
 poictesme
 polychsia
@@ -1186,15 +1141,11 @@ pseudhemal
 pseudogeustia
 pseudohemal
 pseudoinfluenza
-pseudomonas
 psid
 pterophryne
 pudeur
-pufftaloonas
 pufftn
-puftaloonas
 pulvinars
-pumas
 punaluan
 punany
 purchase
@@ -1215,14 +1166,12 @@ quijada
 quinie
 qvevris
 raad
-rabonas
 raca
 radeur
 rads
 ragini
 rainbowy
 rals
-ramonas
 raps
 rayat
 readapt
@@ -1251,7 +1200,6 @@ responsa
 ressaidar
 retox
 reviewal
-rhabdomonas
 rhanja
 rhipidistia
 rhombi
@@ -1266,7 +1214,6 @@ ripal
 roeneng
 rompu
 ronald
-ronas
 roton
 roux
 rowy
@@ -1280,7 +1227,6 @@ sallowy
 sambuk
 samh
 saphenas
-satsumas
 saucepot
 sauf
 savs
@@ -1345,7 +1291,6 @@ sightsaw
 sikimi
 silva
 simarouba
-sionas
 sish
 sit-in
 sitz
@@ -1401,7 +1346,6 @@ stoccado
 stovetop
 stratagem
 strobil
-strumas
 stylli
 subcalibre
 subdepot
@@ -1495,7 +1439,6 @@ towd
 towy
 tracey
 transprint
-traumas
 travois
 treasr
 treckschuyt
@@ -1503,12 +1446,10 @@ treetop
 treey
 tremor
 treponemal
-trichomonas
 tripal
 triphase
 tristeza
 trochleae
-tronas
 tropicalih
 trub
 tsukimi
@@ -1616,7 +1557,6 @@ would-be
 wox
 woy
 wyke
-xanthomonas
 xylan
 yabu
 yadayim
@@ -1625,7 +1565,6 @@ yakiniku
 yale
 yams
 yapok
-yaqonas
 yarb
 yardarm
 yati
@@ -1654,6 +1593,7 @@ zayat
 zhou
 zins
 zirai
+zman
 zoid
 zoll
 zombi

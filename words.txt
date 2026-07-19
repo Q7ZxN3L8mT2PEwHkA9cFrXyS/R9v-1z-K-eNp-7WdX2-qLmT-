@@ -48,17 +48,18 @@
 'za
 'zas
 'zounds
-a'a
+a'a (+)
 a'aninin (+)
-a'ight
-a-adjective
-a-begging (+)
+a'ight (+)
+a-adjective (+)
+a-begging
 a-bomb
 a-bombs
 a-cock-bill
-a-commerce
-a-commerces
-a-crystallins
+a-commerce (+)
+a-commerces (+)
+a-crystallin (+)
+a-crystallins (+)
 a-frame
 a-frames
 a-game
@@ -104,6 +105,7 @@ aa
 aaargh
 aahing
 aahs
+aalenian
 aalii
 aaliis
 aani
@@ -162,6 +164,8 @@ abada
 abaddon
 abadengo
 abadite
+abaecin
+abaecins
 abaft
 abagusii
 abaisance
@@ -8325,7 +8329,6 @@ ahistoric
 ahistorical
 ahlfeldite
 ahlfeldites
-ahluwalia
 ahmadi
 ahmadiya
 ahmed
@@ -15790,6 +15793,8 @@ anethols
 anethum
 anetic
 anetiological
+anetoderma
+anetodermas
 aneuch
 aneuploid
 aneuploidies
@@ -101348,6 +101353,7 @@ darafs
 darapti
 darat
 daratumumab
+daratumumab-lenalidomide-dexamethasone
 darb
 darbar
 darbars
@@ -110077,6 +110083,7 @@ deul
 deunam
 deuniting
 deurbanize
+deurmekaar
 deurwaarder
 deus
 deusan
@@ -127302,6 +127309,7 @@ eimak
 eimer
 eimeria
 eina
+eindhoven
 eine
 einiosaurus
 einkanter
@@ -134526,6 +134534,9 @@ ephyrula
 epi
 epiafzelechin (+)
 epiafzelechins (+)
+epiallele (+)
+epialleles (+)
+epiallelic
 epiandrosterone (+)
 epiandrosterones (+)
 epiaortic (+)
@@ -150834,6 +150845,7 @@ floccilation
 floccillation
 floccillations
 floccinaucinihilipilification
+floccinaucinihilipilifications
 floccing
 floccipend
 floccose
@@ -161513,6 +161525,7 @@ gazy
 gazzetta
 gconv
 gconvert
+gdansk
 gdinfo
 ge
 geadephaga
@@ -183876,6 +183889,8 @@ hommocks
 hommos
 hommoses
 homo
+homoanatoxin-a
+homoanatoxin-as
 homoanisaldehyde
 homoanisic
 homoarecoline
@@ -204518,8 +204533,8 @@ iodyrites
 iof
 iolite
 iolites
-iomazenil (+)
-iomeprol (+)
+iomazenil
+iomeprol
 ion
 ional
 ione
@@ -204657,7 +204672,6 @@ iowt
 ipalnemohuani
 ipamorelin
 ipatasertib
-ipatasertib (+)
 ipecac
 ipecacs
 ipecacuanha
@@ -204923,6 +204937,8 @@ irksomeness
 irksomenesses
 irl
 irma
+irofulven
+irofulvens
 iroha
 irok
 iroko
@@ -205628,6 +205644,8 @@ iseum
 isfahan
 ish
 ishes
+ishikawaite
+ishikawaites
 ishime
 ishmael
 ishmaelite
@@ -213051,6 +213069,9 @@ khmer
 khodja
 khodjas
 khoekhoe
+khoikhoi
+khoikhoin
+khoisan
 khoja
 khojah
 khojas
@@ -239709,6 +239730,8 @@ metalammonium
 metalanguage
 metalanguages
 metalaw
+metalaxyl-m
+metalaxyl-ms
 metalbearing
 metalbumin
 metalcore
@@ -240785,6 +240808,10 @@ metrotometry
 metrotomy
 metroxylon
 mets
+metsulfuron
+metsulfuron-methyl
+metsulfuron-methyls
+metsulfurons
 mettar
 mettle
 mettled
@@ -246683,6 +246710,7 @@ mizzonite
 mizzonites
 mizzy
 mktg
+mlabri
 mlange
 mleccha
 mlechchha
@@ -255139,6 +255167,8 @@ n-arachidonoylethanolamine
 n-arachidonoylethanolamines
 n-benzoyl-n-phenylhydroxylamine
 n-benzoyl-n-phenylhydroxylamines
+n-butyl
+n-butyls
 n-cadherin
 n-cadherins
 n-chain
@@ -256229,6 +256259,8 @@ nasopalatine
 nasopharyngeal
 nasopharynges
 nasopharyngitis
+nasopharyngolaryngoscopies
+nasopharyngolaryngoscopy
 nasopharynx
 nasopharynxes
 nasoprognathic
@@ -257553,8 +257585,10 @@ nejd
 nejdi
 nek
 nekkar
+neko
 nekoite
 nekoites
+nekos
 neks
 nekton
 nektonic
@@ -259430,6 +259464,7 @@ ngunnawal
 nguyen
 ngwa
 ngwato
+ngwatos
 ngwee
 ngwees
 nhan
@@ -260664,6 +260699,7 @@ nizams
 nizamut
 nizey
 nizy
+njanja
 njave
 nkanu (+)
 nkatenkwan
@@ -271548,6 +271584,7 @@ nystatins
 nytril
 nyxis
 nzema
+nzima
 o-be-joyful
 o-be-joyfuls
 o-benzoquinone (+)
@@ -274022,6 +274059,8 @@ ohing
 ohio
 ohioan
 ohioans
+ohlone (+)
+ohlones (+)
 ohm
 ohmage
 ohmages
@@ -336845,6 +336884,7 @@ ravishments
 ravison
 ravissant
 ravs
+ravuconazole
 ravulizumab
 raw
 rawaru
@@ -349905,8 +349945,9 @@ rfb
 rfound
 rfree
 rgen
-rgvedic (+)
-rgyalrong (+)
+rgvedic
+rgyalrong
+rgyalrongic
 rha
 rhabarb
 rhabarbarate
@@ -380540,6 +380581,7 @@ snugness
 snugnesses
 snugs
 snum
+snuneymuxw
 snup
 snupper
 snur
@@ -400607,6 +400649,8 @@ superconductive
 superconductivities
 superconductivity
 superconductor
+superconductor-ferromagnet-superconductor
+superconductor-ferromagnet-superconductors
 superconductors
 superconducts
 superconfidence
@@ -427750,6 +427794,10 @@ tsuma
 tsumcorite
 tsumcorites
 tsumebite
+tsumebites
+tsumo (+)
+tsumoite (+)
+tsumoites (+)
 tsun
 tsunami
 tsunamic
@@ -429427,6 +429475,9 @@ tuzla
 tuzz
 tuzzes
 tuzzle
+tveitite
+tveitites
+tvorog
 tw
 twa
 twaddell
@@ -455377,6 +455428,7 @@ uruguayan
 uruguayans
 uruisg
 urukuena
+urumqi
 urunday
 urus
 uruses
@@ -471593,6 +471645,7 @@ xanthisms
 xanthite
 xanthium
 xanthiuria
+xanthoastrocytomatous
 xanthocarpous
 xanthocephalus
 xanthoceras
@@ -472054,6 +472107,9 @@ xuanhuaceratops
 xuite
 xuites
 xuwulong
+xvalue
+xvalues
+xwla
 xyla
 xylan
 xylans
@@ -474833,6 +474889,8 @@ zloties
 zloty
 zlotych
 zlotys
+zman
+zmanim
 zmudz
 zo
 zoa
