@@ -92,6 +92,7 @@ influenza
 iniome
 jambolan
 joes
+kakwas
 khokani
 kodro
 konkani
@@ -127,6 +128,7 @@ mobil
 molal
 morenita
 muesli
+mukwas
 nepal
 niobe
 ortolan

@@ -57221,6 +57221,7 @@ butes
 butic
 butin
 butine
+butirosin
 butle
 butled
 butler
@@ -99345,7 +99346,7 @@ cyclophoria
 cyclophoric
 cyclophorus
 cyclophosphamide
-cyclophosphamide-bortezomib-dexamethasone (+)
+cyclophosphamide-bortezomib-dexamethasone
 cyclophosphamides
 cyclophotocoagulation
 cyclophotocoagulations
@@ -137151,6 +137152,7 @@ eserines
 eses
 esexual
 esguard
+eshay (+)
 eshin
 esile
 esiles
@@ -181253,6 +181255,7 @@ hiccupped
 hiccupping
 hiccups
 hiccupy
+hichiriki
 hicht
 hichu
 hick
@@ -204670,6 +204673,9 @@ iowa
 iowan
 iowans
 iowt
+ioxaglate
+ioxynil
+ioxynils
 ipalnemohuani
 ipamorelin
 ipatasertib
@@ -210978,6 +210984,7 @@ kakotopia
 kaks
 kakuro
 kakuros
+kakwas
 kakwas (+)
 kal
 kala
@@ -219716,6 +219723,8 @@ laury
 lauryl
 lauryls
 laus
+lausenite
+lausenites
 lautarite
 lautenclavicymbal
 lauter
@@ -225760,6 +225769,8 @@ localizabilities
 localizability
 localizable
 localization
+localization-delocalization
+localization-delocalizations
 localizations
 localize
 localized
@@ -228836,6 +228847,7 @@ luzula
 luzzes
 lvalue
 lvalues
+lwalwa
 lweis
 lwop
 lwp
@@ -251957,6 +251969,7 @@ muktear
 mukti
 muktuk
 muktuks
+mukwas
 mukwas (+)
 mulada
 muladi
@@ -332707,9 +332720,15 @@ quasi
 quasi-judicial
 quasi-judicially
 quasi-one-dimensional
+quasi-one-dimensionalities
+quasi-one-dimensionality
 quasi-optical
 quasi-optics
 quasi-three-dimensional
+quasi-two-dimensional
+quasi-two-dimensionalities
+quasi-two-dimensionality
+quasi-zero-dimensional
 quasicontinuous
 quasicrystal
 quasicrystals
@@ -333767,6 +333786,8 @@ quintuply
 quintus
 quinua
 quinuclidine
+quinupristin-dalfopristin
+quinupristin-dalfopristins
 quinyie
 quinyl
 quinzaine
@@ -334086,6 +334107,7 @@ quyte
 quyted
 quytes
 quyting
+qvevri
 qvevris
 qwerties
 qwerty
@@ -472010,6 +472032,8 @@ xiaosaurus
 xiaotingia
 xiaoyaosan
 xicak
+xicanx
+xicanxs
 xicaque
 xieite
 xieites
