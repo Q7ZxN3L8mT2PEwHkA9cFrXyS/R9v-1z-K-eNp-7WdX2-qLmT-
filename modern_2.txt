@@ -1,6 +1,5 @@
 abacot
 abohm
-absconsa
 acronych
 actinistia
 aculeae
@@ -18,13 +17,10 @@ aglipayano
 agoho
 agos
 agterskots
-ahimsa
 ahjussi
 airy
 ajaja
-akia
 alcarrazas
-aldm
 almemor
 amastia
 ambassadeur
@@ -45,7 +41,6 @@ apodemal
 apolytikion
 apopyle
 apozema
-appenzell
 arcual
 areg
 arenas
@@ -56,10 +51,8 @@ atazir
 atenolol
 aurifex
 aurir
-autobahn
 avantlay
 axonemal
-azomethine-h
 babaylan
 babracot
 baidar
@@ -192,7 +185,6 @@ colobin
 colosso
 colpheg
 comme
-concepti
 consomme
 contakion
 cooja
@@ -289,7 +281,6 @@ espiegle
 estafa
 eszett
 euglenas
-eupad
 euryaleae
 euterpe
 extremal
@@ -353,7 +344,6 @@ golomynka
 gonof
 good-o
 goramy
-gozell
 gramarye
 gramy
 grandeur
@@ -417,7 +407,6 @@ ijazat
 imbrex
 inchase
 infidel
-infobahn
 inphase
 inqilabs
 interchase
@@ -479,7 +468,6 @@ lacrym
 lacunars
 lagenas
 laich
-latke
 lavash
 lechayim
 lehayim
@@ -493,10 +481,8 @@ liquitab
 logodaedaly
 longeve
 lophosteon
-louvar
 low-sulphur
 lowy
-lozell
 lulabs
 lunars
 lupanars
@@ -510,7 +496,6 @@ maladapt
 malaguenas
 malibu
 mandapa
-maneki-neko
 manganja
 manini
 manioc
@@ -728,7 +713,6 @@ renvois
 rephase
 repurchase
 resarcelee
-responsa
 ressaidar
 retox
 rhanja
@@ -738,7 +722,6 @@ ridgetop
 rijstafel
 rijsttafel
 ripal
-rompu
 roton
 roux
 rowy
@@ -760,7 +743,6 @@ schnitzel
 schuyt
 sciniph
 scraich
-scrampum
 scroinogh
 scryne
 seidel
@@ -771,7 +753,6 @@ semiphase
 semsem
 senas
 seora
-septi
 sestia
 shadowy
 shakta
@@ -910,7 +891,6 @@ wabi
 wakwak
 waldorf
 walu
-wampum
 wazir
 we'd
 weanyer
