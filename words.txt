@@ -27351,8 +27351,7 @@ aslop
 aslope
 aslosh
 aslumber
-asmack
-asmalte
+asmara
 asmear
 asmile
 asmodeus
@@ -279374,6 +279373,8 @@ oughlies
 oughly
 oughlying
 ought
+ought-to-be
+ought-to-bes
 oughted
 oughting
 oughtlings
@@ -358203,6 +358204,7 @@ sanforized
 sang
 sanga
 sangah
+sangak
 sangamon
 sangar
 sangaree
@@ -463844,6 +463846,8 @@ wansith
 wansome
 wansonsy
 want
+want-to-be
+want-to-bes
 wantage
 wantages
 wantaway

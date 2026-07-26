@@ -113,8 +113,6 @@ borshch
 boruca
 brazas
 brekky
-bride-to-be
-brides-to-be
 brob
 brombenzyl
 bromo
@@ -349,8 +347,6 @@ gramy
 grandeur
 gray-a
 grey-a
-groom-to-be
-grooms-to-be
 grosso
 guadagnini
 guandaos
