@@ -375,6 +375,7 @@ alalonga
 alamannian
 alamo
 alamonti
+alanin
 alantolic
 alaunian
 albacea
@@ -808,6 +809,7 @@ antheridia
 antherozoid
 anthinae
 anthochlor
+anthocyanin
 anthologizers
 anthonomus
 anthotropic
@@ -1946,6 +1948,7 @@ bestove
 bestowals
 besugar
 betacism
+betacyanin
 betainogen
 betatopic
 beteems
@@ -2021,6 +2024,7 @@ bilaan
 bilamellar
 bilbies
 bilevels
+bilicyanin
 bilingual
 billette
 billons
@@ -3348,6 +3352,7 @@ chode
 choel
 choir
 choisya
+cholecyanin
 cholecystectomies
 cholecystis
 cholecystostomies
@@ -4365,6 +4370,7 @@ cutlette
 cutset
 cuvette
 cuzzies
+cyanin
 cyanmethemoglobin
 cyanobenzene
 cyanogen
@@ -4840,6 +4846,7 @@ dictery
 dictyogen
 dictyosteles
 dictyota
+dicyanin
 dicyanogen
 dicyclica
 didacticism
@@ -5149,6 +5156,7 @@ doorjambs
 doorposts
 doozers
 doozies
+dopamelanin
 dorab
 dorask
 dorba
@@ -5940,6 +5948,7 @@ eukaryots
 euler
 eulogizers
 eulophid
+eumelanin
 eumycetes
 eunomian
 eupepticism
@@ -6691,6 +6700,7 @@ galliney
 gallinulinae
 galliots
 gallipots
+gallocyanin
 gallonage
 gallons
 gallooned
@@ -6847,6 +6857,7 @@ genitals
 genizot
 genoas
 genomic
+gentianin
 gentiledom
 gentisic
 genty
@@ -6875,6 +6886,7 @@ geoscopic
 geosid
 geotropic
 geoty
+geranin
 gerbillinae
 gerbils
 gerenuk
@@ -7256,10 +7268,12 @@ guaka
 gualaca
 guamanian
 guanazolo
+guanin
 guapinol
 guara
 guarabu
 guaranian
+guaranin
 guarapo
 guardage
 guaruan
@@ -7373,6 +7387,7 @@ haematoceles
 haematocystis
 haematoin
 haematoxylons
+haemocyanin
 haemodialyzers
 haemoglobin
 haemogregarina
@@ -7589,6 +7604,7 @@ helvellic
 helvetia
 hemangioma
 hematoceles
+hematocyanin
 hematocystis
 hematogen
 hematolymphangioma
@@ -7615,6 +7631,7 @@ hemitery
 hemitropic
 hemochromogen
 hemocoele
+hemocyanin
 hemodialyzers
 hemogenia
 hemoglobin
@@ -7788,6 +7805,7 @@ hippocrenian
 hippodromic
 hippoglosinae
 hippomedon
+hippomelanin
 hippopod
 hippopotamian
 hippotragine
@@ -8577,6 +8595,7 @@ isochrony
 isocolic
 isocoria
 isocorybulbin
+isocyanin
 isocyanogen
 isodomic
 isodontals
@@ -9307,6 +9326,7 @@ latticicini
 latticini
 latticinii
 latticino
+laudanin
 laughed
 laulau
 launderette
@@ -9577,6 +9597,7 @@ llajwa
 llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch
 loadage
 loamier
+loanin
 loans
 loasa
 loave
@@ -9603,6 +9624,7 @@ locuttoria
 lodemanage
 lodicula
 logan
+loganin
 logarithm
 logicism
 loglet
@@ -9705,6 +9727,7 @@ lungan
 lunier
 lunisolar
 lunka
+lupanin
 lupis
 lushly
 lusitanian
@@ -9748,7 +9771,9 @@ lyricism
 lysogen
 lysosomal
 maaing
+mabellona
 mabi
+mabuti
 mabyer
 macadamizers
 macaronicism
@@ -9924,6 +9949,7 @@ manent
 mangabeira
 mangabev
 mangabies
+manganin
 mangar
 mangkukulam
 mangles
@@ -10146,6 +10172,7 @@ melanagogal
 melancholic
 melanchthonian
 melanian
+melanin
 melanogen
 melanoplakia
 melanorrhagia
@@ -10174,6 +10201,7 @@ melolonthinae
 melonier
 melons
 meltonian
+membranin
 membrette
 memnon
 memnonian
@@ -10701,6 +10729,7 @@ monoxime
 monoxylons
 monroeist
 monsoonishly
+montanin
 montbretia
 monteith
 montelukast
@@ -11206,6 +11235,7 @@ nicknack
 nickums
 nicobar
 nicolette
+nicotianin
 nicotinian
 nidary
 nidor
@@ -11815,6 +11845,7 @@ ortolan
 ortyginae
 ortygine
 orvietan
+oryzanin
 oryzorictinae
 oschophoria
 oscillatoria
@@ -12044,6 +12075,7 @@ oxybenzene
 oxycephaly
 oxygenizers
 oxyhaemoglobin
+oxyhemocyanin
 oxyhemoglobin
 oxyhydrogen
 oxylabrax
@@ -12690,6 +12722,7 @@ petronel
 petticoatery
 pettish
 pettishly
+peucedanin
 pewtery
 peyotes
 peyotist
@@ -12698,6 +12731,7 @@ pezizoid
 phacochoerid
 phacoid
 phaenogamian
+phaeomelanin
 phaeophycean
 phaeophyll
 phagedaena
@@ -12743,6 +12777,7 @@ phenolsulfonphthalein
 phenolsulphonephthalein
 phenolsulphonphthalein
 pheny
+phenylalanin
 phenylbenzene
 phenylcarbinol
 phenylglycolic
@@ -12859,16 +12894,19 @@ phrensy
 phrontistery
 phryma
 phthalein
+phthalocyanin
 phthisic
 phthisiotherapeutic
 phugoid
 phycitol
 phycobiont
+phycocyanin
 phycocyanogen
 phycomycetes
 phylactery
 phylartery
 phyllocaridan
+phyllocyanin
 phyllomic
 phyllopod
 phyllosticta
@@ -12911,6 +12949,7 @@ picarooned
 picaros
 picas
 picayunishly
+piccanin
 piccaninny
 picenian
 pichi
@@ -12961,6 +13000,7 @@ pigsnie
 pilapil
 pileum
 pileups
+piliganin
 pilikai
 pillar
 pillau
@@ -13075,6 +13115,7 @@ plastery
 plasticism
 plasticizers
 plastilinas
+plastocyanin
 plastogamies
 plataleinae
 platan
@@ -14028,6 +14069,8 @@ pylangial
 pylons
 pylorectomies
 pylorospasm
+pyoctanin
+pyocyanin
 pyophagia
 pyots
 pyracanthas
@@ -14918,6 +14961,7 @@ safen
 saffroned
 saffronier
 saffrony
+safranin
 sagaie
 sageretia
 sagitarii
@@ -14975,6 +15019,7 @@ salut
 salutatoria
 salutoria
 salvetes
+salvianin
 samaan
 sambaing
 sambal
@@ -15944,6 +15989,7 @@ sokol
 sokols
 sokulk
 solan
+solanin
 solar
 solecism
 soleil
@@ -16675,6 +16721,7 @@ sulphonphthalein
 sulphophthalein
 sulphoricinoleic
 sultanian
+sultanin
 sumbal
 sumis
 summarizers
@@ -18526,6 +18573,7 @@ uracils
 urali
 uramido
 uranian
+uranin
 uraniscochasma
 uranoscopic
 urceolar
@@ -18553,6 +18601,7 @@ urodeles
 urogenitals
 uromantist
 uromastix
+uromelanin
 uropod
 uropygial
 urorrhagia
@@ -18767,6 +18816,7 @@ vibratiuncles
 vibrissa
 vibroscopic
 vicarii
+vicianin
 vicinage
 vicissitude
 vicontiel
@@ -18815,6 +18865,7 @@ vinny
 vinylbenzene
 violacean
 violan
+violanin
 violetish
 violette
 violinette
@@ -19354,6 +19405,7 @@ zoogamies
 zoogonidia
 zoomantist
 zoomastigoda
+zoomelanin
 zoomies
 zooned
 zoonomic
