@@ -438,7 +438,7 @@ abhorson
 abhurite
 abhurites
 abib
-abibliophobia (+)
+abibliophobia
 abichite
 abid
 abidal
@@ -1513,8 +1513,10 @@ acanthodean
 acanthodei
 acanthodes
 acanthodian
+acanthodians (+)
 acanthodidae
 acanthodii
+acanthodiis (+)
 acanthodini
 acanthoid
 acantholimon
@@ -1650,7 +1652,6 @@ acaulous
 acc
 acca
 accable
-accademia
 accadian
 accas
 acce
@@ -6561,6 +6562,7 @@ afghanis
 afghanistan
 afghans
 afgod
+afib
 afibrinogenemia
 aficionada
 aficionadas
@@ -8614,6 +8616,8 @@ aksakals
 aktashite
 aktashites
 aktiebolag
+aktionsart
+aktionsarten
 aku
 akuammin
 akuammine
@@ -10782,32 +10786,69 @@ allycholly
 allyic
 allying
 allyl
+allylalcohol
+allylalcohols
 allylamine
 allylamines
+allylaniline
+allylanilines
 allylated
+allylates
+allylating
 allylation
 allylations
 allylbenzene
 allylbenzenes
+allylboration
+allylborations
+allylboron
 allylboronate
 allylboronates
+allylboronic
+allylborons
+allylbromide
+allylbromides
 allylene
 allylglycine
 allylglycines
 allylic
+allylically
 allylisopropylacetamide
 allylisopropylacetamides
 allylisothiocyanate
 allyllithium
 allyllithiums
+allylmagnesium
+allylmagnesiums
+allylmetal
+allylmetals
+allylnickel
+allylnickels
+allyloxycarbonyl
+allyloxycarbonyls
+allylpalladium
+allylpalladiums
+allylphenol
+allylphenols
+allylphenyl
+allylphenyls
 allyls
 allylsilane
 allylsilanes
 allylstannane
 allylstannanes
 allylthiourea
+allylthioureas
 allyltin
 allyltins
+allyltributylstannane
+allyltributylstannanes
+allyltributyltin
+allyltributyltins
+allyltrichlorosilane
+allyltrichlorosilanes
+allyltrimethylsilane
+allyltrimethylsilanes
 allylzinc
 allylzincs
 allyou
@@ -13333,8 +13374,8 @@ amplitudinous
 amplosome
 amplosomes
 amply
-ampollosity
-ampongue
+ampollosity (×)
+ampongue (×)
 ampoule
 ampoules
 amps
@@ -16193,12 +16234,11 @@ anobiid
 anobiidae
 anobiids
 anobing
-anocarpous
-anocathartic
 anociassociation
-anociation
-anocithesia
 anococcygeal
+anoctamin
+anoctamins
+anocutaneous
 anodal
 anodally
 anode
@@ -16434,14 +16474,14 @@ anorthosites
 anorthositic
 anoscope
 anoscopy
-anosia
+anosia (×)
 anosmatic
 anosmia
 anosmias
 anosmic
 anosognosia
-anosphrasia
-anosphresia
+anosphrasia (×)
+anosphresia (×)
 anospinal
 anostosis
 anostraca
@@ -19736,7 +19776,6 @@ anxiousnesses
 any
 anybodies
 anybody
-anybodyd
 anychia
 anyhoo
 anyhow
@@ -21911,20 +21950,21 @@ aracana
 aracanga
 aracari
 arace
-araceae
+araceae (×)
 araceous
-arach
-arache
+arach (×)
+arache (×)
 arachic
+arachidate
 arachide
 arachidic
 arachidonic
-arachidonoylethanolamide
-arachidonoylethanolamides
+arachidonoylethanolamide (×)
+arachidonoylethanolamides (×)
 arachin
 arachis
 arachises
-arachnactis
+arachnactis (×)
 arachne
 arachnean
 arachnephobia
@@ -21934,15 +21974,17 @@ arachnidan
 arachnidans
 arachnidial
 arachnidism
+arachnidisms
 arachnidium
 arachnids
 arachnism
+arachnisms
 arachnites
 arachnitis
 arachnoid
 arachnoidal
-arachnoidea
-arachnoidean
+arachnoidea (×)
+arachnoidean (×)
 arachnoiditis
 arachnoiditises
 arachnoids
@@ -21958,8 +22000,8 @@ arachnophobes
 arachnophobia
 arachnophobias
 arachnophobic
-arachnophobics
-arachnopia
+arachnophobics (×)
+arachnopia (×)
 arad
 aradid
 aradidae
@@ -25374,8 +25416,7 @@ aslop
 aslope
 aslosh
 aslumber
-asmack
-asmalte
+asmara
 asmear
 asmile
 asmodeus
@@ -38641,7 +38682,7 @@ benzidines
 benzidino
 benzidins
 benzil
-benzile (+)
+benzile
 benzilic
 benzils
 benzimidazole
@@ -43211,8 +43252,8 @@ bizzies
 bizzo
 bizzos
 bizzy
-bjarebyite (+)
-bjarebyites (+)
+bjarebyite
+bjarebyites
 bjorne
 bkcy
 bkgd
@@ -54989,7 +55030,7 @@ caelian
 caelometer
 caelum
 caelus
-caenis (+)
+caenis
 caenogaea (×)
 caenogaean (×)
 caenogeneses (×)
@@ -62358,8 +62399,29 @@ ceduous
 cee
 ceennacuelum
 cees
+cefaclor
+cefadroxil
 cefalexin
 cefazolin
+cefdinir
+cefepime
+cefiderocol
+cefixime
+cefmetazole
+cefoperazone
+cefotaxime
+cefotetan
+cefoxitin
+cefpodoxime
+cefprozil
+cefquinome
+ceftazidime
+ceftibuten
+ceftizoxime
+ceftizoximes
+ceftriaxone
+ceftriaxones
+cefuroxime
 ceiba
 ceibas
 ceibo
@@ -66836,7 +66898,7 @@ chhatas
 chhatri
 chhena
 chhertum
-chhindwara (+)
+chhindwara
 chi
 chia
 chiack
@@ -67947,8 +68009,11 @@ chizzel
 chizzes
 chizzing
 chkalik
+chkalovite
+chkalovites
 chkfil
 chkfile
+chkhaveri
 chladnite
 chlamyd
 chlamydate
@@ -71385,8 +71450,12 @@ ciruses
 cis
 cisalpine
 cisalpinism
+cisalpinisms
 cisandine
+cisapride
 cisatlantic
+cisatracurium
+cisatracuriums
 cisco
 ciscoes
 ciscos
@@ -75946,7 +76015,9 @@ cogrediency
 cogredient
 cogroad
 cogs
-cogswellia
+cogset
+cogsets
+cogswellia (×)
 coguarantor
 coguardian
 cogue
@@ -94602,6 +94673,7 @@ dacryocystitis
 dacryocystoblennorrhea
 dacryocystocele
 dacryocystoptosis
+dacryocystorhinostomies
 dacryocystorhinostomy
 dacryocystosyringotomy
 dacryocystotome
@@ -94743,6 +94815,7 @@ daedalist
 daedaloid
 daedalous
 daedalus
+daegu
 daeing
 daejeon
 daekon
@@ -95058,7 +95131,7 @@ daleswoman
 daleth
 daleths
 dalf
-dalfampridine (+)
+dalfampridine
 dalgona
 dalgonas
 dalgyte
@@ -99526,6 +99599,7 @@ dehydrochlorination
 dehydrochlorinations
 dehydrocorticosterone
 dehydrocorydaline
+dehydroepiandrosterones
 dehydroffroze
 dehydroffrozen
 dehydrofreeze
@@ -99653,6 +99727,7 @@ deinotheres
 deinotheria
 deinotherium
 deinotheriums
+deinstitutionalisations
 deinstitutionalization
 deinstitutionalizations
 deinstitutionalize
@@ -101786,6 +101861,7 @@ deoxyribonuclease
 deoxyribonucleases
 deoxyribonucleic
 deoxyribonucleoprotein
+deoxyribonucleoproteins
 deoxyribonucleotide
 deoxyribonucleotides
 deoxyribose
@@ -102696,6 +102772,7 @@ dermatographies
 dermatographism
 dermatography
 dermatoheteroplasty
+dermatohistopathologies
 dermatoid
 dermatologic
 dermatological
@@ -103469,6 +103546,8 @@ desoxybenzoin
 desoxycinchonine
 desoxycorticosterone
 desoxyephedrine
+desoxymethyltestosterone
+desoxymethyltestosterones
 desoxymorphine
 desoxyribonuclease
 desoxyribonucleic
@@ -104991,6 +105070,8 @@ dhourras
 dhow
 dhows
 dhritarashtra
+dhrupad
+dhrupads
 dhunchee
 dhunchi
 dhundia
@@ -105507,6 +105588,8 @@ dianthera
 dianthus
 dianthuses
 diantre
+diaoyudaoite
+diaoyudaoites
 diapalma
 diapase
 diapases
@@ -105923,6 +106006,10 @@ dicalcic
 dicalcium
 dicamba
 dicambas
+dicarbofunctionalisation
+dicarbofunctionalisations
+dicarbofunctionalization
+dicarbofunctionalizations
 dicarbonate
 dicarbonic
 dicarboxylate
@@ -105991,8 +106078,13 @@ dichlorides
 dichloroacetic
 dichlorobenzene
 dichlorobenzenes
+dichlorodicyanobenzoquinone
+dichlorodicyanobenzoquinones
 dichlorodifluoromethane
 dichlorodifluoromethanes
+dichlorodimethylsilanes
+dichlorodiphenyldichloroethane
+dichlorodiphenyldichloroethanes
 dichlorodiphenyldichloroethylene
 dichlorodiphenyldichloroethylenes
 dichlorodiphenyltrichloroethane
@@ -106273,6 +106365,8 @@ dicyclic
 dicyclica
 dicyclies
 dicyclist
+dicyclohexylcarbodiimide
+dicyclohexylcarbodiimides
 dicyclopentadienyliron
 dicycly
 dicyema
@@ -106715,6 +106809,7 @@ diffusor
 diffusors
 difluence
 difluoride
+difluoromethylornithine
 diformin
 difs
 difunctional
@@ -106996,6 +107091,7 @@ dihydroxyacetone
 dihydroxyacetones
 dihydroxycholecalciferol
 dihydroxycholecalciferols
+dihydroxyphenylalanines
 dihydroxysuccinic
 dihydroxytoluene
 dihysteria
@@ -107016,6 +107112,8 @@ diisocyanates
 diisopropyl
 diisopropylfluorophosphate
 diisopropylfluorophosphates
+diisopropylphosphorofluoridate
+diisopropylphosphorofluoridates
 dijudicant
 dijudicate
 dijudicated
@@ -107324,6 +107422,8 @@ dimethoates
 dimethoxy
 dimethoxymethane
 dimethyl
+dimethylacetylenedicarboxylate
+dimethylacetylenedicarboxylates
 dimethylamine
 dimethylamines
 dimethylamino
@@ -107339,6 +107439,9 @@ dimethylketone
 dimethylmethane
 dimethylnitrosamine
 dimethylnitrosamines
+dimethylphenylphosphines
+dimethylphenylpiperazinium
+dimethylphenylpiperaziniums
 dimethyls
 dimethylsulfoniopropionate
 dimethylsulfoniopropionates
@@ -107719,8 +107822,12 @@ diolefin
 diolefine
 diolefinic
 diolefins
+dioleoylphosphatidylcholine
+dioleoylphosphatidylcholines
 dioleoylphosphatidylethanolamine
 dioleoylphosphatidylethanolamines
+dioleoylphosphatidylglycerol
+dioleoylphosphatidylglycerols
 diols
 diomate
 diomedea
@@ -107876,6 +107983,7 @@ diphenylacetylene
 diphenylamine
 diphenylaminechlorarsine
 diphenylamines
+diphenylbutylpiperidines
 diphenylchloroarsine
 diphenylene
 diphenylenimide
@@ -107886,11 +107994,15 @@ diphenylhydantoins
 diphenylketone
 diphenylketones
 diphenylmethane
+diphenylmethylpiperazine
+diphenylmethylpiperazines
 diphenylphosphine
 diphenylphosphines
 diphenylquinomethane
 diphenyls
 diphenylthiourea
+diphlorethohydroxycarmalol
+diphlorethohydroxycarmalols
 diphone
 diphones
 diphonia
@@ -109920,6 +110032,7 @@ disestablishing
 disestablishment
 disestablishmentarian
 disestablishmentarianism
+disestablishmentarianisms
 disestablishmentarians
 disestablishments
 disestablismentarian
@@ -111999,6 +112112,8 @@ distastes
 distasting
 distater
 distaves
+distearoylphosphatidylcholine
+distearoylphosphatidylcholines
 distearoylphosphatidylethanoalmines
 distearoylphosphatidylethanolamine
 distelfink
@@ -112962,19 +113077,20 @@ dizzinesses
 dizzy
 dizzying
 dizzyingly
-djagatay
-djagoong
-djakarta
-djalmaite
+dj
+djagatay (×)
+djagoong (×)
+djakarta (×)
+djalmaite (×)
 djambarrpuyngu
-djasakid
+djasakid (×)
 djave
 djebel
 djebels
 djehad
-djelab
+djelab (×)
 djelfa
-djellab
+djellab (×)
 djellaba
 djellabah
 djellabahs
@@ -112982,11 +113098,11 @@ djellabas
 djembe
 djembes
 djent
-djents
+djents (×)
 djerfisherite
 djerfisherites
 djerib
-djersa
+djersa (×)
 djibba
 djibbah
 djibbahs
@@ -113002,9 +113118,10 @@ djinny
 djins
 djong
 djongs
-djuka
-djurleite
-djurleites
+djs
+djuka (×)
+djurleite (×)
+djurleites (×)
 dlc
 dlcs
 dlr
@@ -113353,6 +113470,9 @@ dodecatyl
 dodecatylic
 dodecuplet
 dodecyl
+dodecylbenzenesulfonates
+dodecylbenzenesulphonate
+dodecylbenzenesulphonates
 dodecylene
 dodecylic
 dodecylphenol
@@ -117205,8 +117325,8 @@ dsos
 dsp
 dsr
 dsri
-dtomato (+)
-dtomatoes (+)
+dtomato
+dtomatoes
 dtr
 dtset
 du
@@ -118418,7 +118538,7 @@ dustwoman
 dusty
 dustyfoot
 dusun
-dutasteride (+)
+dutasteride
 dutch
 dutched
 dutcher
@@ -118569,6 +118689,8 @@ dybbukim
 dybbukkim
 dybbuks
 dyce
+dydrogesterone
+dydrogesterones
 dye
 dyeabilities
 dyeability
@@ -118762,6 +118884,7 @@ dysarthric
 dysarthrosis
 dysautonomia
 dysbarism
+dysbetalipoproteinaemias
 dysbindin
 dysbindins
 dysbulia
@@ -122301,7 +122424,7 @@ eleemosynar
 eleemosynarily (×)
 eleemosynariness (×)
 eleemosynars
-eleemosynary (×)
+eleemosynary
 elegance
 elegances
 elegancies
@@ -128108,7 +128231,7 @@ enwrite
 enwrought
 enwwove
 enwwoven
-enzalutamide (+)
+enzalutamide
 enzian
 enzians
 enzone
@@ -128245,9 +128368,9 @@ epagomenae
 epagomenal
 epagomenic
 epagomenous
-epaleaceous (×)
-epalpebrate (×)
-epalrestat (+)
+epaleaceous
+epalpebrate
+epalrestat
 epanadiploses
 epanadiplosis
 epanagoge
@@ -128752,8 +128875,8 @@ epidotized
 epidural
 epidurals
 epidymides
-epiestriol (+)
-epiestriols (+)
+epiestriol
+epiestriols
 epifascial
 epifauna
 epifaunae
@@ -129646,7 +129769,7 @@ epsomite
 epsomites
 eptatretidae (×)
 eptatretus
-eptifibatide (+)
+eptifibatide
 eptinezumab
 epuise
 epuisee
@@ -130103,7 +130226,7 @@ erd
 erdafitinib
 erdite
 erdites
-erdosteine (+)
+erdosteine
 erdvark
 ere
 erebus
@@ -130389,8 +130512,10 @@ erks
 erlang
 erlangs
 erliansaurus
+erliansauruses
 erliche
 erlikosaurus
+erlikosauruses
 erlking
 erlkings
 erm
@@ -130602,7 +130727,7 @@ erth
 erthen
 erthling
 erthly
-ertugliflozin (+)
+ertugliflozin
 erubescence
 erubescences
 erubescencies
@@ -131079,7 +131204,7 @@ eserines
 eses
 esexual
 esguard
-eshay (+)
+eshay
 eshin
 esile
 esiles
@@ -131104,7 +131229,7 @@ eskualdun
 eskuara
 esky
 eslabon
-eslicarbazepine (+)
+eslicarbazepine
 eslisor
 esloign
 esloin
@@ -132515,8 +132640,8 @@ eudyptes
 euectic
 euemerism
 euergetes
-euergetism (+)
-euergetisms (+)
+euergetism
+euergetisms
 euflavine
 eugarie
 eugaries
@@ -158192,6 +158317,8 @@ gismos
 gisms
 gispin
 gist
+gisted
+gisting
 gists
 git
 gitaligenin
@@ -176138,6 +176265,11 @@ hlubi
 hm
 hmm
 hmmm
+hmong
+hmongs
+hmph
+hmphing
+hmphs
 hmu
 hnefatafl (+)
 ho
@@ -179167,9 +179299,9 @@ houngan
 houngans
 hounskull
 houpelande
-houpo (+)
+houpo
 houppelande
-houpu (+)
+houpu
 hour
 hourful
 hourglass
@@ -181577,8 +181709,8 @@ hydroxylates
 hydroxylating
 hydroxylation
 hydroxylations
-hydroxylclinohumite (+)
-hydroxylclinohumites (+)
+hydroxylclinohumite
+hydroxylclinohumites
 hydroxylic
 hydroxylization
 hydroxylize
@@ -184447,6 +184579,9 @@ ichthyisms
 ichthyismus
 ichthyization
 ichthyized
+ichthyoacanthotoxisms
+ichthyoallyeinotoxism
+ichthyoallyeinotoxisms
 ichthyobatrachian
 ichthyocephali
 ichthyocephalous
@@ -185196,6 +185331,7 @@ ierne
 if
 ife
 ifecks
+ifenprodil
 iff
 iffier
 iffiest
@@ -185924,7 +186060,7 @@ imaret
 imarets
 imari
 imaris
-imatinib (+)
+imatinib
 imaum
 imaumbarah
 imaums
@@ -186573,8 +186709,14 @@ immunoblot
 immunoblots
 immunoblotting
 immunoblottings
+immunocharacterisation
+immunocharacterisations
+immunocharacterization
+immunocharacterizations
 immunochemical
 immunochemically
+immunochemiluminescence
+immunochemiluminescences
 immunochemist
 immunochemistries
 immunochemistry
@@ -186601,6 +186743,7 @@ immunoelectrophoreses
 immunoelectrophoresis
 immunoelectrophoretic
 immunoelectrophoretically
+immunoendocrinologies
 immunofluorescence
 immunofluorescences
 immunofluorescent
@@ -186628,8 +186771,13 @@ immunohematologist
 immunohematologists
 immunohematology
 immunohistochemical
+immunohistochemically
 immunohistochemistries
 immunohistochemistry
+immunohistopathologic
+immunohistopathological
+immunohistopathologies
+immunohistopathology
 immunol
 immunologic
 immunological
@@ -186641,12 +186789,16 @@ immunology
 immunomodulator
 immunomodulators
 immunomodulatory
+immunopathogenicities
 immunopathologic
 immunopathological
 immunopathologies
 immunopathologist
 immunopathologists
 immunopathology
+immunopathophysiologies
+immunopathophysiology
+immunopharmaceuticals
 immunophoreses
 immunophoresis
 immunoprecipitate
@@ -189251,6 +189403,7 @@ incontraction
 incontrollable
 incontrollably
 incontrolled
+incontrovertibilities
 incontrovertibility
 incontrovertible
 incontrovertibleness
@@ -193666,6 +193819,7 @@ instituting
 institution
 institutional
 institutionalisation
+institutionalisations
 institutionalise
 institutionalised
 institutionalises
@@ -194556,6 +194710,7 @@ intercommune
 intercommuned
 intercommuner
 intercommunes
+intercommunicabilities
 intercommunicability
 intercommunicable
 intercommunicate
@@ -194672,7 +194827,9 @@ intercrossing
 intercrural
 intercrust
 intercrystalline
+intercrystallisations
 intercrystallization
+intercrystallizations
 intercrystallize
 intercultural
 interculturally
@@ -194709,6 +194866,7 @@ interdebated
 interdebating
 interdenominational
 interdenominationalism
+interdenominationalisms
 interdental
 interdentally
 interdentil
@@ -194775,6 +194933,7 @@ interdined
 interdines
 interdining
 interdiscal
+interdisciplinarities
 interdisciplinary
 interdispensation
 interdistinguish
@@ -194964,6 +195123,7 @@ intergossiping
 intergossipped
 intergossipping
 intergovernmental
+intergovernmentalisms
 intergradation
 intergradational
 intergradations
@@ -195505,6 +195665,7 @@ internation
 international
 internationale
 internationalisation
+internationalisations
 internationalise
 internationalised
 internationalises
@@ -195824,6 +195985,8 @@ interproduce
 interproduced
 interproducing
 interprofessional
+interprofessionalisms
+interprofessionalities
 interprofessionally
 interproglottidal
 interproportional
@@ -196245,6 +196408,7 @@ intertraffics
 intertragian
 intertransformability
 intertransformable
+intertranslatabilities
 intertranslatable
 intertransmissible
 intertransmission
@@ -196661,6 +196825,8 @@ intracephalic
 intracerebellar
 intracerebral
 intracerebrally
+intracerebroventricular
+intracerebroventricularly
 intracervical
 intrachordal
 intracistern
@@ -197816,7 +197982,7 @@ inyoites
 inyoke
 inzolia
 io
-iobenguane (+)
+iobenguane
 iocs
 iodal
 iodamoeba
@@ -197877,6 +198043,7 @@ iodobehenate
 iodobenzene
 iodobromite
 iodocasein
+iodochlorhydroxyquins
 iodochlorid
 iodochloride
 iodochromate
@@ -198003,6 +198170,7 @@ ionophoretically
 ionophoric
 ionophorous
 ionoregulation
+ionoregulations
 ionoregulatory
 ionornis
 ionosonde
@@ -198012,6 +198180,7 @@ ionosorb
 ionosorbed
 ionosorbing
 ionosorbs
+ionosorption
 ionosorptions
 ionosphere
 ionospheres
@@ -198049,7 +198218,7 @@ iotize
 iotized
 iotizing
 iou
-ioversol (+)
+ioversol
 iowa
 iowan
 iowans
@@ -198102,6 +198271,7 @@ ipsilateral
 ipsilaterally
 ipso
 ipswich
+iptacopan
 iq
 iqama
 iqamas
@@ -198325,7 +198495,6 @@ irksomenesses
 irl
 irma
 irofulven
-irofulvens
 iroha
 irok
 iroko
@@ -199043,7 +199212,7 @@ ishshakku
 isiac
 isiacal
 isicathamiya
-isicathamiyas (+)
+isicathamiyas
 isicholo
 isicle
 isidae
@@ -199209,6 +199378,8 @@ isobutenes
 isobutyl
 isobutylene
 isobutylenes
+isobutylmethylxanthine
+isobutylmethylxanthines
 isobutyls
 isobutyraldehyde
 isobutyrate
@@ -199543,6 +199714,8 @@ isolysin
 isolysis
 isomagnetic
 isomagnetics
+isomaltooligosaccharide
+isomaltooligosaccharides
 isomaltose
 isomastigate
 isomelamine
@@ -199702,6 +199875,7 @@ isopropenyl
 isopropyl
 isopropylacetic
 isopropylamine
+isopropylbenzylamines
 isopropylideneacetone
 isopropyls
 isoproterenol
@@ -200158,7 +200332,7 @@ itonia
 itonidid
 itonididae
 itoubou
-itraconazole (+)
+itraconazole
 its
 itsekiri
 itsekiris
@@ -200241,23 +200415,25 @@ ixabepilone
 ixazomib
 ixekizumab
 ixia
-ixiaceae
-ixiama
+ixiaceae (×)
+ixiama (×)
 ixias
-ixil
-ixion
-ixionian
+ixil (×)
+ixiolite
+ixiolites
+ixion (×)
+ixionian (×)
 ixnay
 ixnayed
 ixnaying
 ixnays
 ixodes
-ixodian
+ixodian (×)
 ixodiases
 ixodiasis
 ixodic
 ixodid
-ixodidae
+ixodidae (×)
 ixodids
 ixora
 ixoras
@@ -200268,6 +200444,8 @@ iyashikei
 iykwim
 iykyk
 iyo
+iyokan
+iyokans
 izafat
 izar
 izard
@@ -200279,6 +200457,7 @@ izchak
 izdubar
 izing
 izle
+izmir
 izoklakeite
 izoklakeites
 izon
@@ -202401,19 +202580,21 @@ jizyah
 jizz
 jizzen
 jizzes
+jjajang
 jjajangmyeon
 jjajangmyeons
 jjajangmyun
 jjajangmyuns
+jjambbong
 jjampong
-jjamppong
 jjapaguri
 jjigae
 jjigaes
 jjim
 jjimdak
-jjimjilbang
 jjimjilbangs
+jjinppang
+jjolmyeon
 jk
 jms
 jnana
@@ -204592,7 +204773,7 @@ kangs
 kanienkeha (+)
 kanienkehaka (+)
 kanikawa (+)
-kaniwa (+)
+kaniwa
 kanji
 kanjis
 kanjoos
@@ -206054,6 +206235,7 @@ ketosteroid
 ketosteroids
 ketosuccinic
 ketotic
+ketotifen
 ketoxime
 ketoximes
 kets
@@ -206903,8 +207085,8 @@ kimchi
 kimchis
 kimeridgian
 kimigayo
-kimilsungism (+)
-kimilsungisms (+)
+kimilsungism
+kimilsungisms
 kimmer
 kimmeridge
 kimmers
@@ -207618,8 +207800,11 @@ kjeldahlization
 kjeldahlize
 kk
 kkakdugi
+kkakdugis
 kkanpunggi
-kkwabaegi (+)
+kkanpunggis
+kkwabaegi
+kkwabaegis
 kkwaenggwari
 klaberjass
 kladdkaka
@@ -209139,8 +209324,8 @@ ktenasites
 ktetor
 ktetors
 kthibh
-ktitor (+)
-ktitors (+)
+ktitor
+ktitors
 ktunaxa
 kua
 kuan
@@ -209481,6 +209666,7 @@ kwazoku
 kwela
 kwelas
 kwhr
+kwikwetlem
 kwintra
 kxoe
 kyabuka
@@ -209611,7 +209797,6 @@ kyung
 kyurin
 kyurinish
 kyus
-la
 laager
 laagered
 laagering
@@ -212164,6 +212349,7 @@ laryngostasis
 laryngostenosis
 laryngostomy
 laryngostroboscope
+laryngostroboscopy
 laryngotome
 laryngotomies
 laryngotomy
@@ -215504,6 +215690,7 @@ levogyres
 levogyrous
 levolactic
 levolimonene
+levomethamphetamine
 levorotary
 levorotation
 levorotatory
@@ -215618,6 +215805,8 @@ lexological
 lexovisaurus
 lexovisauruses
 ley
+leyak
+leyaks
 leyden
 leyesaurus
 leyland
@@ -218173,6 +218362,7 @@ lithosphere
 lithospheres
 lithospheric
 lithostatic
+lithostratigraphies
 lithotint
 lithotome
 lithotomes
@@ -219522,6 +219712,7 @@ lomonosovite
 lomonosovites
 lompish
 lomta
+lonafarnib
 loncastuximab
 lonchocarpus
 lonchopteridae
@@ -221972,6 +222163,7 @@ lymphangiomatous
 lymphangiophlebitis
 lymphangioplasty
 lymphangiosarcoma
+lymphangiosarcomata
 lymphangiotomy
 lymphangitic
 lymphangitides
@@ -222017,6 +222209,7 @@ lymphocytotoxin
 lymphodermia
 lymphoduct
 lymphoedema
+lymphoepitheliomata
 lymphogenic
 lymphogenous
 lymphoglandula
@@ -222031,6 +222224,7 @@ lymphogranulomatous
 lymphographic
 lymphographies
 lymphography
+lymphohistiocytoses
 lymphohistiocytosis
 lymphoid
 lymphoidectomy
@@ -222054,6 +222248,8 @@ lymphopenias
 lymphopoieses
 lymphopoiesis
 lymphopoietic
+lymphoproliferation
+lymphoproliferative
 lymphoprotease
 lymphorrhage
 lymphorrhagia
@@ -222064,6 +222260,7 @@ lymphosarcomas
 lymphosarcomata
 lymphosarcomatosis
 lymphosarcomatous
+lymphoscintigraphic
 lymphosporidiosis
 lymphostasis
 lymphotaxis
@@ -228785,19 +228982,22 @@ mazzinian
 mazzinianism
 mazzinist
 mb
+mbalax
 mbalolo
+mbalolos
 mbaqanga
 mbaqangas
 mbaya
-mbeuer
 mbira
 mbiras
+mbo
 mbori
-mbps
+mboris
+mbps (×)
 mbuba (×)
 mbube
 mbukushu
-mbum (+)
+mbum
 mbunda (×)
 mbundu
 mbuti
@@ -228805,10 +229005,11 @@ mbya
 mcallisterite
 mcallisterites
 mccarthyism
+mccarthyisms
 mccoy
 mcdojo
 mcdojos
-mcdonald
+mcdonald (×)
 mcdonaldisation
 mcdonaldisations
 mcdonaldised
@@ -228817,12 +229018,18 @@ mcdonaldizations
 mcdonaldized
 mcgovernite
 mcgovernites
-mcintosh
+mcintosh (×)
 mcjob
 mcjobs
 mckay
-mcm
-mcphail
+mckelveyite
+mckelveyites
+mckinstryite
+mckinstryites
+mcleod
+mcleods
+mcm (×)
+mcphail (×)
 mdewakanton
 mdnt
 mdse
@@ -235483,6 +235690,8 @@ miki
 mikie
 miking
 mikir
+mikoshi
+mikoshis
 mikra
 mikrkra
 mikron
@@ -239586,7 +239795,6 @@ mizzonites
 mizzy
 mktg
 mlabri
-mlange
 mleccha
 mlechchha
 mlem
@@ -244276,7 +244484,7 @@ mpox
 mpoxes
 mpret
 mprets
-mpumalanga
+mpumalanga (+)
 mrem
 mridamgam
 mridamgams
@@ -248298,6 +248506,9 @@ naivist
 naivite
 naja
 nak
+naka
+nakamal
+nakamals
 nakauriite
 nakauriites
 nake
@@ -248328,9 +248539,7 @@ nala
 nalas
 nalbuphine
 nalbuphines
-naldemedine (+)
-naldrettite (+)
-naldrettites (+)
+naldemedine
 nale
 naled
 naleds
@@ -249129,6 +249338,7 @@ natchezan
 natchitoches
 natchnee
 nate
+nateglinide
 nates
 nathan
 nathanael
@@ -249498,8 +249708,8 @@ nawies
 nawle
 nawob
 nawt
-naxalite (+)
-naxalites (+)
+naxalite
+naxalites
 naxi
 naxis
 nay
@@ -250174,9 +250384,6 @@ negators
 negatory
 negatron
 negatrons
-negentropic (+)
-negentropies (+)
-negentropy (+)
 neger
 negged
 negging
@@ -252160,18 +252367,34 @@ nexum
 nexus
 nexuses
 neyanda
+ngaanyatjarra
+ngaanyatjarras
 ngai
 ngaio
 ngaios
 ngakarimojong
+ngala
+ngalas
 ngana
 nganas
+nganasan
+nganasans
+nganga
+ngangkaris
 ngapi
 ngarara
 ngararas
+ngarinyin
+ngarrindjeri
 ngati
 ngatis
+ngbaka
+ngbakas
+ngbandi
+ngege
+ngeges
 ngemba
+ngh
 ngiti
 ngiyambaa
 ngiyampaa
@@ -252182,6 +252405,8 @@ ngoko
 ngoma
 ngomas
 ngondo
+ngoni
+ngonis
 ngqika
 ngram
 ngrams
@@ -252191,6 +252416,7 @@ ngulu
 nguni
 ngunis
 ngunnawal
+nguru
 nguyen
 ngwa
 ngwato
@@ -252843,8 +253069,8 @@ nikkuds
 niklesite
 nikolai
 nikon
-nikud (+)
-nikudim (+)
+nikud
+nikudim
 nikudot
 nikuds
 nikujaga
@@ -253118,8 +253344,10 @@ nisses
 nist
 nisus
 nit
-nitazoxanide (+)
-nitazoxanides (+)
+nitazene
+nitazenes
+nitazoxanide
+nitazoxanides
 nitch
 nitchevo
 nitchie
@@ -253409,19 +253637,28 @@ nizams
 nizamut
 nizey
 nizy
+njahi
 njanja
 njave
-nkanu (+)
+njem
+nkanu
 nkatenkwan
 nko
 nkole
 nkore
+nkoro
 nkosi
 nkosis
+nkoya
 nkrumahism
 nkrumahisms
 nkrumahist
 nkrumahists
+nkrumaism
+nkrumaisms
+nkrumaist
+nkrumaists
+nkwen
 nkwobi
 nnethermore
 no
@@ -264517,6 +264754,7 @@ obfuscous
 obfusk
 obi
 obia
+obiage
 obias
 obidicut
 obied
@@ -264524,7 +264762,7 @@ obiing
 obiism
 obiisms
 obiit
-obiltoxaximab (+)
+obiltoxaximab
 obinutuzumab
 obis
 obispo
@@ -267309,7 +267547,7 @@ olluck
 olm
 olms
 olneya
-olodaterol (+)
+olodaterol
 olof
 ological
 ologies
@@ -267345,9 +267583,10 @@ olpidiaster
 olpidium
 olsalazine
 olson
+olsztyn
 oltonde
 oltunna
-olutasidenib (+)
+olutasidenib
 olycook
 olycooks
 olykoek
@@ -267398,7 +267637,7 @@ omasitis
 omasum
 omber
 ombers
-ombitasvir (+)
+ombitasvir
 ombre
 ombrella
 ombrellas
@@ -269111,6 +269350,11 @@ oppugner
 oppugners
 oppugning
 oppugns
+oprichnik
+oprichniki
+oprichniks
+oprichnina
+oprozomib
 ops
 opsigamy
 opsimath
@@ -270940,8 +271184,8 @@ osaka
 osamin
 osamine
 osar
-osarizawaite (+)
-osarizawaites (+)
+osarizawaite
+osarizawaites
 osazone
 osc
 oscan
@@ -271071,8 +271315,8 @@ osieries
 osierlike
 osiers
 osiery
-osilodrostat (+)
-osimeritinib (+)
+osilodrostat
+osimertinib
 osirian
 osiride
 osiridean
@@ -279675,8 +279919,8 @@ oxanic
 oxanilate
 oxanilic
 oxanilide
-oxathiapiprolin (+)
-oxatomide (+)
+oxathiapiprolin
+oxatomide
 oxazepam
 oxazepams
 oxazin
@@ -282466,8 +282710,11 @@ pancreatemphraxis
 pancreathelcosis
 pancreatic
 pancreaticoduodenal
+pancreaticoduodenectomies
+pancreaticoduodenectomy
 pancreaticoduodenostomy
 pancreaticogastrostomy
+pancreaticojejunostomies
 pancreaticosplenic
 pancreatin
 pancreatins
@@ -283747,6 +283994,8 @@ paracetaldehyde
 paracetamol
 paracetamols
 parachaplain
+parachlorophenylalanine
+parachlorophenylalanines
 paracholia
 parachor
 parachordal
@@ -289478,6 +289727,7 @@ pentachenium
 pentachloride
 pentachlorodibenzofuran
 pentachlorodibenzofurans
+pentachloronitrobenzenes
 pentachlorophenol
 pentachlorophenols
 pentachord
@@ -290511,6 +290761,10 @@ perfluoroalkyls
 perfluorocarbon
 perfluorodecyltrichlorosilane
 perfluorodecyltrichlorosilanes
+perfluoromethylcyclohexane
+perfluoromethylcyclohexanes
+perfluorooctanesulfonate
+perfluorooctanesulphonate
 perfoliate
 perfoliation
 perfoliations
@@ -292493,6 +292747,7 @@ peskiest
 peskily
 peskiness
 peskinesses
+peskotomuhkati
 pesky
 peso
 pesos
@@ -293985,6 +294240,8 @@ phenoxide
 phenoxides
 phenoxy
 phenoxybenzamine
+phenoxymethylpenicillin
+phenoxymethylpenicillins
 phenozygous
 phentolamine
 phentolamines
@@ -294037,8 +294294,16 @@ phenylketonurias
 phenylketonuric
 phenylketonurics
 phenylmethane
+phenylmethanesulfonylfluoride
+phenylmethanesulfonylfluorides
+phenylmethanesulphonylfluoride
+phenylmethanesulphonylfluorides
 phenylmethyl
 phenylmethyls
+phenylmethylsulfonylfluoride
+phenylmethylsulfonylfluorides
+phenylmethylsulphonylfluoride
+phenylmethylsulphonylfluorides
 phenylpiperazine
 phenylpropanoid
 phenylpropanolamine
@@ -295146,6 +295411,10 @@ phosphorets
 phosphoretted
 phosphorhidrosis
 phosphori
+phosphoribosylpyrophosphate
+phosphoribosylpyrophosphates
+phosphoribosyltransferase
+phosphoribosyltransferases
 phosphoric
 phosphorical
 phosphoriferous
@@ -299141,7 +299410,7 @@ pirrie
 pirrmaw
 pirs
 pirssonite
-pirtobrutinib (+)
+pirtobrutinib
 pis
 pisa
 pisaca
@@ -299672,6 +299941,7 @@ pize
 pized
 pizes
 pizing
+pizotifen
 pizz
 pizza
 pizzaiola
@@ -303567,7 +303837,9 @@ polings
 polinices
 polio
 polioencephalitis
+polioencephalomyelitides
 polioencephalomyelitis
+polioencephalomyelitises
 poliomyelitic
 poliomyelitides
 poliomyelitis
@@ -304180,6 +304452,8 @@ polydemonisms
 polydemonist
 polydenominational
 polydental
+polydeoxyribonucleotide
+polydeoxyribonucleotides
 polydermous
 polydermy
 polydigital
@@ -304398,6 +304672,8 @@ polyhydric
 polyhydroxy
 polyhydroxybutyrate
 polyhydroxybutyrates
+polyhydroxyethylmethacrylate
+polyhydroxyethylmethacrylates
 polyhymnia
 polyideic
 polyideism
@@ -304486,6 +304762,8 @@ polymethoxyflavones
 polymethylene
 polymethylmethacrylate
 polymethylmethacrylates
+polymethylsilsesquioxane
+polymethylsilsesquioxanes
 polymetochia
 polymetochic
 polymicrian
@@ -304814,6 +305092,8 @@ polyptych
 polyptychs
 polypus
 polypuses
+polyradiculoneuropathies
+polyradiculoneuropathy
 polyrhizal
 polyrhizous
 polyrhythm
@@ -304972,6 +305252,7 @@ polytenies
 polyteny
 polyterpene
 polytetrafluoroethylene
+polytetrafluoroethylenes
 polythalamia
 polythalamian
 polythalamic
@@ -305054,6 +305335,8 @@ polyve
 polyvinyl
 polyvinylidene
 polyvinylidenes
+polyvinylpolypyrrolidone
+polyvinylpolypyrrolidones
 polyvinylpyrrolidone
 polyvinyls
 polyvirulent
@@ -308198,8 +308481,8 @@ pozzuolana
 pozzuolanas
 pozzuolanic
 pozzy
-ppang (+)
-ppangs (+)
+ppang
+ppangs
 ppm
 ppopgi
 pps
@@ -343725,12 +344008,14 @@ rigwiddies
 rigwiddy
 rigwoodie
 rigwoodies
-riichii (+)
+rii
+riichii
 rijksdaalder
+rijksdaalders
 rijksdaaler
 rijksdaalers
-rijstafel
-rijstafels
+rijstafel (×)
+rijstafels (×)
 rijsttafel
 rijsttafels
 rik
@@ -343739,7 +344024,7 @@ rikisha
 rikishas
 rikishi
 rikk
-rikkunshito (+)
+rikkunshito
 riksdaalder
 riksha
 rikshas
@@ -346515,6 +346800,8 @@ routs
 rouvillite
 roux
 rovalpituzumab
+rovambira
+rovambiras
 rove
 roved
 roven
@@ -348531,6 +348818,8 @@ sad
 sadachbia
 sadalmelik
 sadalsuud
+sadanagaite
+sadanagaites
 sadaqah
 sadaqat
 sadcore
@@ -349275,6 +349564,10 @@ salicylate
 salicylated
 salicylates
 salicylating
+salicylazosulfapyridine
+salicylazosulfapyridines
+salicylazosulphapyridine
+salicylazosulphapyridines
 salicylic
 salicylide
 salicylidene
@@ -350332,6 +350625,7 @@ sanforized
 sang
 sanga
 sangah
+sangak
 sangamon
 sangar
 sangaree
@@ -352671,7 +352965,7 @@ scaphopod
 scaphopoda
 scaphopodous
 scaphopods
-scaphotrapeziotrapezoid (+)
+scaphotrapeziotrapezoid
 scapi
 scapiform
 scapigerous
@@ -360624,6 +360918,7 @@ sercom
 serdab
 serdabs
 serdar
+serdexmethylphenidates
 sere
 serean
 sered
@@ -365176,7 +365471,7 @@ shtup
 shtupped
 shtupping
 shtups
-shuanghuanglian (+)
+shuanghuanglian
 shuar
 shuba
 shubunkin
@@ -375208,6 +375503,8 @@ souvlakia
 souvlakias
 souvlakis
 souwester
+souzalite
+souzalites
 sov
 sovenance
 sovenances
@@ -376434,6 +376731,9 @@ spectrophoby
 spectrophone
 spectrophonic
 spectrophotoelectric
+spectrophotofluorometrically
+spectrophotofluorometries
+spectrophotofluorometry
 spectrophotograph
 spectrophotography
 spectrophotometer
@@ -382830,6 +383130,7 @@ stereochroming
 stereochromy
 stereocomparagraph
 stereocomparator
+stereodifferentiations
 stereoed
 stereoelectric
 stereoelectroencephalographies
@@ -382862,6 +383163,7 @@ stereoisomerism
 stereoisomerisms
 stereoisomers
 stereoisometric
+stereolithographically
 stereological
 stereologically
 stereologies
@@ -382896,6 +383198,7 @@ stereophonic
 stereophonically
 stereophonies
 stereophony
+stereophotogrammetries
 stereophotogrammetry
 stereophotograph
 stereophotographic
@@ -387503,6 +387806,10 @@ subcommunity
 subcompact
 subcompacts
 subcompany
+subcompartmentalisation
+subcompartmentalisations
+subcompartmentalization
+subcompartmentalizations
 subcompensate
 subcompensated
 subcompensating
@@ -390985,6 +391292,7 @@ sulfamerazin
 sulfamerazine
 sulfamethazine
 sulfamethazines
+sulfamethoxypyridazine
 sulfamethylthiazole
 sulfamic
 sulfamidate
@@ -391208,6 +391516,7 @@ sulph
 sulpha
 sulphacetamide
 sulphacetamides
+sulphachloropyridazine
 sulphacid
 sulphadiazine
 sulphadiazines
@@ -391218,6 +391527,8 @@ sulphaldehyde
 sulphamate
 sulphamates
 sulphamerazine
+sulphamethoxypyridazine
+sulphamethoxypyridazines
 sulphamic
 sulphamid
 sulphamidate
@@ -393283,12 +393594,14 @@ supermalate
 supermale
 supermales
 superman
+supermaneuverabilities
 supermanhood
 supermanifest
 supermanism
 supermanliness
 supermanly
 supermannish
+supermanoeuvrabilities
 supermarginal
 supermarginally
 supermarine
@@ -397028,6 +397341,7 @@ sympathizers
 sympathizes
 sympathizing
 sympathizingly
+sympathoadrenomedullary
 sympathoblast
 sympatholysis
 sympatholytic
@@ -397666,6 +397980,8 @@ syngeneic
 syngeneses
 syngenesia
 syngenesian
+syngenesiotransplantation
+syngenesiotransplantations
 syngenesious
 syngenesis
 syngenetic
@@ -398224,11 +398540,14 @@ syzygy
 szaibelyite
 szaibelyites
 szaloncukor
-szarlotka (+)
-szarlotki (+)
-szczecin (+)
+szalonna
+szalonnas
+szarlotka
+szarlotki
+szczecin
 szechuan
 szechuanosaurus
+szekely
 szekler
 szeklers
 szenicsite
@@ -398239,6 +398558,8 @@ szmikites
 szomolnokite
 szomolnokites
 szopelka
+szopka
+szopkas
 ta
 taa
 taaffeite
@@ -401250,6 +401571,8 @@ tatukira
 tatus
 tatusia
 tatusiidae
+tatyanaite
+tatyanaites
 tau
 taube
 taubes
@@ -403240,8 +403563,8 @@ temiskaming
 temne
 temnospondyli
 temnospondylous
-temoporfin (+)
-temozolomide (+)
+temoporfin
+temozolomide
 temp
 tempe
 tempean
@@ -405597,7 +405920,7 @@ texturizing
 texturous
 textus
 tez
-tezacaftor (+)
+tezacaftor
 tezcatlipoca
 tezcatzoncatl
 tezcucan
@@ -410605,7 +410928,7 @@ tivy
 tiwaz
 tix
 tixagevimab
-tixocortol (+)
+tixocortol
 tiyin
 tiyins
 tiyn
@@ -419430,9 +419753,9 @@ tsumcorite
 tsumcorites
 tsumebite
 tsumebites
-tsumo (+)
-tsumoite (+)
-tsumoites (+)
+tsumo
+tsumoite
+tsumoites
 tsun
 tsunami
 tsunamic
@@ -423179,7 +423502,7 @@ ummas
 ummed
 umming
 ummps
-umngqusho
+umngqusho (×)
 umohoite
 umohoites
 umoja
@@ -445123,6 +445446,7 @@ unzone
 unzoned
 unzoning
 up
+upadacitinib
 upadaisy
 upaisle
 upaithric
@@ -448279,6 +448603,8 @@ vandemonian
 vandemonianism
 vandenbrandeite
 vandenbrandeites
+vandendriesscheite
+vandendriesscheites
 vandiemenian
 vandyke
 vandyked
@@ -449172,6 +449498,7 @@ vectographs
 vector
 vectorcardiogram
 vectorcardiographic
+vectorcardiographies
 vectorcardiography
 vectored
 vectorial
@@ -449965,7 +450292,10 @@ ventriculoatriostomy
 ventriculocisternostomies
 ventriculocisternostomy
 ventriculogram
+ventriculographic
+ventriculographies
 ventriculography
+ventriculomegaly
 ventriculopuncture
 ventriculoscopy
 ventriculose
@@ -450027,6 +450357,7 @@ ventromesal
 ventromesial
 ventromyel
 ventroposterior
+ventroposterolateral
 ventroptosia
 ventroptosis
 ventroscopy
@@ -450295,7 +450626,6 @@ verey
 verfremdungseffekt
 verfremdungseffekte
 vergaloo
-vergangenheitsbewaltigung
 verge
 vergeboard
 vergeboards
@@ -450344,6 +450674,8 @@ verifiablenesses
 verifiably
 verificate
 verification
+verificationisms
+verificationists
 verifications
 verificative
 verificatory
@@ -450769,6 +451101,7 @@ vertebrodymus
 vertebrofemoral
 vertebroiliac
 vertebromammary
+vertebroplasties
 vertebrosacral
 vertebrosternal
 verted
@@ -450781,9 +451114,11 @@ vertibleness
 vertical
 verticaled
 verticaling
+verticalisations
 verticalism
 verticalities
 verticality
+verticalizations
 verticalled
 verticalling
 vertically
@@ -451010,6 +451345,7 @@ vestibules
 vestibuling
 vestibulitis
 vestibulitises
+vestibulocerebellum
 vestibulospinal
 vestibulum
 vestigal
@@ -451092,6 +451428,7 @@ veteranize
 veterans
 veterinarian
 veterinarianism
+veterinarianisms
 veterinarians
 veterinaries
 veterinary
@@ -451533,8 +451870,10 @@ videlicet
 videnda
 videndum
 video
+videoangiographies
 videocam
 videocams
+videocapillaroscopies
 videocassette
 videocassettes
 videocast
@@ -451550,6 +451889,8 @@ videodisks
 videoed
 videofit
 videofits
+videofluorographic
+videofluorographies
 videogenic
 videogram
 videograms
@@ -451558,13 +451899,22 @@ videographers
 videographies
 videography
 videoing
+videokeratographic
+videokeratographies
 videoland
 videolands
+videolaryngostroboscopic
+videolaryngostroboscopies
+videolaryngostroboscopy
+videonystagmographic
+videonystagmographies
+videonystagmography
 videophile
 videophiles
 videophone
 videophones
 videophonic
+videoradiographies
 videos
 videotape
 videotaped
@@ -452156,6 +452506,8 @@ vinylation
 vinylbenzene
 vinylcyanide
 vinylcyanides
+vinylcyclohexanes
+vinylcyclohexenes
 vinylene
 vinylethylene
 vinylic
@@ -452634,6 +452986,7 @@ viscosimetries
 viscosimetry
 viscosities
 viscosity
+viscosupplementations
 viscount
 viscountcies
 viscountcy
@@ -452971,6 +453324,7 @@ vitreodentinal
 vitreodentine
 vitreoelectric
 vitreoretinal
+vitreoretinopathy
 vitreosities
 vitreosity
 vitreous
@@ -453586,6 +453940,9 @@ volcanologists
 volcanologize
 volcanology
 volcanos
+volcanostratigraphic
+volcanostratigraphies
+volcanostratigraphy
 volcanus
 vole
 voled
@@ -454129,14 +454486,16 @@ vraisemblance
 vraisemblances
 vrbaite
 vrbaites
+vredenburgite
+vredenburgites
 vriddhi
 vril
 vrille
 vrilled
 vrilling
 vrils
-vrischikasana (+)
-vrischikasanas (+)
+vrischikasana
+vrischikasanas
 vrocht
 vroom
 vroomed
@@ -454336,6 +454695,8 @@ vum
 vummed
 vumming
 vums
+vuonnemite
+vuonnemites
 vuttier
 vuttiest
 vutty
@@ -459677,7 +460038,7 @@ wigwags
 wigwam
 wigwams
 wiikite
-wiikites (+)
+wiikites
 wikeno
 wiki
 wikialities
@@ -462956,9 +463317,10 @@ wyve
 wyver
 wyvern
 wyverns
-xalostockite
+xalostockite (×)
 xalwo
 xalwos
+xamoterol
 xanthaline
 xantham
 xanthamic
@@ -462998,6 +463360,9 @@ xanthisms
 xanthite
 xanthium
 xanthiuria
+xanthoastrocytoma
+xanthoastrocytomas
+xanthoastrocytomata
 xanthoastrocytomatous
 xanthocarpous
 xanthocephalus
@@ -463234,6 +463599,8 @@ xenotimes
 xenotransplant
 xenotransplantation
 xenotransplantations
+xenotransplanted
+xenotransplanting
 xenotransplants
 xenotropic
 xenurine
@@ -463437,7 +463804,14 @@ xoana
 xoanon
 xoanona
 xocoatl
+xocoatls
+xocolatl
+xocolatls
+xoconostle
+xoconostles
 xoi
+xokleng
+xoklengs
 xolo
 xoloitzcuintle
 xoloitzcuintles
@@ -463456,8 +463830,15 @@ xref
 xuanhanosaurus
 xuanhanosauruses
 xuanhuaceratops
+xuanxue
+xueshuantong
+xuezhikang
 xuite
 xuites
+xuixos
+xun
+xuns
+xurels
 xuwulong
 xvalue
 xvalues
@@ -463585,6 +463966,10 @@ xylotrya
 xylotypographic
 xylotypography
 xyloyl
+xylulokinase
+xylulokinases
+xylulose
+xyluloses
 xylyl
 xylylene
 xylylic
@@ -463801,7 +464186,7 @@ yammering
 yammerings
 yammerly
 yammers
-yamogenin (+)
+yamogenin
 yamp
 yampa
 yampee
@@ -464397,6 +464782,7 @@ yeomanwise
 yeomen
 yeorling
 yeow
+yeowch
 yeowoman
 yeowomen
 yep
@@ -464630,6 +465016,7 @@ yitten
 yixianosaurus
 yizhousaurus
 yizkor
+ykw
 ykwim
 ylahayll
 ylem
@@ -464997,7 +465384,7 @@ ypocras
 yponomeuta
 yponomeutid
 yponomeutidae
-ypresian (+)
+ypresian
 ypsiliform
 ypsiloid
 ypsilon
@@ -465193,6 +465580,7 @@ yuruna
 yurupary
 yus
 yusdrum
+yusheng
 yustaga
 yutu
 yutyrannus
@@ -465404,6 +465792,7 @@ zanthoxylum
 zanthoxylums
 zantiot
 zantiote
+zanubrutinib
 zany
 zanying
 zanyish
@@ -465761,7 +466150,7 @@ zeroing
 zeroize
 zeros
 zeroth
-zersetzung (+)
+zersetzung
 zerumbet
 zerumbets
 zest
@@ -465820,16 +466209,21 @@ zezes
 zhajiangmian
 zhamanshinite
 zhamanshinites
-zhanghenglong
+zhanghenglong (×)
 zhanmadao
 zhejiang
-zhejiangosaurus
+zhejiangosaurus (×)
 zhenyuanlong
+zhike
+zhimu
+zhizi
 zhmud
 zho
 zhomo
 zhomos
-zhongyuansaurus
+zhonghu
+zhongshan
+zhongyuansaurus (×)
 zhoosh
 zhooshed
 zhooshes
@@ -465837,12 +466231,14 @@ zhooshing
 zhos
 zhou
 zhoug
+zhu
 zhuang
 zhuangs
-zhuchengceratops
-zhuchengosaurus
+zhuchengceratops (×)
+zhuchengosaurus (×)
 zhuchengtyrannus
 zhug
+zhuhau
 zhuzh
 zhuzhed
 zhuzhes
@@ -466815,6 +467211,8 @@ zoysia
 zoysias
 zubeneschamali
 zubr
+zubrowka
+zubrowkas
 zubrs
 zuccarino
 zucchetti
@@ -466897,9 +467295,13 @@ zwinglianism
 zwinglianist
 zwischenzug
 zwischenzugs
-zwitter
+zwitter (×)
 zwitterion
 zwitterionic
+zwitterionisation
+zwitterionisations
+zwitterionization
+zwitterionizations
 zwitterions
 zydeco
 zydecos

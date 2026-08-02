@@ -1,4 +1,5 @@
 abhiseka
+abomasi
 abruptio
 abscisic
 acanthodii
@@ -8,7 +9,7 @@ aces
 acetla
 achage
 acinaces
-acoupe
+acoelomi
 acrogamy
 acronyc
 actinopod
@@ -16,6 +17,7 @@ actinozoa
 adelopod
 adelphogamy
 aditio
+adjuror
 adoxa
 adv
 adverbial
@@ -95,6 +97,7 @@ asb
 ascendeur
 ascidiozoa
 assisa
+assuror
 asterozoa
 astragalotibial
 asyngamy
@@ -114,6 +117,7 @@ babels
 backspaces
 bacteriophage
 bactetiophage
+bagani
 bagnio
 baisa
 bakepan
@@ -125,6 +129,7 @@ barraces
 basigamy
 battlespaces
 beamy
+begani
 beisa
 belaces
 belamy
@@ -136,6 +141,7 @@ besognio
 besonio
 bhakti
 bibliophage
+bibliotaph
 bifaces
 bigamy
 bilabial
@@ -188,12 +194,13 @@ calumba
 calycozoa
 calypso
 camanachd
+cambeva
 cambial
 cambuca
 camisa
+campi
 camshoch
 caneh
-cantaloupe
 capataces
 capex
 capsa
@@ -211,7 +218,6 @@ carrizo
 cascabels
 cassumunars
 catacumba
-catadupe
 catfaces
 catio
 caudotibial
@@ -219,6 +225,7 @@ cautio
 cazh
 cenizo
 cenogamy
+cenotaph
 cephalopod
 cephalothoraces
 cercopod
@@ -228,7 +235,6 @@ chaetopod
 chalazia
 chalazogamy
 chalkfaces
-chaloupe
 chamisa
 changar
 chasmogamy
@@ -250,6 +256,7 @@ chiropod
 chlamydozoa
 choler
 chorizo
+chowanoc
 chromidiogamy
 chromophage
 chrysanisic
@@ -268,6 +275,7 @@ coburg
 cockamamy
 cocuisa
 coemptio
+cojuror
 coliphage
 columba
 comd
@@ -277,6 +285,7 @@ condoler
 conductio
 condylopod
 confederatio
+conjuror
 connubial
 consoler
 consperg
@@ -286,16 +295,13 @@ corbels
 cotsetla
 couhage
 counterbraces
-countercoupe
 counterformula
 counterpaces
-coupe
 cowhage
 crankous
 crawlspaces
 creamy
 crisic
-croupe
 cryptogamy
 cryptoheresy
 cudava
@@ -368,11 +374,9 @@ dreich
 droler
 droog
 drungar
-drupe
 dumba
 dummkopf
 duopod
-dupe
 dupondidii
 dupondii
 dzeren
@@ -405,6 +409,7 @@ enterohemorrhage
 enterozoa
 entozoa
 epistoler
+epitaph
 epithalamy
 epizoa
 epizzoa
@@ -461,6 +466,7 @@ fuckfaces
 fujoshi
 fullfaces
 furnaces
+furor
 gamba
 gamboler
 gamogamy
@@ -486,6 +492,7 @@ glaces
 gladii
 gleamy
 gloeocapsa
+glomi
 glossolabial
 glyc
 gnars
@@ -505,7 +512,6 @@ greeshoch
 grieshoch
 grimaces
 grosz
-guadeloupe
 gugelhupf
 gunja
 gymnotokous
@@ -523,6 +529,7 @@ hamba
 hamburg
 hamotzi
 hangar
+haplomi
 hapsburg
 hardfaces
 haruspex
@@ -551,6 +558,7 @@ hhd
 hicaco
 hickory
 hierogamy
+hippocampi
 hippopod
 hirotoshi
 hitoshi
@@ -634,11 +642,12 @@ joshi
 jubilatio
 judicatio
 jumba
-jupe
+juror
 kalimba
 kalimotxo
 kamba
 kaneh
+kangani
 karateka
 karoshi
 karyogamy
@@ -702,14 +711,13 @@ loamy
 locatio
 lochage
 lohoch
+lomilomi
 longganisa
 lopezia
 louisa
-loupe
 lucentio
 lunars
 lupanars
-lupe
 lurg
 lushburg
 luxembourg
@@ -726,6 +734,7 @@ macrophage
 macropod
 macrostachya
 macumba
+magani
 mahaleb
 mainbraces
 malacopod
@@ -734,6 +743,7 @@ mammula
 maneh
 manganja
 mangar
+manoc
 marg
 marimba
 marimonda
@@ -760,6 +770,7 @@ mesiolabial
 mesothoraces
 mesozoa
 mestizo
+metaph
 metathoraces
 metazoa
 metze
@@ -814,6 +825,7 @@ neemba
 neogamy
 neuropod
 newburg
+newichawanoc
 ninja
 nipa
 noh
@@ -821,9 +833,9 @@ nonadverbial
 nonconnubial
 nonda
 nondichogamy
+nonjuror
 nonmicrobial
 nudzh
-nupe
 nyanja
 oblatio
 occamy
@@ -955,7 +967,6 @@ postphthisic
 posttibial
 potholer
 pottingar
-poupe
 praecipitatio
 preaces
 preconnubial
@@ -1005,7 +1016,6 @@ razzia
 reamy
 rebels
 rebraces
-recoupe
 recusf
 reductio
 reembraces
@@ -1049,6 +1059,7 @@ sakti
 samba
 sambuca
 samkhya
+sampi
 sandhya
 sangar
 sankhya
@@ -1062,6 +1073,7 @@ saxagliptin
 saxotromba
 sbirro
 scalepan
+scampi
 scapegraces
 scaphopod
 schantze
@@ -1080,7 +1092,6 @@ scyphopolyp
 scyphozoa
 seamy
 sejero
-semicupe
 seminars
 sepia
 sequaces
@@ -1138,6 +1149,7 @@ squeamy
 stamba
 stanitza
 stapedii
+staph
 starw
 steamy
 steganopod
@@ -1152,7 +1164,6 @@ streamy
 strelitzi
 strelitzia
 streltzi
-stupe
 stupex
 stylopod
 sublabial
@@ -1164,7 +1175,6 @@ summula
 sunbeamy
 sungar
 supa
-supe
 superheresy
 superlabial
 superraces
@@ -1183,7 +1193,6 @@ tailraces
 talotibial
 tamburitza
 tandava
-taupe
 taxeopod
 tazia
 tcheka
@@ -1232,11 +1241,11 @@ trigamy
 trilisa
 triradii
 triskele
+tritaph
 triverbial
 trochalopod
 trochozoa
 tromba
-troupe
 trullisatio
 tryp
 tsamba
@@ -1245,13 +1254,13 @@ tsetse
 tulipa
 tulumba
 tupinamba
+tururi
 tyg
 tylopod
 typefaces
 tzaritza
 tzetse
 tzetze
-uaupe
 umbels
 umeboshi
 unbraces
@@ -1293,6 +1302,7 @@ wakonda
 walcheren
 waterberg
 watercooler
+weanoc
 webinars
 webspaces
 weighage
@@ -1320,9 +1330,9 @@ yuanxiao
 zambomba
 zanja
 zanjero
-zapupe
 zephyr
 zhuzh
+zingani
 zipa
 zizia
 zmudz

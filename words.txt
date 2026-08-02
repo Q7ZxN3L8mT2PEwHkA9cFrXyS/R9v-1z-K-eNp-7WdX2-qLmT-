@@ -6724,6 +6724,7 @@ afghanis
 afghanistan
 afghans
 afgod
+afib
 afibrinogenemia
 aficionada
 aficionadas
@@ -14062,8 +14063,8 @@ amplitudinous
 amplosome
 amplosomes
 amply
-ampollosity
-ampongue
+ampollosity (×)
+ampongue (×)
 ampoule
 ampoules
 amps
@@ -17010,12 +17011,11 @@ anobiid
 anobiidae
 anobiids
 anobing
-anocarpous
-anocathartic
 anociassociation
-anociation
-anocithesia
 anococcygeal
+anoctamin
+anoctamins
+anocutaneous
 anodal
 anodally
 anode
@@ -71714,8 +71714,11 @@ chizzel
 chizzes
 chizzing
 chkalik
+chkalovite
+chkalovites
 chkfil
 chkfile
+chkhaveri
 chladnite
 chlamyd
 chlamydate
@@ -75233,8 +75236,12 @@ cis-zeatin
 cis-zeatins
 cisalpine
 cisalpinism
+cisalpinisms
 cisandine
+cisapride
 cisatlantic
+cisatracurium
+cisatracuriums
 cisco
 ciscoes
 ciscos
@@ -118778,19 +118785,20 @@ dizzinesses
 dizzy
 dizzying
 dizzyingly
-djagatay
-djagoong
-djakarta
-djalmaite
+dj
+djagatay (×)
+djagoong (×)
+djakarta (×)
+djalmaite (×)
 djambarrpuyngu
-djasakid
+djasakid (×)
 djave
 djebel
 djebels
 djehad
-djelab
+djelab (×)
 djelfa
-djellab
+djellab (×)
 djellaba
 djellabah
 djellabahs
@@ -118798,11 +118806,11 @@ djellabas
 djembe
 djembes
 djent
-djents
+djents (×)
 djerfisherite
 djerfisherites
 djerib
-djersa
+djersa (×)
 djibba
 djibbah
 djibbahs
@@ -118818,9 +118826,10 @@ djinny
 djins
 djong
 djongs
-djuka
-djurleite
-djurleites
+djs
+djuka (×)
+djurleite (×)
+djurleites (×)
 dlc
 dlcs
 dlr
@@ -182880,6 +182889,11 @@ hlubi
 hm
 hmm
 hmmm
+hmong
+hmongs
+hmph
+hmphing
+hmphs
 hmu
 hnefatafl (+)
 ho
@@ -191999,6 +192013,7 @@ ierne
 if
 ife
 ifecks
+ifenprodil
 iff
 iffier
 iffiest
@@ -207136,23 +207151,25 @@ ixabepilone
 ixazomib
 ixekizumab
 ixia
-ixiaceae
-ixiama
+ixiaceae (×)
+ixiama (×)
 ixias
-ixil
-ixion
-ixionian
+ixil (×)
+ixiolite
+ixiolites
+ixion (×)
+ixionian (×)
 ixnay
 ixnayed
 ixnaying
 ixnays
 ixodes
-ixodian
+ixodian (×)
 ixodiases
 ixodiasis
 ixodic
 ixodid
-ixodidae
+ixodidae (×)
 ixodids
 ixora
 ixoras
@@ -210581,6 +210598,7 @@ jumpsuits
 jumpy
 jun
 jun-b
+jun-d
 junc
 juncaceae
 juncaceous
@@ -213087,6 +213105,7 @@ ketosteroid
 ketosteroids
 ketosuccinic
 ketotic
+ketotifen
 ketoxime
 ketoximes
 kets
@@ -222890,6 +222909,8 @@ lexological
 lexovisaurus
 lexovisauruses
 ley
+leyak
+leyaks
 leyden
 leyesaurus
 leyland
@@ -243039,6 +243060,8 @@ miki
 mikie
 miking
 mikir
+mikoshi
+mikoshis
 mikra
 mikrkra
 mikron
@@ -277171,6 +277194,7 @@ oprichnik
 oprichniki
 oprichniks
 oprichnina
+oprozomib
 ops
 opsigamy
 opsimath
@@ -307924,6 +307948,7 @@ pize
 pized
 pizes
 pizing
+pizotifen
 pizz
 pizza
 pizzaiola
@@ -357228,6 +357253,8 @@ sad
 sadachbia
 sadalmelik
 sadalsuud
+sadanagaite
+sadanagaites
 sadaqah
 sadaqat
 sadcore

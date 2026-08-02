@@ -7,6 +7,7 @@ ability-to-be
 absconsa
 afenil
 affluenza
+afib
 alteza
 amanita
 ambuscado
@@ -83,6 +84,7 @@ euselachii
 fade-in
 feminie
 fenoxaprop-p
+fetuin-a
 fetuin-b
 fleabag
 fluazifop-p
@@ -115,16 +117,18 @@ iniome
 jambolan
 joes
 jun-b
+jun-d
 kakwas
 khokani
 kiss-me
 kodro
+kokoromiko
 konkani
+koromiko
 kumbuk
 kvevris
 labyrinthibranchii
 latke
-lavabo
 lehrjahre
 linie
 litra
@@ -156,6 +160,7 @@ mukwas
 niobe
 nippitaty
 nobodyd
+orexin-a
 orexin-b
 ortolan
 osar
@@ -220,6 +225,7 @@ tarkani
 teabag
 tektosil
 telex
+tenascin-c
 tetel
 thrombi
 tie-in
