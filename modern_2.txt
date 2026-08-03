@@ -287,7 +287,6 @@ facit
 fadeur
 faenas
 falafel
-falanaka
 farruca
 felafel
 felo-de-se
@@ -333,7 +332,6 @@ genas
 genevois
 gentilhomme
 geronimo
-gigaherz
 gilenyer
 gimmor
 gnars
@@ -410,6 +408,7 @@ interfibre
 interhaemal
 interhemal
 interphase
+ipr
 iraimbilanja
 isochasm
 isocyano
@@ -428,7 +427,6 @@ jussi
 kadaif
 kalymmaukion
 kamelaukion
-kanaka
 kanzus
 kapok
 katangese
@@ -596,7 +594,6 @@ pacey
 pachyrhizus
 paegle
 paleae
-panaka
 panayano
 panchax
 panini
@@ -827,7 +824,6 @@ takht
 taleae
 tallowy
 talwegs
-tanaka
 tapasvi
 telophase
 tenascin-r
