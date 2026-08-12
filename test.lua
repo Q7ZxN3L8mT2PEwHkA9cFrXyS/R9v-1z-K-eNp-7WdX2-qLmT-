@@ -549,6 +549,12 @@ task.spawn(function()
     statusLabel.Font = Enum.Font.GothamBold
     statusLabel.TextSize = 10
     statusLabel.Position = UDim2.new(0, 0, 1, -5)
+    
+    statusLabel.Visible = true
+    
+    task.wait(5)
+    
+    statusLabel.Visible = false
 
     if h and h.Parent and h.Text ~= "" then
         UpdateSuggestions()
@@ -638,6 +644,7 @@ task.spawn(function()
             task.wait(0.25)
         else
             local truncatedPrefix = string.sub(prefix, 1, 11)
+
             if truncatedPrefix ~= lastPrefix then
                 lastPrefix = truncatedPrefix
 
@@ -648,17 +655,7 @@ task.spawn(function()
                 if truncatedPrefix ~= "" then
                     prefixLabel.Text = "Prefix: " .. truncatedPrefix
 
-                    local exists = false
-                    local firstLetter = truncatedPrefix:sub(1, 1)
-                    local wordList = WordDictionary[firstLetter] or Words
-                    for _, word in ipairs(wordList) do
-                        if word == truncatedPrefix then
-                            exists = true
-                            break
-                        end
-                    end
-
-                    if exists then
+                    if WordSet[truncatedPrefix] then
                         prefixLabel.TextColor3 = Color3.fromRGB(0, 255, 0)
                     else
                         prefixLabel.TextColor3 = Color3.fromRGB(255, 0, 0)
