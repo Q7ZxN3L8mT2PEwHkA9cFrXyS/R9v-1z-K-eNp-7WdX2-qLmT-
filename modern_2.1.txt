@@ -13,6 +13,7 @@ ahuruhuru
 alteza
 amanita
 amerikani
+amusgo
 anatoxin-a
 angolan
 anita
@@ -29,12 +30,14 @@ bainie
 balarao
 bambuk
 barszcz
+bautta
 bayamo
 bedel
 betel
 biome
 blusht
 bonita
+boutta
 brazera
 break-in
 bride-to-be
@@ -42,6 +45,7 @@ brides-to-be
 brinie
 built-in
 cadenza
+calcutta
 canabae
 carniolan
 carolan
@@ -108,6 +112,7 @@ groom-to-be
 grooms-to-be
 guajira
 guatuso
+gutta
 gyoza
 gyromitra
 hairof
@@ -125,6 +130,8 @@ jambolan
 joes
 jun-b
 jun-d
+juzen-taiho-to
+kadaif
 kakwas
 khokani
 kiss-me
@@ -133,6 +140,7 @@ kokoromiko
 konkani
 koromiko
 kumbuk
+kutta
 kvevris
 labyrinthibranchii
 laoganma
@@ -161,6 +169,7 @@ metel
 mets
 microbiome
 minie
+misgo
 mitra
 mobil
 molal
@@ -168,6 +177,7 @@ morenita
 muesli
 mukwas
 myanma
+nazirs
 nicarao
 niobe
 nippitaty
@@ -179,14 +189,16 @@ osar
 osmolal
 ought-to-be
 outmanoeuvred
+outta
 overslipt
 oxic
-oxotemorine-m
+oxotremorine-m
 parainfluenza
 parao
 pelasgi
 pharyngobranchii
 portolan
+post-op
 pozzolan
 pre-check-in
 prolan
@@ -209,6 +221,7 @@ sahibs
 sambuk
 sangak
 sativa
+scutta
 seabag
 seenil
 sekani
@@ -217,10 +230,12 @@ self-check-in
 senusi
 senza
 septi
+shakuyaku-kanzo-to
 shammosim
 shamosim
 shimla
 shipt
+sho-saiko-to
 shtetel
 shut-in
 sit-in
@@ -232,7 +247,9 @@ solan
 solod
 sorosil
 spirt
+sputta
 strobil
+sutta
 tamarao
 tarkani
 teabag
@@ -248,6 +265,7 @@ tobaccosim
 tolan
 trade-in
 tristeza
+trutta
 ubii
 uhuru
 unclipt
@@ -257,11 +275,14 @@ usquabae
 valiha
 veduta
 vertu
+vezirs
 violal
 violan
 vitra
+vizirs
 walk-in
 want-to-be
+wazirs
 wedel
 weepie
 whipt
