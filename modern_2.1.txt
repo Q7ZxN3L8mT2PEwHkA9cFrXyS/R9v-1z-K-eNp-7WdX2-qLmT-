@@ -36,6 +36,7 @@ barszcz
 bautta
 bayamo
 bedel
+beid
 betel
 biome
 blusht
@@ -102,7 +103,9 @@ fenoxaprop-p
 fetuin-a
 fetuin-b
 fleabag
+flox
 fluazifop-p
+fosh
 fucinita
 fusht
 gantsl
@@ -130,11 +133,13 @@ hoaxer
 homoanatoxin-a
 hru
 husht
+imazamox
 incognita
 influenza
 iniome
 jambolan
 joes
+jola
 jun-b
 jun-d
 jutka
@@ -163,6 +168,7 @@ lophobranchii
 louvar
 louvred
 lozell
+luba
 madapolan
 maharao
 maneuvred
@@ -232,6 +238,7 @@ reequipt
 reginald
 relaxer
 remap
+rens
 responsa
 rhombi
 right-o
@@ -272,6 +279,7 @@ sputta
 strobil
 subtaxer
 sutta
+talwegs
 tamarao
 tarkani
 taus
@@ -282,6 +290,7 @@ telex
 tenascin-c
 tetel
 tetrao
+thalwegs
 thowt
 thrombi
 tianma

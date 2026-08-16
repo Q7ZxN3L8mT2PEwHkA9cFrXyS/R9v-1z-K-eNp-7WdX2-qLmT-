@@ -698,7 +698,6 @@ regd
 regle
 reistafel
 renomme
-rens
 renvois
 rephase
 repurchase
@@ -820,7 +819,6 @@ takao
 takht
 taleae
 tallowy
-talwegs
 tapasvi
 telophase
 tenascin-r
@@ -829,7 +827,6 @@ tetrabromo
 tetrahymenas
 tetramastia
 tezcatlipoca
-thalwegs
 thenars
 theopneustia
 thiocyano
