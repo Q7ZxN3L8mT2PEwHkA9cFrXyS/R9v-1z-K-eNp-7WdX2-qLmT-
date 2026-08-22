@@ -5,6 +5,7 @@ abib
 abilities-to-be
 ability-to-be
 absconsa
+addnl
 afenil
 affluenza
 afib
@@ -63,12 +64,13 @@ chhi-chhi
 chibs
 chikungunya
 chitra
+chloroform-d
 chlorophyll-a
 chondriome
 chypre
 cibolan
-cloacae
 clipt
+cloacae
 close-in
 coaxer
 colan
@@ -139,6 +141,7 @@ imazamox
 incognita
 influenza
 iniome
+intnl
 jambolan
 joes
 jola
@@ -219,6 +222,7 @@ parainfluenza
 parao
 parashioth
 pelasgi
+pemphix
 pharyngobranchii
 pipiwharauroa
 poleaxer
