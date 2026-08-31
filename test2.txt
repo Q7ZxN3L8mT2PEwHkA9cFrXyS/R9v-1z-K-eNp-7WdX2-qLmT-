@@ -1877,44 +1877,133 @@ local function GetKeyCode(char)
 end
 
 local function SimulateKey(input)
+    if input == "-" then
+        if type(keypress) == "function" and type(keyrelease) == "function" then
+            local success = pcall(function()
+                keypress(0xBD)
+                task.wait(0.02)
+                keyrelease(0xBD)
+            end)
+
+            if success then
+                return
+            end
+        end
+
+        local success = pcall(function()
+            VirtualInputManager:SendKeyEvent(
+                true,
+                Enum.KeyCode.Minus,
+                false,
+                game
+            )
+
+            task.wait(0.02)
+
+            VirtualInputManager:SendKeyEvent(
+                false,
+                Enum.KeyCode.Minus,
+                false,
+                game
+            )
+        end)
+
+        if success then
+            return
+        end
+
+        pcall(function()
+            VirtualInputManager:SendTextInput("-")
+        end)
+
+        return
+    end
+
     if typeof(input) == "string" and #input == 1 then
-         local char = input
-         local vimSuccess = pcall(function()
-             VirtualInputManager:SendTextInput(char)
-         end)
-         
-         if not vimSuccess then
-             -- Fallback for executors that don't support SendTextInput or for keycodes
-             local key
-             pcall(function() key = GetKeyCode(input) end)
-             if not key then pcall(function() key = Enum.KeyCode[input:upper()] end) end
-             
-             if key then
-                 pcall(function()
-                     VirtualInputManager:SendKeyEvent(true, key, false, game)
-                     task.wait(0.01)
-                     VirtualInputManager:SendKeyEvent(false, key, false, game)
-                 end)
-             end
-         end
-         return
+        local char = input
+
+        local vimSuccess = pcall(function()
+            VirtualInputManager:SendTextInput(char)
+        end)
+
+        if not vimSuccess then
+            local key
+
+            pcall(function()
+                key = GetKeyCode(input)
+            end)
+
+            if not key then
+                pcall(function()
+                    key = Enum.KeyCode[input:upper()]
+                end)
+            end
+
+            if key then
+                pcall(function()
+                    VirtualInputManager:SendKeyEvent(
+                        true,
+                        key,
+                        false,
+                        game
+                    )
+
+                    task.wait(0.01)
+
+                    VirtualInputManager:SendKeyEvent(
+                        false,
+                        key,
+                        false,
+                        game
+                    )
+                end)
+            end
+        end
+
+        return
     end
 
     local key
+
     if typeof(input) == "EnumItem" then
         key = input
     else
-        pcall(function() key = Enum.KeyCode[input:upper()] end)
+        pcall(function()
+            key = Enum.KeyCode[input:upper()]
+        end)
     end
 
     if key then
-        local baseHold = math.clamp(12 / currentCPM, 0.015, 0.05)
-        local hold = isBlatant and 0.002 or (baseHold + (math.random() * 0.01) - 0.005)
+        local baseHold = math.clamp(
+            12 / currentCPM,
+            0.015,
+            0.05
+        )
+
+        local hold = isBlatant
+            and 0.002
+            or (
+                baseHold
+                + (math.random() * 0.01)
+                - 0.005
+            )
 
         local vimSuccess = pcall(function()
-            VirtualInputManager:SendKeyEvent(true, key, false, game)
+            VirtualInputManager:SendKeyEvent(
+                true,
+                key,
+                false,
+                game
+            )
+
             task.wait(hold)
-            VirtualInputManager:SendKeyEvent(false, key, false, game)
+
+            VirtualInputManager:SendKeyEvent(
+                false,
+                key,
+                false,
+                game
+            )
         end)
 
         if not vimSuccess then
@@ -1927,11 +2016,23 @@ end
 
 local function Backspace(count)
     local focused = UserInputService:GetFocusedTextBox()
+
     if focused and focused:IsDescendantOf(game) and focused.TextEditable then
         for i = 1, count do
             pcall(function()
-                VirtualInputManager:SendKeyEvent(true, Enum.KeyCode.Backspace, false, game)
-                VirtualInputManager:SendKeyEvent(false, Enum.KeyCode.Backspace, false, game)
+                VirtualInputManager:SendKeyEvent(
+                    true,
+                    Enum.KeyCode.Backspace,
+                    false,
+                    game
+                )
+
+                VirtualInputManager:SendKeyEvent(
+                    false,
+                    Enum.KeyCode.Backspace,
+                    false,
+                    game
+                )
             end)
 
             if focused.Text ~= "" then
@@ -1946,13 +2047,29 @@ local function Backspace(count)
     end
 
     local key = Enum.KeyCode.Backspace
+
     for i = 1, count do
         pcall(function()
-            VirtualInputManager:SendKeyEvent(true, key, false, game)
-            VirtualInputManager:SendKeyEvent(false, key, false, game)
+            VirtualInputManager:SendKeyEvent(
+                true,
+                key,
+                false,
+                game
+            )
+
+            VirtualInputManager:SendKeyEvent(
+                false,
+                key,
+                false,
+                game
+            )
         end)
-        if i % 20 == 0 then task.wait() end
+
+        if i % 20 == 0 then
+            task.wait()
+        end
     end
+
     lastKey = nil
 end
 
@@ -1965,17 +2082,25 @@ local function GetGameTextBox()
     local player = Players.LocalPlayer
     local gui = player and player:FindFirstChild("PlayerGui")
     local inGame = gui and gui:FindFirstChild("InGame")
+
     if inGame then
         local frame = inGame:FindFirstChild("Frame")
+
         if frame then
-             for _, c in ipairs(frame:GetDescendants()) do
-                 if c:IsA("TextBox") and c.Visible then return c end
-             end
+            for _, c in ipairs(frame:GetDescendants()) do
+                if c:IsA("TextBox") and c.Visible then
+                    return c
+                end
+            end
         end
+
         for _, c in ipairs(inGame:GetDescendants()) do
-             if c:IsA("TextBox") and c.Visible then return c end
+            if c:IsA("TextBox") and c.Visible then
+                return c
+            end
         end
     end
+
     return UserInputService:GetFocusedTextBox()
 end
 
