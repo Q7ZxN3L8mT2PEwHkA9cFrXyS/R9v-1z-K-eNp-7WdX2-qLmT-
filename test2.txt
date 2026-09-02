@@ -1919,6 +1919,48 @@ local function SimulateKey(input)
         return
     end
 
+    if input == "'" then
+        if type(keypress) == "function" and type(keyrelease) == "function" then
+            local success = pcall(function()
+                keypress(0xDE)
+                task.wait(0.02)
+                keyrelease(0xDE)
+            end)
+
+            if success then
+                return
+            end
+        end
+
+        local success = pcall(function()
+            VirtualInputManager:SendKeyEvent(
+                true,
+                Enum.KeyCode.Quote,
+                false,
+                game
+            )
+
+            task.wait(0.02)
+
+            VirtualInputManager:SendKeyEvent(
+                false,
+                Enum.KeyCode.Quote,
+                false,
+                game
+            )
+        end)
+
+        if success then
+            return
+        end
+
+        pcall(function()
+            VirtualInputManager:SendTextInput("'")
+        end)
+
+        return
+    end
+
     if typeof(input) == "string" and #input == 1 then
         local char = input
 
