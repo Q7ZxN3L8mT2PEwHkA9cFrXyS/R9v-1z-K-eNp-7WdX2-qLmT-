@@ -51814,6 +51814,7 @@ cachucho
 cachumber
 cachumbers
 cachunde
+cachupa
 caci
 cacicus
 cacidrosis
@@ -52040,6 +52041,7 @@ caddisworms
 caddle
 caddo
 caddoan
+caddos
 caddow
 caddy
 caddying
@@ -52087,6 +52089,8 @@ cadgily
 cadginess
 cadging
 cadgy
+cadherin
+cadherins
 cadi
 cadie
 cadies
@@ -52128,7 +52132,6 @@ caduacs
 caduca
 caducary
 caducean
-caducecaducean
 caducecei
 caducei
 caduceus
@@ -52242,6 +52245,7 @@ cafeteria
 cafeterias
 cafetiere
 cafetieres
+cafetites
 cafetoria
 cafetorium
 cafetoriums
@@ -52658,6 +52662,7 @@ calcareosulphurous
 calcareous
 calcareously
 calcareousness
+calcareousnesses
 calcaria
 calcariferous
 calcariform
@@ -52828,6 +52833,8 @@ caldarium
 calden
 caldera
 calderas
+calderite
+calderites
 calderium
 calderon
 caldron
@@ -53008,8 +53015,6 @@ caliginousness
 caligo
 caligoes
 caligos
-caligrapher
-caligraphy
 caligulism
 calili
 calima
@@ -53058,6 +53063,8 @@ calite
 caliver
 calivers
 calix
+calixarene
+calixarenes
 calixes
 calixtin
 calixtus
@@ -53511,6 +53518,8 @@ calystegia
 calyx
 calyxes
 calzada
+calzirtite
+calzirtites
 calzone
 calzoneras
 calzones
@@ -53574,6 +53583,7 @@ camauro
 camauros
 camaxtli
 camay
+camazepam
 camb
 camball
 cambalo
@@ -54111,6 +54121,7 @@ canaliculated
 canaliculation
 canaliculi
 canaliculization
+canaliculodacryocystorhinostomies
 canaliculus
 canaliferous
 canaliform
@@ -54639,6 +54650,8 @@ canning
 cannings
 cannister
 cannisters
+cannizzarite
+cannizzarites
 cannoli
 cannolis
 cannon
@@ -55082,7 +55095,6 @@ capacitating
 capacitation
 capacitations
 capacitative
-capacitativly
 capacitator
 capacities
 capacitive
@@ -55629,6 +55641,8 @@ captives
 captiving
 captivities
 captivity
+captologies
+captology
 captopril
 captoprils
 captor
@@ -55861,6 +55875,7 @@ caravels
 caraway
 caraways
 carayan
+carazolol
 carb
 carbachol
 carbachols
@@ -55941,6 +55956,8 @@ carbinoxamine
 carbinyl
 carbo
 carboazotine
+carbocation
+carbocations
 carbocer
 carbocernaite
 carbocernaites
@@ -56077,6 +56094,7 @@ carbonylic
 carbonyls
 carbophilous
 carboplatin
+carboprost
 carbora
 carborane
 carboranes
@@ -56489,6 +56507,8 @@ cardiotonics
 cardiotoxic
 cardiotoxicities
 cardiotoxicity
+cardiotoxin
+cardiotoxins
 cardiotrophia
 cardiotrophotherapy
 cardiovascular
@@ -56831,6 +56851,8 @@ carloads
 carlock
 carlocks
 carlos
+carlosturanite
+carlosturanites
 carlot
 carlots
 carlovingian
@@ -56861,6 +56883,7 @@ carmellose
 carmeloite
 carmen
 carmetta
+carmichaelites
 carminate
 carminative
 carminatives
@@ -57164,6 +57187,7 @@ carphone
 carphones
 carphophis
 carphosiderite
+carphosiderites
 carpi
 carpid
 carpidium
@@ -57594,6 +57618,7 @@ carvoepra
 carvol
 carvomenthene
 carvone
+carvones
 carvy
 carvyl
 carwash
@@ -58323,6 +58348,8 @@ catalos
 catalowne
 catalpa
 catalpas
+catalpol
+catalpols
 catalufa
 catalufas
 catalyse
@@ -58949,6 +58976,7 @@ catlings
 catlinite
 catlinites
 catlins
+catloaf
 catmalison
 catmint
 catmints
@@ -59036,6 +59064,8 @@ cattery
 catti
 cattie
 cattier
+cattierite
+cattierites
 catties
 cattiest
 cattiite
@@ -59511,6 +59541,8 @@ cavina
 caving
 cavings
 cavish
+cavitand
+cavitands
 cavitary
 cavitate
 cavitated
@@ -59639,6 +59671,7 @@ ceboids
 cebollite
 cebollites
 cebu
+cebuano
 cebur
 cebus
 ceca
@@ -60842,6 +60875,7 @@ ceratophyllaceous
 ceratophyllum
 ceratophyta
 ceratophyte
+ceratophytes
 ceratops
 ceratopses
 ceratopsia
@@ -61284,6 +61318,8 @@ cervulus
 cervus
 ceryl
 cerynean
+cesanite
+cesanites
 cesar
 cesare
 cesarean
@@ -61747,15 +61783,20 @@ chaitra
 chaitya
 chaityas
 chaja
+chajchas
 chaka
 chakalaka
 chakalakas
+chakana
+chakanas
+chakapuli
 chakar
 chakari
 chakavski
 chakazi
 chakchouka
 chakdar
+chakhokhbili
 chakobu
 chakra
 chakram
@@ -61821,6 +61862,8 @@ chalcites
 chalcoalumite
 chalcocite
 chalcocites
+chalcocyanite
+chalcocyanites
 chalcogen
 chalcogenide
 chalcogenides
@@ -62036,6 +62079,8 @@ chambermaids
 chamberpot
 chamberpots
 chambers
+chambersite
+chambersites
 chambertin
 chamberwoman
 chambioa
@@ -62265,6 +62310,7 @@ chanfron
 chanfrons
 chang
 changa
+changaa
 changable
 changar
 changdao
@@ -62956,6 +63002,7 @@ chartulary
 chartulas
 charuk
 charvaka
+charvakas
 charver
 charvers
 charvet
@@ -62975,6 +63022,9 @@ chaser
 chasers
 chases
 chashitsu
+chashu
+chashus
+chashushuli
 chasid
 chasidim
 chasing
@@ -63346,6 +63396,8 @@ cheatrie
 cheatry
 cheats
 chebacco
+chebakia
+chebakias
 chebec
 chebeck
 chebecs
@@ -63872,6 +63924,7 @@ chemitypy
 chemizo
 chemmies
 chemmy
+chemnitz
 chemo
 chemoattractant
 chemoautotroph
@@ -64055,6 +64108,8 @@ chenica
 chenier
 chenille
 chenilles
+chenite
+chenites
 chenix
 chenixes
 chennai
@@ -64242,6 +64297,8 @@ chesterbed
 chesterfield
 chesterfieldian
 chesterfields
+chesterite
+chesterites
 chesterlite
 chestful
 chestfuls
@@ -64384,6 +64441,7 @@ chhata
 chhatas
 chhatri
 chhatris
+chhattisgarhi
 chhena
 chhertum
 chhindwara
@@ -65051,6 +65109,10 @@ chiniks
 chinin
 chining
 chiniofon
+chinita
+chinitas
+chinito
+chinitos
 chinkapin
 chinkapins
 chinkara
@@ -65198,6 +65260,7 @@ chiquest
 chiquichiqui
 chiquichiquis
 chiquitan
+chiquitano
 chiquito
 chiragra
 chiragras
@@ -65786,6 +65849,7 @@ chlorohydrin
 chlorohydrins
 chlorohydrocarbon
 chlorohydroquinone
+chlorohydroxyquinolines
 chloroid
 chloroiodide
 chloroiodomethane
@@ -65800,6 +65864,8 @@ chlorometer
 chlorometers
 chloromethane
 chloromethanes
+chloromethylated
+chloromethylation
 chloromethylations
 chloromethylketone
 chloromethylketones
@@ -65809,6 +65875,8 @@ chlorometry
 chloromycetin
 chloronaphthalene
 chloronitrate
+chloronitrobenzene
+chloronitrobenzenes
 chloronium
 chloroniums
 chloropal
@@ -65818,6 +65886,7 @@ chlorophaeite
 chlorophaeites
 chlorophane
 chlorophenol
+chlorophenols
 chlorophenothane
 chlorophoenicite
 chlorophora
@@ -65872,6 +65941,8 @@ chlorothiazide
 chlorothiazides
 chlorotic
 chlorotically
+chlorotoluene
+chlorotoluenes
 chlorotrifluoroethylene
 chlorotrifluoromethane
 chlorotrifluoromethanes
@@ -66083,6 +66154,7 @@ cholane
 cholangiocarcinogeneses
 cholangiocarcinogenesis
 cholangiocarcinoma
+cholangiocholecystocholedochectomies
 cholangiogram
 cholangiograms
 cholangiographic
@@ -67001,6 +67073,8 @@ christophanies
 christophany
 christophe
 christopher
+christophine
+christophines
 christos
 christs
 christward
@@ -67043,6 +67117,8 @@ chromatism
 chromatisms
 chromatist
 chromatists
+chromatite
+chromatites
 chromatium
 chromatize
 chromatocyte
@@ -67428,6 +67504,7 @@ chroococcoid
 chroococcus
 chrosperma
 chrotta
+chru
 chry
 chrysal
 chrysalid
@@ -67653,6 +67730,7 @@ chughole
 chuhai
 chuhais
 chuhra
+chuj
 chuje
 chukar
 chukars
@@ -67671,6 +67749,7 @@ chullo
 chullpa
 chulpa
 chultun
+chulym
 chum
 chumar
 chumash
@@ -67800,6 +67879,7 @@ churchism
 churchisms
 churchite
 churchites
+churchkhela
 churchless
 churchlet
 churchlier
@@ -68140,6 +68220,7 @@ ciclatons
 ciclatoun
 ciclatouns
 ciclesonide
+ciclopirox
 ciclosporin
 ciclosporins
 cicone
@@ -68314,6 +68395,8 @@ cimnel
 cimolite
 cimolites
 cinacalcet
+cinaciguat
+cinanserin
 cincalok
 cincau
 cinch
@@ -68533,7 +68616,12 @@ cinnarizines
 cinnolin
 cinnoline
 cinnyl
+cinobufagin
+cinobufagins
+cinobufotalin
+cinobufotalins
 cinofoil
+cinoxacin
 cinq
 cinqs
 cinquain
@@ -69215,6 +69303,7 @@ cithren
 cithrens
 citicism
 citicisms
+citicoline
 citicorp
 citied
 cities
@@ -69537,6 +69626,7 @@ cladosporia
 cladosporium
 cladothrix
 cladrastis
+cladribine
 clads
 cladus
 claes
@@ -69578,6 +69668,7 @@ claire
 clairecole
 clairecolle
 claires
+clairites
 clairschach
 clairschacher
 clairschachs
@@ -70066,6 +70157,8 @@ claudicant
 claudicate
 claudication
 claudications
+claudin
+claudins
 claudio
 claudius
 claught
@@ -70442,7 +70535,6 @@ clemastines
 clematis
 clematises
 clematite
-clemclemalats
 clemence
 clemencies
 clemency
@@ -70529,6 +70621,8 @@ clerihew
 clerihews
 clerisies
 clerisy
+clerite
+clerites
 clerk
 clerkage
 clerkdom
@@ -70847,6 +70941,8 @@ clinkstones
 clinkum
 clinoaxes
 clinoaxis
+clinobisvanite
+clinobisvanites
 clinocephalic
 clinocephalism
 clinocephalisms
@@ -70861,6 +70957,8 @@ clinodiagonal
 clinodiagonals
 clinodomatic
 clinodome
+clinoenstatite
+clinoenstatites
 clinoferrosilite
 clinoferrosilites
 clinograph
@@ -70899,6 +70997,8 @@ clinorhombic
 clinospore
 clinostat
 clinostats
+clinotobermorite
+clinotobermorites
 clinozoisite
 clinozoisites
 clinquant
@@ -71218,6 +71318,7 @@ cloky
 clomb
 clomben
 clomethiazole
+clomifene
 clomiphene
 clomiphenes
 clomipramine
@@ -71270,6 +71371,7 @@ cloot
 clootie
 cloots
 clop
+clopen
 clopidogrel
 clopped
 clopping
@@ -71279,6 +71381,7 @@ cloques
 cloragen
 clorargyrite
 clorazepate
+clorgiline
 clorinator
 cloriodid
 clos
@@ -71380,6 +71483,7 @@ clotho
 cloths
 clothworker
 clothy
+clotiazepam
 clotpoll
 clotpolls
 clotrimazole
@@ -71510,6 +71614,8 @@ clowring
 clows
 cloxacillin
 cloxacillins
+cloxazolam
+cloxyquins
 cloy
 cloye
 cloyed
@@ -72297,6 +72403,8 @@ cobaltite
 cobaltites
 cobaltocyanic
 cobaltocyanide
+cobaltomenite
+cobaltomenites
 cobaltous
 cobalts
 cobang
@@ -73471,7 +73579,6 @@ coevolutionary
 coevolutions
 coevolve
 coevolved
-coevolvedcoevolves
 coevolves
 coevolving
 coexchangeable
@@ -74247,6 +74354,7 @@ colera
 coles
 coleseed
 coleseeds
+colesevelam
 coleslaw
 coleslaws
 colessee
@@ -75512,6 +75620,7 @@ combustibilities
 combustibility
 combustible
 combustibleness
+combustiblenesses
 combustibles
 combustibly
 combusting
@@ -77442,7 +77551,6 @@ concertmistress
 concerto
 concertos
 concerts
-concertstck
 concertstuck
 concertstucks
 concessible
@@ -77570,7 +77678,6 @@ concionary
 concionate
 concionator
 concionatory
-conciousness
 concipiencies
 concipiency
 concipient
@@ -79007,6 +79114,8 @@ conners
 connes
 connex
 connexes
+connexin
+connexins
 connexion
 connexional
 connexionalism
@@ -79122,6 +79231,8 @@ conoscente
 conoscenti
 conoscope
 conoscopic
+conotoxin
+conotoxins
 conourish
 conoy
 conphaseolin
@@ -81119,6 +81230,8 @@ conycatcher
 conyger
 conylene
 conynge
+conyo
+conyos
 conyrin
 conyrine
 conyza
@@ -81660,8 +81773,10 @@ coprahs
 copras
 coprecipitate
 coprecipitated
+coprecipitates
 coprecipitating
 coprecipitation
+coprecipitations
 copremia
 copremias
 copremic
@@ -81934,7 +82049,6 @@ coracomorph
 coracomorphae
 coracomorphic
 coracopectoral
-coracoprocoracoid
 coracoradialis
 coracoscapular
 coracosteon
@@ -81999,6 +82113,8 @@ coran
 coranach
 coranachs
 corance
+corannulene
+corannulenes
 coranoch
 coranto
 corantoes
@@ -82475,6 +82591,8 @@ cornetfish
 cornetfishes
 cornetist
 cornetists
+cornetite
+cornetites
 cornets
 cornett
 cornette
@@ -83283,7 +83401,6 @@ corvinas
 corvine
 corviser
 corvisor
-corvktte
 corvo
 corvoid
 corvorant
@@ -83337,6 +83454,8 @@ corymbose
 corymbosely
 corymbous
 corymbs
+corynanthine
+corynanthines
 corynebacteria
 corynebacterial
 corynebacterium
@@ -83679,6 +83798,7 @@ costally
 costals
 costander
 costanoan
+costanoans
 costar
 costard
 costardmonger
@@ -85097,6 +85217,9 @@ counterturn
 counterturned
 countertype
 countertypes
+counterurbanisation
+counterurbanisations
+counterurbanization
 countervail
 countervailable
 countervailed
@@ -88092,7 +88215,6 @@ crossbarred
 crossbarring
 crossbarrings
 crossbars
-crossbbred
 crossbeak
 crossbeam
 crossbeams
@@ -88387,6 +88509,7 @@ crouth
 crouton
 croutons
 crouts
+crovalimab
 crow
 crowbait
 crowbaits
@@ -89152,8 +89275,12 @@ cryptonyms
 cryptopapist
 cryptoperthite
 cryptophagidae
+cryptophane
+cryptophanes
 cryptophthalmos
 cryptophyceae
+cryptophycin
+cryptophycins
 cryptophyte
 cryptophytes
 cryptophytic
@@ -89583,6 +89710,8 @@ cucurbital
 cucurbite
 cucurbitine
 cucurbits
+cucurbituril
+cucurbiturils
 cucuy
 cucuyo
 cud
@@ -90193,7 +90322,6 @@ cupferron
 cupferrons
 cupflower
 cupful
-cupfulfuls
 cupfuls
 cupgall
 cupgalls
@@ -90440,6 +90568,7 @@ curer
 curers
 cures
 curet
+curetonites
 curets
 curettage
 curettages
@@ -91189,6 +91318,7 @@ cuvies
 cuvy
 cuya
 cuyas
+cuyonon
 cuz
 cuzceno
 cuzes
@@ -91525,7 +91655,10 @@ cyclecar
 cyclecars
 cycled
 cycledom
+cyclen
 cyclene
+cyclenes
+cyclens
 cyclepath
 cyclepaths
 cycler
@@ -91596,20 +91729,31 @@ cycloaromatisation
 cycloaromatisations
 cycloaromatization
 cycloaromatizations
+cycloartane
+cycloartanes
 cycloartanol
 cycloartanols
 cycloartenol
 cycloartenols
+cyclobarbital
 cyclobarbitone
 cyclobarbitones
 cyclobenzaprine
 cyclobenzaprines
 cyclobothra
+cyclobutadiene
+cyclobutadienes
 cyclobutane
 cyclocephaly
 cyclocoelic
 cyclocoelous
+cyclocomputer
+cyclocomputers
+cyclocondensation
+cyclocondensations
 cycloconium
+cycloconverter
+cycloconverters
 cyclocross
 cyclocryopexies
 cyclode
@@ -91625,6 +91769,8 @@ cyclodiolefin
 cyclodiolefine
 cyclododecanone
 cyclododecanones
+cycloeucalenol
+cycloeucalenols
 cycloganoid
 cycloganoidei
 cyclogeneses
@@ -91710,6 +91856,8 @@ cyclonometer
 cyclonoscope
 cyclooctadiene
 cyclooctadienes
+cyclooctatetraene
+cyclooctatetraenes
 cycloolefin
 cycloolefine
 cycloolefinic
@@ -91760,6 +91908,8 @@ cyclophoric
 cyclophorus
 cyclophosphamide
 cyclophosphamides
+cyclophosphazene
+cyclophosphazenes
 cyclophotocoagulation
 cyclophotocoagulations
 cyclophrenia
@@ -91868,6 +92018,8 @@ cyclotrimerization
 cyclotrimerizations
 cyclotrimethylenetrinitramine
 cyclotrimethylenetrinitramines
+cyclotriveratrylene
+cyclotriveratrylenes
 cyclotron
 cyclotrons
 cyclovertebral
@@ -91927,7 +92079,6 @@ cylindrocellular
 cylindrocephalic
 cylindroconical
 cylindroconoidal
-cylindrocylindric
 cylindrodendrite
 cylindrograph
 cylindroid
@@ -92243,9 +92394,12 @@ cyrillaceous
 cyrillian
 cyrillianism
 cyrillic
+cyrilovite
+cyrilovites
 cyriologic
 cyriological
 cyroablation
+cyromazine
 cyrtandraceae
 cyrtidae
 cyrtoceracone
@@ -92575,6 +92729,7 @@ cytopharynx
 cytopharynxes
 cytophil
 cytophilic
+cytophosphane
 cytophotometric
 cytophotometries
 cytophotometry
@@ -130552,6 +130707,8 @@ eserines
 eses
 esexual
 esguard
+eshay
+eshays
 eshin
 esile
 esiles
@@ -133312,6 +133469,7 @@ ewaldite
 ewaldites
 ewder
 ewe
+ewedu
 ewelease
 ewenki
 ewer
@@ -244664,7 +244822,7 @@ mpox
 mpoxes
 mpret
 mprets
-mpumalanga (+)
+mpumalanga
 mrem
 mridamgam
 mridamgams
@@ -264744,6 +264902,10 @@ nystatin
 nystatins
 nytril
 nyxis
+nzadi
+nzakambay
+nzakara
+nzanyi
 nzema
 nzima
 oad
@@ -267173,8 +267335,8 @@ ohing
 ohio
 ohioan
 ohioans
-ohlone (+)
-ohlones (+)
+ohlone
+ohlones
 ohm
 ohmage
 ohmages
@@ -420338,18 +420500,15 @@ tsutsutsi
 tswa
 tswana
 tswanas
-tt
 ttakji
 ttakjis
 tteok
 tteokbokki
 tteokbokkis
-tteokgalbi
 tteokgalbis
 tteokguk
 tteokguks
 tteoks
-ttv
 ttyl
 tu
 tua
@@ -447984,6 +448143,7 @@ ushership
 usherships
 ushtrasana
 ushtrasanas
+ushuaia
 usine
 using
 usings
@@ -448427,7 +448587,7 @@ vaagmar
 vaagmer
 vaalite
 vaalpens
-vaborbactam (+)
+vaborbactam
 vac
 vacabond
 vacance
@@ -463971,7 +464131,6 @@ wyver
 wyvern
 wyverns
 xalostockite
-xalostockite (×)
 xalwo
 xalwos
 xamoterol
