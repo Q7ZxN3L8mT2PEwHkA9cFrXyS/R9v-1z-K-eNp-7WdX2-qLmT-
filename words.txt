@@ -96427,6 +96427,7 @@ da
 daal
 daalder
 daals
+daasanach
 dab
 dabb
 dabba
@@ -96450,6 +96451,7 @@ dabblings
 dabby
 dabchick
 dabchicks
+dabigatran
 dabih
 dabitis
 dablet
@@ -96490,6 +96492,7 @@ dackering
 dackers
 dacking
 dacks
+daclatasvir
 daclizumab
 dacoit
 dacoitage
@@ -96686,6 +96689,10 @@ daemonian
 daemonic
 daemonies
 daemonistic
+daemonological
+daemonologies
+daemonologist
+daemonologists
 daemonology
 daemonosaurus
 daemonosauruses
@@ -96696,6 +96703,7 @@ daemony
 daer
 daes
 daeva
+daevas
 daff
 daffadillies
 daffadilly
@@ -97383,6 +97391,7 @@ dandyling
 dandyprat
 dandyprats
 dane
+dane-zaa
 daneball
 danebrog
 daneflower
@@ -97480,6 +97489,7 @@ dannie
 dannies
 dannock
 danny
+danofloxacin
 danoranja
 dans
 dansak
@@ -97780,6 +97790,7 @@ darring
 darryl
 darshan
 darshana
+darshanas
 darshans
 darsonval
 darsonvalism
@@ -97890,6 +97901,7 @@ dassent
 dassie
 dassies
 dassy
+dastar
 dastard
 dastardies
 dastardize
@@ -97902,6 +97914,7 @@ dastardness
 dastardnesses
 dastards
 dastardy
+dastars
 dastur
 dasturi
 daswen
@@ -98199,6 +98212,8 @@ davis
 davit
 davits
 davoch
+davul
+davuls
 davy
 davyne
 davynes
@@ -98415,6 +98430,7 @@ dayworkers
 dayworks
 daywrit
 daza
+dazaga
 dazao
 daze
 dazed
@@ -98454,6 +98470,7 @@ ddname
 ddt
 dduk
 ddukbokki
+de
 de-air
 de-aired
 de-airing
@@ -98464,6 +98481,16 @@ de-alcoholised
 de-alcoholization
 de-alcoholizations
 de-alcoholized
+de-anonymisation
+de-anonymisations
+de-anonymise
+de-anonymised
+de-anonymising
+de-anonymization
+de-anonymizations
+de-anonymize
+de-anonymized
+de-anonymizing
 de-ba'athification
 de-ba'athifications
 de-baathification
@@ -98531,6 +98558,8 @@ de-escalators
 de-escalatory
 de-esterification
 de-esterifications
+de-identification
+de-identifications
 de-industrialisations
 de-industrialise
 de-industrialised
@@ -98587,6 +98616,8 @@ deaccession
 deaccessioned
 deaccessioning
 deaccessions
+deacetylase
+deacetylases
 deacetylate
 deacetylated
 deacetylating
@@ -98868,6 +98899,16 @@ deanery
 deaness
 deanimalize
 deaning
+deanonymisation
+deanonymisations
+deanonymise
+deanonymised
+deanonymising
+deanonymization
+deanonymizations
+deanonymize
+deanonymized
+deanonymizing
 deans
 deanship
 deanships
@@ -99002,6 +99043,14 @@ deattributed
 deattributes
 deattributing
 deaurate
+deauthenticate
+deauthentication
+deauthentications
+deauthorization
+deauthorizations
+deauthorize
+deauthorized
+deauthorizing
 deave
 deaved
 deavely
@@ -99097,7 +99146,6 @@ debbier
 debbies
 debbiest
 debby
-debcle
 debe
 debeak
 debeaked
@@ -99602,6 +99650,7 @@ decasyllable
 decasyllables
 decasyllabon
 decate
+decathect
 decathexes
 decathlete
 decathletes
@@ -100872,6 +100921,8 @@ deerhorn
 deerhorns
 deerhound
 deerhounds
+deerite
+deerites
 deerkill
 deerlet
 deerlets
@@ -100928,6 +100979,7 @@ defacers
 defaces
 defacing
 defacingly
+defactinib
 defacto
 defade
 defaecate
@@ -101112,7 +101164,9 @@ defensibility
 defensible
 defensibleness
 defensibly
+defensin
 defensing
+defensins
 defension
 defensive
 defensively
@@ -101785,6 +101839,8 @@ dehonestate
 dehonestation
 dehook
 dehooked
+dehooker
+dehookers
 dehooking
 dehooks
 dehorn
@@ -101902,6 +101958,7 @@ dehypnotized
 dehypnotizes
 dehypnotizing
 dei
+dei-naoero
 deia
 deicate
 deice
@@ -101919,6 +101976,10 @@ deictically
 deictics
 deid
 deidealize
+deidentification
+deidentifications
+deidentified
+deidentify
 deider
 deidesheimer
 deidest
@@ -102078,6 +102139,7 @@ dejeuner
 dejeuners
 dejeunes
 dejunkerize
+dek
 dekabrist
 dekadarchy
 dekadrachm
@@ -102114,6 +102176,7 @@ dekle
 deknight
 dekopon
 dekopons
+deks
 del
 delabialization
 delabialize
@@ -102514,6 +102577,7 @@ delope
 deloped
 delopes
 deloping
+delorazepam
 delos
 deloul
 delouse
@@ -102556,6 +102620,8 @@ delsartian
 delt
 delta
 delta-sarcoglycanopathy
+delta-v
+delta-vs
 deltadromeus
 deltafication
 deltahedra
@@ -102721,7 +102787,6 @@ demarcating
 demarcation
 demarcations
 demarcator
-demarcatordemarcators
 demarcators
 demarcature
 demarch
@@ -102854,6 +102919,8 @@ demethylate
 demethylation
 demethylchlortetracycline
 demethylchlortetracyclines
+demethylwedelolactone
+demethylwedelolactones
 demethylzeylasteral
 demethylzeylasterals
 demeton
@@ -103550,6 +103617,7 @@ denationalize
 denationalized
 denationalizes
 denationalizing
+denatonium
 denaturalisation
 denaturalise
 denaturalised
@@ -103850,6 +103918,8 @@ densely
 densen
 denseness
 densenesses
+densenet
+densenets
 denser
 densest
 denshare
@@ -104076,6 +104146,13 @@ deny
 denyer
 denying
 denyingly
+deobfuscate
+deobfuscates
+deobfuscating
+deobfuscation
+deobfuscations
+deobfuscator
+deobfuscators
 deobstruct
 deobstruent
 deobstruents
@@ -105355,6 +105432,8 @@ derride
 derriere
 derrieres
 derries
+derring-do
+derring-dos
 derringer
 derringers
 derris
@@ -105890,6 +105969,8 @@ desmodus
 desmodynia
 desmogen
 desmogenous
+desmoglein
+desmogleins
 desmognathae
 desmognathism
 desmognathous
@@ -106775,6 +106856,12 @@ detur
 deturb
 deturn
 deturpate
+deubiquitinase
+deubiquitinases
+deubiquitinate
+deubiquitinated
+deubiquitinates
+deubiquitinating
 deucalion
 deuce
 deuced
@@ -106787,6 +106874,10 @@ deuddarns
 deul
 deunam
 deuniting
+deurbanisation
+deurbanisations
+deurbanization
+deurbanizations
 deurbanize
 deurmekaar
 deurwaarder
@@ -106956,6 +107047,7 @@ devein
 deveined
 deveining
 deveins
+devekut
 devel
 develed
 develin
@@ -107306,6 +107398,8 @@ dewfull
 dewier
 dewiest
 dewily
+dewindtite
+dewindtites
 dewiness
 dewinesses
 dewing
@@ -107435,6 +107529,7 @@ dextroses
 dextrosinistral
 dextrosinistrally
 dextrosuria
+dextrosursumversions
 dextrotartaric
 dextrotropic
 dextrotropous
@@ -107528,6 +107623,8 @@ dhobie
 dhobies
 dhobis
 dhoby
+dhokla
+dhoklas
 dhol
 dholak
 dholaks
@@ -107536,6 +107633,7 @@ dholes
 dholl
 dholls
 dhols
+dholuo
 dhoney
 dhoni
 dhooley
@@ -107575,12 +107673,19 @@ dhurries
 dhurry
 dhuti
 dhutis
+dhuwal
 dhyal
 dhyana
 dhyanas
 di
+di-n-acetylchitobiose
+di-n-acetylchitobioses
 di-n-butylamine
 di-n-butylamines
+di-n-propylamine
+di-n-propylamines
+di-ubiquitin
+di-ubiquitins
 dia
 diabantite
 diabase
@@ -107606,6 +107711,7 @@ diables
 diablo
 diabloceratops
 diabloceratopses
+diablos
 diablotin
 diabolarch
 diabolarchy
@@ -107864,6 +107970,7 @@ diakonika
 diakonikon
 dial
 dial-up
+dial-ups
 dialcohol
 dialdehyde
 dialect
@@ -108521,6 +108628,7 @@ dibromide
 dibromides
 dibromoacetaldehyde
 dibromobenzene
+dibromobenzenes
 dibrugarh
 dibs
 dibstone
@@ -108529,6 +108637,8 @@ dibucaine
 dibutyl
 dibutylamine
 dibutylamines
+dibutylnitrosamine
+dibutylnitrosamines
 dibutyltin
 dibutyltins
 dibutyrate
@@ -108634,10 +108744,14 @@ dichlorodiphenyltrichloroethane
 dichlorodiphenyltrichloroethanes
 dichloroethane
 dichloroethanes
+dichlorofluoromethane
+dichlorofluoromethanes
 dichlorohydrin
 dichloromethane
 dichloromethanes
 dichlorphenamide
+dichlorprop-p
+dichlorprop-ps
 dichlorvos
 dichlorvoses
 dichocarpism
@@ -108766,6 +108880,7 @@ dickty
 dicky
 dickybird
 dickybirds
+diclazepam
 diclesium
 diclidantheraceae
 diclinic
@@ -108958,6 +109073,7 @@ didakais
 didakei
 didakeis
 didal
+didanosine
 didapper
 didappers
 didascalar
@@ -109007,6 +109123,8 @@ didelphis
 didelphoid
 didelphous
 didelphyidae
+didemnin
+didemnins
 dideoxynucleotide
 dideoxynucleotides
 dideoxyribonucleotide
@@ -109041,6 +109159,8 @@ didodecahedron
 didoes
 didonia
 didos
+didot
+didots
 didrachm
 didrachma
 didrachmal
@@ -109095,6 +109215,8 @@ die-forging
 die-hard
 die-hardism
 die-hardisms
+die-in
+die-ins
 die-off
 die-offs
 dieb
@@ -109154,6 +109276,7 @@ diereses
 dieresis
 dieretic
 dieri
+diers
 diervilla
 dies
 diesel
@@ -109227,6 +109350,8 @@ diethylenetriaminepentaacetate
 diethylenetriaminepentaacetates
 diethylethanolamine
 diethylmalonylurea
+diethylnitrosamine
+diethylnitrosamines
 diethylpropion
 diethyls
 diethylstilbestrol
@@ -109415,6 +109540,8 @@ difs
 difunctional
 difunctionals
 dig
+digalactosyldiacylglycerol
+digalactosyldiacylglycerols
 digallate
 digallic
 digametic
@@ -109724,6 +109851,9 @@ dihydroxytoluene
 dihysteria
 diiamb
 diiambus
+diimidazole
+diimide
+diimides
 diimine
 diimines
 diindenoperylene
@@ -109768,6 +109898,7 @@ diisopropylfluorophosphates
 diisopropylphosphorofluoridate
 diisopropylphosphorofluoridates
 diisopropyls
+dijon
 dijudicant
 dijudicate
 dijudicated
@@ -109963,6 +110094,7 @@ dilong
 dilophosaurus
 dilophosauruses
 dilos
+diloxanide
 dilscoop
 dilscoops
 diltiazem
@@ -110038,6 +110170,8 @@ dime
 dimed
 dimedon
 dimedone
+dimedones
+dimedons
 dimenhydrinate
 dimenhydrinates
 dimensible
@@ -110084,6 +110218,8 @@ dimes
 dimetallic
 dimeter
 dimeters
+dimethenamid-p
+dimethenamid-ps
 dimethicone
 dimethoate
 dimethoates
@@ -110115,6 +110251,7 @@ dimethyldichlorosilanes
 dimethyldiethoxysilane
 dimethyldiethoxysilanes
 dimethyldiketone
+dimethyldioctadecylammoniums
 dimethyldisulfide
 dimethyldisulfides
 dimethyldisulphide
@@ -110177,7 +110314,6 @@ diminishes
 diminishing
 diminishingly
 diminishings
-diminishingturns
 diminishment
 diminishments
 diminue
@@ -110550,12 +110686,14 @@ diolefin
 diolefine
 diolefinic
 diolefins
+dioleoyl
 dioleoylphosphatidylcholine
 dioleoylphosphatidylcholines
 dioleoylphosphatidylethanolamine
 dioleoylphosphatidylethanolamines
 dioleoylphosphatidylglycerol
 dioleoylphosphatidylglycerols
+dioleoyls
 diols
 diomate
 diomedea
@@ -110636,6 +110774,8 @@ diose
 diosgenin
 diosgenins
 diosma
+diosmectite
+diosmectites
 diosmin
 diosmose
 diosmosed
@@ -110660,6 +110800,7 @@ dioti
 diotic
 diotocardia
 diotrephes
+dioula
 diovular
 dioxan
 dioxane
@@ -110758,6 +110899,8 @@ diphones
 diphonia
 diphosgene
 diphosgenes
+diphosphatase
+diphosphatases
 diphosphate
 diphosphates
 diphosphatidylglycerol
@@ -110827,6 +110970,7 @@ diphyzooid
 dipicrate
 dipicrylamin
 dipicrylamine
+dipivefrin
 dipl
 diplacanthidae
 diplacanthus
@@ -111185,7 +111329,6 @@ direct-to-product
 direct-to-video
 directable
 directcarving
-directdiscourse
 directed
 directedness
 directednesses
@@ -112007,6 +112150,8 @@ discocarpous
 discocephalous
 discodactyl
 discodactylous
+discodermolide
+discodermolides
 discoed
 discoer
 discoers
@@ -112829,7 +112974,6 @@ disestablishmentarianisms
 disestablishmentarians
 disestablishments
 disestablismentarian
-disestablismentarianism
 disesteem
 disesteemed
 disesteemer
@@ -113129,6 +113273,7 @@ disheritment
 disheritor
 disheritors
 disherits
+dishers
 dishes
 dishevel
 disheveled
@@ -114017,7 +114162,6 @@ dispersedelement
 dispersedly
 dispersedness
 dispersednesses
-dispersedye
 dispersement
 disperser
 dispersers
@@ -114064,6 +114208,8 @@ displace
 displaceability
 displaceable
 displaced
+displacee
+displacees
 displacement
 displacements
 displacency
@@ -115415,6 +115561,8 @@ dithionic
 dithionite
 dithionites
 dithionous
+dithiothreitol
+dithiothreitols
 dithymol
 dithyramb
 dithyrambic
@@ -115483,6 +115631,8 @@ dittos
 ditts
 ditty
 dittying
+dityrosine
+dityrosines
 ditz
 ditzes
 ditzier
@@ -115881,6 +116031,8 @@ dizenment
 dizenments
 dizens
 dizi
+dizin
+dizinc
 dizoic
 dizygotic
 dizygous
@@ -115941,12 +116093,14 @@ djins
 djong
 djongs
 djs
+djugun
 djuka
 djurleite
 djurleites
 dlc
 dlcs
 dlr
+dluwang
 dlvy
 dm
 dming
@@ -115980,6 +116134,8 @@ do-over
 do-overs
 do-rag
 do-rags
+do-re-mi
+do-re-mis
 do-si-do
 do-si-doed
 do-si-doing
@@ -116300,11 +116456,15 @@ dodecahedrons
 dodecahydrate
 dodecahydrated
 dodecamerous
+dodecamethylcyclohexasiloxane
+dodecamethylcyclohexasiloxanes
 dodecanal
 dodecandrous
 dodecane
 dodecanesian
 dodecanoic
+dodecanol
+dodecanols
 dodecant
 dodecapartite
 dodecapetalous
@@ -117605,6 +117765,7 @@ dorado
 dorados
 dorads
 doralium
+doramectin
 doraphobia
 dorask
 doraskean
@@ -117646,6 +117807,7 @@ doridoid
 doridoids
 dories
 dorine
+doripenem
 dorippid
 doris
 dorise
@@ -117722,6 +117884,8 @@ dorr
 dorrbeetle
 dorred
 dorring
+dorrite
+dorrites
 dorrs
 dors
 dorsa
@@ -117910,6 +118074,7 @@ dost
 dostarlimab
 dostoevskian
 dostoevsky
+dostoyevskian
 dot
 dot-com
 dot-coms
@@ -118072,6 +118237,8 @@ double-jointed
 double-jointedness
 double-jointednesses
 double-minded
+double-o
+double-os
 double-park
 double-parked
 double-parking
@@ -118465,10 +118632,13 @@ down-and-out
 down-and-outer
 down-and-outers
 down-and-outs
+down-at-heel
+down-at-the-heel
 down-ballot
 down-bow
 down-bows
 down-faced
+down-home
 down-low
 down-lows
 down-market
@@ -118709,6 +118879,7 @@ downtroddenness
 downturn
 downturned
 downturns
+downvalley
 downvote
 downvoted
 downvotes
@@ -118799,6 +118970,7 @@ doxycycline
 doxycyclines
 doxylamine
 doy
+doyayo
 doyen
 doyenne
 doyennes
@@ -119279,6 +119451,7 @@ dravidosauruses
 dravite
 dravites
 dravya
+dravyas
 draw
 drawability
 drawable
@@ -119412,6 +119585,8 @@ dreamboat
 dreamboats
 dreamcatcher
 dreamcatchers
+dreamcore
+dreamcores
 dreamed
 dreamer
 dreameries
@@ -120105,6 +120280,8 @@ dropt
 droptop
 droptops
 dropvie
+dropwing
+dropwings
 dropwise
 dropworm
 dropwort
@@ -120402,6 +120579,7 @@ druxiest
 druxiness
 druxy
 druze
+druzes
 dry
 dry-ash
 dry-clean
@@ -120658,6 +120836,7 @@ dubrovnik
 dubs
 dubstep
 dubsteps
+dubujjigae
 duc
 ducal
 ducally
@@ -120904,6 +121083,7 @@ duffs
 duffy
 dufoil
 dufrenite
+dufrenites
 dufrenoysite
 dufrenoysites
 dufter
@@ -121123,6 +121303,8 @@ dumbfounders
 dumbfounding
 dumbfoundment
 dumbfounds
+dumbfuck
+dumbfucks
 dumbhead
 dumbheaded
 dumbheads
@@ -121731,7 +121913,6 @@ duskily
 duskiness
 duskinesses
 dusking
-duskingtide
 duskish
 duskishly
 duskishness
@@ -121746,6 +121927,7 @@ dusserah
 dussertite
 dussertites
 dust
+dust-up
 dustball
 dustballs
 dustband
@@ -121840,6 +122022,7 @@ duttonite
 duttonites
 dutuburi
 duty
+duty-bound
 dutymonger
 duumvir
 duumviral
@@ -121856,7 +122039,9 @@ duvetyn
 duvetyne
 duvetynes
 duvetyns
+duwal
 duwende
+duwendes
 dux
 duxelles
 duxes
@@ -121955,6 +122140,7 @@ dyak
 dyakisdodecahedron
 dyakish
 dyaks
+dyan
 dyarchal
 dyarchic
 dyarchical
@@ -122111,6 +122297,8 @@ dynein
 dyneins
 dynel
 dynels
+dynemicin
+dynemicins
 dynes
 dyno
 dyno'd
@@ -122183,6 +122371,8 @@ dysbulic
 dyscalculia
 dyscalculias
 dyschiria
+dyschondroplasia
+dyschondroplasias
 dyschroa
 dyschroas
 dyschroia
@@ -122223,6 +122413,7 @@ dysfunctioning
 dysfunctions
 dysgammaglobulinaemia
 dysgammaglobulinaemias
+dysgammaglobulinemia
 dysgammaglobulinemias
 dysgeneses
 dysgenesic
@@ -122388,6 +122579,13 @@ dysprosia
 dysprosium
 dysprosiums
 dysraphia
+dysraphism
+dysraphisms
+dysregulate
+dysregulates
+dysregulating
+dysregulation
+dysregulations
 dysrhythmia
 dysrhythmias
 dysrhythmic
@@ -122458,6 +122656,7 @@ dyvour
 dyvouries
 dyvours
 dyvoury
+dzala
 dzeren
 dzerens
 dzerin
