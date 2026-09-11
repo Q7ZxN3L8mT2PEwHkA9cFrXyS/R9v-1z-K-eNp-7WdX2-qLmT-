@@ -1,0 +1,1284 @@
+local url = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/words.txt"
+
+local Words = {}
+local WordSet = {}
+local loaded = false
+local WordDictionary = {}
+local searchCache = {}
+local cacheSize = 0
+local MAX_CACHE = 200
+local currentPage = 1
+local wordsPerPage = 50
+local autoTypeEnabled = false
+local UsedWords = {}
+local autoTypeTarget = nil
+local autoTypeRunning = false
+local autoTypeGeneration = 0
+local sortMode = "Random"
+local KillerMap1 = {}
+local KillerMap2 = {}
+local KillerMap3 = {}
+
+local killerUrl1 = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/modern_2.1.txt"
+local killerUrl2 = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/modern_2.txt"
+local killerUrl3 = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/old.txt"
+
+pcall(function()
+    local res = request({Url = killerUrl1, Method = "GET"})
+    if res and res.Success and res.Body then
+        for w in res.Body:gmatch("[^\r\n]+") do
+            KillerMap1[w:lower()] = true
+        end
+    end
+end)
+
+pcall(function()
+    local res = request({Url = killerUrl2, Method = "GET"})
+    if res and res.Success and res.Body then
+        for w in res.Body:gmatch("[^\r\n]+") do
+            KillerMap2[w:lower()] = true
+        end
+    end
+end)
+
+pcall(function()
+    local res = request({Url = killerUrl3, Method = "GET"})
+    if res and res.Success and res.Body then
+        for w in res.Body:gmatch("[^\r\n]+") do
+            KillerMap3[w:lower()] = true
+        end
+    end
+end)
+
+local function LoadWords()
+    if loaded then return end
+    pcall(function()
+        local res = request({Url = url, Method = "GET"})
+        if res and res.Success and res.Body then
+            for w in res.Body:gmatch("[^\r\n]+") do
+                local wordLower = w:lower()
+                table.insert(Words, wordLower)
+                WordSet[wordLower] = true
+                local firstLetter = wordLower:sub(1,1)
+
+                if not WordDictionary[firstLetter] then
+                    WordDictionary[firstLetter] = {}
+                end
+
+                table.insert(WordDictionary[firstLetter], wordLower)
+            end
+
+            table.sort(Words)
+
+            for _, list in pairs(WordDictionary) do
+                table.sort(list)
+            end
+
+            loaded = true
+        end
+    end)
+end
+
+task.spawn(LoadWords)
+
+local function shuffle(t)
+    for i = #t, 2, -1 do
+        local j = math.random(i)
+        t[i], t[j] = t[j], t[i]
+    end
+end
+
+local function formatWord(word, prefix, index)
+    local prefixLen = #prefix
+    local firstPart = word:sub(1, prefixLen)
+    local restPart = word:sub(prefixLen + 1)
+
+    local prefixColor
+
+    if index == 1 then
+        prefixColor = "0,255,0"
+    elseif index == 2 then
+        prefixColor = "255,255,0"
+    else
+        prefixColor = "255,0,0"
+    end
+
+    return string.format(
+        '<font color="rgb(%s)">%s</font>%s',
+        prefixColor,
+        firstPart,
+        restPart
+    )
+end
+
+local function SuggestWords(input, count)
+    if not loaded then
+        return {"loading words...", "please wait"}
+    end
+
+    if #Words == 0 then
+        return {"no words available", "check connection"}
+    end
+
+    input = input:lower()
+
+    local cacheKey = input.."_"..count.."_"..sortMode
+
+    if sortMode ~= "Random" and sortMode ~= "Killer" and searchCache[cacheKey] then
+        return searchCache[cacheKey]
+    end
+
+    local results = {}
+    local firstLetter = input:sub(1,1)
+    local wordList = WordDictionary[firstLetter] or Words
+    local possible = {}
+
+    for i = 1, #wordList do
+        local word = wordList[i]
+
+        if word:sub(1,#input) == input then
+            table.insert(possible, word)
+        end
+    end
+
+    if sortMode == "Shortest" then
+
+        table.sort(possible, function(a,b)
+            return #a < #b
+        end)
+
+    elseif sortMode == "Longest" then
+
+        table.sort(possible, function(a,b)
+            return #a > #b
+        end)
+
+    elseif sortMode == "Random" then
+
+        shuffle(possible)
+
+    elseif sortMode == "Killer" then
+
+        local link1Words = {}
+        local link2Words = {}
+        local link3Words = {}
+        local normalWords = {}
+
+        for i = 1,#possible do
+            local word = possible[i]
+
+            if KillerMap1[word] then
+                table.insert(link1Words, word)
+
+            elseif KillerMap2[word] then
+                table.insert(link2Words, word)
+
+            elseif KillerMap3[word] then
+                table.insert(link3Words, word)
+
+            else
+                table.insert(normalWords, word)
+            end
+        end
+
+        shuffle(link1Words)
+        shuffle(link2Words)
+        shuffle(link3Words)
+        shuffle(normalWords)
+
+        possible = {}
+
+        local limit = count
+
+        local target1 = math.floor(limit * 0.50)
+        local target2 = math.floor(limit * 0.30)
+        local target3 = math.floor(limit * 0.20)
+
+        local function append(source, amount)
+            for i = 1, math.min(amount, #source) do
+                table.insert(possible, source[i])
+            end
+        end
+
+        append(link1Words, target1)
+        append(link2Words, target2)
+        append(link3Words, target3)
+
+        for i = 1,#normalWords do
+            table.insert(possible, normalWords[i])
+        end
+    end
+
+    local maxResults = math.min(count,#possible)
+
+    for i = 1,maxResults do
+        table.insert(results, possible[i])
+    end
+
+    if sortMode ~= "Random" and sortMode ~= "Killer" then
+        if not searchCache[cacheKey] then
+            cacheSize += 1
+        end
+
+        searchCache[cacheKey] = results
+
+        if cacheSize > MAX_CACHE then
+            searchCache = {}
+            cacheSize = 0
+        end
+    end
+
+    return results
+end
+
+local Players = game:GetService("Players")
+local player = Players.LocalPlayer
+
+local a = Instance.new("ScreenGui")
+a.Name = "WordSuggestor"
+a.ResetOnSpawn = false
+a.Parent = player:WaitForChild("PlayerGui")
+
+local b = Instance.new("Frame", a)
+local UserInputService = game:GetService("UserInputService")
+
+local guiVisible = true
+
+local playerGui = player:WaitForChild("PlayerGui")
+
+local gui = playerGui:FindFirstChild("CtrlButtonGui")
+if not gui then
+    gui = Instance.new("ScreenGui")
+    gui.Name = "CtrlButtonGui"
+    gui.ResetOnSpawn = false
+    gui.Parent = playerGui
+end
+
+local hitbox = gui:FindFirstChild("CtrlHitbox")
+
+if not hitbox then
+    hitbox = Instance.new("TextButton")
+    hitbox.Name = "CtrlHitbox"
+    hitbox.Parent = gui
+end
+
+hitbox.Size = UDim2.new(0, 40, 0, 40)
+hitbox.Position = UDim2.new(0, 10, 0.5, -20)
+hitbox.BackgroundTransparency = 1
+hitbox.Text = ""
+hitbox.BorderSizePixel = 0
+hitbox.AutoButtonColor = false
+
+local dot = hitbox:FindFirstChild("Dot")
+
+if not dot then
+    dot = Instance.new("Frame")
+    dot.Name = "Dot"
+    dot.Parent = hitbox
+end
+
+dot.Size = UDim2.new(0, 6, 0, 6)
+dot.Position = UDim2.new(0.5, 0, 0.5, 0)
+dot.AnchorPoint = Vector2.new(0.5, 0.5)
+dot.BackgroundColor3 = Color3.fromRGB(200, 200, 200)
+dot.BackgroundTransparency = 1
+dot.BorderSizePixel = 0
+
+local corner = dot:FindFirstChildOfClass("UICorner")
+if not corner then
+    corner = Instance.new("UICorner")
+    corner.Parent = dot
+end
+corner.CornerRadius = UDim.new(1, 0)
+
+local stroke = dot:FindFirstChildOfClass("UIStroke")
+if not stroke then
+    stroke = Instance.new("UIStroke")
+    stroke.Parent = dot
+end
+
+stroke.Thickness = 1
+stroke.Color = Color3.fromRGB(255, 255, 255)
+stroke.Transparency = 1
+
+UserInputService.InputBegan:Connect(function(input, gameProcessed)
+    if gameProcessed then return end
+    
+    if input.KeyCode == Enum.KeyCode.LeftControl or input.KeyCode == Enum.KeyCode.RightControl then
+        guiVisible = not guiVisible
+        a.Enabled = guiVisible
+    end
+end)
+
+hitbox.MouseButton1Click:Connect(function()
+    guiVisible = not guiVisible
+    a.Enabled = guiVisible
+end)
+
+b.Size = UDim2.new(0,250,0,450)
+b.Position = UDim2.new(0,80,0,100)
+b.BackgroundColor3 = Color3.fromRGB(30,30,30)
+b.BorderSizePixel = 0
+b.Active = true
+b.Draggable = false
+Instance.new("UICorner",b).CornerRadius=UDim.new(0,8)
+Instance.new("UIStroke",b).Thickness=1.5
+
+local contentFrame = Instance.new("Frame", b)
+contentFrame.Size = UDim2.new(1,0,1,0)
+contentFrame.Position = UDim2.new(0,0,0,0)
+contentFrame.BackgroundTransparency = 1
+
+local title = Instance.new("TextLabel",b)
+title.Size=UDim2.new(1,-10,0,25)
+title.Position=UDim2.new(0,10,0,5)
+title.BackgroundTransparency=1
+title.Text="Word Finder V3.5"
+title.TextColor3=Color3.fromRGB(255,255,255)
+title.Font=Enum.Font.GothamBold
+title.TextSize=14
+title.TextXAlignment=Enum.TextXAlignment.Left
+
+local draggingGui = false
+local dragStart
+local startPosition
+local dragInput
+
+local function UpdateGuiDrag(input)
+    local delta = input.Position - dragStart
+
+    b.Position = UDim2.new(
+        startPosition.X.Scale,
+        startPosition.X.Offset + delta.X,
+        startPosition.Y.Scale,
+        startPosition.Y.Offset + delta.Y
+    )
+end
+
+title.InputBegan:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1
+    or input.UserInputType == Enum.UserInputType.Touch then
+
+        draggingGui = true
+        dragStart = input.Position
+        startPosition = b.Position
+
+        input.Changed:Connect(function()
+            if input.UserInputState == Enum.UserInputState.End then
+                draggingGui = false
+            end
+        end)
+    end
+end)
+
+title.InputChanged:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseMovement
+    or input.UserInputType == Enum.UserInputType.Touch then
+        dragInput = input
+    end
+end)
+
+UserInputService.InputChanged:Connect(function(input)
+    if input == dragInput and draggingGui then
+        UpdateGuiDrag(input)
+    end
+end)
+
+local minimizeButton = Instance.new("TextButton", b)
+minimizeButton.Size = UDim2.new(0,25,0,25)
+minimizeButton.Position = UDim2.new(1, -60, 0, 5)
+minimizeButton.Text = "-"
+minimizeButton.Font = Enum.Font.GothamBold
+minimizeButton.TextSize = 18
+minimizeButton.BackgroundColor3 = Color3.fromRGB(60,60,60)
+minimizeButton.TextColor3 = Color3.fromRGB(255,255,255)
+Instance.new("UICorner", minimizeButton).CornerRadius = UDim.new(0,4)
+minimizeButton.ZIndex = 3
+
+local closeButton = Instance.new("TextButton", b)
+closeButton.Size = UDim2.new(0,25,0,25)
+closeButton.Position = UDim2.new(1, -30, 0, 5)
+closeButton.Text = "X"
+closeButton.Font = Enum.Font.GothamBold
+closeButton.TextSize = 18
+closeButton.BackgroundColor3 = Color3.fromRGB(60,60,60)
+closeButton.TextColor3 = Color3.fromRGB(255,255,255)
+Instance.new("UICorner", closeButton).CornerRadius = UDim.new(0,4)
+closeButton.ZIndex = 3
+
+local minimized = false
+local fullSize = b.Size
+local minimizedSize = UDim2.new(0,250,0,35)
+
+minimizeButton.MouseButton1Click:Connect(function()
+    minimized = not minimized
+    contentFrame.Visible = not minimized
+    if minimized then
+        b.Size = minimizedSize
+    else
+        b.Size = fullSize
+    end
+end)
+
+closeButton.MouseButton1Click:Connect(function()
+    a:Destroy()
+end)
+
+local prefixLabel = Instance.new("TextLabel", contentFrame)
+prefixLabel.Size = UDim2.new(1,-10,0,25)
+prefixLabel.Position = UDim2.new(0,5,0,35)
+prefixLabel.BackgroundTransparency = 1
+prefixLabel.Text = "Prefix: -"
+prefixLabel.TextColor3 = Color3.fromRGB(255,255,255)
+prefixLabel.Font = Enum.Font.GothamBold
+prefixLabel.TextSize = 13
+prefixLabel.TextXAlignment = Enum.TextXAlignment.Center
+prefixLabel.TextWrapped = false
+
+local sortFrame = Instance.new("Frame", contentFrame)
+sortFrame.Size=UDim2.new(1,-20,0,30)
+sortFrame.Position=UDim2.new(0,10,0,60)
+sortFrame.BackgroundColor3=Color3.fromRGB(40,40,40)
+sortFrame.BorderSizePixel=0
+Instance.new("UICorner",sortFrame).CornerRadius=UDim.new(0,6)
+
+local sortButton = Instance.new("TextButton",sortFrame)
+sortButton.Size=UDim2.new(1,0,1,0)
+sortButton.BackgroundColor3=Color3.fromRGB(60,60,60)
+sortButton.TextColor3=Color3.fromRGB(255,255,255)
+sortButton.Text="Sort Mode: Random"
+sortButton.Font=Enum.Font.Gotham
+sortButton.TextSize=11
+Instance.new("UICorner",sortButton).CornerRadius=UDim.new(0,4)
+
+local sortModes = {"Shortest", "Longest", "Random", "Killer"}
+local currentSortIndex = 3
+
+sortButton.MouseButton1Click:Connect(function()
+    currentSortIndex = currentSortIndex + 1
+    if currentSortIndex > #sortModes then
+        currentSortIndex = 1
+    end
+    
+    sortMode = sortModes[currentSortIndex]
+    sortButton.Text = "Sort Mode: "..sortMode
+    currentPage = 1
+    searchCache = {}
+    
+    if h and h.Parent and h.Text ~= "" then
+        UpdateSuggestions()
+    end
+end)
+
+local function MarkWordUsed(word)
+    if word and word ~= "" then
+        UsedWords[word:lower()] = true
+    end
+end
+
+local function RewindUsedWords()
+    UsedWords = {}
+    autoTypeTarget = nil
+
+    if h and h.Parent and h.Text ~= "" then
+        UpdateSuggestions(false)
+    end
+end
+
+local h = Instance.new("TextBox", contentFrame)
+h.Text = ""
+h.PlaceholderText="Type letters..."
+h.Size=UDim2.new(1,-20,0,30)
+h.Position=UDim2.new(0,10,0,100)
+h.BackgroundColor3=Color3.fromRGB(50,50,50)
+h.TextColor3=Color3.fromRGB(255,255,255)
+h.ClearTextOnFocus=false
+h.Font=Enum.Font.Gotham
+h.TextSize=14
+h.TextXAlignment=Enum.TextXAlignment.Center
+Instance.new("UICorner",h).CornerRadius=UDim.new(0,6)
+
+local list = Instance.new("ScrollingFrame", contentFrame)
+list.Size=UDim2.new(1,-20,0,200)
+list.Position=UDim2.new(0,10,0,140)
+list.BackgroundTransparency=1
+list.ScrollBarThickness=6
+list.CanvasSize=UDim2.new(0,0,0,0)
+list.AutomaticCanvasSize=Enum.AutomaticSize.Y
+
+local uiList = Instance.new("UIListLayout",list)
+uiList.Padding=UDim.new(0,2)
+uiList.SortOrder=Enum.SortOrder.LayoutOrder
+
+local pageFrame = Instance.new("Frame", contentFrame)
+pageFrame.Size = UDim2.new(1, -20, 0, 55)
+pageFrame.Position = UDim2.new(0, 10, 0, 350)
+pageFrame.BackgroundTransparency = 1
+
+local prevButton = Instance.new("TextButton", pageFrame)
+prevButton.Size = UDim2.new(0.25, -2, 0, 30)
+prevButton.Position = UDim2.new(0, 0, 0, 0)
+prevButton.BackgroundColor3 = Color3.fromRGB(80,80,80)
+prevButton.TextColor3 = Color3.fromRGB(255,255,255)
+prevButton.Text = "< Prev"
+prevButton.Font = Enum.Font.Gotham
+prevButton.TextSize = 12
+prevButton.BorderSizePixel = 0
+Instance.new("UICorner", prevButton).CornerRadius = UDim.new(0,4)
+
+local pageLabel = Instance.new("TextLabel", pageFrame)
+pageLabel.Size = UDim2.new(0.5, 0, 0, 30)
+pageLabel.Position = UDim2.new(0.25, 0, 0, 0)
+pageLabel.BackgroundTransparency = 1
+pageLabel.Text = "Page 1/1"
+pageLabel.TextColor3 = Color3.fromRGB(255,255,255)
+pageLabel.Font = Enum.Font.Gotham
+pageLabel.TextSize = 12
+pageLabel.TextXAlignment = Enum.TextXAlignment.Center
+
+local nextButton = Instance.new("TextButton", pageFrame)
+nextButton.Size = UDim2.new(0.25, -2, 0, 30)
+nextButton.Position = UDim2.new(0.75, 2, 0, 0)
+nextButton.BackgroundColor3 = Color3.fromRGB(80,80,80)
+nextButton.TextColor3 = Color3.fromRGB(255,255,255)
+nextButton.Text = "Next >"
+nextButton.Font = Enum.Font.Gotham
+nextButton.TextSize = 12
+nextButton.BorderSizePixel = 0
+Instance.new("UICorner", nextButton).CornerRadius = UDim.new(0,4)
+
+local statusLabel = Instance.new("TextLabel", pageFrame)
+statusLabel.Size = UDim2.new(1, 0, 0, 20)
+statusLabel.Position = UDim2.new(0, 0, 0, 32)
+statusLabel.BackgroundTransparency = 1
+statusLabel.TextColor3 = Color3.fromRGB(80,150,255)
+statusLabel.Font = Enum.Font.GothamBold
+statusLabel.TextSize = 10
+statusLabel.TextXAlignment = Enum.TextXAlignment.Center
+statusLabel.Text = "Loading Words..."
+
+local MIN_WPM = 100
+local MAX_WPM = 2000
+local currentWPM = 100
+
+local autoTypeOpen = false
+
+local autoTypeFrame = Instance.new("Frame", contentFrame)
+autoTypeFrame.Size = UDim2.new(1, -20, 0, 70)
+autoTypeFrame.Position = UDim2.new(0, 10, 0, 405)
+autoTypeFrame.BackgroundTransparency = 1
+autoTypeFrame.ClipsDescendants = false
+
+local autoTypeArrow = Instance.new("TextButton", autoTypeFrame)
+autoTypeArrow.Size = UDim2.new(1, 0, 0, 30)
+autoTypeArrow.Position = UDim2.new(0, 0, 0, 0)
+autoTypeArrow.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+autoTypeArrow.TextColor3 = Color3.fromRGB(255, 255, 255)
+autoTypeArrow.Font = Enum.Font.GothamBold
+autoTypeArrow.TextSize = 13
+autoTypeArrow.Text = "Auto Type  ▼"
+autoTypeArrow.BorderSizePixel = 0
+
+Instance.new("UICorner", autoTypeArrow).CornerRadius = UDim.new(0, 6)
+
+local autoTypePanel = Instance.new("Frame", contentFrame)
+autoTypePanel.Size = UDim2.new(1, -20, 0, 115)
+autoTypePanel.Position = UDim2.new(0, 10, 0, 440)
+autoTypePanel.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+autoTypePanel.BorderSizePixel = 0
+autoTypePanel.Visible = false
+autoTypePanel.ZIndex = 5
+
+Instance.new("UICorner", autoTypePanel).CornerRadius = UDim.new(0, 6)
+Instance.new("UIStroke", autoTypePanel).Thickness = 1
+
+local wpmLabel = Instance.new("TextLabel", autoTypePanel)
+wpmLabel.Size = UDim2.new(1, 0, 0, 20)
+wpmLabel.Position = UDim2.new(0, 0, 0, 5)
+wpmLabel.BackgroundTransparency = 1
+wpmLabel.Text = "Auto Type Speed: 100 WPM"
+wpmLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+wpmLabel.Font = Enum.Font.GothamBold
+wpmLabel.TextSize = 12
+wpmLabel.TextXAlignment = Enum.TextXAlignment.Center
+wpmLabel.ZIndex = 6
+
+local slider = Instance.new("Frame", autoTypePanel)
+slider.Size = UDim2.new(1, -40, 0, 8)
+slider.Position = UDim2.new(0, 20, 0, 32)
+slider.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+slider.BorderSizePixel = 0
+slider.ZIndex = 6
+
+Instance.new("UICorner", slider).CornerRadius = UDim.new(1, 0)
+
+local sliderFill = Instance.new("Frame", slider)
+sliderFill.Size = UDim2.new(0, 0, 1, 0)
+sliderFill.BackgroundColor3 = Color3.fromRGB(80, 150, 255)
+sliderFill.BorderSizePixel = 0
+sliderFill.ZIndex = 7
+
+Instance.new("UICorner", sliderFill).CornerRadius = UDim.new(1, 0)
+
+local knob = Instance.new("TextButton", slider)
+knob.Size = UDim2.new(0, 18, 0, 18)
+knob.AnchorPoint = Vector2.new(0.5, 0.5)
+knob.Position = UDim2.new(0, 0, 0.5, 0)
+knob.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+knob.Text = ""
+knob.BorderSizePixel = 0
+knob.AutoButtonColor = false
+knob.ZIndex = 8
+
+Instance.new("UICorner", knob).CornerRadius = UDim.new(1, 0)
+
+local minLabel = Instance.new("TextLabel", autoTypePanel)
+minLabel.Size = UDim2.new(0, 50, 0, 15)
+minLabel.Position = UDim2.new(0, 20, 0, 47)
+minLabel.BackgroundTransparency = 1
+minLabel.Text = "100"
+minLabel.TextColor3 = Color3.fromRGB(170, 170, 170)
+minLabel.Font = Enum.Font.Gotham
+minLabel.TextSize = 10
+minLabel.TextXAlignment = Enum.TextXAlignment.Left
+minLabel.ZIndex = 6
+
+local maxLabel = Instance.new("TextLabel", autoTypePanel)
+maxLabel.Size = UDim2.new(0, 50, 0, 15)
+maxLabel.Position = UDim2.new(1, -70, 0, 47)
+maxLabel.BackgroundTransparency = 1
+maxLabel.Text = "2000"
+maxLabel.TextColor3 = Color3.fromRGB(170, 170, 170)
+maxLabel.Font = Enum.Font.Gotham
+maxLabel.TextSize = 10
+maxLabel.TextXAlignment = Enum.TextXAlignment.Right
+maxLabel.ZIndex = 6
+
+local autoTypeButton = Instance.new("TextButton", autoTypePanel)
+autoTypeButton.Size = UDim2.new(1, -20, 0, 28)
+autoTypeButton.Position = UDim2.new(0, 10, 0, 78)
+autoTypeButton.BackgroundColor3 = Color3.fromRGB(70, 70, 70)
+autoTypeButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+autoTypeButton.Font = Enum.Font.GothamBold
+autoTypeButton.TextSize = 12
+autoTypeButton.Text = "Auto Type: OFF"
+autoTypeButton.BorderSizePixel = 0
+autoTypeButton.ZIndex = 6
+
+Instance.new("UICorner", autoTypeButton).CornerRadius = UDim.new(0, 6)
+
+local function UpdateWPM(percent)
+    percent = math.clamp(percent, 0, 1)
+
+    currentWPM = math.floor(
+        MIN_WPM + (MAX_WPM - MIN_WPM) * percent
+    )
+
+    wpmLabel.Text = "Auto Type Speed: " .. currentWPM .. " WPM"
+    sliderFill.Size = UDim2.new(percent, 0, 1, 0)
+    knob.Position = UDim2.new(percent, 0, 0.5, 0)
+end
+
+UpdateWPM(0)
+
+local dragging = false
+local guiDragging = true
+
+local function SetSliderFromInput(position)
+    local sliderX = slider.AbsolutePosition.X
+    local sliderWidth = slider.AbsoluteSize.X
+
+    if sliderWidth <= 0 then
+        return
+    end
+
+    local percent = (position.X - sliderX) / sliderWidth
+    UpdateWPM(percent)
+end
+
+knob.InputBegan:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1
+    or input.UserInputType == Enum.UserInputType.Touch then
+        guiDragging = false
+        dragging = true
+    end
+end)
+
+slider.InputBegan:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1
+    or input.UserInputType == Enum.UserInputType.Touch then
+        guiDragging = false
+        dragging = true
+        SetSliderFromInput(input.Position)
+    end
+end)
+
+UserInputService.InputChanged:Connect(function(input)
+    if dragging then
+        if input.UserInputType == Enum.UserInputType.MouseMovement
+        or input.UserInputType == Enum.UserInputType.Touch then
+            SetSliderFromInput(input.Position)
+        end
+    end
+end)
+
+UserInputService.InputEnded:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1
+    or input.UserInputType == Enum.UserInputType.Touch then
+        dragging = false
+        guiDragging = true
+    end
+end)
+
+autoTypeArrow.MouseButton1Click:Connect(function()
+    autoTypeOpen = not autoTypeOpen
+
+    if autoTypeOpen then
+        autoTypePanel.Visible = true
+        autoTypeArrow.Text = "Auto Type  ▲"
+        autoTypePanel.Position = UDim2.new(0, 10, 0, 285)
+    else
+        autoTypePanel.Visible = false
+        autoTypeArrow.Text = "Auto Type  ▼"
+    end
+end)
+
+autoTypeButton.MouseButton1Click:Connect(function()
+    autoTypeEnabled = not autoTypeEnabled
+    autoTypeGeneration += 1
+
+    if autoTypeEnabled then
+        autoTypeButton.Text = "Auto Type: ON"
+        autoTypeButton.BackgroundColor3 = Color3.fromRGB(60, 130, 80)
+
+        autoTypeRunning = false
+
+        local prefix = detectPrefix()
+
+        if prefix and prefix ~= "" then
+            local target = GetAutoTypeTarget(prefix)
+
+            if target then
+                autoTypeTarget = target
+            end
+        end
+    else
+        autoTypeButton.Text = "Auto Type: OFF"
+        autoTypeButton.BackgroundColor3 = Color3.fromRGB(70, 70, 70)
+
+        autoTypeTarget = nil
+        autoTypeRunning = false
+    end
+end)
+
+local function ClearSuggestions()
+    for _, child in ipairs(list:GetChildren()) do
+        if child:IsA("TextButton") or child:IsA("TextLabel") then
+            child:Destroy()
+        end
+    end
+end
+
+local currentResults = {}
+
+function UpdateSuggestions(fromTyping)
+    if not loaded then return end
+    if not h then return end
+    local text = h.Text or ""
+
+    if fromTyping then
+        currentPage = 1
+        if #text < 1 then
+            ClearSuggestions()
+            pageLabel.Text = "Page 0/0"
+            prevButton.Visible = false
+            nextButton.Visible = false
+            return
+        end
+        currentResults = SuggestWords(text, 1000)
+        if autoTypeEnabled and #currentResults > 0 then
+            autoTypeTarget = currentResults[1]
+        else
+            autoTypeTarget = nil
+        end
+    end
+
+    ClearSuggestions()
+
+    local totalPages = math.max(1, math.ceil(#currentResults/wordsPerPage))
+    if currentPage > totalPages then currentPage = totalPages end
+    if currentPage < 1 then currentPage = 1 end
+
+    pageLabel.Text = "Page "..currentPage.."/"..totalPages
+    prevButton.Visible = currentPage > 1
+    nextButton.Visible = currentPage < totalPages
+
+    local startIndex = (currentPage-1)*wordsPerPage + 1
+    local endIndex = math.min(currentPage*wordsPerPage, #currentResults)
+    for i=startIndex,endIndex do
+        local word = currentResults[i]
+        local btn = Instance.new("TextButton", list)
+        btn.Size = UDim2.new(1,0,0,22)
+        btn.BackgroundColor3 = Color3.fromRGB(45,45,45)
+        btn.TextColor3 = Color3.fromRGB(255,255,255)
+        btn.Font = Enum.Font.GothamBold
+        btn.TextSize = 12
+        btn.RichText = true
+        local displayWord = formatWord(
+            word,
+            h.Text:lower(),
+            i - startIndex + 1
+        )
+
+        if UsedWords[word] then
+            displayWord = displayWord .. " (already used)"
+        end
+
+btn.Text = displayWord
+        btn.AutoButtonColor = true
+        Instance.new("UICorner", btn).CornerRadius = UDim.new(0,4)
+        btn.Selectable = false
+        btn.MouseButton1Click:Connect(function()
+            h.Text = word
+            UpdateSuggestions(true)
+        end)
+    end
+end
+
+local typingId = 0
+
+h:GetPropertyChangedSignal("Text"):Connect(function()
+    typingId += 1
+    local currentId = typingId
+
+    task.wait(0.1)
+
+    if currentId ~= typingId then
+        return
+    end
+
+    if h and h.Parent then
+        UpdateSuggestions(true)
+    end
+end)
+
+prevButton.MouseButton1Click:Connect(function()
+    if currentPage > 1 then
+        currentPage = currentPage - 1
+        UpdateSuggestions(false)
+    end
+end)
+
+nextButton.MouseButton1Click:Connect(function()
+    local totalPages = math.max(1, math.ceil(#currentResults/wordsPerPage))
+    if currentPage < totalPages then
+        currentPage = currentPage + 1
+        UpdateSuggestions(false)
+    end
+end)
+
+task.spawn(function()
+    while not loaded do task.wait(0.1) end
+
+    statusLabel.Text = "Words Loaded Successfully!"
+    statusLabel.TextColor3 = Color3.fromRGB(80,150,255)
+    statusLabel.Font = Enum.Font.GothamBold
+    statusLabel.TextSize = 10
+    statusLabel.Position = UDim2.new(0, 0, 1, -5)
+
+    statusLabel.Visible = true
+    
+    task.wait(5)
+    
+    statusLabel.Visible = false
+
+    if h and h.Parent and h.Text ~= "" then
+        UpdateSuggestions()
+    end
+end)
+
+local LocalPlayer = Players.LocalPlayer
+local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
+
+local currentWordGui = nil
+
+task.spawn(function()
+    while not currentWordGui do
+        currentWordGui = PlayerGui:FindFirstChild("CurrentWord", true)
+        task.wait(1)
+    end
+end)
+
+local function detectPrefix()
+    if currentWordGui and currentWordGui.Parent then
+        local obj = currentWordGui
+        local letters = {}
+
+        for _, child in ipairs(obj:GetChildren()) do
+            if child and child:IsA("GuiObject") and child.Visible then
+                local letterLabel = child:FindFirstChild("Letter")
+
+                if letterLabel and letterLabel:IsA("TextLabel") then
+                    table.insert(letters, {
+                        letterLabel.Text,
+                        child.AbsolutePosition.X
+                    })
+                end
+            end
+        end
+
+        table.sort(letters, function(a, b)
+            return a[2] < b[2]
+        end)
+
+        local result = ""
+
+        for i = 1, #letters do
+            result = result .. letters[i][1]
+        end
+
+        return string.lower(result)
+    end
+
+    if not currentWordGui or not currentWordGui.Parent then
+        currentWordGui = PlayerGui:FindFirstChild("CurrentWord", true)
+    end
+
+    return ""
+end
+
+local function UpdatePrefixSuggestions(prefix)
+    if prefix == "" then return end
+    ClearSuggestions()
+
+    local suggestions = SuggestWords(prefix, 50)
+    for i = 1, #suggestions do
+        local button = Instance.new("TextButton", list)
+        button.Size = UDim2.new(1, 0, 0, 22)
+        button.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+        button.TextColor3 = Color3.fromRGB(255, 255, 255)
+        button.Font = Enum.Font.GothamBold
+        button.TextSize = 12
+        button.RichText = true
+        local word = suggestions[i]
+
+        local displayWord = formatWord(word, prefix, i)
+
+        if UsedWords[word] then
+            displayWord = displayWord .. " (already used)"
+        end
+
+        button.Text = displayWord
+        
+        button.AutoButtonColor = true
+        Instance.new("UICorner", button).CornerRadius = UDim.new(0, 4)
+        button.Selectable = false
+        button.Active = false
+    end
+end
+
+local lastPrefix = ""
+
+task.spawn(function()
+    while true do
+        local prefix = detectPrefix()
+
+        if string.find(prefix, "%.%.%.") or string.find(prefix, "#+") then
+            prefixLabel.Text = "Prefix: ..."
+            prefixLabel.TextColor3 = Color3.fromRGB(255, 255, 0)
+            task.wait(0.25)
+        else
+        
+            local currentPrefix = prefix
+
+            if currentPrefix ~= lastPrefix then
+                lastPrefix = currentPrefix
+
+                if h.Text == "" then
+                    ClearSuggestions()
+                end
+
+                if currentPrefix ~= "" then
+                    prefixLabel.Text = "Prefix: " .. currentPrefix
+
+                    if WordSet[currentPrefix] then
+                        prefixLabel.TextColor3 = Color3.fromRGB(0, 255, 0)
+                    else
+                        prefixLabel.TextColor3 = Color3.fromRGB(255, 0, 0)
+                    end
+
+                    UpdatePrefixSuggestions(currentPrefix)
+                else
+                    prefixLabel.Text = "Prefix: -"
+                    prefixLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+                end
+            end
+        end
+
+        task.wait(0.1)
+    end
+end)
+
+local function GetAutoTypeTarget(prefix)
+if not prefix or prefix == "" then
+return nil
+end
+
+prefix = prefix:lower()
+
+local firstLetter = prefix:sub(1, 1)
+local bucket = WordDictionary[firstLetter] or Words
+
+if not bucket then
+    return nil
+end
+
+local candidates = {}
+
+for i = 1, #bucket do
+    local word = bucket[i]
+
+    if word:sub(1, #prefix) == prefix
+    and #word > #prefix
+    and not UsedWords[word] then
+        table.insert(candidates, word)
+    end
+end
+
+if #candidates == 0 then
+    return nil
+end
+
+return candidates[math.random(1, #candidates)]
+
+end
+
+local VirtualInputManager = game:GetService("VirtualInputManager")
+
+local function SendCharacter(char)
+    if not char or char == "" then
+        return
+    end
+
+    char = char:lower()
+
+    if char == "-" or char:match("^[a-z]$") then
+        local success = pcall(function()
+            VirtualInputManager:SendTextInput(char)
+        end)
+
+        if success then
+            return
+        end
+
+        if char == "-" then
+            if type(keypress) == "function" then
+                keypress(0xBD)
+                task.wait(0.02)
+
+                if type(keyrelease) == "function" then
+                    keyrelease(0xBD)
+                end
+            end
+            return
+        end
+
+        local keyCode = Enum.KeyCode[string.upper(char)]
+
+        if keyCode and type(keypress) == "function" then
+            local keyMap = {
+                a = 0x41, b = 0x42, c = 0x43,
+                d = 0x44, e = 0x45, f = 0x46,
+                g = 0x47, h = 0x48, i = 0x49,
+                j = 0x4A, k = 0x4B, l = 0x4C,
+                m = 0x4D, n = 0x4E, o = 0x4F,
+                p = 0x50, q = 0x51, r = 0x52,
+                s = 0x53, t = 0x54, u = 0x55,
+                v = 0x56, w = 0x57, x = 0x58,
+                y = 0x59, z = 0x5A
+            }
+
+            local code = keyMap[char]
+
+            if code then
+                keypress(code)
+                task.wait(0.02)
+
+                if type(keyrelease) == "function" then
+                    keyrelease(code)
+                end
+            end
+        end
+
+        return
+    end
+
+    pcall(function()
+        VirtualInputManager:SendTextInput(char)
+    end)
+end
+
+local function GetCharacterDelay()
+    -- Standard WPM calculation:
+    -- 1 word = 5 characters
+    -- seconds per character = 60 / (WPM * 5)
+
+    return 60 / (currentWPM * 5)
+end
+
+local function AutoTypeWord(word, startingPrefix, generation)
+    if not word or word == "" then
+        return false
+    end
+
+    if not autoTypeEnabled then
+        return false
+    end
+
+    if generation ~= autoTypeGeneration then
+        return false
+    end
+
+    word = word:lower()
+    startingPrefix = startingPrefix:lower()
+
+    if word:sub(1, #startingPrefix) ~= startingPrefix then
+        return false
+    end
+
+    local remaining = word:sub(#startingPrefix + 1)
+
+    for i = 1, #remaining do
+        if not autoTypeEnabled then
+            return false
+        end
+
+        if generation ~= autoTypeGeneration then
+            return false
+        end
+
+        local currentPrefix = detectPrefix():lower()
+        local expectedPrefix = word:sub(1, #startingPrefix + i - 1)
+
+        if currentPrefix ~= startingPrefix
+        and currentPrefix ~= expectedPrefix then
+            return false
+        end
+
+        SendCharacter(remaining:sub(i, i))
+
+        task.wait(GetCharacterDelay())
+    end
+
+    local checkTimeout = 0
+
+    while autoTypeEnabled
+    and generation == autoTypeGeneration
+    and checkTimeout < 20 do
+
+        local finalPrefix = detectPrefix():lower()
+
+        if finalPrefix == word then
+            break
+        end
+
+        task.wait(0.05)
+        checkTimeout += 1
+    end
+
+    if detectPrefix():lower() ~= word then
+        return false
+    end
+
+    if type(keypress) == "function" then
+        keypress(0x0D)
+        task.wait(0.02)
+
+        if type(keyrelease) == "function" then
+            keyrelease(0x0D)
+        end
+    else
+        VirtualInputManager:SendKeyEvent(
+            true,
+            Enum.KeyCode.Return,
+            false,
+            game
+        )
+
+        task.wait(0.02)
+
+        VirtualInputManager:SendKeyEvent(
+            false,
+            Enum.KeyCode.Return,
+            false,
+            game
+        )
+    end
+
+    task.wait(0.25)
+
+    return true
+end
+
+task.spawn(function()
+    while true do
+        if autoTypeEnabled and not autoTypeRunning then
+            local prefix = detectPrefix()
+
+            if #prefix >= 1
+            and not string.find(prefix, "%.%.%.")
+            and not string.find(prefix, "#+") then
+
+                local target = GetAutoTypeTarget(prefix)
+
+                if target
+                and target ~= ""
+                and #target > #prefix
+                and target:sub(1, #prefix) == prefix then
+
+                    autoTypeRunning = true
+
+                    local generation = autoTypeGeneration
+                    autoTypeTarget = target
+
+                    local success = AutoTypeWord(
+                        target,
+                        prefix,
+                        generation
+                    )
+
+                    if success
+                    and autoTypeEnabled
+                    and generation == autoTypeGeneration then
+                        MarkWordUsed(target)
+                    end
+
+                    local oldPrefix = prefix
+                    local timeout = 0
+
+                    while autoTypeEnabled
+                    and generation == autoTypeGeneration
+                    and timeout < 100 do
+
+                        local newPrefix = detectPrefix()
+
+                        if newPrefix ~= ""
+                        and newPrefix ~= oldPrefix
+                        and not string.find(newPrefix, "%.%.%.")
+                        and not string.find(newPrefix, "#+") then
+                            break
+                        end
+
+                        task.wait(0.05)
+                        timeout += 1
+                    end
+
+                    autoTypeTarget = nil
+                    autoTypeRunning = false
+                end
+            end
+        end
+
+        task.wait(0.05)
+    end
+end)
