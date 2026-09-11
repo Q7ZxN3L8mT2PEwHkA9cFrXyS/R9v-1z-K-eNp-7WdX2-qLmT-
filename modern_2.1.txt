@@ -27,7 +27,9 @@ appenzell
 ararao
 asbolan
 athodyd
+avanyu
 avaremotemo
+awanyu
 bacchii
 bacchiuchii
 bainie
@@ -41,7 +43,10 @@ beid
 betel
 biome
 blusht
+bolti
+bombazet
 bonita
+borh
 boutta
 bracae
 brazera
@@ -53,12 +58,14 @@ built-in
 bunya
 cadenza
 calcutta
+can-do
 canabae
 carniolan
 carolan
 casquetel
 cave-in
 chaitra
+changaa
 chevre
 chhi-chhi
 chibs
@@ -84,6 +91,7 @@ consolan
 credenza
 creepie
 cut-in
+cyanovirin-n
 cypre
 dalf
 decadenza
@@ -132,6 +140,7 @@ hairof
 heinie
 hejira
 hemibranchii
+heo
 hipt
 hoaxer
 homoanatoxin-a
@@ -188,6 +197,7 @@ menald
 metalaxyl-m
 metel
 mets
+mgbo
 microbiome
 minie
 misgo
@@ -202,6 +212,7 @@ myanma
 narceen
 nazirs
 nebaioth
+ngie
 nicarao
 niobe
 nippitaty
@@ -239,6 +250,7 @@ puzzolan
 queuer
 quinie
 qvevris
+raadzaal
 recognita
 reequipt
 reginald
@@ -249,6 +261,7 @@ responsa
 rhombi
 right-o
 rikk
+rofl
 ronald
 sacae
 sahibs
@@ -272,6 +285,7 @@ shipt
 sho-saiko-to
 shtetel
 shut-in
+sipuleucel-t
 sit-in
 sitemap
 slipt
@@ -286,6 +300,7 @@ sputta
 strobil
 subtaxer
 sutta
+taekwon-do
 talwegs
 tamarao
 tarkani
@@ -327,6 +342,7 @@ waxer
 wazirs
 wedel
 weepie
+wen-do
 whipt
 windjam
 write-in

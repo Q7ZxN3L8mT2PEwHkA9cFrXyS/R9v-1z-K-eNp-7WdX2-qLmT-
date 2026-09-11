@@ -135344,7 +135344,9 @@ erythrulose
 eryx
 erzahler
 es
+esan
 esau
+esaxerenone
 esbatement
 esbay
 esc
@@ -160866,6 +160868,9 @@ gazundering
 gazunders
 gazy
 gazzetta
+gc
+gcaleka
+gcalekas
 gconv
 gconvert
 gdansk
@@ -211147,6 +211152,7 @@ kapellmeisters
 kapeyka
 kaph
 kaphs
+kapin
 kapok
 kapoks
 kapote
@@ -216021,6 +216027,7 @@ kvetchinesses
 kvetching
 kvetchings
 kvetchy
+kvevri
 kvevris
 kvint
 kvinter
@@ -240948,8 +240955,14 @@ metrotometry
 metrotomy
 metroxylon
 mets
+metsulfuron
 metsulfuron-methyl
 metsulfuron-methyls
+metsulfurons
+metsulphuron
+metsulphuron-methyl
+metsulphuron-methyls
+metsulphurons
 mettar
 mettle
 mettled
@@ -241064,6 +241077,8 @@ mfengus
 mgal
 mganga
 mgangas
+mgbo
+mgbolizhia
 mgqashiyo
 mhm
 mho
@@ -259862,7 +259877,9 @@ nexts
 nexum
 nexus
 nexuses
+ney
 neyanda
+neys
 ngaanyatjarra
 ngaanyatjarras
 ngai
@@ -259891,6 +259908,8 @@ ngege
 ngeges
 ngemba
 ngh
+ngie
+ngiemboon
 ngiti
 ngiyambaa
 ngiyampaa
@@ -271103,6 +271122,7 @@ nritya
 nsambya
 nsambyas
 nsec
+nsenga
 nsfw
 nshima
 nsibidi
@@ -271111,6 +271131,7 @@ nsongo
 nsutite
 nsutites
 nth
+nths
 nty
 nu
 nuadu
@@ -272082,6 +272103,7 @@ nystagmuses
 nystatin
 nystatins
 nytril
+nyungwe
 nyxis
 nzadi
 nzakambay
@@ -371150,6 +371172,7 @@ sgoldstinos
 sgraffiato
 sgraffiti
 sgraffito
+sgurrs
 sha
 shaanxi
 shaatnez
@@ -376845,6 +376868,7 @@ sipples
 sippling
 sippy
 sips
+sipuleucel-t
 sipunculacea
 sipunculacean
 sipunculid
@@ -408365,6 +408389,7 @@ taediums
 taeing
 taekkyeon
 taekkyon
+taekwon-do
 taekwondo
 taekwondos
 tael
@@ -467859,6 +467884,7 @@ wemmy
 wemodness
 wems
 wen
+wen-do
 wena
 wench
 wenched
@@ -473689,6 +473715,8 @@ xeroxing
 xerus
 xeruses
 xes-as-a-service
+xesibe
+xesibes
 xhosa
 xi
 xiamen
@@ -475710,6 +475738,10 @@ z-values
 za
 za'atar
 za'atars
+zaa
+zaalouk
+zaalouks
+zaas
 zaatar
 zaatars
 zabaean
