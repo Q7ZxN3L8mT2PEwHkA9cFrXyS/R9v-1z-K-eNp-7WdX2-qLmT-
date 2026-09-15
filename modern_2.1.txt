@@ -14,10 +14,10 @@ ahuruhuru
 alioth
 alteza
 amanita
-amerikani
 amusgo
 anatoxin-a
 angolan
+anime
 anita
 anti-vaxer
 antibacchii
@@ -38,10 +38,8 @@ bambuk
 barszcz
 bautta
 bayamo
-bedel
 beid
 betel
-biome
 blusht
 bolti
 bombazet
@@ -49,8 +47,6 @@ bonita
 borh
 boutta
 bracae
-brazera
-break-in
 bride-to-be
 brides-to-be
 brinie
@@ -73,7 +69,6 @@ chikungunya
 chitra
 chloroform-d
 chlorophyll-a
-chondriome
 chypre
 cibolan
 clipt
@@ -83,6 +78,7 @@ coaxer
 colan
 collembolan
 combi
+come-and-cuddle-me
 comitiva
 concepti
 conjuctiva
@@ -90,6 +86,7 @@ conjunctiva
 consolan
 credenza
 creepie
+cryptophane-as
 cut-in
 cyanovirin-n
 cypre
@@ -149,7 +146,6 @@ husht
 imazamox
 incognita
 influenza
-iniome
 intnl
 jambolan
 joes
@@ -160,11 +156,9 @@ jutka
 juzen-taiho-to
 kadaif
 kakwas
-khokani
 kiss-me
 kodro
 kokoromiko
-konkani
 koromiko
 kumbuk
 kutta
@@ -184,6 +178,7 @@ louvred
 lozell
 luba
 madapolan
+magnanime
 maharao
 maneuvred
 manoeuvred
@@ -198,12 +193,12 @@ metalaxyl-m
 metel
 mets
 mgbo
-microbiome
 minie
 misgo
 mitra
 mobil
 molal
+monterey
 morenita
 mozartkugeln
 muesli
@@ -229,9 +224,11 @@ outta
 overslipt
 oxic
 oxotremorine-m
+panime
 parainfluenza
 parao
 parashioth
+peixerey
 pelasgi
 pemphix
 pharyngobranchii
@@ -241,7 +238,6 @@ portolan
 post-op
 potomac
 pozzolan
-pre-check-in
 prolan
 propr
 protoselachii
@@ -271,9 +267,7 @@ sativa
 scutta
 seabag
 seenil
-sekani
 selachii
-self-check-in
 senusi
 senza
 septi
@@ -303,7 +297,6 @@ sutta
 taekwon-do
 talwegs
 tamarao
-tarkani
 taus
 taxer
 tebu
@@ -324,23 +317,23 @@ tristeza
 trutta
 ubii
 uhuru
+unanime
 unclipt
 unmanoeuvred
 unwhipt
 usquabae
 valiha
 veduta
+verey
 vertu
 vezirs
 violal
 violan
 vitra
 vizirs
-walk-in
 want-to-be
 waxer
 wazirs
-wedel
 weepie
 wen-do
 whipt
@@ -351,5 +344,4 @@ wuzu
 xuanxue
 yinqiao
 zambuk
-zeuzera
 zombi
