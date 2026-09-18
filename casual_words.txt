@@ -140587,12 +140587,15 @@ ferroelectricity
 ferroelectrics
 ferrofluid
 ferrofluids
+ferrogedrites
 ferroglass
 ferrogoslarite
 ferrogram
 ferrograms
 ferrographies
 ferrography
+ferrohexahydrite
+ferrohexahydrites
 ferrohydrocyanic
 ferroinclave
 ferrokesterite
@@ -140768,6 +140771,7 @@ fescenninity
 fescue
 fescues
 fesels
+fesenjan
 fesoterodine
 fesoterodines
 fess
@@ -141127,6 +141131,7 @@ ffa
 ffs
 fgn
 fhrer
+fi
 fiacre
 fiacres
 fiador
@@ -141735,7 +141740,6 @@ fiercenesses
 fiercening
 fiercer
 fiercest
-fiercly
 fierding
 fiere
 fieres
@@ -142575,6 +142579,8 @@ finnacs
 finnan
 finnans
 finned
+finnemanite
+finnemanites
 finner
 finners
 finnesko
@@ -142628,6 +142634,7 @@ fiorituras
 fioriture
 fiot
 fip
+fipa
 fipenny
 fippence
 fippences
@@ -142931,6 +142938,8 @@ fiscalizing
 fiscally
 fiscals
 fischerite
+fischesserite
+fischesserites
 fiscs
 fiscus
 fise
@@ -143735,7 +143744,6 @@ flannelgraph
 flannelgraphs
 flanneling
 flannelleaf
-flannelleaves
 flannelled
 flannellier
 flannelliest
@@ -144788,6 +144796,9 @@ flocci
 floccilation
 floccillation
 floccillations
+floccinaucinihilipilificate
+floccinaucinihilipilificates
+floccinaucinihilipilificatings
 floccinaucinihilipilification
 floccinaucinihilipilifications
 floccing
@@ -145272,6 +145283,7 @@ floyd
 floyt
 flrie
 flu
+flualprazolam
 fluate
 fluates
 fluavil
@@ -145285,6 +145297,8 @@ flubdub
 flubdubberies
 flubdubbery
 flubdubs
+flubromazepam
+flubromazolam
 flubs
 flucan
 flucloxacillin
@@ -145634,6 +145648,7 @@ fluoroscopists
 fluoroscopy
 fluoroses
 fluorosis
+fluorotetraferriphlogopites
 fluorotic
 fluorotrichloromethane
 fluorotrichloromethanes
@@ -145657,6 +145672,7 @@ fluozirconic
 flupentixol
 fluphenazine
 fluphenazines
+fluralaner
 flurazepam
 flurbiprofen
 flurn
@@ -145790,6 +145806,7 @@ fluviovolcanic
 fluvoxamine
 fluvoxamines
 flux
+fluxapyroxad
 fluxation
 fluxed
 fluxer
@@ -146452,6 +146469,7 @@ fonduk
 fondus
 fone
 fones
+fongbe
 fonio
 fonios
 fonly
@@ -146685,7 +146703,6 @@ footmanship
 footmark
 footmarks
 footmen
-footmenfootpad
 footmuff
 footmuffs
 footnote
@@ -146764,6 +146781,7 @@ footstool
 footstooled
 footstools
 footsy
+footvolley
 footwalk
 footwall
 footwalls
@@ -148495,7 +148513,9 @@ fortis
 fortissimi
 fortissimo
 fortissimos
+fortississimi
 fortississimo
+fortississimos
 fortition
 fortitions
 fortitude
@@ -148556,7 +148576,6 @@ fortunized
 fortunizes
 fortunizing
 fortunous
-fortuuned
 forty
 fortyfive
 fortyfives
@@ -148708,6 +148727,7 @@ fossule
 fossulet
 fostamatinib
 fostell
+fostemsavir
 foster
 fosterable
 fosterage
@@ -148760,6 +148780,8 @@ fougade
 fougades
 fougasse
 fougasses
+fougerite
+fougerites
 fought
 foughten
 foughtier
@@ -149278,6 +149300,8 @@ frailties
 frailty
 fraim
 fraims
+fraipontite
+fraipontites
 fraischeur
 fraise
 fraised
@@ -149324,6 +149348,7 @@ frampal
 frampler
 framplers
 frampold
+framycetin
 franc
 franca
 francas
@@ -150317,6 +150342,7 @@ frigidnesses
 frigidoreceptor
 frigiferous
 frigolabile
+frigophobia
 frigor
 frigoric
 frigorific
@@ -151205,6 +151231,7 @@ frying
 fryings
 frypan
 frypans
+fs
 fsr
 fth
 fthm
@@ -151425,6 +151452,7 @@ fuhrers
 fuidhir
 fuirdays
 fuirena
+fuiyoh
 fuji
 fujian
 fujianese
@@ -152576,6 +152604,7 @@ fuzees
 fuzeless
 fuzes
 fuzhou
+fuzhounese
 fuzi
 fuzil
 fuzils
@@ -170732,6 +170761,7 @@ hcf
 hcl
 hconvert
 hdbk
+hdi
 hdkf
 hdlc
 hdqrs
