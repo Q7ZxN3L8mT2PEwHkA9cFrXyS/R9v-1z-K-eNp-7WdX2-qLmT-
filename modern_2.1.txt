@@ -1,6 +1,7 @@
 abasgi
 abdominal-a
 abdominal-as
+abdominal-b
 abib
 abilities-to-be
 ability-to-be
@@ -86,6 +87,7 @@ conjunctiva
 consolan
 credenza
 creepie
+cryptophane-a
 cryptophane-as
 cut-in
 cyanovirin-n
@@ -110,13 +112,16 @@ fade-in
 feminie
 fenoxaprop-p
 fetuin-a
+fetuin-as
 fetuin-b
+fil-am
 fleabag
 flox
 fluazifop-p
 fosh
 fucinita
 fusht
+gal-o
 gantsl
 gherao
 ghotuo
@@ -258,12 +263,14 @@ rhombi
 right-o
 rikk
 rofl
+rompu
 ronald
 sacae
 sahibs
 sambuk
 sangak
 sativa
+scrampum
 scutta
 seabag
 seenil
@@ -331,6 +338,7 @@ violal
 violan
 vitra
 vizirs
+wampum
 want-to-be
 waxer
 wazirs
