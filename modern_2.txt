@@ -34,6 +34,7 @@ anabaenas
 anaphase
 angustia
 animo
+anti-g
 antiphase
 antiproton
 antismoke
@@ -44,6 +45,7 @@ apozema
 arcual
 areg
 arenas
+arg-c
 arrowy
 ascendeur
 asmoke
@@ -92,6 +94,7 @@ bhumidar
 bibenzyl
 bibiru
 bibliotheke
+bicaudal-d
 bidar
 bikh
 billowy
@@ -470,6 +473,8 @@ liblabs
 libre
 lidar
 limesulphur
+ling-ling-o
+lingling-o
 liquitab
 logodaedaly
 longeve
