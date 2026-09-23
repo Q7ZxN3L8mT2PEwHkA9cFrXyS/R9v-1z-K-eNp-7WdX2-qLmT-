@@ -62,6 +62,7 @@ academicism
 academies
 acaena
 acajou
+acalypterae
 acanthas
 acantholimon
 acanthopod
@@ -96,6 +97,7 @@ accusatrixes
 aceite
 acemetae
 acepots
+acerae
 acerbity
 acestes
 acetals
@@ -357,6 +359,7 @@ agoge
 agonistes
 agonostomus
 agonothetes
+agorae
 agoranomus
 agouara
 agrammatica
@@ -593,6 +596,7 @@ ambuscadoed
 ameliorator
 amenage
 amenia
+amentiferae
 amenty
 americas
 amerimnon
@@ -665,6 +669,7 @@ amphisbaenian
 amphitricha
 amphitruo
 amphivasal
+amphorae
 amphorette
 amphoriskoi
 amphoriskos
@@ -1015,6 +1020,7 @@ antonymies
 antonyms
 antronasal
 antrostomus
+antumbrae
 anukabiet
 anvils
 anyons
@@ -1509,12 +1515,14 @@ aulostomus
 aumakua
 aumils
 auntish
+aurae
 aureola
 auricles
 auricula
 aurinasal
 auriscopic
 aurora
+aurorae
 auscultator
 ausonian
 auspex
@@ -1687,7 +1695,6 @@ bahadur
 bahadurs
 bahamian
 bahan
-bahar
 bahisti
 bahus
 baiginet
@@ -2459,6 +2466,7 @@ bract
 bradylexia
 bradyphagia
 bradyphrenia
+brae
 bragadisme
 braggishly
 braguette
@@ -2760,6 +2768,7 @@ caecocolic
 caedmonian
 caelum
 caenolestes
+caesurae
 cafenet
 cafetoria
 cagayan
@@ -2815,8 +2824,10 @@ calvinian
 calycanthemies
 calycles
 calycoid
+calycophorae
 calydonian
 calypsonian
+calypterae
 calyptrogen
 calyxes
 cambrel
@@ -2824,6 +2835,7 @@ cameist
 camelot
 camelots
 camenae
+camerae
 camerina
 cameronian
 cameroonian
@@ -2849,6 +2861,7 @@ candids
 candiru
 candroy
 canefruits
+canephorae
 canephoroi
 canette
 cangan
@@ -3106,6 +3119,7 @@ caterwauler
 catery
 catharina
 cathayan
+cathedrae
 cathedratica
 catheti
 cathexion
@@ -3234,6 +3248,7 @@ cervixes
 cestida
 cestraciont
 cestui
+cesurae
 cetacea
 cetacean
 cetes
@@ -3253,7 +3268,6 @@ chaeta
 chaetae
 chaetetes
 chaetopod
-chahar
 chainage
 chainette
 chainon
@@ -3372,6 +3386,7 @@ chekas
 cheken
 chela
 chelator
+chelicerae
 chelidonian
 chello
 chelonian
@@ -3743,6 +3758,7 @@ clems
 cleome
 cleped
 clepsydra
+clepsydrae
 clericism
 clerid
 clerkess
@@ -4083,6 +4099,7 @@ congratulator
 congregator
 conicoid
 conidia
+coniferae
 coninidia
 coniomycetes
 conjugal
@@ -4518,6 +4535,7 @@ crowfoots
 crozers
 cruce
 cruche
+cruciferae
 crucifixes
 crucifixion
 cruft
@@ -4605,6 +4623,7 @@ cupolaing
 cupolar
 cuppa
 cupronickels
+cupuliferae
 curacaoans
 curacoa
 curagh
@@ -5313,6 +5332,7 @@ disbowel
 discabinet
 discept
 disceptator
+disciflorae
 discinct
 disco
 discoers
@@ -5985,6 +6005,7 @@ encheson
 enchiladas
 enchiridia
 enchiriridia
+enchytrae
 encinas
 encircles
 enclasp
@@ -6139,11 +6160,13 @@ epeiric
 epencephalons
 epergnes
 eperva
+ephemerae
 ephemerid
 ephetae
 ephraimitish
 ephydra
 ephydrid
+ephyrae
 ephyrula
 epibasal
 epiblems
@@ -6175,6 +6198,7 @@ epipany
 epiparodos
 epiphragm
 epiphyll
+epipleurae
 epiploce
 epipolic
 epiprecoracoid
@@ -6427,6 +6451,7 @@ excusator
 exdelicto
 execrator
 executrixes
+exedrae
 exeemed
 exeems
 exegetes
@@ -6437,6 +6462,7 @@ exercycles
 exergual
 exfils
 exfoliator
+exhedrae
 exhilarator
 exhortator
 exhumator
@@ -6466,6 +6492,7 @@ exorcizers
 exorhason
 exosporia
 exostracism
+exostrae
 exotericism
 exotery
 exothecal
@@ -6669,12 +6696,14 @@ femmier
 fems
 femtometre
 femurs
+fenestrae
 fenetre
 fenian
 fenitar
 fennier
 fenouillette
 feodary
+ferae
 ferahan
 fernier
 fernitickles
@@ -6736,6 +6765,7 @@ fiendishly
 fierasfer
 fierasferid
 fierte
+figurae
 figurette
 filabeg
 filator
@@ -6764,6 +6794,7 @@ finitist
 finnack
 finnier
 finny
+fioraturae
 firepots
 firlots
 firmarii
@@ -6825,6 +6856,7 @@ floodage
 floodway
 flookan
 floozies
+florae
 floret
 florette
 floria
@@ -6978,6 +7010,7 @@ fract
 fractals
 fractionator
 fractioned
+frae
 fraena
 fragmentist
 frailero
@@ -7490,6 +7523,7 @@ glucokinase
 gluconokinase
 glucosid
 gluepots
+glumiflorae
 glutaei
 glutaminase
 glutin
@@ -7642,6 +7676,7 @@ grandads
 grandbabies
 granddads
 grandeza
+grandiflorae
 grandisonian
 granduncles
 grangerizers
@@ -7816,6 +7851,7 @@ gusto
 gutrots
 gutser
 guttery
+guttiferae
 gutturonasal
 gutzers
 guyots
@@ -8197,6 +8233,7 @@ hespeperidia
 hesperid
 hesperidia
 hesperinon
+hetaerae
 hetairic
 heteradenia
 heteratomic
@@ -8386,6 +8423,7 @@ homochromy
 homodoxian
 homodromal
 homodromy
+homoeomerae
 homoeopolar
 homoeotel
 homoeoteleutic
@@ -8431,6 +8469,7 @@ hopkinsonian
 hopoff
 hopperette
 hopscotch
+horae
 horchata
 hordary
 hordeola
@@ -8533,6 +8572,7 @@ hydantoin
 hydathode
 hydra
 hydractinian
+hydrae
 hydrastis
 hydrator
 hydratropic
@@ -9414,7 +9454,6 @@ justinianian
 justo
 jutic
 jutish
-jwahar
 jynginae
 jyngine
 kabab
@@ -9435,7 +9474,6 @@ kaffeeklatsch
 kafir
 kafirin
 kafta
-kahar
 kahau
 kahuna
 kahwa
@@ -9790,7 +9828,6 @@ lagenian
 lagorchestes
 lagostomus
 lagune
-lahar
 laicism
 laika
 lainage
@@ -9906,6 +9943,7 @@ laughed
 laulau
 launderette
 laundrette
+laurae
 laurel
 laurie
 laury
@@ -9996,6 +10034,7 @@ leptopellic
 leptoprosopic
 leptorrhinian
 leptosomic
+leptospirae
 leptospire
 lernaeacea
 lesioned
@@ -10051,6 +10090,7 @@ liberator
 libertinage
 liberum
 libidos
+librae
 librarii
 librettist
 libri
@@ -10077,9 +10117,11 @@ ligge
 lightish
 lignage
 lignes
+liguliflorae
 ligyda
 likely
 lilburne
+liliiflorae
 lillibullero
 limacea
 limacinid
@@ -10394,6 +10436,7 @@ macrochaetae
 macrocycles
 macrocystis
 macroeconomic
+macroflorae
 macrofossils
 macrogametes
 macromesentery
@@ -10447,7 +10490,6 @@ magpie-robin
 magyar
 mahajan
 mahaly
-mahar
 maharishi
 mahesh
 mahometan
@@ -10585,6 +10627,7 @@ maquahuitl
 maquette
 marabis
 maracuja
+marae
 maragato
 marah
 marajoara
@@ -10749,6 +10792,7 @@ meerkat
 megacephaly
 megacurie
 megacycles
+megaflorae
 megagametes
 megagauss
 megahit
@@ -10844,6 +10888,7 @@ mentery
 mentioned
 menudo
 menuki
+menurae
 mephisto
 mephistopheles
 mephitinae
@@ -11014,6 +11059,7 @@ microdots
 microeconomic
 microfibrillar
 microfibrils
+microflorae
 microfossils
 microgametes
 microgamies
@@ -11394,6 +11440,7 @@ moots
 mooves
 mopishly
 moquette
+morae
 moralizers
 moratoria
 morattoria
@@ -11505,12 +11552,14 @@ multicurie
 multicycles
 multiengine
 multifils
+multiflorae
 multigap
 multilamellar
 multilingual
 multilobar
 multimetallic
 multinucleolar
+multiparae
 multiplicator
 multipolar
 multisensual
@@ -11588,6 +11637,7 @@ myceles
 mycetes
 mycetozoans
 mycobiont
+mycoflorae
 mycoid
 mycomycetes
 mycoplasma
@@ -11729,6 +11779,7 @@ nativism
 natricinae
 nattery
 nattoria
+naturae
 naturel
 naucrar
 nauruan
@@ -12177,6 +12228,7 @@ nudibranchian
 nudzh
 nugator
 nullificator
+nulliparae
 nullisomic
 numbskull
 numerator
@@ -12390,6 +12442,7 @@ oots
 oozoid
 opaleye
 opalinid
+operae
 operagoers
 operator
 operceles
@@ -12428,6 +12481,7 @@ opuscles
 opuscula
 oracles
 oracula
+orae
 orangeist
 orator
 oratrixes
@@ -12487,6 +12541,7 @@ ornithopappi
 ornithopod
 ornithoscelidan
 ornithoscopic
+ornithurae
 orogen
 orolingual
 oronasal
@@ -12839,6 +12894,7 @@ palaeomagnetist
 palaeometallic
 palaeoniscoid
 palaeornithinae
+palaestrae
 palamae
 palanka
 palatals
@@ -12860,6 +12916,7 @@ paleola
 paleomagnetist
 paleometallic
 palestinian
+palestrae
 paletots
 palette
 palfrenier
@@ -12883,6 +12940,7 @@ palmprint
 palmyrenian
 palpator
 palpebra
+palpebrae
 palsa
 paluli
 palytoxin
@@ -12996,6 +13054,7 @@ paradisic
 paradoxal
 paradoxurinae
 paradromic
+parae
 paraffinier
 parafle
 paragammacism
@@ -13122,6 +13181,7 @@ patagonian
 patellar
 patellectomies
 patellidan
+paterae
 patercoves
 paterissa
 pathetist
@@ -13282,6 +13342,7 @@ penuche
 penuchi
 penuchle
 penuckles
+penumbrae
 peonage
 peopledom
 peoria
@@ -13459,6 +13520,7 @@ phalangerinae
 phalangette
 phalangidan
 phalanstery
+phalerae
 phallic
 phallicism
 phallorrhagia
@@ -13620,6 +13682,7 @@ phrontistery
 phryma
 phthalein
 phthalocyanin
+phthartolatrae
 phthisic
 phthisiotherapeutic
 phugoid
@@ -13638,6 +13701,7 @@ phyllosticta
 phyllostomatinae
 phyllostominae
 phyllostomus
+phylloxerae
 phymosia
 physeterinae
 physharmonicas
@@ -13650,6 +13714,7 @@ physiologicoanatomic
 physiotherapeutic
 physitheist
 physoclisti
+physophorae
 physopod
 phytobezoar
 phytoestrogen
@@ -13887,6 +13952,7 @@ plerocercoid
 plerophoria
 plesh
 pleughed
+pleurae
 pleurocapsa
 pleurocarpi
 pleurospasm
@@ -13922,6 +13988,7 @@ pluots
 pluralizers
 plurel
 plurilingual
+pluriparae
 plurisyllabic
 plushette
 plushly
@@ -14127,6 +14194,7 @@ poppadums
 popsicles
 popularizers
 populator
+porae
 porcellanian
 porcini
 porcino
@@ -14454,6 +14522,7 @@ priggishly
 primatals
 primeur
 primigenian
+primiparae
 primitivism
 primogenitrixes
 primprint
@@ -14678,6 +14747,7 @@ psaltery
 psammophils
 pseud
 pseudalveolar
+pseudamphorae
 pseudarachnidan
 pseudisodomic
 pseudoalleles
@@ -14776,6 +14846,7 @@ puckishly
 puckles
 puckrel
 pudda
+puerperae
 puffinet
 pugenello
 puggi
@@ -14918,6 +14989,7 @@ qiyas
 qorma
 quackishly
 quackles
+quadrae
 quadratojugal
 quadrator
 quadratrixes
@@ -14962,6 +15034,7 @@ queijadas
 queint
 quelme
 quemed
+querciflorae
 quercitol
 querido
 queridos
@@ -15995,6 +16068,7 @@ satinette
 satinier
 satiric
 satirizers
+satrae
 saturator
 saturnali
 saturnian
@@ -16014,6 +16088,7 @@ saurischian
 sauropod
 sauropsidan
 saurornitholestes
+saururae
 saury
 sautoir
 sautoire
@@ -16124,6 +16199,7 @@ scirtopod
 scissils
 scissoria
 sclavonian
+sclerae
 sclerectomies
 sclerogen
 scleroparei
@@ -16159,6 +16235,7 @@ scourie
 scoutish
 scovy
 scowp
+scrae
 scraighed
 scrambs
 scrannier
@@ -16392,6 +16469,7 @@ serpigo
 serpolet
 serpulid
 serpulidan
+serrae
 serre
 serrula
 serum
@@ -16984,6 +17062,7 @@ spasm
 spasmed
 spasmotoxin
 spatangoid
+spathiflorae
 spauldrochy
 spawnier
 speareye
@@ -17059,6 +17138,7 @@ spinsterishly
 spinthariscopic
 spiracles
 spiracula
+spirae
 spiralizers
 spire
 spirems
@@ -17283,6 +17363,7 @@ sterilizers
 sternage
 sterneber
 sternebra
+sternebrae
 sterninae
 sternocoracoid
 sternposts
@@ -17367,6 +17448,7 @@ strabotomies
 stract
 stradiots
 stradl
+strae
 straightish
 strak
 straka
@@ -17711,7 +17793,6 @@ supratonsillar
 supremacism
 suprematist
 surahi
-surbahar
 surette
 surma
 surmenage
@@ -17844,6 +17925,7 @@ synthetist
 synthetizers
 syntropic
 syntypicism
+synurae
 syphonage
 syphoned
 syren
@@ -17909,7 +17991,6 @@ tagine
 taglet
 tagrag
 tahanun
-tahar
 taharah
 tahinas
 tahona
@@ -18154,6 +18235,7 @@ tendon
 tendrillar
 tendrils
 tenebra
+tenebrae
 tenendums
 tenent
 tenesi
@@ -18181,6 +18263,7 @@ tequistlatecan
 teratogen
 terebinthian
 terebra
+terebrae
 terebratulid
 terephthallic
 teretes
@@ -18191,6 +18274,7 @@ termagantish
 terminator
 terpinol
 terracette
+terrae
 terraquedus
 terre
 terreplein
@@ -18201,6 +18285,7 @@ tersulphid
 tesla
 tessellar
 tesseract
+tesserae
 tesseratomic
 testacea
 testacean
@@ -18260,6 +18345,7 @@ textual
 thackerayan
 thais
 thalamencephalons
+thalamiflorae
 thalamocoele
 thalamotomies
 thalassinian
@@ -18380,6 +18466,7 @@ thorina
 thornier
 thowel
 thowt
+thrae
 threadway
 threep
 threeped
@@ -18830,6 +18917,7 @@ triphenylcarbinol
 tripolar
 triptotes
 triptyque
+triquetrae
 triratna
 triricinolein
 trisceles
@@ -19090,8 +19178,10 @@ uluhi
 ulzies
 umbellar
 umbellic
+umbelliferae
 umbo
 umbracula
+umbrae
 umbrel
 umbrellaing
 umbrello
@@ -19550,6 +19640,7 @@ ureterectomies
 ureterolithotomies
 ureterorrhagia
 ureterostomies
+urethrae
 urethrectomies
 urethrorrhagia
 urethroscopic
@@ -19764,6 +19855,7 @@ verslibristes
 verstes
 versual
 vertebra
+vertebrae
 verticil
 verticils
 vertigo
@@ -20071,6 +20163,7 @@ whaledom
 whaly
 whammies
 wharf
+wharfrae
 whartonian
 whasle
 whata
@@ -20141,6 +20234,7 @@ wimpishly
 winceyette
 winceys
 windage
+windlestrae
 windowier
 windway
 winey
@@ -20148,6 +20242,8 @@ winglet
 wingsuits
 winier
 winkles
+winlestrae
+winnelstrae
 winterbourne
 winterishly
 wintery
@@ -20384,6 +20480,7 @@ zoaeae
 zoanthacea
 zoanthacean
 zoanthropic
+zoehemerae
 zoetropic
 zogan
 zolpidems

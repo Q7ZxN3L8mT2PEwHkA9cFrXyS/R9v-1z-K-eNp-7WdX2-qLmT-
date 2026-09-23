@@ -35,7 +35,9 @@ anaphase
 angustia
 animo
 ankyrin-g
+antebrachii
 anti-g
+antibacchii
 antiphase
 antiproton
 antismoke
@@ -58,6 +60,8 @@ avantlay
 axonemal
 babaylan
 babracot
+bacchii
+bacchiuchii
 baidar
 bajada
 bakkwa
@@ -264,6 +268,7 @@ eclegme
 eczema
 efl
 elaeopten
+elasmobranchii
 elbowy
 elevons
 emphase
@@ -282,6 +287,7 @@ estafa
 eszett
 euglenas
 euryaleae
+euselachii
 euterpe
 extremal
 eyrir
@@ -371,6 +377,7 @@ hebdomad
 heemraat
 hemal
 hemiageustia
+hemibranchii
 hemitremor
 hemophileae
 hestia
@@ -460,6 +467,7 @@ l'chayim
 la-de-da
 lablabs
 labs
+labyrinthibranchii
 lacey
 lacrym
 lacunars
@@ -479,6 +487,7 @@ lingling-o
 liquitab
 logodaedaly
 longeve
+lophobranchii
 lophosteon
 low-sulphur
 lowy
@@ -500,6 +509,7 @@ manini
 manioc
 marrowy
 marshmallowy
+marsipobranchii
 martinoe
 masjid
 mastoplastia
@@ -618,6 +628,7 @@ pesh-kabz
 petrosum
 phagedaenas
 phagedenas
+pharyngobranchii
 phase
 phasm
 phenomenas
@@ -675,6 +686,7 @@ proseminars
 prosopyle
 proton
 protonemal
+protoselachii
 prudhomme
 pseudhaemal
 pseudhemal
@@ -714,6 +726,7 @@ rhanja
 rhipidistia
 ribeye
 ridgetop
+riichii
 rijstafel
 rijsttafel
 ripal
@@ -741,6 +754,7 @@ scraich
 scroinogh
 scryne
 seidel
+selachii
 selensulphur
 seminars
 seminomad
