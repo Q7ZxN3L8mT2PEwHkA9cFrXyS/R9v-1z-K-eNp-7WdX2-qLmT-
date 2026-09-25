@@ -309,6 +309,7 @@ sputta
 strobil
 subtaxer
 sutta
+sux
 taekwon-do
 talwegs
 tamarao
@@ -360,6 +361,7 @@ write-in
 wuikinuxv
 wuzu
 xuanxue
+yamato-e
 yazoo
 yinqiao
 zambuk
