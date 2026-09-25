@@ -1,4 +1,4 @@
-local url=(function()local a={104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,81,55,90,120,78,51,76,56,109,84,50,80,69,119,72,107,65,57,99,70,114,88,121,83,47,82,57,118,45,49,122,45,75,45,101,78,112,45,55,87,100,88,50,45,113,76,109,84,45,47,114,101,102,115,47,104,101,97,100,115,47,115,111,109,101,116,104,105,110,103,47,119,111,114,100,115,46,116,120,116}local b={}for i=1,#a do b[i]=string.char(a[i])end;return table.concat(b)end)()
+local url = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/words.txt"
 
 local Words = {}
 local WordSet = {}
@@ -12,9 +12,11 @@ local wordsPerPage = 50
 local sortMode = "Random"
 local KillerMap1 = {}
 local KillerMap2 = {}
+local KillerMap3 = {}
 
-local killerUrl1=(function()local a={104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,81,55,90,120,78,51,76,56,109,84,50,80,69,119,72,107,65,57,99,70,114,88,121,83,47,82,57,118,45,49,122,45,75,45,101,78,112,45,55,87,100,88,50,45,113,76,109,84,45,47,114,101,102,115,47,104,101,97,100,115,47,115,111,109,101,116,104,105,110,103,47,109,111,100,101,114,110,46,116,120,116}local b={}for i=1,#a do b[i]=string.char(a[i])end;return table.concat(b)end)()
-local killerUrl2=(function()local a={104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,81,55,90,120,78,51,76,56,109,84,50,80,69,119,72,107,65,57,99,70,114,88,121,83,47,82,57,118,45,49,122,45,75,45,101,78,112,45,55,87,100,88,50,45,113,76,109,84,45,47,114,101,102,115,47,104,101,97,100,115,47,115,111,109,101,116,104,105,110,103,47,111,108,100,46,116,120,116}local b={}for i=1,#a do b[i]=string.char(a[i])end;return table.concat(b)end)()
+local killerUrl1 = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/modern_2.1.txt"
+local killerUrl2 = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/modern_2.txt"
+local killerUrl3 = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/old.txt"
 
 pcall(function()
     local res = request({Url = killerUrl1, Method = "GET"})
@@ -34,6 +36,14 @@ pcall(function()
     end
 end)
 
+pcall(function()
+    local res = request({Url = killerUrl3, Method = "GET"})
+    if res and res.Success and res.Body then
+        for w in res.Body:gmatch("[^\r\n]+") do
+            KillerMap3[w:lower()] = true
+        end
+    end
+end)
 
 local function LoadWords()
     if loaded then return end
@@ -45,11 +55,14 @@ local function LoadWords()
                 table.insert(Words, wordLower)
                 WordSet[wordLower] = true
                 local firstLetter = wordLower:sub(1,1)
+
                 if not WordDictionary[firstLetter] then
                     WordDictionary[firstLetter] = {}
                 end
+
                 table.insert(WordDictionary[firstLetter], wordLower)
             end
+
             table.sort(Words)
 
             for _, list in pairs(WordDictionary) do
@@ -60,6 +73,7 @@ local function LoadWords()
         end
     end)
 end
+
 task.spawn(LoadWords)
 
 local function shuffle(t)
@@ -75,6 +89,7 @@ local function formatWord(word, prefix, index)
     local restPart = word:sub(prefixLen + 1)
 
     local prefixColor
+
     if index == 1 then
         prefixColor = "0,255,0"
     elseif index == 2 then
@@ -92,10 +107,16 @@ local function formatWord(word, prefix, index)
 end
 
 local function SuggestWords(input, count)
-    if not loaded then return {"loading words...", "please wait"} end
-    if #Words == 0 then return {"no words available", "check connection"} end
+    if not loaded then
+        return {"loading words...", "please wait"}
+    end
+
+    if #Words == 0 then
+        return {"no words available", "check connection"}
+    end
 
     input = input:lower()
+
     local cacheKey = input.."_"..count.."_"..sortMode
 
     if sortMode ~= "Random" and sortMode ~= "Killer" and searchCache[cacheKey] then
@@ -109,36 +130,47 @@ local function SuggestWords(input, count)
 
     for i = 1, #wordList do
         local word = wordList[i]
-        if word:sub(1, #input) == input then
+
+        if word:sub(1,#input) == input then
             table.insert(possible, word)
         end
     end
 
     if sortMode == "Shortest" then
-        table.sort(possible, function(a, b)
+
+        table.sort(possible, function(a,b)
             return #a < #b
         end)
 
     elseif sortMode == "Longest" then
-        table.sort(possible, function(a, b)
+
+        table.sort(possible, function(a,b)
             return #a > #b
         end)
 
     elseif sortMode == "Random" then
+
         shuffle(possible)
 
     elseif sortMode == "Killer" then
+
         local link1Words = {}
         local link2Words = {}
+        local link3Words = {}
         local normalWords = {}
 
-        for i = 1, #possible do
+        for i = 1,#possible do
             local word = possible[i]
 
             if KillerMap1[word] then
                 table.insert(link1Words, word)
+
             elseif KillerMap2[word] then
                 table.insert(link2Words, word)
+
+            elseif KillerMap3[word] then
+                table.insert(link3Words, word)
+
             else
                 table.insert(normalWords, word)
             end
@@ -146,30 +178,35 @@ local function SuggestWords(input, count)
 
         shuffle(link1Words)
         shuffle(link2Words)
+        shuffle(link3Words)
         shuffle(normalWords)
 
         possible = {}
 
         local limit = count
-        local target1 = math.floor(limit * 0.75)
-        local target2 = math.floor(limit * 0.25)
 
-        for i = 1, math.min(target1, #link1Words) do
-            table.insert(possible, link1Words[i])
+        local target1 = math.floor(limit * 0.50)
+        local target2 = math.floor(limit * 0.30)
+        local target3 = math.floor(limit * 0.20)
+
+        local function append(source, amount)
+            for i = 1, math.min(amount, #source) do
+                table.insert(possible, source[i])
+            end
         end
 
-        for i = 1, math.min(target2, #link2Words) do
-            table.insert(possible, link2Words[i])
-        end
+        append(link1Words, target1)
+        append(link2Words, target2)
+        append(link3Words, target3)
 
-        for i = 1, #normalWords do
+        for i = 1,#normalWords do
             table.insert(possible, normalWords[i])
         end
     end
 
-    local maxResults = math.min(count, #possible)
+    local maxResults = math.min(count,#possible)
 
-    for i = 1, maxResults do
+    for i = 1,maxResults do
         table.insert(results, possible[i])
     end
 
@@ -278,7 +315,7 @@ b.Position = UDim2.new(0,120,0,60)
 b.BackgroundColor3 = Color3.fromRGB(30,30,30)
 b.BorderSizePixel = 0
 b.Active = true
-b.Draggable = true
+b.Draggable = false
 Instance.new("UICorner",b).CornerRadius=UDim.new(0,8)
 Instance.new("UIStroke",b).Thickness=1.5
 
@@ -296,6 +333,51 @@ title.TextColor3=Color3.fromRGB(255,255,255)
 title.Font=Enum.Font.GothamBold
 title.TextSize=20
 title.TextXAlignment=Enum.TextXAlignment.Left
+
+local draggingGui = false
+local dragStart
+local startPosition
+local dragInput
+
+local function UpdateGuiDrag(input)
+    local delta = input.Position - dragStart
+
+    b.Position = UDim2.new(
+        startPosition.X.Scale,
+        startPosition.X.Offset + delta.X,
+        startPosition.Y.Scale,
+        startPosition.Y.Offset + delta.Y
+    )
+end
+
+title.InputBegan:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1
+    or input.UserInputType == Enum.UserInputType.Touch then
+
+        draggingGui = true
+        dragStart = input.Position
+        startPosition = b.Position
+
+        input.Changed:Connect(function()
+            if input.UserInputState == Enum.UserInputState.End then
+                draggingGui = false
+            end
+        end)
+    end
+end)
+
+title.InputChanged:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseMovement
+    or input.UserInputType == Enum.UserInputType.Touch then
+        dragInput = input
+    end
+end)
+
+UserInputService.InputChanged:Connect(function(input)
+    if input == dragInput and draggingGui then
+        UpdateGuiDrag(input)
+    end
+end)
 
 local minimizeButton = Instance.new("TextButton", b)
 minimizeButton.Size = UDim2.new(0,35,0,35)
@@ -409,48 +491,51 @@ uiList.Padding=UDim.new(0,2)
 uiList.SortOrder=Enum.SortOrder.LayoutOrder
 
 local pageFrame = Instance.new("Frame", contentFrame)
-pageFrame.Size=UDim2.new(1,-20,0,30)
-pageFrame.Position=UDim2.new(0,10,0,540)
-pageFrame.BackgroundTransparency=1
+pageFrame.Size = UDim2.new(1,-20,0,30)
+pageFrame.Position = UDim2.new(0,10,0,540)
+pageFrame.BackgroundTransparency = 1
 
-local prevButton = Instance.new("TextButton",pageFrame)
+local prevButton = Instance.new("TextButton", pageFrame)
 prevButton.Size=UDim2.new(0.2,0,1,0)
-prevButton.BackgroundColor3=Color3.fromRGB(80,80,80)
-prevButton.TextColor3=Color3.fromRGB(255,255,255)
-prevButton.Text="< Prev"
-prevButton.Font=Enum.Font.Gotham
-prevButton.TextSize=15
-Instance.new("UICorner",prevButton).CornerRadius=UDim.new(0,4)
+prevButton.Position=UDim2.new(0,0,0,0)
+prevButton.BackgroundColor3 = Color3.fromRGB(80,80,80)
+prevButton.TextColor3 = Color3.fromRGB(255,255,255)
+prevButton.Text = "< Prev"
+prevButton.Font = Enum.Font.Gotham
+prevButton.TextSize = 15
+prevButton.BorderSizePixel = 0
+Instance.new("UICorner", prevButton).CornerRadius = UDim.new(0,4)
 
-local pageLabel = Instance.new("TextLabel",pageFrame)
+local pageLabel = Instance.new("TextLabel", pageFrame)
 pageLabel.Size=UDim2.new(0.6,0,1,0)
 pageLabel.Position=UDim2.new(0.2,0,0,0)
-pageLabel.BackgroundTransparency=1
-pageLabel.Text="Page 1/1"
-pageLabel.TextColor3=Color3.fromRGB(255,255,255)
-pageLabel.Font=Enum.Font.Gotham
-pageLabel.TextSize=15
-pageLabel.TextXAlignment=Enum.TextXAlignment.Center
+pageLabel.BackgroundTransparency = 1
+pageLabel.Text = "Page 1/1"
+pageLabel.TextColor3 = Color3.fromRGB(255,255,255)
+pageLabel.Font = Enum.Font.Gotham
+pageLabel.TextSize = 15
+pageLabel.TextXAlignment = Enum.TextXAlignment.Center
+
+local nextButton = Instance.new("TextButton", pageFrame)
+nextButton.Size=UDim2.new(0.2,0,1,0)
+nextButton.Position=UDim2.new(0.8,0,0,0)
+nextButton.BackgroundColor3 = Color3.fromRGB(80,80,80)
+nextButton.TextColor3 = Color3.fromRGB(255,255,255)
+nextButton.Text = "Next >"
+nextButton.Font = Enum.Font.Gotham
+nextButton.TextSize = 15
+nextButton.BorderSizePixel = 0
+Instance.new("UICorner", nextButton).CornerRadius = UDim.new(0,4)
 
 local statusLabel = Instance.new("TextLabel", pageFrame)
 statusLabel.Size = UDim2.new(1, -10, 0, 30)
 statusLabel.Position = UDim2.new(0, 0, 1, -5)
 statusLabel.BackgroundTransparency = 1
-statusLabel.TextColor3 = Color3.fromRGB(80, 150, 255)
+statusLabel.TextColor3 = Color3.fromRGB(80,150,255)
 statusLabel.Font = Enum.Font.GothamBold
 statusLabel.TextSize = 13
-statusLabel.TextXAlignment=Enum.TextXAlignment.Center
+statusLabel.TextXAlignment = Enum.TextXAlignment.Center
 statusLabel.Text = "Loading Words..."
-
-local nextButton = Instance.new("TextButton",pageFrame)
-nextButton.Size=UDim2.new(0.2,0,1,0)
-nextButton.Position=UDim2.new(0.8,0,0,0)
-nextButton.BackgroundColor3=Color3.fromRGB(80,80,80)
-nextButton.TextColor3=Color3.fromRGB(255,255,255)
-nextButton.Text="Next >"
-nextButton.Font=Enum.Font.Gotham
-nextButton.TextSize=15
-Instance.new("UICorner",nextButton).CornerRadius=UDim.new(0,4)
 
 local function ClearSuggestions()
     for _, child in ipairs(list:GetChildren()) do
@@ -497,10 +582,16 @@ function UpdateSuggestions(fromTyping)
         btn.Size = UDim2.new(1,0,0,32)
         btn.BackgroundColor3 = Color3.fromRGB(45,45,45)
         btn.TextColor3 = Color3.fromRGB(255,255,255)
-        btn.Font = Enum.Font.Gotham
+        btn.Font = Enum.Font.GothamBold
         btn.TextSize = 16
         btn.RichText = true
-        btn.Text = formatWord(word, h.Text:lower(), i - startIndex + 1)
+        local displayWord = formatWord(
+            word,
+            h.Text:lower(),
+            i - startIndex + 1
+        )
+
+btn.Text = displayWord
         btn.AutoButtonColor = true
         Instance.new("UICorner", btn).CornerRadius = UDim.new(0,4)
         btn.Selectable = false
@@ -549,9 +640,9 @@ task.spawn(function()
     statusLabel.Text = "Words Loaded Successfully!"
     statusLabel.TextColor3 = Color3.fromRGB(80,150,255)
     statusLabel.Font = Enum.Font.GothamBold
-    statusLabel.TextSize = 10
+    statusLabel.TextSize = 13
     statusLabel.Position = UDim2.new(0, 0, 1, -5)
-    
+
     statusLabel.Visible = true
     
     task.wait(5)
@@ -620,13 +711,18 @@ local function UpdatePrefixSuggestions(prefix)
     local suggestions = SuggestWords(prefix, 50)
     for i = 1, #suggestions do
         local button = Instance.new("TextButton", list)
-        button.Size = UDim2.new(1, 0, 0, 32)
+        button.Size = UDim2.new(1, 0, 0, 22)
         button.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
         button.TextColor3 = Color3.fromRGB(255, 255, 255)
-        button.Font = Enum.Font.Gotham
-        button.TextSize = 16
+        button.Font = Enum.Font.GothamBold
+        button.TextSize = 12
         button.RichText = true
-        button.Text = formatWord(suggestions[i], prefix, i)
+        local word = suggestions[i]
+
+        local displayWord = formatWord(word, prefix, i)
+
+        button.Text = displayWord
+        
         button.AutoButtonColor = true
         Instance.new("UICorner", button).CornerRadius = UDim.new(0, 4)
         button.Selectable = false
@@ -645,25 +741,26 @@ task.spawn(function()
             prefixLabel.TextColor3 = Color3.fromRGB(255, 255, 0)
             task.wait(0.25)
         else
-            local truncatedPrefix = string.sub(prefix, 1, 11)
+        
+            local currentPrefix = prefix
 
-            if truncatedPrefix ~= lastPrefix then
-                lastPrefix = truncatedPrefix
+            if currentPrefix ~= lastPrefix then
+                lastPrefix = currentPrefix
 
                 if h.Text == "" then
                     ClearSuggestions()
                 end
 
-                if truncatedPrefix ~= "" then
-                    prefixLabel.Text = "Prefix: " .. truncatedPrefix
+                if currentPrefix ~= "" then
+                    prefixLabel.Text = "Prefix: " .. currentPrefix
 
-                    if WordSet[truncatedPrefix] then
+                    if WordSet[currentPrefix] then
                         prefixLabel.TextColor3 = Color3.fromRGB(0, 255, 0)
                     else
                         prefixLabel.TextColor3 = Color3.fromRGB(255, 0, 0)
                     end
 
-                    UpdatePrefixSuggestions(truncatedPrefix)
+                    UpdatePrefixSuggestions(currentPrefix)
                 else
                     prefixLabel.Text = "Prefix: -"
                     prefixLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
