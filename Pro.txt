@@ -315,8 +315,8 @@ hitbox.MouseButton1Click:Connect(function()
     a.Enabled = guiVisible
 end)
 
-b.Size = UDim2.new(0,250,0,450)
-b.Position = UDim2.new(0,80,0,100)
+b.Size = UDim2.new(0,250,0,650)
+b.Position = UDim2.new(0.5,-170,0.5,-325)
 b.BackgroundColor3 = Color3.fromRGB(30,30,30)
 b.BorderSizePixel = 0
 b.Active = true
@@ -336,7 +336,7 @@ title.BackgroundTransparency=1
 title.Text="Word Finder V3.5"
 title.TextColor3=Color3.fromRGB(255,255,255)
 title.Font=Enum.Font.GothamBold
-title.TextSize=14
+title.TextSize=18
 title.TextXAlignment=Enum.TextXAlignment.Left
 
 local draggingGui = false
@@ -431,7 +431,7 @@ prefixLabel.BackgroundTransparency = 1
 prefixLabel.Text = "Prefix: -"
 prefixLabel.TextColor3 = Color3.fromRGB(255,255,255)
 prefixLabel.Font = Enum.Font.GothamBold
-prefixLabel.TextSize = 13
+prefixLabel.TextSize = 15
 prefixLabel.TextXAlignment = Enum.TextXAlignment.Center
 prefixLabel.TextWrapped = false
 
@@ -448,7 +448,7 @@ sortButton.BackgroundColor3=Color3.fromRGB(60,60,60)
 sortButton.TextColor3=Color3.fromRGB(255,255,255)
 sortButton.Text="Sort Mode: Random"
 sortButton.Font=Enum.Font.Gotham
-sortButton.TextSize=11
+sortButton.TextSize=14
 Instance.new("UICorner",sortButton).CornerRadius=UDim.new(0,4)
 
 local sortModes = {"Shortest", "Longest", "Random", "Killer"}
@@ -488,18 +488,18 @@ end
 local h = Instance.new("TextBox", contentFrame)
 h.Text = ""
 h.PlaceholderText="Type letters..."
-h.Size=UDim2.new(1,-20,0,30)
+h.Size=UDim2.new(1,-30,0,40)
 h.Position=UDim2.new(0,10,0,100)
 h.BackgroundColor3=Color3.fromRGB(50,50,50)
 h.TextColor3=Color3.fromRGB(255,255,255)
 h.ClearTextOnFocus=false
 h.Font=Enum.Font.Gotham
-h.TextSize=14
+h.TextSize=16
 h.TextXAlignment=Enum.TextXAlignment.Center
 Instance.new("UICorner",h).CornerRadius=UDim.new(0,6)
 
 local list = Instance.new("ScrollingFrame", contentFrame)
-list.Size=UDim2.new(1,-20,0,200)
+list.Size=UDim2.new(1,-30,0,245)
 list.Position=UDim2.new(0,10,0,140)
 list.BackgroundTransparency=1
 list.ScrollBarThickness=6
@@ -516,7 +516,7 @@ pageFrame.Position = UDim2.new(0, 10, 0, 350)
 pageFrame.BackgroundTransparency = 1
 
 local prevButton = Instance.new("TextButton", pageFrame)
-prevButton.Size = UDim2.new(0.25, -2, 0, 30)
+prevButton.Size = UDim2.new(0.25, -2, 0, 35)
 prevButton.Position = UDim2.new(0, 0, 0, 0)
 prevButton.BackgroundColor3 = Color3.fromRGB(80,80,80)
 prevButton.TextColor3 = Color3.fromRGB(255,255,255)
@@ -533,11 +533,11 @@ pageLabel.BackgroundTransparency = 1
 pageLabel.Text = "Page 1/1"
 pageLabel.TextColor3 = Color3.fromRGB(255,255,255)
 pageLabel.Font = Enum.Font.Gotham
-pageLabel.TextSize = 12
+pageLabel.TextSize = 14
 pageLabel.TextXAlignment = Enum.TextXAlignment.Center
 
 local nextButton = Instance.new("TextButton", pageFrame)
-nextButton.Size = UDim2.new(0.25, -2, 0, 30)
+nextButton.Size = UDim2.new(0.25, -2, 0, 35)
 nextButton.Position = UDim2.new(0.75, 2, 0, 0)
 nextButton.BackgroundColor3 = Color3.fromRGB(80,80,80)
 nextButton.TextColor3 = Color3.fromRGB(255,255,255)
@@ -575,14 +575,14 @@ autoTypeArrow.Position = UDim2.new(0, 0, 0, 0)
 autoTypeArrow.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
 autoTypeArrow.TextColor3 = Color3.fromRGB(255, 255, 255)
 autoTypeArrow.Font = Enum.Font.GothamBold
-autoTypeArrow.TextSize = 13
+autoTypeArrow.TextSize = 14
 autoTypeArrow.Text = "Auto Type  ▼"
 autoTypeArrow.BorderSizePixel = 0
 
 Instance.new("UICorner", autoTypeArrow).CornerRadius = UDim.new(0, 6)
 
 local autoTypePanel = Instance.new("Frame", contentFrame)
-autoTypePanel.Size = UDim2.new(1, -20, 0, 115)
+autoTypePanel.Size = UDim2.new(1, -30, 0, 125)
 autoTypePanel.Position = UDim2.new(0, 10, 0, 440)
 autoTypePanel.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
 autoTypePanel.BorderSizePixel = 0
@@ -655,12 +655,12 @@ maxLabel.TextXAlignment = Enum.TextXAlignment.Right
 maxLabel.ZIndex = 6
 
 local autoTypeButton = Instance.new("TextButton", autoTypePanel)
-autoTypeButton.Size = UDim2.new(1, -20, 0, 28)
+autoTypeButton.Size = UDim2.new(1, -20, 0, 32)
 autoTypeButton.Position = UDim2.new(0, 10, 0, 78)
 autoTypeButton.BackgroundColor3 = Color3.fromRGB(70, 70, 70)
 autoTypeButton.TextColor3 = Color3.fromRGB(255, 255, 255)
 autoTypeButton.Font = Enum.Font.GothamBold
-autoTypeButton.TextSize = 12
+autoTypeButton.TextSize = 14
 autoTypeButton.Text = "Auto Type: OFF"
 autoTypeButton.BorderSizePixel = 0
 autoTypeButton.ZIndex = 6
@@ -818,7 +818,7 @@ function UpdateSuggestions(fromTyping)
     for i=startIndex,endIndex do
         local word = currentResults[i]
         local btn = Instance.new("TextButton", list)
-        btn.Size = UDim2.new(1,0,0,22)
+        btn.Size = UDim2.new(1,0,0,25)
         btn.BackgroundColor3 = Color3.fromRGB(45,45,45)
         btn.TextColor3 = Color3.fromRGB(255,255,255)
         btn.Font = Enum.Font.GothamBold
