@@ -23,6 +23,7 @@ anita
 anti-vaxer
 antifa
 antivaxer
+anubis
 appenzell
 ararao
 asbolan
@@ -102,6 +103,7 @@ donald
 doolan
 drive-in
 dyed
+epipubis
 epitra
 equimolal
 equipt
@@ -144,6 +146,7 @@ heinie
 hejira
 heo
 hipt
+hlubis
 hoaxer
 homoanatoxin-a
 homoanatoxin-as
@@ -154,6 +157,7 @@ incognita
 influenza
 intnl
 ipso
+ischiopubis
 jambolan
 joes
 jola
@@ -169,6 +173,7 @@ kiss-me
 kodro
 kokoromiko
 koromiko
+krubis
 kumbuk
 kutta
 kvevris
@@ -241,11 +246,15 @@ pipiwharauroa
 poleaxer
 portolan
 post-op
+postpubis
 potomac
 pozzolan
+praepubis
+prepubis
 prolan
 propr
 pseudoinfluenza
+pubis
 puzzolan
 queuer
 quinie
