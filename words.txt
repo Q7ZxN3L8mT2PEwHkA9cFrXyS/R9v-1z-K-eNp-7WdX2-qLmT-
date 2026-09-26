@@ -267385,6 +267385,8 @@ nokdu
 nokota
 nokta
 nol
+nolanite
+nolanites
 nolascan
 nold
 nole
@@ -361751,7 +361753,6 @@ rigwoodie
 rigwoodies
 rii
 riichi
-riichii
 rijksdaalder
 rijksdaalders
 rijksdaaler
@@ -425961,8 +425962,6 @@ terser
 tersest
 tersion
 tersions
-terskite
-terskites
 tersulfid
 tersulfide
 tersulphate
