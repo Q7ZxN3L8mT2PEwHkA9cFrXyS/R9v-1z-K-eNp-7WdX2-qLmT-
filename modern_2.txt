@@ -25,7 +25,6 @@ almemor
 amastia
 ambassadeur
 amidakuji
-amoke
 amphisbaenas
 amuchco
 amuyong
@@ -40,7 +39,6 @@ anti-g
 antibacchii
 antiphase
 antiproton
-antismoke
 apodemal
 apolytikion
 apopyle
@@ -51,7 +49,6 @@ arenas
 arg-c
 arrowy
 ascendeur
-asmoke
 atazir
 atenolol
 aurifex
@@ -71,6 +68,7 @@ bambuk
 banuyo
 barazas
 barbudan
+barszcz
 baruya
 barye
 battak
@@ -82,6 +80,7 @@ bechase
 becke
 bedub
 beefalo
+beid
 bejeezus
 belee
 bembex
@@ -91,7 +90,6 @@ benshi
 benzyl
 beowulf
 berkowitz
-besmoke
 besom
 betamax
 bhakta
@@ -117,6 +115,7 @@ blurb
 boce
 boeuf
 bonhomme
+borh
 borshch
 boruca
 brazas
@@ -258,7 +257,6 @@ dryth
 duenas
 duodenas
 dylan
-earthsmoke
 eaux
 ecca
 ecco
@@ -423,7 +421,6 @@ isocyano
 isothiocyano
 izvestia
 jabiru
-jamoke
 jelabs
 jemidar
 jerib
@@ -492,6 +489,8 @@ lowy
 lulabs
 lunars
 lupanars
+lys-c
+lys-n
 macromastia
 macroplastia
 maecenas
@@ -540,7 +539,6 @@ mispurchase
 mistakion
 modenas
 moirai
-moke
 molendinars
 momme
 monaphase
@@ -594,10 +592,8 @@ otsukimi
 outchase
 outlay
 outsaw
-outsmoke
 overchase
 overpurchase
-oversmoke
 owlspiegle
 oxybenzyl
 ozaenas
@@ -783,7 +779,6 @@ slivowitz
 slomo
 slurb
 smaak
-smoke
 snars
 snowy
 sociologese
@@ -910,7 +905,6 @@ willinakaqe
 willowy
 windowy
 windslabs
-woodsmoke
 would-be
 xylan
 yadayim
@@ -934,3 +928,13 @@ zoid
 zooerastia
 zoogleae
 zortzico
+akamatsu
+gyukatsu
+katsu
+kushikatsu
+matsu
+oshikatsu
+shiatsu
+tokusatsu
+tonkatsu
+zaibatsu

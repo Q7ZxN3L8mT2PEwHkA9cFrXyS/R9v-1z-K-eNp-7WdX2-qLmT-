@@ -1,0 +1,324 @@
+Suffix: (duali, equali, squali)
+Prefix: uali
+Solve: (ualis)
+
+Suffix: (agouara, aguara, duraquara, eskuara, guara, pacaguara, potiguara)
+Prefix: uara
+Solve: (uaraycu)
+
+Suffix: (chi-square, eight-square, foursquare, headsquare, letuare, quare, resquare, semisquare, sesquisquare, square, subsquare, t-square, trisquare, undersquare, unsquare)
+Prefix: uare
+Solve: (uarekena)
+
+Suffix: (aruban, cuban, juban, nagajuban, thuban, yoruban)
+Prefix: uban
+Solve: (ubangi)
+
+Suffix: (bubbe, jubbe, snubbe)
+Prefix: ubbe
+Solve: (ubbenite)
+
+Suffix: (dubbo, gubbo)
+Prefix: ubbo
+Solve: (ubbonite)
+
+Suffix: (anopubic, carnaubic, cherubic, cotylopubic, cubic, epipubic, iliopubic, impubic, interpubic, ischiopubic, postpubic, prepubic, pseudocubic, pubic, retropubic, sacropubic, subcubic, subpubic, suprapubic, uncubic, vesicopubic)
+Prefix: ubic
+Solve: (ubication)
+
+Suffix: (ayyubid)
+Prefix: ubid
+Solve: (ubidecarenone)
+
+Suffix: (rubli)
+Prefix: ubli
+Solve: (ublituximab)
+
+Suffix: (boubou, itoubou)
+Prefix: ubou
+Solve: (ubound)
+
+Suffix: (bubus, equijubus, incubus, jubus, rubus, succubus, urubus)
+Prefix: ubus
+Solve: (ubussu)
+
+Suffix: (acouchi, acuchi, aikuchi, baluchi, beluchi, fuchi, kabuzuchi, makunouchi, mamamouchi, panouchi, penuchi, takeuchi, tsarouchi, yuchi)
+Prefix: uchi
+Solve: (uchigatana)
+
+Suffix: (glucke)
+Prefix: ucke
+Solve: (uckers)
+
+Suffix: (belucki, gucki)
+Prefix: ucki
+Solve: (uckia)
+
+Suffix: (barracudas, bermudas, budas, garudas, judas, maakoudas, maaqoudas, remudas, roudas, rudas, tlayudas)
+Prefix: udas
+Solve: (udasi)
+
+Suffix: (aludel, apfelstrudel, schupfnudel, strudel, tudel)
+Prefix: udel
+Solve: (udell)
+
+Suffix: (louden, youden)
+Prefix: uden
+Solve: (udenafil)
+
+Suffix: (budis, mudis, rudis, saudis)
+Prefix: udis
+Solve: (udish)
+
+Suffix: (pudor, sudor, tudor)
+Prefix: udor
+Solve: (udorthents)
+
+Suffix: (dequeue, enqueue, queue)
+Prefix: ueue
+Solve: (ueueteotl)
+
+Suffix: (drugge, meshugge, notemugge)
+Prefix: ugge
+Solve: (ugged)
+
+Suffix: (puggi)
+Prefix: uggi
+Solve: (ugging)
+
+Suffix: (abought, aforethought, afterthought, arraught, aught, backdraught, befraught, bellyflaught, besought, bestraught, bethought, bewrought, bonaught, bought, brought, bught, caught, claught, connaught, counterthought, dearbought, distraught, dogfought, donought, doublethought, dought, downdraught, draught, dreadnaught, dreadnought, drought, enwrought, extraught, fearnaught, fearnought, fireflaught, flaught, foretaught, forethought, forewrought, forstraught, forthbrought, forthought, fought, fraught, gufought, gunfought, handwrought, hardbought, haught, highwrought, hyperwrought, inbrought, indraught, infought, interwrought, interwwrought, inwrought, maught, megadrought, merrythought, methought, mistaught, misthought, miswrought, mought, naught, nought, onslaught, oufought, ought, outbought, outbrought, outcaught, outdraught, outfought, outraught, outsought, outthought, outwrought, overbought, overcaught, overdistraught, overdraught, overfought, overfraught, overraught, overtaught, overthought, overwrought, overwwrought, pre-dreadnought, prebought, predreadnought, pretaught, raught, rebought, recaught, refought, resought, retaught, rethought, rewrought, rought, roughwrought, saught, shop-bought, sought, spaught, straught, superdreadnought, superwrought, taught, thaught, thought, tought, unbesought, unbethought, unbought, unbrought, uncaught, underbought, underdraught, undertaught, underthought, underwrought, undistraught, unforethought, unfought, unfraught, unsaught, unsought, untaught, unthought, unwrought, upbrought, upcaught, updraught, upraught, upwrought, wandought, waught, williewaught, withdraught, worldaught, wrought)
+Prefix: ught
+Solve: (ughten)
+
+Suffix: (babuina, catoquina, changuina, coquina, harlequina, pruina, puquina, quina, quinaquina, quinquina, suina, totaquina, tuina, yaquina)
+Prefix: uina
+Solve: (uinal)
+
+Suffix: (daiquiri, daquiri, decemuiri)
+Prefix: uiri
+Solve: (uirina)
+
+Suffix: (anti-mosquito, antimosquito, chiquito, coquito, gratuito, intuito, marquito, mosquito, olinguito, paraquito, quito, taquito)
+Prefix: uito
+Solve: (uitotan)
+
+Suffix: (acquits, afterfruits, bejesuits, berryfruits, biscuits, bodysuits, boilersuits, breadfruits, bruits, canefruits, catsuits, circuits, conduits, counter-suits, countersuits, cuits, drysuits, duits, eggfruits, firstfruits, floruits, fogfruits, fruits, fursuits, g-suits, grapefruits, grassquits, guitguits, gymsuits, intuits, inuits, jackfruits, jakfruits, jesuits, jumpsuits, kiwifruits, lawsuits, malemuits, mesquits, mezquits, microcircuits, missuits, nonsuits, pantsuits, playsuits, poursuits, pursuits, quits, ragequits, rainsuits, recruits, reduits, requits, schuits, short-circuits, skinsuits, sleepsuits, sluits, snowsuits, spacesuits, spruits, squits, starfruits, subcircuits, suits, sunsuits, sweatsuits, swimsuits, tracksuits, trekschuits, unsuits, wetsuits, wingsuits)
+Prefix: uits
+Solve: (uitspan)
+
+Suffix: (ukay-ukay)
+Prefix: ukay
+Solve: (ukay-ukay)
+
+Suffix: (laulau)
+Prefix: ulau
+Solve: (ulaula)
+
+Suffix: (annuler, antifouler, beautifuler, befouler, biofouler, calculer, capsuler, caterwauler, co-ruler, corniculer, coruler, dissimuler, duler, euler, ferruler, fouler, hauler, inhauler, mauler, miauler, misruler, outhauler, overhauler, overruler, prouler, puler, ridiculer, ruler, scheduler, shuler, simuler, subruler, thuribuler, tukuler, tummuler, underruler)
+Prefix: uler
+Solve: (ulerythema)
+
+Suffix: (amulet, annulet, barrulet, capulet, cassoulet, circulet, culet, cumulet, epaulet, flosculet, fossulet, globulet, granulet, gulet, houlet, landaulet, lunulet, modulet, mulet, nervulet, piculet, pinnulet, poulet, rivulet, rotulet, scapulet, tubulet, veinulet, zonulet)
+Prefix: ulet
+Solve: (uletic)
+
+Suffix: (boulle, counterboulle, cuculle, ichulle, sculle, tulle)
+Prefix: ulle
+Solve: (uller)
+
+Suffix: (auloi)
+Prefix: uloi
+Solve: (uloid)
+
+Suffix: (agathaumas, barotraumas, curcumas, doumas, dumas, fusumas, humas, loumas, lucumas, lumas, mazumas, neurotraumas, oumas, papaumas, pneumas, pumas, satsumas, strumas, traumas)
+Prefix: umas
+Solve: (umashiashikabihikoji)
+
+Suffix: (calumba, catacumba, columba, dumba, jumba, kurumba, kuumba, macumba, mitumba, rhumba, rumba, tulumba, zumba)
+Prefix: umba
+Solve: (umbalites)
+
+Suffix: (cumbu)
+Prefix: umbu
+Solve: (umbundu)
+
+Suffix: (cumec)
+Prefix: umec
+Solve: (umeclidinium)
+
+Suffix: (tsimtsumim, tzimtzumim)
+Prefix: umim
+Solve: (umimpeded)
+
+Suffix: (cucumis, halloumis, haloumis, koumis, kumikumis, kumis, numis, pumis, sumis)
+Prefix: umis
+Solve: (umist)
+
+Suffix: (lumme)
+Prefix: umme
+Solve: (ummed)
+
+Suffix: (gummi, nummi)
+Prefix: ummi
+Solve: (umming)
+
+Suffix: (clumse)
+Prefix: umse
+Solve: (umset)
+
+Suffix: (bunji-bunji, kipunji, punji)
+Prefix: unji
+Solve: (unjilted)
+
+Suffix: (immunol)
+Prefix: unol
+Solve: (unold)
+
+Suffix: (bunya, chikungunya)
+Prefix: unya
+Solve: (unyachtsmanlike)
+
+Suffix: (ketupat, ketupat-ketupat)
+Prefix: upat
+Solve: (upattic)
+
+Suffix: (corupay, cupay, curupay)
+Prefix: upay
+Solve: (upaya)
+
+Suffix: (clupea)
+Prefix: upea
+Solve: (upeat)
+
+Suffix: (chirruper, couper, crouper, dispauper, douper, duper, forelouper, gauper, grouper, insuper, keuper, landlouper, larruper, pauper, pea-souper, peasouper, recouper, rouper, scauper, siruper, souper, super, super-duper, superduper, syruper, trouper, vituper, voluper, yauper)
+Prefix: uper
+Solve: (uperize)
+
+Suffix: (curupey)
+Prefix: upey
+Solve: (upeygan)
+
+Suffix: (illupis, lupis)
+Prefix: upis
+Solve: (upisland)
+
+Suffix: (centuply, duply, octuply, quadruply, quintuply, sextuply)
+Prefix: uply
+Solve: (uplying)
+
+Suffix: (chuppa, cuppa, duppa, zuppa)
+Prefix: uppa
+Solve: (uppard)
+
+Suffix: (volupty)
+Prefix: upty
+Solve: (uptying)
+
+Suffix: (durag)
+Prefix: urag
+Solve: (uragoga)
+
+Suffix: (burel, churel, dislaurel, droiturel, enlaurel, jurel, laurel, naturel, plurel, saurel, titurel, xurel)
+Prefix: urel
+Solve: (urelumab)
+
+Suffix: (purey)
+Prefix: urey
+Solve: (ureylene)
+
+Suffix: (burfi)
+Prefix: urfi
+Solve: (urfirnis)
+
+Suffix: (courie, curie, ecurie, gaurie, glamourie, kilocurie, laurie, lourie, megacurie, microcurie, micromicrocurie, millicurie, multicurie, nanocurie, ourie, picocurie, pourie, scaurie, scourie, seigneurie, signeurie, stourie, tourie)
+Prefix: urie
+Solve: (uriel)
+
+Suffix: (gurle, thurle)
+Prefix: urle
+Solve: (urled)
+
+Suffix: (curli)
+Prefix: urli
+Solve: (urling)
+
+Suffix: (bourne, contourne, diurne, lilburne, melbourne, mourne, nocturne, spurne, tourne, winterbourne)
+Prefix: urne
+Solve: (urned)
+
+Suffix: (dhourra, dhurra, durra, goburra, hurra, kookaburra, korumburra, kurmburra, mafurra, murra, saburra, surra)
+Prefix: urra
+Solve: (urradhus)
+
+Suffix: (yuruk)
+Prefix: uruk
+Solve: (urukuena)
+
+Suffix: (aurum, bupleurum, durum, parapleurum, pleurum)
+Prefix: urum
+Solve: (urumqi)
+
+Suffix: (burut, murut)
+Prefix: urut
+Solve: (urutu)
+
+Suffix: (mbukushu, wushu)
+Prefix: ushu
+Solve: (ushuaia)
+
+Suffix: (zakouska, zakuska)
+Prefix: uska
+Solve: (uskara)
+
+Suffix: (voluspa)
+Prefix: uspa
+Solve: (uspanteca)
+
+Suffix: (augusta, balausta, crusta, enteropneusta, frusta, lincrusta, locusta, pharyngopneusta, pyrausta, robusta)
+Prefix: usta
+Solve: (ustarana)
+
+Suffix: (busto, giusto, gusto, justo, raejuusto)
+Prefix: usto
+Solve: (ustorious)
+
+Suffix: (amputee, bursautee, dilutee, distributee, persecutee, tutee)
+Prefix: utee
+Solve: (utees)
+
+Suffix: (buteo, luteo)
+Prefix: uteo
+Solve: (uteodon)
+
+Suffix: (couthe, mouthe)
+Prefix: uthe
+Solve: (uther)
+
+Suffix: (acroteleutic, actinotherapeutic, aeronautic, antiscorbutic, argonautic, astronautic, autotherapeutic, bacteriotherapeutic, bibliotherapeutic, butic, chemotherapeutic, choreutic, cosmonautic, diazeutic, digoneutic, electrotherapeutic, electrotheraputic, emphyteutic, empiricutic, emporeutic, halieutic, hermeneutic, homoeoteleutic, hydrotherapeutic, ichneutic, immunotherapeutic, jutic, latreutic, logotherapeutic, maieutic, mechanotherapeutic, mechanotheraputic, metallotherapeutic, methodeutic, monogoneutic, mutic, nautic, nonpharmaceutic, nontherapeutic, paedeutic, paideutic, parachutic, pharmaceutic, phenomenological-hermeneutic, phototherapeutic, phthisiotherapeutic, physicotherapeutic, physiotherapeutic, polygoneutic, postscorbutic, probouleutic, propaedeutic, psychotherapeutic, radiotherapeutic, rutic, scorbutic, serotherapeutic, subtherapeutic, symbouleutic, therapeutic, toreutic, trigoneutic, untherapeutic, zomotherapeutic)
+Prefix: utic
+Solve: (utick)
+
+Suffix: (arbutin, butin, conglutin, cornutin, cutin, falutin, glutin, hifalutin, highfalutin, rutin, semiglutin, tutin, volutin)
+Prefix: utin
+Solve: (utinam)
+
+Suffix: (accoutre, boutre, feutre, foutre, loutre, outre)
+Prefix: utre
+Solve: (utrecht)
+
+Suffix: (butsu, daibutsu, hojojutsu, jiu-jutsu, jiujutsu, jojutsu, ju-jutsu, jujutsu, kenjutsu, nembutsu, ninjutsu, shurikenjutsu)
+Prefix: utsu
+Solve: (utsuk)
+
+Suffix: (truvat)
+Prefix: uvat
+Solve: (uvate)
+
+Suffix: (heuvel)
+Prefix: uvel
+Solve: (uvella)
+
+Suffix: (fluvio, montuvio)
+Prefix: uvio
+Solve: (uviol)
+
