@@ -22,6 +22,7 @@ airy
 ajaja
 akamatsu
 alcarrazas
+all-in
 almemor
 amastia
 ambassadeur
@@ -72,6 +73,7 @@ barbudan
 barszcz
 baruya
 barye
+batik
 battak
 batussi
 bayano
@@ -136,6 +138,7 @@ buy-in
 cahuy
 calabazas
 calibre
+call-in
 callosum
 camacey
 campanini
@@ -188,6 +191,7 @@ collegese
 colobin
 colosso
 colpheg
+comatik
 comme
 consomme
 contakion
@@ -299,6 +303,7 @@ femal
 fenrir
 fibre
 fidel
+fill-in
 finetop
 finnesko
 firetop
@@ -367,6 +372,7 @@ haikun
 handarm
 haplophase
 hapten
+have-a-go
 hawaii
 he'd
 he-he
@@ -437,6 +443,7 @@ kamelaukion
 kanzus
 kapok
 katangese
+katik
 katsu
 kayokyoku
 kemal
@@ -451,6 +458,7 @@ knars
 kneidel
 kobe
 kokuji
+komatik
 konini
 kontakion
 korova
@@ -472,6 +480,7 @@ lacrym
 lacunars
 lagenas
 laich
+latke
 lavash
 lechayim
 lehayim
@@ -694,6 +703,7 @@ pseudogeustia
 pseudohemal
 pterophryne
 pudeur
+pull-in
 pulvinars
 punaluan
 punany
@@ -788,6 +798,7 @@ slurb
 smaak
 snars
 snowy
+snuneymuxw
 sociologese
 sonars
 sopranini
@@ -915,6 +926,7 @@ willowy
 windowy
 windslabs
 would-be
+wuikinuxv
 xylan
 yadayim
 yapok
