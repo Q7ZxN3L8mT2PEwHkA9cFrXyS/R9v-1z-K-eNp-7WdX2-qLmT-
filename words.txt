@@ -341637,7 +341637,6 @@ qazi
 qbism
 qbisms
 qe
-qebapa
 qed
 qedoshim
 qeej
@@ -342087,6 +342086,8 @@ quadruply
 quadrupole
 quadrupoles
 quads
+quadtree
+quadtrees
 quae
 quaedam
 quaequae
@@ -342477,6 +342478,7 @@ quartermistress
 quartern
 quarternight
 quarternion
+quarternions
 quarterns
 quarteron
 quarterpace
@@ -342542,13 +342544,10 @@ quasars
 quash
 quashed
 quashee
-quashees
 quasher
 quashers
 quashes
 quashey
-quashie
-quashies
 quashing
 quashy
 quasi
@@ -342715,8 +342714,9 @@ quasicrystals
 quasiequilibria
 quasiequilibrium
 quasiequivalent
+quasigroup
+quasigroups
 quasijudicial
-quasilinear
 quasilinearisation
 quasilinearisations
 quasilinearization
@@ -342726,12 +342726,16 @@ quasimonochromatic
 quasimonoenergetic
 quasimonotonicities
 quasimonotonicity
+quasinorm
+quasinormal
+quasinorms
 quasiorder
 quasiparticle
 quasiparticles
 quasiperiodic
 quasiperiodicities
 quasiperiodicity
+quasispecies
 quasistationary
 quaskies
 quasky
@@ -342772,6 +342776,8 @@ quaternitarian
 quaternities
 quaternity
 quateron
+quaterpyridine
+quaterpyridines
 quaters
 quatertenses
 quates
@@ -342849,6 +342855,7 @@ quays
 quayside
 quaysider
 quaysides
+quazepam
 quazzier
 quazziest
 quazzy
@@ -342976,7 +342983,6 @@ queerity
 queerly
 queerness
 queernesses
-queers
 queersome
 queery
 queest
@@ -343104,7 +343110,6 @@ quernales
 querns
 quernstone
 quernstones
-querre
 quersprung
 quersprungs
 querulant
@@ -343119,6 +343124,7 @@ querulously
 querulousness
 querulousnesses
 query
+queryable
 querying
 queryingly
 queryings
@@ -343582,6 +343588,8 @@ quino
 quinoa
 quinoas
 quinocarbonium
+quinodimethane
+quinodimethanes
 quinoform
 quinogen
 quinoid
@@ -343789,7 +343797,6 @@ quintole
 quinton
 quintons
 quintroon
-quintroons
 quints
 quintuple
 quintupled
@@ -344145,9 +344152,7 @@ quytes
 quyting
 qvevri
 qvevris
-qwerties
 qwerty
-qwertys
 qwertz
 r-algebra
 r-algebras
@@ -344178,6 +344183,8 @@ r-values
 r-word
 r-words
 ra
+ra-ra
+ra-ras
 raa
 raad
 raadzaal
@@ -344246,7 +344253,6 @@ rabbiship
 rabbit
 rabbit-feet
 rabbit-foot
-rabbit-hunting
 rabbitberries
 rabbitberry
 rabbitbrush
@@ -344584,8 +344590,6 @@ ractopamine
 ractopamines
 racy
 rad
-rad-lib
-rad-libs
 rada
 radar
 radarman
@@ -344888,6 +344892,8 @@ radiolaria
 radiolarian
 radiolarians
 radiolead
+radioligand
+radioligands
 radiolite
 radiolites
 radiolitic
@@ -345306,6 +345312,8 @@ ragworms
 ragwort
 ragworts
 rah
+rah-rah
+rah-rahs
 rahanwin
 rahdar
 rahdaree
@@ -345338,8 +345346,6 @@ raiked
 raiking
 raiks
 rail
-rail-babbler
-rail-babblers
 railage
 railages
 railbed
@@ -345553,6 +345559,8 @@ rajpoot
 rajpramukh
 rajpramukhs
 rajput
+rakaat
+rakaats
 rakan
 rake
 rake-off
@@ -345649,6 +345657,10 @@ ralstonites
 raltegravir
 raltitrexed
 ram
+ram-raid
+ram-raided
+ram-raiding
+ram-raids
 rama
 ramack
 ramada
@@ -345668,7 +345680,6 @@ ramapithecine
 ramapithecines
 ramarama
 ramark
-ramass
 ramate
 rambarre
 rambeh
@@ -345795,8 +345806,6 @@ rammles
 rammy
 ramneek
 ramnenses
-ramnes
-ramon
 ramona
 ramonas
 ramoneur
@@ -345916,7 +345925,6 @@ ramverse
 ramyeon
 ramyeons
 ran
-ran-in
 rana
 ranal
 ranales
@@ -346987,8 +346995,12 @@ rauraci
 raurici
 rauriki
 raurikis
+rauvite
+rauvites
 rauwolfia
 rauwolfias
+rauwolscine
+rauwolscines
 rav
 ravage
 ravaged
@@ -347189,7 +347201,6 @@ razmatazes
 razoo
 razoos
 razor
-razor-sharp
 razorable
 razorback
 razorbacks
@@ -347233,9 +347244,7 @@ razzmatazz
 razzmatazzes
 rbound
 rcd
-rchitect
 rcpt
-rcs
 rct
 rcvr
 re
@@ -347247,6 +347256,10 @@ re-elect
 re-elected
 re-electing
 re-elects
+re-emerge
+re-emerged
+re-emerges
+re-emerging
 re-endothelialisation
 re-endothelialisations
 re-endothelialization
@@ -347272,12 +347285,24 @@ re-explore
 re-explored
 re-explores
 re-exploring
+re-expose
+re-exposed
+re-exposes
+re-exposing
+re-exposure
+re-exposures
 re-express
 re-expressed
 re-expresses
 re-expressing
 re-expression
 re-expressions
+re-identification
+re-identifications
+re-identified
+re-identifies
+re-identify
+re-identifying
 re-queen
 re-queened
 re-queening
@@ -347292,8 +347317,9 @@ re-releases
 re-releasing
 re-treatment
 re-treatments
+re-up
+re-ups
 rea
-reaal
 reabandon
 reabandoned
 reabandoning
@@ -349054,7 +349080,6 @@ rechecked
 rechecking
 rechecks
 recheer
-recherch
 recherche
 rechew
 rechewed
@@ -349241,7 +349266,6 @@ reclasp
 reclasped
 reclasping
 reclasps
-reclass
 reclassification
 reclassifications
 reclassified
@@ -349453,7 +349477,6 @@ recomfortless
 recomforts
 recomforture
 recomfortures
-recommand
 recommence
 recommenced
 recommencement
@@ -350183,6 +350206,8 @@ rectoresses
 rectorial
 rectorials
 rectories
+rectorite
+rectorites
 rectorrhaphy
 rectors
 rectorship
@@ -350310,7 +350335,6 @@ recusator
 recuse
 recused
 recuses
-recusf
 recushion
 recusing
 recussion
@@ -350337,9 +350361,7 @@ red
 red-blooded
 red-eye
 red-eyes
-red-haired
 red-handed
-red-hot
 red-hots
 red-pill
 red-pilled
@@ -350851,7 +350873,6 @@ redistil
 redistill
 redistillable
 redistillableness
-redistillabness
 redistillation
 redistillations
 redistilled
@@ -350904,8 +350925,6 @@ redivulge
 redivulgence
 redjacket
 redknees
-redleg
-redlegs
 redline
 redlined
 redliner
@@ -351050,8 +351069,6 @@ redshirted
 redshirting
 redshirts
 redshort
-redskin
-redskins
 redstart
 redstarts
 redstone
@@ -351099,6 +351116,8 @@ reductases
 reductibility
 reductio
 reduction
+reduction-oxidation
+reduction-oxidations
 reductional
 reductionism
 reductionisms
@@ -351225,6 +351244,8 @@ reedmaker
 reedmaking
 reedman
 reedmen
+reedmergnerite
+reedmergnerites
 reedplot
 reeds
 reedstop
@@ -351639,6 +351660,9 @@ refaces
 refacilitate
 refacing
 refaction
+refactor
+refactoring
+refactors
 refait
 refall
 refallen
@@ -351714,7 +351738,6 @@ refencing
 refer
 referable
 referda
-refered
 referee
 refereed
 refereeing
@@ -352454,7 +352477,6 @@ regeneratively
 regenerator
 regenerators
 regeneratory
-regeneratoryregeneratress
 regeneratress
 regeneratrix
 regenesis
@@ -352944,8 +352966,6 @@ reheal
 reheap
 rehear
 reheard
-rehearheard
-rehearhearing
 rehearing
 rehearings
 rehears
@@ -353861,7 +353881,6 @@ reknotting
 reknottings
 reknow
 rekt
-rel
 relabel
 relabeled
 relabeling
@@ -354085,7 +354104,6 @@ releve
 relevel
 releveled
 releveling
-relevent
 relever
 releves
 relevied
@@ -354649,6 +354667,7 @@ remilitarizes
 remilitarizing
 remill
 remillable
+remimazolam
 remimic
 remind
 remindal
@@ -354965,7 +354984,6 @@ remurmur
 remurmured
 remurmuring
 remurmurs
-remus
 remuster
 remutation
 remyelinate
@@ -355066,6 +355084,7 @@ rendezvouses
 rendezvousing
 rendibility
 rendible
+rendille
 rending
 rendition
 renditioned
@@ -355183,7 +355202,6 @@ renigs
 renilla
 renillidae
 renin
-renin-angiotensin
 renin-angiotensin-aldosterone
 renins
 renipericardial
@@ -355235,7 +355253,6 @@ renominates
 renominating
 renomination
 renominations
-renomme
 renommee
 renone
 renopericardial
@@ -355310,6 +355327,7 @@ renshen
 rensselaerite
 rensselaerites
 rent
+rent-free
 rentabilities
 rentability
 rentable
@@ -356172,7 +356190,6 @@ repour
 repoured
 repouring
 repours
-repouss
 repoussage
 repoussages
 repousse
@@ -356189,7 +356206,6 @@ repped
 repping
 reppings
 repps
-repr
 repractice
 repracticed
 repracticing
@@ -356199,7 +356215,11 @@ repraising
 repray
 repreach
 reprecipitate
+reprecipitated
+reprecipitates
+reprecipitating
 reprecipitation
+reprecipitations
 repredict
 repreeve
 repreeved
@@ -356516,7 +356536,6 @@ reproves
 reprovide
 reproving
 reprovingly
-reprovings
 reprovision
 reprovisioned
 reprovisioning
@@ -356705,7 +356724,6 @@ reputes
 reputing
 reputings
 req
-reqa'
 reqd
 requalification
 requalifications
@@ -357513,6 +357531,7 @@ resipiscences
 resipiscencies
 resipiscency
 resipiscent
+resiquimod
 resist
 resistability
 resistable
@@ -357527,9 +357546,6 @@ resistantly
 resistants
 resistate
 resisted
-resistence
-resistent
-resistents
 resister
 resisters
 resistful
@@ -357616,6 +357632,8 @@ resnap
 resnatch
 resnatron
 resnatrons
+resnet
+resnets
 resnub
 resoak
 resoaked
@@ -357727,6 +357745,8 @@ resorbing
 resorbs
 resorcin
 resorcinal
+resorcinarene
+resorcinarenes
 resorcine
 resorcinism
 resorcinisms
@@ -357922,7 +357942,6 @@ responders
 responding
 responds
 responsa
-responsable
 responsal
 responsary
 response
@@ -358051,7 +358070,6 @@ restation
 restationed
 restationing
 restations
-restaur
 restaurant
 restauranteur
 restauranteurs
@@ -358185,7 +358203,6 @@ restorer
 restorers
 restores
 restoring
-restoringmoment
 restos
 restow
 restowal
@@ -358608,7 +358625,6 @@ retaped
 retapes
 retaping
 retar
-retard
 retardance
 retardant
 retardants
@@ -358618,7 +358634,6 @@ retardation
 retardations
 retardative
 retardatory
-retarded
 retardee
 retardence
 retardent
@@ -358629,7 +358644,6 @@ retardingly
 retardive
 retardment
 retardments
-retards
 retardure
 retare
 retarget
@@ -358716,7 +358730,6 @@ reterritorialisation
 reterritorialisations
 reterritorialization
 reterritorializations
-retes
 retest
 retested
 retestified
@@ -358765,7 +358778,6 @@ retiariae
 retiarian
 retiarii
 retiarius
-retiariuses
 retiary
 reticella
 reticellas
@@ -358951,7 +358963,6 @@ retoast
 retold
 retolerate
 retoleration
-retomb
 retonation
 retook
 retool
@@ -359182,6 +359193,11 @@ retrimming
 retrims
 retrip
 retro
+retro-futurism
+retro-futurisms
+retro-futurist
+retro-futuristic
+retro-futurists
 retroact
 retroacted
 retroacting
@@ -359272,6 +359288,12 @@ retroform
 retrofract
 retrofracted
 retrofrontal
+retrofuture
+retrofuturism
+retrofuturisms
+retrofuturist
+retrofuturistic
+retrofuturists
 retrogaming
 retrogastric
 retrogenerative
@@ -359394,7 +359416,6 @@ retrotracheal
 retrotransfer
 retrotransference
 retrotympanic
-retrouss
 retroussage
 retroussages
 retrousse
@@ -359412,6 +359433,7 @@ retroviral
 retrovirus
 retroviruses
 retrovision
+retrowave
 retroxiphoid
 retrude
 retruded
@@ -359428,7 +359450,6 @@ rets
 retsina
 retsinas
 retted
-retter
 retteries
 rettery
 retting
@@ -359555,11 +359576,9 @@ reusability
 reusable
 reusableness
 reusables
-reusabness
 reuse
 reuseable
 reuseableness
-reuseabness
 reused
 reuses
 reusing
@@ -359931,7 +359950,6 @@ reviewish
 reviewless
 reviews
 revification
-revigor
 revigorate
 revigoration
 revigour
@@ -360540,6 +360558,7 @@ rhasophore
 rhatania
 rhatanies
 rhatany
+rhathymias
 rhatikon
 rhea
 rheadine
@@ -360973,7 +360992,6 @@ rhodanized
 rhodanizes
 rhodanizing
 rhodanthe
-rhode
 rhodeoretin
 rhodeose
 rhodes
@@ -361395,6 +361413,7 @@ ribible
 ribibles
 ribier
 ribiers
+ribitol
 ribless
 riblet
 riblets
@@ -361504,6 +361523,8 @@ richesses
 richest
 richeted
 richeting
+richetite
+richetites
 richetted
 richetting
 richfield
@@ -361859,10 +361880,9 @@ right-handednesses
 right-handers
 right-libertarianism
 right-libertarianisms
-right-libertarianist
-right-libertarianists
 right-minded
 right-o
+right-on
 right-to-life
 right-to-lifer
 right-to-lifers
@@ -361870,7 +361890,6 @@ right-to-work
 right-wing
 right-winger
 right-wingers
-right-wingy
 rightable
 rightableness
 rightablenesses
@@ -361916,7 +361935,6 @@ rightmost
 rightness
 rightnesses
 righto
-rightos
 rights
 rightship
 rightsize
@@ -361928,6 +361946,7 @@ rightward
 rightwardly
 rightwards
 righty
+righty-ho
 rigid
 rigider
 rigidest
@@ -362150,8 +362169,6 @@ ring-around-the-rosies
 ring-around-the-rosy
 ring-silicate
 ring-silicates
-ring-stopper
-ring-stoppers
 ringable
 ringatu
 ringbark
@@ -362433,6 +362450,7 @@ risankizumab
 risberm
 risdaler
 rise
+risedronate
 risen
 riser
 risers
@@ -362489,7 +362507,6 @@ risping
 rispings
 risposta
 risps
-risqu
 risque
 risquee
 risques
@@ -362529,6 +362546,7 @@ ritenuto
 ritenutos
 rites
 rithe
+ritlecitinib
 ritling
 ritmaster
 ritonavir
@@ -362595,7 +362613,6 @@ ritzily
 ritziness
 ritzinesses
 ritzy
-riv
 riva
 rivage
 rivages
@@ -362721,7 +362738,6 @@ rivinian
 rivlin
 rivlins
 rivo
-rivos
 rivose
 rivularia
 rivulariaceae
@@ -362774,7 +362790,6 @@ rkatsiteli
 rld
 rlly
 rly
-rmoulade
 rn
 rna
 rngesus
@@ -363064,7 +363079,6 @@ rociletinib
 rock
 rock-and-roll
 rock-bottom
-rock-hard
 rockabies
 rockabillies
 rockabilly
@@ -363338,6 +363352,8 @@ rogerings
 rogero
 rogers
 rogersite
+roggianite
+roggianites
 roggle
 roglai
 rognon
@@ -363465,8 +363481,6 @@ roll
 roll-off
 roll-offs
 roll-on
-roll-on-roll-off
-roll-on-roll-offs
 roll-ons
 rollable
 rollaway
@@ -363609,6 +363623,7 @@ romanescos
 romanese
 romanesque
 romanhood
+romani
 romania
 romanian
 romanians
@@ -363681,7 +363696,6 @@ romanza
 romanzas
 romarchite
 romarchites
-romas
 romaunt
 romaunts
 romble
@@ -363711,6 +363725,7 @@ romhacks
 romic
 romidepsin
 romipetal
+romiplostim
 romish
 romishly
 romishness
@@ -364154,7 +364169,6 @@ rorts
 rorty
 rorulent
 rory
-ros
 rosa
 rosabel
 rosabella
@@ -364191,6 +364205,7 @@ rosarium
 rosariums
 rosaruby
 rosary
+rosasite
 rosated
 rosbif
 rosbifs
@@ -364379,6 +364394,8 @@ rosters
 rosti
 rosting
 rostis
+rostite
+rostites
 rostra
 rostral
 rostrally
@@ -364502,6 +364519,7 @@ rotiferans
 rotiferous
 rotifers
 rotiform
+rotigotine
 roting
 rotini
 rotinis
@@ -364774,6 +364792,8 @@ round-shouldered
 round-the-clock
 round-trip
 round-trips
+round-up
+round-ups
 roundabout
 roundaboutation
 roundabouted
@@ -364869,7 +364889,6 @@ roupit
 roups
 roupy
 rourkela
-rous
 rousable
 rousant
 rouse
@@ -364927,6 +364946,8 @@ routh
 routhercock
 routhie
 routhier
+routhierite
+routhierites
 routhiest
 routhiness
 rouths
@@ -365135,6 +365156,8 @@ rozanolixizumab
 rozelle
 rozelles
 rozener
+rozenite
+rozenites
 rozet
 rozeted
 rozeting
@@ -365144,6 +365167,7 @@ rozited
 roziting
 rozits
 rozum
+rozvi
 rozzer
 rozzers
 rp
@@ -365152,7 +365176,6 @@ rpm
 rq
 rrhiza
 rsvp
-rt
 rts
 rua
 ruach
@@ -366007,7 +366030,6 @@ runniest
 runniness
 runninesses
 running
-running-in
 runningly
 runnings
 runnion
@@ -366027,7 +366049,6 @@ runrigs
 runround
 runrounds
 runs
-runs-in
 runsy
 runt
 runted
@@ -366070,8 +366091,6 @@ rupie
 rupitic
 ruppia
 ruptile
-ruption
-ruptive
 ruptuary
 rupturable
 rupture
@@ -366119,7 +366138,6 @@ rurp
 rurps
 ruru
 rurus
-rus
 rusa
 rusalka
 rusalkas
@@ -366165,7 +366183,6 @@ rusma
 rusmas
 rusot
 ruspone
-russ
 russe
 russel
 russelet
@@ -366205,8 +366222,6 @@ russify
 russifying
 russine
 russism
-russki
-russkies
 russniak
 russolatrous
 russolatry
@@ -366367,6 +366382,7 @@ ruttishness
 ruttishnesses
 ruttle
 rutty
+rutul
 rutuli
 rutyl
 rutylene
@@ -366374,6 +366390,8 @@ ruvid
 ruxolitinib
 ruyangosaurus
 ruyangosauruses
+ruyi
+ruyis
 rvalue
 rvalues
 rwanda
@@ -441349,6 +441367,7 @@ trows
 trowsers
 trowth
 trowths
+troxacitabine
 troy
 troynovant
 troys

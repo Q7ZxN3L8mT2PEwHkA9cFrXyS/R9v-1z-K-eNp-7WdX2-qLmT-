@@ -629,6 +629,7 @@ pavois
 payong
 pecke
 pedagese
+pedalo
 pediwak
 pekingese
 peloton
@@ -852,7 +853,9 @@ taleae
 tallowy
 tapasvi
 telophase
+tenascin-c
 tenascin-r
+tenascin-w
 tengkolok
 tetrabromo
 tetrahymenas
@@ -864,6 +867,7 @@ thiocyano
 thulr
 thwartsaw
 tifos
+tindalo
 tody
 tokomak
 toktokje

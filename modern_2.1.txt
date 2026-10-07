@@ -221,6 +221,7 @@ ngie
 nicarao
 niobe
 nippitaty
+nitrox
 nobodyd
 nontaxer
 orexin-a
@@ -318,7 +319,6 @@ taxer
 tebu
 tektosil
 telex
-tenascin-c
 tetel
 tetrao
 thalwegs
