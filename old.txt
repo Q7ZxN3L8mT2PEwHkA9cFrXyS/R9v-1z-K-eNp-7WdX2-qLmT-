@@ -2,7 +2,6 @@ aardvark
 abacaxi
 abandon
 abandoned
-abarambo
 abator
 abattoir
 abave
@@ -405,7 +404,6 @@ akazgine
 akcheh
 akene
 akhrot
-akimbo
 akiraho
 akka
 akoasma
@@ -579,7 +577,6 @@ ambipolar
 ambisyllabic
 ambitioned
 amblyopic
-ambo
 amboinas
 ambolic
 ambrette
@@ -700,7 +697,6 @@ anaesthetist
 anagnostes
 anagoge
 anagrammatist
-anahau
 analogal
 analphabetes
 analyt
@@ -2156,7 +2152,6 @@ billons
 billowier
 bilobar
 bimbette
-bimbo
 bimetallic
 bimetals
 bingles
@@ -2322,7 +2317,6 @@ bombazette
 bombe
 bombes
 bombinae
-bombo
 bombonne
 bombycoid
 bombyxes
@@ -2653,7 +2647,6 @@ bullshots
 bulnbuln
 bumbershoots
 bumbledom
-bumbo
 bumfreezers
 bumperette
 bumpkinet
@@ -2746,7 +2739,6 @@ cachinnator
 cachoeira
 cacholots
 cachua
-cacimbo
 cackerel
 cackles
 cacodoxian
@@ -2817,7 +2809,6 @@ callisteia
 callisto
 calmier
 calombigas
-calombo
 calor
 calorisator
 calpulli
@@ -3931,7 +3922,6 @@ colobid
 colocolic
 cologarithm
 colognes
-colombo
 colonel
 colonette
 coloni
@@ -3956,7 +3946,6 @@ coltsfoots
 colubrina
 colubrinae
 columbanian
-columbo
 columellar
 columneas
 comal
@@ -3967,7 +3956,6 @@ combe
 combes
 combies
 combinator
-combo
 comd
 comediette
 comedo
@@ -4237,7 +4225,6 @@ coredeemed
 coredeems
 coreign
 coreys
-corflambo
 corge
 coria
 corimelaena
@@ -4425,7 +4412,6 @@ crajuru
 cramasie
 crambes
 crambinae
-crambo
 cramesy
 crampette
 cramponed
@@ -5266,7 +5252,6 @@ dillenia
 dilogarithm
 diltiazems
 dilutee
-dimbo
 dimedon
 dimensioned
 dimetallic
@@ -5691,7 +5676,6 @@ dulcineas
 dulcitol
 duler
 dullishly
-dumbo
 dumdums
 dummier
 dummies
@@ -7243,7 +7227,6 @@ gambes
 gambeson
 gambette
 gambir
-gambo
 gambrel
 gambs
 gamdeboo
@@ -7602,7 +7585,6 @@ gollar
 golliwogg
 goloshe
 gombay
-gombo
 gombocs
 gomerel
 gomerils
@@ -7855,7 +7837,6 @@ guizers
 gullishly
 gulliver
 gulmohar
-gumbo
 gumboots
 gumbotils
 gummi
@@ -8345,7 +8326,6 @@ higra
 hikuli
 hilloaing
 himalayan
-himbo
 hinahinas
 hiney
 hinny
@@ -8556,7 +8536,6 @@ hulloaing
 humaniformian
 humanizers
 humblie
-humbo
 humidity
 humidor
 humiliator
@@ -9338,7 +9317,6 @@ jamahiriya
 jamahiriyas
 jambes
 jambiyas
-jambo
 jambolan
 jambs
 jameson
@@ -9416,7 +9394,6 @@ jiggles
 jigots
 jilebi
 jiltish
-jimbo
 jimmies
 jingles
 jinglet
@@ -9482,7 +9459,6 @@ julid
 julidan
 jumbal
 jumbies
-jumbo
 jumhouriya
 jumhouriyas
 jumpoff
@@ -9524,7 +9500,6 @@ kaffeeklatsch
 kafir
 kafirin
 kafta
-kahau
 kahuna
 kahwa
 kaika
@@ -9620,7 +9595,6 @@ kelek
 kelims
 kelotomies
 kelowna
-kembo
 kemboed
 kenjutsu
 kenoticism
@@ -9683,7 +9657,6 @@ kilogauss
 kilogrammetre
 kilometre
 kilotonne
-kimbo
 kimboed
 kinakinas
 kinara
@@ -9708,7 +9681,6 @@ kipunji
 kirbies
 kirghiz
 kirimon
-kirombo
 kismet
 kiswa
 kitabis
@@ -10181,7 +10153,6 @@ limacea
 limacinid
 limacoid
 limbal
-limbo
 limboed
 limier
 limitrophe
@@ -10587,7 +10558,6 @@ maladministrator
 malagigi
 malaise
 malakon
-malambo
 malapportioned
 malapropos
 malaxator
@@ -10614,7 +10584,6 @@ mamaligas
 mamamouchi
 mamamu
 mamasan
-mambo
 mamboed
 mamelons
 mameluco
@@ -11214,7 +11183,6 @@ minoan
 minow
 minuetish
 minxishly
-miombo
 miqra
 miracicidia
 miracidia
@@ -11476,7 +11444,6 @@ montezuma
 monticles
 montjoye
 montuvio
-monumbo
 moobies
 moodishly
 moolet
@@ -11630,7 +11597,6 @@ multitasks
 multitheist
 multitoned
 multivibrator
-mumbo
 mummies
 mumpishly
 munchausen
@@ -11889,7 +11855,6 @@ negro
 negrophils
 neighed
 neist
-nelumbo
 nematogen
 nematognathi
 nembutsu
@@ -12669,7 +12634,6 @@ oscula
 osculatrixes
 oscurantist
 oscurrantist
-oshiwambo
 osmanli
 osmodysphoria
 osmolar
@@ -12776,7 +12740,6 @@ outweighed
 outwhirl
 ouverte
 ouyezd
-ovambo
 ovariectomies
 ovariotomies
 ovator
@@ -14237,7 +14200,6 @@ polyzoans
 pomatomus
 pombe
 pombes
-pombo
 pomeranian
 pommies
 pompholyxes
@@ -15227,7 +15189,6 @@ rakit
 rakshasa
 rallinae
 ramadas
-rambo
 ramekin
 ramforce
 ramies
@@ -15833,7 +15794,6 @@ roseroots
 roset
 rosetan
 rosette
-roshambo
 rosinier
 rosinol
 rosminian
@@ -15912,7 +15872,6 @@ ruledom
 ruler
 rumanian
 rumbaing
-rumbo
 rumdums
 ruminator
 rummier
@@ -16043,7 +16002,6 @@ salvianin
 samaan
 sambaing
 sambal
-sambo
 samekh
 samian
 samiel
@@ -17885,7 +17843,6 @@ superfluidity
 superfrontals
 superhelixes
 superintellectual
-superjumbo
 supermystery
 supernacula
 superorganicism
@@ -18170,7 +18127,6 @@ tamarisks
 tamaroa
 tamaulipecan
 tambaroora
-tambo
 tambor
 tambouki
 tambourinade
@@ -18672,7 +18628,6 @@ timaliinae
 timariots
 timawa
 timbal
-timbo
 timbrel
 timidity
 timonian
@@ -19318,7 +19273,6 @@ ulzies
 umbellar
 umbellic
 umbelliferae
-umbo
 umbracula
 umbrae
 umbrel
@@ -20591,7 +20545,6 @@ zaikai
 zakouska
 zakuska
 zambal
-zambo
 zamboorak
 zamindary
 zanabazar
