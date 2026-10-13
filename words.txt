@@ -487750,12 +487750,10 @@ xylotypographic
 xylotypographies
 xylotypography
 xyloyl
-xylulokinase
-xylulokinases
 xylulose
-xyluloses
 xylyl
 xylylene
+xylylenes
 xylylic
 xylyls
 xyphoid
@@ -487982,6 +487980,7 @@ yakut
 yakutat
 yakuza
 yakuzas
+yala
 yalb
 yald
 yale
@@ -488048,8 +488047,6 @@ yandere
 yanderes
 yandusaurus
 yang
-yang-kin
-yang-kins
 yangban
 yangbans
 yangchuanosaurus
@@ -488093,15 +488090,18 @@ yanolite
 yanomami
 yanqui
 yanquis
+yansi
 yantra
 yantras
 yao
 yaodong
 yaodongs
+yaoguai
 yaoguais
 yaoi
 yaois
 yaoort
+yaos
 yaourt
 yaourti
 yaourts
@@ -488383,6 +488383,8 @@ yds
 ye
 ye'elimite
 ye'elimites
+ye-ye
+ye-yes
 yea
 yea-saying
 yead
@@ -488525,8 +488527,6 @@ yelloching
 yellochs
 yellow
 yellow-bellied
-yellow-cress
-yellow-cresses
 yellow-dog
 yellowammer
 yellowback
@@ -488804,7 +488804,6 @@ yicker
 yickered
 yickering
 yickers
-yid
 yidaki
 yidakis
 yiddish
@@ -488812,7 +488811,6 @@ yiddisher
 yiddishism
 yiddishisms
 yiddishist
-yids
 yield
 yieldable
 yieldableness
@@ -488940,6 +488938,8 @@ ynones
 yo
 yo-heave-ho
 yo-ho
+yo-ho-ho
+yo-hos
 yo-yo
 yo-yoed
 yo-yoer
@@ -489059,6 +489059,7 @@ yojijukugo
 yojuane
 yok
 yokage
+yokai
 yoke
 yokeable
 yokeableness
@@ -489143,6 +489144,8 @@ yonnies
 yonside
 yont
 yoo
+yoo-hoo
+yoo-hoos
 yoof
 yoofs
 yook
@@ -489353,7 +489356,6 @@ yshending
 yshends
 yshent
 yslaked
-yt
 ythundered
 ytost
 ytter
@@ -489486,7 +489488,6 @@ yuletide
 yuletides
 yulong
 yum
-yum-yab
 yum-yum
 yuma
 yuman
@@ -489770,7 +489771,6 @@ zambomba
 zambombas
 zamboorak
 zambooraks
-zambos
 zambra
 zambuck
 zambucks
@@ -489956,12 +489956,17 @@ zaurak
 zauschneria
 zavegepant
 zavijava
+zawg
+zawgs
 zax
 zaxes
+zay
+zayanes
 zayat
 zayats
 zayin
 zayins
+zays
 zaza
 zazaki
 zazen
@@ -490174,6 +490179,8 @@ zentai
 zentais
 zentner
 zenu
+zenzic
+zenzics
 zenzuic
 zeoidei
 zeolite
@@ -490366,7 +490373,6 @@ zhuchengosaurus
 zhuchengtyrannus
 zhug
 zhuhai
-zhuhau
 zhuyin
 zhuzh
 zhuzhed
@@ -490400,7 +490406,6 @@ ziehl-neelsen-stained
 ziesite
 ziesites
 zietrisikite
-zietrisikites
 ziff
 ziffius
 ziffiuses
@@ -490472,8 +490477,6 @@ zimbis
 zimbs
 zimentwater
 zimme
-zimmer
-zimmers
 zimmerwaldian
 zimmerwaldist
 zimmi
@@ -490623,6 +490626,8 @@ zionite
 zionless
 zionward
 zip
+zip-up
+zip-ups
 zipa
 ziphian
 ziphiidae
@@ -490646,6 +490651,8 @@ zippeite
 zippeites
 zipper
 zippered
+zipperhead
+zipperheads
 zippering
 zippers
 zippier
@@ -490853,6 +490860,7 @@ zollverein
 zolmitriptan
 zolotink
 zolotnik
+zolotniks
 zolpidem
 zolpidems
 zols
@@ -491362,8 +491370,6 @@ zorotypus
 zorrillo
 zorro
 zorros
-zorse
-zorses
 zortzico
 zos
 zosma
@@ -491435,8 +491441,6 @@ zumatic
 zumba
 zumbooruk
 zumbooruks
-zumbul-che
-zumbul-ches
 zuni
 zunian
 zuniceratops
