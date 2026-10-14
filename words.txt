@@ -419478,6 +419478,7 @@ szomolnokites
 szopelka
 szopka
 szopkas
+t'boli
 t-bone
 t-boned
 t-bones
@@ -419524,6 +419525,7 @@ t-stoffe
 t-test
 t-tests
 ta
+ta-da
 ta-ta
 taa
 taabwa
@@ -420110,6 +420112,8 @@ tae
 taed
 taedium
 taediums
+taegeuk
+taegeuks
 taeing
 taekkyeon
 taekkyon
@@ -420169,7 +420173,6 @@ taffeta
 taffetas
 taffetases
 taffetier
-taffeties
 taffetiest
 taffetised
 taffetized
@@ -420335,7 +420338,6 @@ taigled
 taigles
 taiglesome
 taigling
-taigs
 taihoa
 taihoaed
 taihoaing
@@ -420572,10 +420574,12 @@ take-out
 take-outs
 take-over
 take-overs
+take-up
 takeable
 takeaway
 takeaways
 taked
+takedaites
 takedown
 takedownable
 takedowns
@@ -420594,7 +420598,6 @@ takeovers
 taker
 takers
 takes
-takes-off
 taketh
 takeuchi
 takeup
@@ -420612,7 +420615,6 @@ takikomi
 takilman
 takin
 taking
-taking-off
 takingly
 takingness
 takingnesses
@@ -420634,10 +420636,14 @@ takrouri
 taks
 takt
 taku
+takuan
+takuans
 takwin
 taky
+takyas
+takyeh
+takyehs
 takyr
-tal
 tala
 talabon
 talahib
@@ -420750,6 +420756,7 @@ taliation
 taliera
 taligrade
 talimogene
+talinolol
 talinum
 talio
 talion
@@ -420808,7 +420815,10 @@ talkiest
 talkiness
 talkinesses
 talking
+talking-to
+talking-tos
 talkings
+talkings-to
 talks
 talktime
 talktimes
@@ -420899,6 +420909,8 @@ tallowy
 talls
 tallwood
 tally
+tally-ho
+tally-hos
 tallyho
 tallyhoed
 tallyhoes
@@ -420984,6 +420996,7 @@ talwar
 talweg
 talwegs
 talwood
+talysh
 talyshin
 tam
 tam-o'-shanter
@@ -421228,7 +421241,6 @@ tanaistes
 tanak
 tanaka
 tanakh
-tanakhs
 tanala
 tanalised
 tanalized
@@ -421294,6 +421306,7 @@ tangentially
 tangently
 tangents
 tanger
+tangerang
 tangerine
 tangerines
 tangfish
@@ -421594,6 +421607,7 @@ tanukis
 tanwood
 tanworks
 tanya
+tanyao
 tanyard
 tanyards
 tanycolagreus
@@ -421629,6 +421643,8 @@ taotai
 taoyin
 tap
 tap-dancing
+tap-in
+tap-ins
 tapa
 tapachula
 tapachulteca
@@ -421646,6 +421662,8 @@ tapalo
 tapalos
 tapamaker
 tapamaking
+tapan
+tapans
 tapas
 tapasvi
 tapayaxin
@@ -421716,6 +421734,8 @@ tapetums
 tapework
 tapeworm
 tapeworms
+taphephobe
+taphephobes
 taphephobia
 taphephobias
 taphephobic
@@ -422271,7 +422291,9 @@ tartanries
 tartanry
 tartans
 tartar
+tartarate
 tartarated
+tartarates
 tartare
 tartarean
 tartareous
@@ -422456,6 +422478,7 @@ tasmanian
 tasmanians
 tasmanite
 tasmanites
+tasquinimod
 tass
 tassa
 tassago
@@ -422756,6 +422779,7 @@ tauruses
 tauryl
 taurylic
 taus
+taushiro
 tausonite
 tausonites
 taut
@@ -422872,6 +422896,7 @@ tavers
 tavert
 tavestock
 tavghi
+tavil
 tavistockite
 tavkveri
 tavola
@@ -423080,7 +423105,6 @@ tayassuids
 tayaw
 tayberries
 tayberry
-tayer
 taygeta
 tayir
 taylor
@@ -423105,8 +423129,6 @@ tazza
 tazzas
 tazze
 tba
-tbb
-tbc
 tbd
 tbf
 tbh
@@ -423114,9 +423136,6 @@ tbilisi
 tboli
 tbs
 tbsp
-tbssaraglot
-tbt
-tc
 tcawi
 tcg
 tchagra
@@ -423134,7 +423153,6 @@ tcherkess
 tchervonets
 tchervonetz
 tchervontzi
-tchetchentsish
 tchetnitsi
 tchetvert
 tchi
@@ -423150,7 +423168,6 @@ tchoukballs
 tchr
 tchu
 tchwi
-tcpa
 te
 tea
 teabag
@@ -423173,6 +423190,8 @@ teacakes
 teacart
 teacarts
 teach
+teach-in
+teach-ins
 teachabilities
 teachability
 teachable
@@ -423612,8 +423631,10 @@ tecnocumbia
 tecnology
 teco
 tecoma
+tecomaquinones
 tecomin
 tecon
+tecovirimat
 tecpanec
 tecpatl
 tecpatls
@@ -423748,7 +423769,6 @@ teens
 teensier
 teensiest
 teensy
-teensy-tinsy
 teensy-weensier
 teensy-weensiest
 teensy-weensy
@@ -423905,6 +423925,7 @@ teian
 teicher
 teichopsia
 teichopsias
+teicoplanin
 teiglach
 teiglech
 teihte
@@ -423935,9 +423956,12 @@ teixiptla
 teixiptlas
 teixobactins
 tejano
+tejo
 tejon
 teju
+teke
 tekedye
+tekes
 tekiah
 tekintsi
 tekke
@@ -423956,8 +423980,8 @@ tektos
 tektosi
 tektosil
 tektosilicate
-tektronix
 tekya
+tekyehs
 tel
 tela
 telacoustic
@@ -424770,6 +424794,7 @@ temiak
 temin
 temiskaming
 temne
+temnes
 temnospondyli
 temnospondylous
 temoporfin
@@ -424940,7 +424965,6 @@ temporosphenoidal
 temporozygomatic
 tempos
 tempoyak
-tempre
 temprely
 temps
 tempt
@@ -425216,6 +425240,7 @@ tenebrously
 tenebrousness
 tenebrousnesses
 tenectomy
+teneligliptin
 tenement
 tenemental
 tenementary
@@ -425309,6 +425334,7 @@ tenocyte
 tenocytes
 tenodesis
 tenodynia
+tenofovir
 tenofovir-emtricitabine-efavirenz
 tenography
 tenology
@@ -425521,7 +425547,6 @@ tentor
 tentoria
 tentorial
 tentorium
-tentoriums
 tentortoria
 tentory
 tentpole
@@ -425646,7 +425671,6 @@ tequillas
 tequistlateca
 tequistlatecan
 ter
-tera
 teraampere
 teraamperes
 terabyte
@@ -425886,7 +425910,6 @@ termer
 termers
 termes
 termillenary
-termin
 terminabilities
 terminability
 terminable
@@ -426008,6 +426031,8 @@ terpenes
 terpenic
 terpenoid
 terpenoids
+terpentine
+terpentines
 terphenyl
 terpilene
 terpin
@@ -426030,7 +426055,8 @@ terpsichore
 terpsichoreal
 terpsichoreally
 terpsichorean
-terr
+terpyridine
+terpyridines
 terra
 terraba
 terrace
@@ -426252,6 +426278,8 @@ tert-butylhydroquinone
 tert-butylhydroquinones
 tert-butyls
 tertenant
+terthiophene
+terthiophenes
 tertia
 tertial
 tertials
@@ -426584,7 +426612,6 @@ tetraacetate
 tetraacetates
 tetraacetylethylenediamine
 tetraacetylethylenediamines
-tetraacteylethylenediamine
 tetraamylose
 tetraantennary
 tetraazamacrocycle
@@ -426635,6 +426662,7 @@ tetrachlorodibenzodioxin
 tetrachlorodibenzodioxins
 tetrachloroethane
 tetrachloroethylene
+tetrachloroethylenes
 tetrachloromethane
 tetrachloromethanes
 tetrachord
@@ -426689,12 +426717,15 @@ tetradactyls
 tetradactyly
 tetradarchy
 tetradecane
+tetradecanes
 tetradecanoic
 tetradecapod
 tetradecapoda
 tetradecapodan
 tetradecapodous
 tetradecyl
+tetradentate
+tetradentates
 tetradesmus
 tetradiapason
 tetradic
@@ -426781,7 +426812,6 @@ tetrahydrocannabivarin
 tetrahydrocannabivarins
 tetrahydrocorticosterone
 tetrahydrocorticosterones
-tetrahydrodeoxycorticosterone
 tetrahydrodeoxycorticosterones
 tetrahydrofuran
 tetrahydrofurans
@@ -426794,8 +426824,6 @@ tetrahydronaphthalene
 tetrahydronaphthalenes
 tetrahydropapaveroline
 tetrahydropapaverolines
-tetrahydroprotoberberine
-tetrahydroprotoberberines
 tetrahydropyrrole
 tetrahydroxy
 tetrahymena
@@ -426853,7 +426881,6 @@ tetramethylrhodamines
 tetramethylsilane
 tetramethylsuccinonitrile
 tetramethylsuccinonitriles
-tetramethylusuccinonitriles
 tetramin
 tetramine
 tetrammine
@@ -426886,6 +426913,8 @@ tetraoninae
 tetraonine
 tetrapanax
 tetrapartite
+tetrapeptide
+tetrapeptides
 tetrapetalous
 tetraphalangeate
 tetrapharmacal
@@ -427035,6 +427064,7 @@ tetraxonida
 tetraxons
 tetrazane
 tetrazene
+tetrazepam
 tetrazin
 tetrazine
 tetrazo
@@ -427260,7 +427290,6 @@ texturizes
 texturizing
 texturous
 textus
-tez
 tezacaftor
 tezcatlipoca
 tezcatzoncatl
@@ -427620,6 +427649,8 @@ thavil
 thavils
 thaw
 thawable
+thawb
+thawbs
 thawed
 thawer
 thawers
@@ -427897,6 +427928,8 @@ thematize
 thematized
 thematizes
 thematizing
+thembu
+thembus
 theme
 themed
 themeless
@@ -428483,6 +428516,7 @@ thermits
 thermo
 thermo-balance
 thermo-balances
+thermo-electro-mechanical
 thermo-hydro-mechanical
 thermoammeter
 thermoanalgesia
@@ -428961,7 +428995,6 @@ thicking
 thickish
 thickleaf
 thickleaves
-thicklips
 thickly
 thickneck
 thickness
@@ -429208,6 +429241,7 @@ thiobacteriales
 thiobarbiturate
 thiobencarb
 thiobismuthite
+thiobutabarbital
 thiocarbamic
 thiocarbamide
 thiocarbamides
@@ -429237,6 +429271,8 @@ thiofurane
 thiofurans
 thiofurfuran
 thiofurfurane
+thioglycoside
+thioglycosides
 thioguanine
 thiogycolic
 thiohydrate
@@ -429334,6 +429370,10 @@ third-class
 third-classes
 third-generation
 third-party
+third-rate
+third-rater
+third-raters
+third-rates
 third-world
 third-worldism
 third-worldisms
@@ -429905,8 +429945,12 @@ threats
 threave
 threaves
 three
+three-ball
+three-balls
 three-dimensional
+three-dimensionalism
 three-dimensionalisms
+three-dimensionalist
 three-dimensionalists
 three-dimensionalities
 three-dimensionality
@@ -429914,9 +429958,15 @@ three-dimensionally
 three-faces-under-a-hood
 three-faces-under-a-hoods
 three-factor
+three-manifold
+three-manifolds
 three-sixties
 three-sixty
+three-sphere
+three-spheres
 three-star
+three-tori
+three-torus
 three-way
 three-ways
 threedimensionality
@@ -429954,6 +430004,8 @@ threescores
 threesome
 threesomes
 threip
+threitol
+threitols
 thremmatologies
 thremmatology
 threne
@@ -429991,7 +430043,6 @@ threshers
 threshes
 threshing
 threshings
-threshingtime
 threshold
 thresholds
 threskiornithidae
@@ -430170,6 +430221,7 @@ thromboplastic
 thromboplastically
 thromboplastin
 thromboplastins
+thrombopoietin
 thrombose
 thrombosed
 thromboses
@@ -430251,8 +430303,8 @@ throughway
 throughways
 throve
 throw
-throw-crook
-throw-crooks
+throw-in
+throw-ins
 throwable
 throwaway
 throwaways
@@ -430302,8 +430354,6 @@ thruputs
 thrush
 thrush-babbler
 thrush-babblers
-thrush-tanager
-thrush-tanagers
 thrushel
 thrusher
 thrushes
@@ -430854,11 +430904,6 @@ thysen
 ti
 ti-liger
 ti-ligers
-ti-ligon
-ti-ligons
-ti-tigon
-ti-tigons
-tia
 tiagabine
 tiahuanacan
 tiam
@@ -431221,6 +431266,7 @@ tievine
 tiewig
 tiewigged
 tifaifai
+tifal
 tiff
 tiffanies
 tiffany
@@ -431250,6 +431296,7 @@ tifting
 tifts
 tig
 tige
+tigecycline
 tigella
 tigellate
 tigelle
@@ -431346,6 +431393,8 @@ tigogenin
 tigon
 tigons
 tigrai
+tigrayan
+tigrayans
 tigre
 tigrean
 tigress
@@ -431369,6 +431418,7 @@ tigs
 tigtag
 tigua
 tigurine
+tii
 tijuana
 tik
 tika
@@ -431524,8 +431574,6 @@ tiltyard
 tiltyards
 tilyer
 tim
-tim-whiskey
-tim-whiskeys
 timable
 timaeus
 timalia
@@ -431612,7 +431660,6 @@ timbrophilist
 timbrophilists
 timbrophily
 time
-time-consuming
 time-honored
 time-honoured
 time-invariant
@@ -431648,7 +431695,6 @@ timelia
 timelier
 timeliest
 timeliidae
-timeliine
 timelily
 timeline
 timelines
@@ -431705,7 +431751,6 @@ timetabling
 timetablings
 timetaker
 timetaking
-timetrp
 timeward
 timework
 timeworker
@@ -432095,6 +432140,8 @@ tiotropium
 tiou
 tip
 tip-and-run
+tip-in
+tip-ins
 tip-off
 tip-offs
 tip-top
@@ -432125,7 +432172,6 @@ tipoffs
 tiponi
 tippable
 tipped
-tipped-off
 tippee
 tippees
 tipper
@@ -432135,7 +432181,6 @@ tippets
 tippier
 tippiest
 tipping
-tipping-off
 tippings
 tipple
 tippled
@@ -432154,7 +432199,6 @@ tippytoes
 tipranavir
 tipree
 tips
-tips-off
 tipsheet
 tipsheets
 tipsier
@@ -432211,6 +432255,8 @@ tipura
 tiqueur
 tirade
 tirades
+tiradito
+tiraditos
 tirage
 tirages
 tiragolumab
@@ -432244,7 +432290,6 @@ tiremakers
 tiremaking
 tireman
 tiremen
-tirement
 tirer
 tireroom
 tires
@@ -432260,6 +432305,7 @@ tirewoman
 tirewomen
 tirhutia
 tiriba
+tirilazad
 tiring
 tiringly
 tirings
@@ -432298,11 +432344,13 @@ tirrs
 tirrwirr
 tirshatha
 tirthankara
+tirthankaras
 tiruchirappalli
 tirupati
 tirurai
 tirve
 tirwit
+tirzepatide
 tis
 tisagenlecleucel
 tisane
@@ -432315,7 +432363,6 @@ tisick
 tisicks
 tisiphone
 tislelizumab
-tisotumab
 tissintite
 tissintites
 tissu
@@ -432339,15 +432386,11 @@ tiswin
 tit
 tit-babbler
 tit-babblers
-tit-flycatcher
-tit-flycatchers
 tit-for-tat
 tit-spinetail
 tit-spinetails
 tit-tyrant
 tit-tyrants
-tit-warbler
-tit-warblers
 titan
 titanate
 titanates
@@ -432628,6 +432671,7 @@ titupy
 titurel
 titus
 tiu
+tiv
 tivaevae
 tivaivai
 tiver
@@ -432677,7 +432721,6 @@ tlaxcalteca
 tlaxcaltecas
 tlayuda
 tlayudas
-tlc
 tldr
 tlingit
 tlingits
@@ -432692,6 +432735,7 @@ tmrw
 tnpk
 tnt
 to
+to'abaita
 to-and-fro
 to-and-fros
 to-do
@@ -432701,8 +432745,6 @@ to-night
 to-year
 toa
 toad
-toad's-eye
-toad's-eyes
 toad-frog
 toad-frogs
 toad-in-the-hole
@@ -432787,8 +432829,6 @@ toba
 tobaccanalian
 tobaccanalians
 tobacco
-tobacco-stopper
-tobacco-stoppers
 tobaccoes
 tobaccofied
 tobaccoism
@@ -433000,6 +433040,7 @@ toffyman
 toffymen
 tofieldia
 tofile
+tofogliflozin
 tofore
 toforn
 toft
@@ -433069,6 +433110,7 @@ tohos
 tohu-bohu
 tohu-bohus
 tohubohu
+tohubohus
 tohunga
 tohungas
 toi
@@ -433160,6 +433202,7 @@ toking
 tokneneng
 toko
 tokodynamometer
+tokoeka
 tokologies
 tokology
 tokoloshe
@@ -433547,7 +433590,6 @@ tondo
 tondos
 tone
 tone-deaf
-tone-deafly
 tone-deafness
 tone-deafnesses
 tonearm
@@ -433704,7 +433746,6 @@ tonkotsu
 tonks
 tonlet
 tonlets
-tonn
 tonna
 tonnag
 tonnage
@@ -433769,6 +433810,7 @@ tonsillitises
 tonsillolith
 tonsillopharyngitides
 tonsillopharyngitis
+tonsillopharyngitises
 tonsillotome
 tonsillotomies
 tonsillotomy
@@ -433803,7 +433845,6 @@ toodling
 tooeleite
 tooeleites
 took
-took-off
 tooken
 tool
 toolach
@@ -433882,6 +433923,7 @@ toonwood
 toop
 toorie
 toories
+tooro
 toorock
 tooroo
 toosh
@@ -433953,7 +433995,6 @@ toothwort
 toothworts
 toothy
 tooting
-tootinghole
 tootle
 tootled
 tootler
@@ -434241,7 +434282,6 @@ topside
 topsider
 topsiders
 topsides
-topsl
 topsman
 topsmelt
 topsmelts
@@ -434266,7 +434306,6 @@ topsy-turvied
 topsy-turvier
 topsy-turvies
 topsy-turviest
-topsy-turvily
 topsy-turviness
 topsy-turvinesses
 topsy-turvy
@@ -434925,6 +434964,7 @@ tottier
 totties
 tottiest
 totting
+totting-up
 tottings
 tottle
 tottlish
@@ -434939,6 +434979,7 @@ totyman
 tou
 touareg
 touart
+toubou
 toucan
 toucanet
 toucanets
@@ -434956,6 +434997,8 @@ touch-types
 touch-typing
 touch-typist
 touch-typists
+touch-up
+touch-ups
 touchability
 touchable
 touchableness
@@ -435108,7 +435151,6 @@ tourmalinization
 tourmalinize
 tourmalite
 tourmente
-tourn
 tournai
 tournament
 tournamental
@@ -435900,13 +435942,13 @@ tradable
 tradal
 trade
 trade-in
+trade-ins
 trade-off
 trade-offs
 tradeable
 tradecraft
 tradecrafts
 traded
-traded-off
 tradeful
 tradeless
 trademark
@@ -435923,7 +435965,6 @@ traders
 tradership
 traderships
 trades
-trades-off
 tradescantia
 tradescantias
 tradesfolk
@@ -435944,7 +435985,6 @@ tradie
 tradies
 tradiment
 trading
-trading-off
 tradings
 tradite
 tradition
@@ -436366,7 +436406,6 @@ tramwayman
 tramwaymen
 tramways
 tramyard
-tran
 trance
 trancecore
 tranced
@@ -436387,12 +436426,12 @@ trancier
 tranciest
 trancing
 trancoidal
-traneau
 tranect
 tranects
 traneen
 tranexamic
 tranfd
+trang
 trangam
 trangams
 trangle
@@ -436407,9 +436446,7 @@ trankum
 trankums
 tranky
 tranmissibility
-trannie
 trannies
-tranny
 tranq
 tranqed
 tranqs
@@ -436461,11 +436498,16 @@ trans
 trans-attracted
 trans-cinnamaldehyde
 trans-cinnamaldehydes
+trans-dominant
 trans-exclusionary
 trans-galactooligosaccharide
 trans-galactooligosaccharides
+trans-heterozygous
+trans-himalayan
 trans-identified
 trans-jurisdictional
+trans-nerolidol
+trans-nerolidols
 transaccidentation
 transact
 transacted
@@ -436549,7 +436591,6 @@ transcendentalizations
 transcendentalize
 transcendentalized
 transcendentalizing
-transcendentalizm
 transcendentally
 transcendentals
 transcendently
@@ -436636,8 +436677,10 @@ transdermic
 transdesert
 transdialect
 transdiaphragmatic
+transdifferentiations
 transdisciplinary
 transdiurnal
+transdominant
 transduce
 transduced
 transducer
@@ -436872,6 +436915,7 @@ transgressively
 transgressor
 transgressors
 transhape
+transheterozygous
 tranship
 transhipment
 transhipments
@@ -437247,6 +437291,8 @@ transphobias
 transphobic
 transphonologisations
 transphonologizations
+transphyseal
+transphyseally
 transphysical
 transphysically
 transpicuity
@@ -437514,7 +437560,6 @@ transvestism
 transvestisms
 transvestist
 transvestists
-transvestite
 transvestites
 transvestitism
 transvestitisms
@@ -437583,7 +437628,6 @@ trapezoidiform
 trapezoids
 trapezophora
 trapezophoron
-trapezophozophora
 trapfall
 trapfalls
 traphole
@@ -437667,6 +437711,7 @@ trashrack
 trashtrie
 trashtries
 trashy
+traskites
 trass
 trasses
 trastevere
@@ -437764,7 +437809,6 @@ travelogue
 traveloguer
 travelogues
 travels
-traveltime
 traversable
 traversal
 traversals
@@ -437903,11 +437947,8 @@ treasonous
 treasonously
 treasonproof
 treasons
-treasr
 treasurable
 treasure
-treasure-house
-treasure-houses
 treasured
 treasureless
 treasurer
@@ -438435,6 +438476,8 @@ triactine
 triactor
 triactors
 triacts
+triacylglycerol
+triacylglycerols
 triad
 triadelphous
 triadenum
@@ -438497,7 +438540,6 @@ triamino
 triammonium
 triamorph
 triamorphous
-triamterene
 triamterene-hydrochlorothiazide
 triamterene-hydrochlorothiazides
 triamylose
@@ -438529,7 +438571,6 @@ triangulator
 triangulid
 trianguloid
 triangulopyramidal
-triangulotriangular
 triangulum
 triannual
 triannulate
@@ -438558,6 +438599,7 @@ triarylmethane
 triarylmethanes
 trias
 triassic
+triassic-jurassic
 triaster
 triasulfuron
 triasulfurons
@@ -438589,6 +438631,7 @@ triazins
 triaziquone
 triazo
 triazoic
+triazolam
 triazole
 triazoles
 triazolic
@@ -438642,6 +438685,7 @@ tribofluorescence
 tribofluorescent
 tribolium
 tribological
+tribologically
 tribologies
 tribologist
 tribologists
@@ -439507,6 +439551,7 @@ trihemiobolion
 trihemitetartemorion
 trihexyltetradecylphosphonium
 trihexyltetradecylphosphoniums
+trihexyphenidyl
 trihoral
 trihourly
 trihybrid
@@ -439614,7 +439659,6 @@ trilli
 trilliaceae
 trilliaceous
 trillibub
-trilliin
 trillil
 trilling
 trillings
@@ -440080,7 +440124,6 @@ tripinnatifid
 tripinnatisect
 tripitaka
 tripitakas
-tripl
 tripla
 triplane
 triplanes
@@ -440238,7 +440281,6 @@ tripudiation
 tripudiations
 tripudist
 tripudium
-tripudiums
 tripuhyite
 tripuhyites
 tripunctal
@@ -441173,6 +441215,7 @@ troptometer
 tropyl
 tropylium
 tropyliums
+trospium
 trossers
 trostera
 trot
@@ -441297,7 +441340,6 @@ trouserings
 trouserless
 trousers
 trouses
-trouss
 trousse
 trousseau
 trousseaus
@@ -441325,7 +441367,6 @@ trouts
 troutstone
 troutstones
 trouty
-trouv
 trouvaille
 trouvailles
 trouvere
@@ -441467,6 +441508,7 @@ trudging
 trudgings
 trudy
 true
+true-blue
 true-hearted
 trueblue
 trueblues
@@ -441491,7 +441533,6 @@ truer
 trues
 truest
 truewood
-truff
 truffe
 truffes
 truffle
@@ -441534,6 +441575,7 @@ trumeaux
 trummel
 trump
 trumped
+trumped-up
 trumper
 trumperies
 trumperiness
@@ -441751,6 +441793,8 @@ truxillic
 truxillin
 truxilline
 try
+try-on
+try-ons
 trye
 tryer
 tryers
@@ -441821,6 +441865,7 @@ trypsins
 tryptamine
 tryptamines
 tryptase
+tryptases
 tryptic
 tryptogen
 tryptone
@@ -441902,8 +441947,6 @@ tscheffkinite
 tscherkess
 tschermakite
 tschermakites
-tschermichite
-tschermichites
 tschermigite
 tschermigites
 tschernichite
@@ -441974,6 +442017,7 @@ tsolikouri
 tsoneca
 tsonecan
 tsonga
+tsongas
 tsooris
 tsoorises
 tsores
@@ -442119,8 +442163,6 @@ tubby
 tube
 tube-eye
 tube-eyes
-tube-snout
-tube-snouts
 tubectomies
 tubectomy
 tubed
@@ -442473,10 +442515,8 @@ tufftaffety
 tufoli
 tufolis
 tuft
-tuft-hunted
 tuft-hunter
 tuft-hunters
-tuft-hunting
 tuftaffeta
 tuftaffetas
 tuftaffeties
@@ -442493,6 +442533,8 @@ tufting
 tuftings
 tuftlet
 tufts
+tuftsin
+tuftsins
 tufty
 tug
 tug-of-war
@@ -442562,6 +442604,7 @@ tuitive
 tujia
 tuk-tuk
 tuk-tuks
+tukano
 tuke
 tukra
 tuktoo
@@ -442693,7 +442736,6 @@ tumescent
 tumescently
 tumesces
 tumescing
-tumfie
 tumid
 tumidily
 tumidities
@@ -442953,6 +442995,8 @@ tupaia
 tupaiid
 tupaiidae
 tupakihi
+tupan
+tupans
 tupanship
 tupara
 tupek
@@ -442990,6 +443034,7 @@ tuptowing
 tuptowings
 tupuna
 tupunas
+tupuri
 tuque
 tuques
 tuquoque
@@ -443325,6 +443370,7 @@ turn-off
 turn-offs
 turn-on
 turn-ons
+turn-up
 turnable
 turnabout
 turnabouts
@@ -443352,8 +443398,6 @@ turndowns
 turndun
 turnduns
 turned
-turned-off
-turned-on
 turnel
 turner
 turnera
@@ -443378,8 +443422,6 @@ turnicine
 turnicomorphae
 turnicomorphic
 turning
-turning-off
-turning-on
 turningness
 turnings
 turnip
@@ -443418,8 +443460,6 @@ turnround
 turnrounds
 turnrow
 turns
-turns-off
-turns-on
 turnscrew
 turnsheet
 turnskin
@@ -443716,7 +443756,9 @@ tutsan
 tutsans
 tutsed
 tutses
+tutsi
 tutsing
+tutsis
 tutster
 tutted
 tutti
@@ -443758,6 +443800,7 @@ tuyer
 tuyere
 tuyeres
 tuyers
+tuyuca
 tuyul
 tuyuls
 tuyuneiri
@@ -444022,7 +444065,6 @@ twerpiest
 twerps
 twerpy
 tweyfold
-twi-minded
 twibil
 twibill
 twibilled
@@ -444292,10 +444334,11 @@ twizzles
 twizzling
 two
 two-and-a-half-dimensional
+two-ball
+two-balls
 two-dimensional
 two-dimensionalism
 two-dimensionalisms
-two-dimensionalist
 two-dimensionalities
 two-dimensionality
 two-dimensionally
@@ -444306,21 +444349,28 @@ two-facedness
 two-facednesses
 two-factor
 two-fold
+two-seater
+two-seaters
 two-sided
 two-sidedness
 two-sidednesses
+two-sphere
+two-spheres
 two-spirit
 two-spirited
 two-spirits
 two-spot
 two-spots
 two-star
+two-stroke
 two-time
 two-timed
 two-timer
 two-timers
 two-times
 two-timing
+two-up
+two-ups
 two-way
 two-ways
 twoccer
@@ -444379,18 +444429,15 @@ twyfold
 twyhynde
 twyver
 txakoli
-txakolis
 txalaparta
 txalapartas
 txangurro
-txangurros
 txapela
 txapelas
 txistu
 txistus
 txoko
 txokos
-txt
 txuleta
 txuletas
 ty
@@ -444523,6 +444570,7 @@ tympanomalleal
 tympanomandibular
 tympanomastoid
 tympanomastoidectomies
+tympanomastoidectomy
 tympanomaxillary
 tympanon
 tympanoperiotic
@@ -444706,8 +444754,6 @@ typings
 typist
 typists
 typo
-typo-squatter
-typo-squatters
 typo-squatting
 typo-squattings
 typobar
@@ -444762,7 +444808,6 @@ typtological
 typtologist
 typtology
 typtos
-typw
 typy
 tyr
 tyramin
