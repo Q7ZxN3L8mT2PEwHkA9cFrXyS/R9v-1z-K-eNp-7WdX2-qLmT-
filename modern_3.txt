@@ -1,3 +1,5 @@
+abib
+afib
 akre
 anubis
 ayyubid
