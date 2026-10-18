@@ -10,13 +10,16 @@ local MAX_CACHE = 200
 local currentPage = 1
 local wordsPerPage = 50
 local sortMode = "Random"
+
 local KillerMap1 = {}
 local KillerMap2 = {}
 local KillerMap3 = {}
+local KillerMap4 = {}
 
-local killerUrl1 = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/modern_2.1.txt"
+local killerUrl1 = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/modern_3.txt"
 local killerUrl2 = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/modern_2.txt"
-local killerUrl3 = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/old.txt"
+local killerUrl3 = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/modern.txt"
+local killerUrl4 = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/old.txt"
 
 pcall(function()
     local res = request({Url = killerUrl1, Method = "GET"})
@@ -41,6 +44,15 @@ pcall(function()
     if res and res.Success and res.Body then
         for w in res.Body:gmatch("[^\r\n]+") do
             KillerMap3[w:lower()] = true
+        end
+    end
+end)
+
+pcall(function()
+    local res = request({Url = killerUrl4, Method = "GET"})
+    if res and res.Success and res.Body then
+        for w in res.Body:gmatch("[^\r\n]+") do
+            KillerMap4[w:lower()] = true
         end
     end
 end)
@@ -90,9 +102,13 @@ local function formatWord(word, prefix, index)
 
     local prefixColor
 
-    if index == 1 then
+    if KillerMap1[word] then
+        prefixColor = "170,0,255"
+    elseif KillerMap2[word] then
+        prefixColor = "0,170,255"
+    elseif KillerMap3[word] then
         prefixColor = "0,255,0"
-    elseif index == 2 then
+    elseif KillerMap4[word] then
         prefixColor = "255,255,0"
     else
         prefixColor = "255,0,0"
@@ -157,9 +173,10 @@ local function SuggestWords(input, count)
         local link1Words = {}
         local link2Words = {}
         local link3Words = {}
+        local link4Words = {}
         local normalWords = {}
 
-        for i = 1,#possible do
+        for i = 1, #possible do
             local word = possible[i]
 
             if KillerMap1[word] then
@@ -171,6 +188,9 @@ local function SuggestWords(input, count)
             elseif KillerMap3[word] then
                 table.insert(link3Words, word)
 
+            elseif KillerMap4[word] then
+                table.insert(link4Words, word)
+
             else
                 table.insert(normalWords, word)
             end
@@ -179,27 +199,28 @@ local function SuggestWords(input, count)
         shuffle(link1Words)
         shuffle(link2Words)
         shuffle(link3Words)
+        shuffle(link4Words)
         shuffle(normalWords)
 
         possible = {}
 
-        local limit = count
-
-        local target1 = math.floor(limit * 0.50)
-        local target2 = math.floor(limit * 0.30)
-        local target3 = math.floor(limit * 0.20)
-
-        local function append(source, amount)
-            for i = 1, math.min(amount, #source) do
-                table.insert(possible, source[i])
-            end
+        for i = 1, #link1Words do
+            table.insert(possible, link1Words[i])
         end
 
-        append(link1Words, target1)
-        append(link2Words, target2)
-        append(link3Words, target3)
+        for i = 1, #link2Words do
+            table.insert(possible, link2Words[i])
+        end
 
-        for i = 1,#normalWords do
+        for i = 1, #link3Words do
+            table.insert(possible, link3Words[i])
+        end
+
+        for i = 1, #link4Words do
+            table.insert(possible, link4Words[i])
+        end
+
+        for i = 1, #normalWords do
             table.insert(possible, normalWords[i])
         end
     end
@@ -576,8 +597,10 @@ function UpdateSuggestions(fromTyping)
 
     local startIndex = (currentPage-1)*wordsPerPage + 1
     local endIndex = math.min(currentPage*wordsPerPage, #currentResults)
+
     for i=startIndex,endIndex do
         local word = currentResults[i]
+
         local btn = Instance.new("TextButton", list)
         btn.Size = UDim2.new(1,0,0,32)
         btn.BackgroundColor3 = Color3.fromRGB(45,45,45)
@@ -585,16 +608,18 @@ function UpdateSuggestions(fromTyping)
         btn.Font = Enum.Font.GothamBold
         btn.TextSize = 16
         btn.RichText = true
+
         local displayWord = formatWord(
             word,
             h.Text:lower(),
             i - startIndex + 1
         )
 
-btn.Text = displayWord
+        btn.Text = displayWord
         btn.AutoButtonColor = true
         Instance.new("UICorner", btn).CornerRadius = UDim.new(0,4)
         btn.Selectable = false
+
         btn.MouseButton1Click:Connect(function()
             h.Text = word
             UpdateSuggestions(true)
@@ -628,6 +653,7 @@ end)
 
 nextButton.MouseButton1Click:Connect(function()
     local totalPages = math.max(1, math.ceil(#currentResults/wordsPerPage))
+
     if currentPage < totalPages then
         currentPage = currentPage + 1
         UpdateSuggestions(false)
@@ -635,7 +661,9 @@ nextButton.MouseButton1Click:Connect(function()
 end)
 
 task.spawn(function()
-    while not loaded do task.wait(0.1) end
+    while not loaded do
+        task.wait(0.1)
+    end
 
     statusLabel.Text = "Words Loaded Successfully!"
     statusLabel.TextColor3 = Color3.fromRGB(80,150,255)
@@ -706,9 +734,11 @@ end
 
 local function UpdatePrefixSuggestions(prefix)
     if prefix == "" then return end
+
     ClearSuggestions()
 
     local suggestions = SuggestWords(prefix, 50)
+
     for i = 1, #suggestions do
         local button = Instance.new("TextButton", list)
         button.Size = UDim2.new(1, 0, 0, 22)
@@ -717,6 +747,7 @@ local function UpdatePrefixSuggestions(prefix)
         button.Font = Enum.Font.GothamBold
         button.TextSize = 12
         button.RichText = true
+
         local word = suggestions[i]
 
         local displayWord = formatWord(word, prefix, i)
