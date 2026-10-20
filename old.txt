@@ -247,6 +247,7 @@ adfluxion
 adiaphonon
 adieu
 adioukrou
+adipopexia
 adjag
 adjectivism
 adjudicator
@@ -492,6 +493,7 @@ alembroth
 alepot
 alette
 aleuron
+alexia
 alexian
 alexipharmakon
 aleye
@@ -676,6 +678,7 @@ amoks
 amoraim
 amorce
 amoret
+amoreuxia
 amour-propre
 amourette
 ampalaya
@@ -840,9 +843,12 @@ anopheles
 anopubic
 anorak
 anoraks
+anorexia
+anorexia-cachexia
 anorexiant
 anosognosia
 anotia
+anoxia
 answerably
 antacrid
 antalya
@@ -1156,9 +1162,11 @@ aprilis
 aprils
 aproned
 apropos
+aprosexia
 apsidal
 apteran
 apterygial
+apyrexia
 aqsaqallar
 aquaculture
 aquafortist
@@ -2575,6 +2583,7 @@ brachypinacoid
 brachypinacoidal
 brachyprosopic
 bract
+bradylexia
 bradyphrenia
 braggier
 braggishly
@@ -2892,6 +2901,7 @@ cacam
 cacatuinae
 cacei
 cachepot
+cachexia
 cachinnator
 cachoeira
 cachua
@@ -4357,6 +4367,7 @@ colonizers
 colonnade
 colonnette
 colons
+colopexia
 colophane
 colophonian
 colopuncture
@@ -4918,6 +4929,7 @@ couve
 couverte
 couverture
 couveuse
+couxia
 covado
 covarecan
 covariant
@@ -5792,6 +5804,7 @@ desmogen
 desmoglein
 desmogleins
 desmoneoplasm
+desmopexia
 desmosomal
 desmotropic
 desmotropism
@@ -6679,8 +6692,10 @@ dysanagnosia
 dysbulic
 dysentery
 dysgnosia
+dyslexia
 dysodiles
 dysodils
+dysorexia
 dysphrenia
 dyspneas
 dyspraxic
@@ -7121,6 +7136,7 @@ enteroenterostomies
 enterohemorrhage
 enterokinase
 enteromegaly
+enteropexia
 enteroplasty
 enteropneusta
 enterostomal
@@ -7496,6 +7512,7 @@ eusteles
 eutaenia
 eutaxic
 euterpe
+eutexia
 euthanase
 euthanazed
 euthycomic
@@ -8974,6 +8991,7 @@ glycogen
 glycogenase
 glycolic
 glyconian
+glycopexia
 glycoproteins
 glycoproteomic
 glycosylphosphatidylinositol
@@ -9739,6 +9757,7 @@ hepatocarcinogen
 hepatocolic
 hepatodysentery
 hepatomegaly
+hepatopexia
 hepatoportoenterostomies
 hepatoptosia
 hepatosplenomegaly
@@ -9981,6 +10000,7 @@ holometaboly
 holons
 holophane
 holophotal
+holoplexia
 holoprosencephaly
 holoquinoidal
 holosystolic
@@ -10312,10 +10332,13 @@ hypermetropic
 hypernomic
 hypernymies
 hyperopic
+hyperorexia
 hyperpietist
 hyperpituitary
 hyperpneas
 hyperpredator
+hyperprosexia
+hyperpyrexia
 hyperromanticism
 hypersacerdotal
 hypersensual
@@ -10367,6 +10390,7 @@ hypophysectomies
 hypopituitary
 hypoplasty
 hypopneas
+hypoprosexia
 hypopygial
 hypopyons
 hyposkeletal
@@ -10382,6 +10406,7 @@ hypothetist
 hypotricha
 hypotrochoidal
 hypovanadic
+hypoxia
 hypsibrachycephaly
 hypsicephaly
 hypsidolichocephaly
@@ -10405,6 +10430,7 @@ hysterogen
 hysteroidal
 hysteromaniac
 hysteroneurasthenia
+hysteropexia
 hysteroptosia
 hysterosalpingectomies
 hysterosalpingo-oophorectomies
@@ -11340,6 +11366,7 @@ ithomiinae
 itoubou
 itraconazole
 itty-bitty
+ixia
 ixiama
 ixion
 ixionian
@@ -12346,6 +12373,7 @@ levorotary
 levotartaric
 levulic
 lewdsbies
+lexia
 lexiphanicism
 liarozole
 libeled
@@ -12455,6 +12483,7 @@ lipoic
 lipoidal
 lipometabolic
 lipomyelomeningoceles
+lipopexia
 lipophilic
 lipopod
 lipoproteins
@@ -12626,6 +12655,7 @@ low-temperature
 lowbrowism
 lowishly
 loxes
+loxia
 loxiinae
 loxodromic
 loxodromies
@@ -14594,6 +14624,7 @@ neurosuture
 neurosyphilis
 neuroticism
 neurotomies
+neurotoxia
 neurotoxin
 neurotropic
 neurotropism
@@ -15108,6 +15139,7 @@ normaliser
 normalizers
 normies
 normochromic
+normoxia
 norseled
 northupite
 nosepiece
@@ -15327,6 +15359,7 @@ odonatist
 odontist
 odontocetes
 odontogen
+odontoloxia
 odontophorinae
 odorator
 odoriser
@@ -15622,6 +15655,7 @@ orthopsychiatry
 orthopteran
 orthoptist
 orthopyroxene
+orthorexia
 orthoscopic
 orthosomnia
 orthotist
@@ -16218,6 +16252,7 @@ panisks
 panleucopenia
 panleukopenia
 panmixes
+panmixia
 pannade
 pannage
 pannenkoek
@@ -16308,6 +16343,7 @@ paraheliotropism
 parahematin
 parahydrogen
 paralambdacism
+paralexia
 parallaxes
 paralleled
 parallelotropic
@@ -16394,6 +16430,7 @@ paroecism
 paroemiac
 parol
 paronymies
+parorexia
 parotia
 parricidal
 parrocks
@@ -17387,6 +17424,7 @@ pleiotropism
 pleistoseist
 plenty
 pleonastes
+pleonexia
 pleophagous
 pleopod
 plerocercoid
@@ -17559,6 +17597,7 @@ polyisotopic
 polylingual
 polymastigous
 polymasty
+polymixia
 polymnia
 polynomic
 polynucleolar
@@ -18642,6 +18681,7 @@ pyraustinae
 pyrazole
 pyrenomycetes
 pyrenopeziza
+pyrexia
 pyrgocephaly
 pyrgoidal
 pyridoxin
@@ -18663,6 +18703,7 @@ pyrovanadic
 pyroxene
 pyrrhonian
 pyrrhotist
+pyrrhuloxia
 pyrrodiazole
 pyrrolic
 pyrrotriazole
@@ -19471,6 +19512,7 @@ rheum
 rheumatoidal
 rheumier
 rheumy
+rhexia
 rhinencephalons
 rhinestoned
 rhino
@@ -21459,6 +21501,7 @@ splenia
 splenocolic
 splenomegaly
 splenopancreatectomies
+splenopexia
 splenoptosia
 splenotoxin
 splintery
@@ -23524,6 +23567,8 @@ trabu
 tracaulon
 traceably
 tracheidal
+trachelectomopexia
+trachelopexia
 tracheloplasty
 tracheolar
 tracheolingual
@@ -24022,8 +24067,10 @@ tympan
 tympanomastoidectomies
 tympany
 typer
+typhlolexia
 typhlomegaly
 typhlon
+typhlopexia
 typhlosolar
 typhoidal
 typhonian
@@ -25245,6 +25292,7 @@ uropygial
 uroscopic
 urostege
 urostomies
+urotoxia
 urotoxin
 urotoxy
 uroxin
@@ -25271,6 +25319,7 @@ utensils
 uterectomies
 uteromaniac
 uteroparietal
+uteropexia
 uteroplasty
 uterotomies
 utiles
@@ -26099,6 +26148,7 @@ wrought
 wudjula
 wumman
 wushu
+wuxia
 x-axes
 x-intercept
 xanthane

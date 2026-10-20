@@ -2,6 +2,7 @@ abib
 afib
 akre
 anubis
+assacu
 ayyubid
 gal-o
 hlubis
@@ -10,7 +11,7 @@ khoekhoe
 krubis
 molokhia
 nabu
-ngie
+nitrox
 phags-pa
 rakaat
 super-g
