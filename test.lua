@@ -10,6 +10,7 @@ local MAX_CACHE = 200
 local currentPage = 1
 local wordsPerPage = 50
 local sortMode = "Random"
+local EnteredWords = {}
 
 local KillerMap1 = {}
 local KillerMap2 = {}
@@ -147,7 +148,7 @@ local function SuggestWords(input, count)
     for i = 1, #wordList do
         local word = wordList[i]
 
-        if word:sub(1,#input) == input then
+        if word:sub(1,#input) == input and not EnteredWords[word] then
             table.insert(possible, word)
         end
     end
@@ -349,7 +350,7 @@ local title = Instance.new("TextLabel",b)
 title.Size=UDim2.new(1,-10,0,35)
 title.Position=UDim2.new(0,10,0,5)
 title.BackgroundTransparency=1
-title.Text="Word Finder V3.5"
+title.Text="Word Finder V4"
 title.TextColor3=Color3.fromRGB(255,255,255)
 title.Font=Enum.Font.GothamBold
 title.TextSize=20
@@ -440,6 +441,17 @@ closeButton.MouseButton1Click:Connect(function()
     a:Destroy()
 end)
 
+local restoreButton = Instance.new("TextButton", b)
+restoreButton.Size = UDim2.new(0,35,0,35)
+restoreButton.Position = UDim2.new(1, -120, 0, 5)
+restoreButton.Text = "R"
+restoreButton.Font = Enum.Font.GothamBold
+restoreButton.TextSize = 20
+restoreButton.BackgroundColor3 = Color3.fromRGB(60,60,60)
+restoreButton.TextColor3 = Color3.fromRGB(255,255,255)
+Instance.new("UICorner", restoreButton).CornerRadius = UDim.new(0,4)
+restoreButton.ZIndex = 3
+
 local prefixLabel = Instance.new("TextLabel", contentFrame)
 prefixLabel.Size = UDim2.new(1,-10,0,35)
 prefixLabel.Position = UDim2.new(0,5,0,35)
@@ -469,22 +481,6 @@ Instance.new("UICorner",sortButton).CornerRadius=UDim.new(0,4)
 
 local sortModes = {"Shortest", "Longest", "Random", "Killer"}
 local currentSortIndex = 3
-
-sortButton.MouseButton1Click:Connect(function()
-    currentSortIndex = currentSortIndex + 1
-    if currentSortIndex > #sortModes then
-        currentSortIndex = 1
-    end
-    
-    sortMode = sortModes[currentSortIndex]
-    sortButton.Text = "Sort Mode: "..sortMode
-    currentPage = 1
-    searchCache = {}
-    
-    if h and h.Parent and h.Text ~= "" then
-        UpdateSuggestions()
-    end
-end)
 
 local h = Instance.new("TextBox", contentFrame)
 h.Text = ""
@@ -627,6 +623,22 @@ function UpdateSuggestions(fromTyping)
     end
 end
 
+sortButton.MouseButton1Click:Connect(function()
+    currentSortIndex = currentSortIndex + 1
+    if currentSortIndex > #sortModes then
+        currentSortIndex = 1
+    end
+    
+    sortMode = sortModes[currentSortIndex]
+    sortButton.Text = "Sort Mode: "..sortMode
+    currentPage = 1
+    searchCache = {}
+    
+    if h and h.Parent and h.Text ~= "" then
+        UpdateSuggestions()
+    end
+end)
+
 local typingId = 0
 
 h:GetPropertyChangedSignal("Text"):Connect(function()
@@ -686,11 +698,191 @@ local LocalPlayer = Players.LocalPlayer
 local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
 
 local currentWordGui = nil
+local capturedWord = ""
+local previousVisibleWord = ""
+local doneButton = nil
+local doneConnection = nil
 
 task.spawn(function()
     while not currentWordGui do
         currentWordGui = PlayerGui:FindFirstChild("CurrentWord", true)
         task.wait(1)
+    end
+end)
+
+local function UpdateCapturedWord()
+    if not currentWordGui or not currentWordGui.Parent then
+        currentWordGui = PlayerGui:FindFirstChild("CurrentWord", true)
+    end
+
+    if not currentWordGui then
+        return
+    end
+
+    local visibleLetters = {}
+
+    for _, child in ipairs(currentWordGui:GetChildren()) do
+        if child:IsA("GuiObject") and child.Visible then
+            local letterLabel = child:FindFirstChild("Letter")
+
+            if letterLabel and letterLabel:IsA("TextLabel") then
+                local letter = tostring(letterLabel.Text)
+
+                if letter ~= "" and not letter:find("%.%.%.") then
+                    table.insert(visibleLetters, {
+                        text = letter:lower(),
+                        x = child.AbsolutePosition.X
+                    })
+                end
+            end
+        end
+    end
+
+    table.sort(visibleLetters, function(a, b)
+        return a.x < b.x
+    end)
+
+    if #visibleLetters == 0 then
+        return
+    end
+
+    local visibleWord = ""
+
+    for _, data in ipairs(visibleLetters) do
+        visibleWord = visibleWord .. data.text
+    end
+
+    if previousVisibleWord == "" then
+        capturedWord = visibleWord
+        previousVisibleWord = visibleWord
+        return
+    end
+
+    if visibleWord == previousVisibleWord then
+        return
+    end
+
+    if #visibleWord > #previousVisibleWord
+    and visibleWord:sub(1, #previousVisibleWord) == previousVisibleWord then
+        capturedWord = visibleWord
+        previousVisibleWord = visibleWord
+        return
+    end
+
+    if #visibleWord < #previousVisibleWord then
+        if capturedWord:sub(-#visibleWord) == visibleWord then
+            previousVisibleWord = visibleWord
+            return
+        end
+    end
+
+    local bestOverlap = 0
+    local maxOverlap = math.min(#capturedWord, #visibleWord)
+
+    for i = 1, maxOverlap do
+        if capturedWord:sub(-i) == visibleWord:sub(1, i) then
+            bestOverlap = i
+        end
+    end
+
+    if bestOverlap > 0 then
+        capturedWord =
+            capturedWord ..
+            visibleWord:sub(bestOverlap + 1)
+
+        previousVisibleWord = visibleWord
+        return
+    end
+
+    previousVisibleWord = visibleWord
+end
+
+local function ResetCapturedWord()
+    capturedWord = ""
+    previousVisibleWord = ""
+end
+
+local function GetSubmittedWord()
+    UpdateCapturedWord()
+    return capturedWord:lower()
+end
+
+local function SubmitWord()
+    local word = GetSubmittedWord()
+
+    if word ~= "" then
+        EnteredWords[word] = true
+        searchCache = {}
+        cacheSize = 0
+        currentPage = 1
+
+        if h and h.Parent and h.Text ~= "" then
+            UpdateSuggestions(true)
+        elseif lastPrefix ~= "" then
+            UpdatePrefixSuggestions(lastPrefix)
+        else
+            ClearSuggestions()
+        end
+    end
+
+    task.delay(0.15, function()
+        ResetCapturedWord()
+    end)
+end
+
+local function FindDoneButton()
+    for _, obj in ipairs(PlayerGui:GetDescendants()) do
+        if obj:IsA("TextButton") then
+            if obj.Text:lower() == "done" or obj.Name:lower() == "done" then
+                return obj
+            end
+        elseif obj:IsA("ImageButton") then
+            if obj.Name:lower() == "done" then
+                return obj
+            end
+        end
+    end
+end
+
+local function ConnectDoneButton()
+    local button = FindDoneButton()
+
+    if not button or button == doneButton then
+        return
+    end
+
+    if doneConnection then
+        doneConnection:Disconnect()
+    end
+
+    doneButton = button
+
+    doneConnection = button.Activated:Connect(function()
+        SubmitWord()
+    end)
+end
+
+UserInputService.InputBegan:Connect(function(input, gameProcessed)
+    if gameProcessed then
+        return
+    end
+
+    if input.KeyCode == Enum.KeyCode.Return
+    or input.KeyCode == Enum.KeyCode.KeypadEnter then
+        SubmitWord()
+    end
+end)
+
+task.spawn(function()
+    while true do
+        UpdateCapturedWord()
+
+        if not doneButton or not doneButton.Parent then
+            doneButton = nil
+            ConnectDoneButton()
+        end
+
+        task.wait(0.03)
     end
 end)
 
@@ -753,7 +945,6 @@ local function UpdatePrefixSuggestions(prefix)
         local displayWord = formatWord(word, prefix, i)
 
         button.Text = displayWord
-        
         button.AutoButtonColor = true
         Instance.new("UICorner", button).CornerRadius = UDim.new(0, 4)
         button.Selectable = false
@@ -772,7 +963,6 @@ task.spawn(function()
             prefixLabel.TextColor3 = Color3.fromRGB(255, 255, 0)
             task.wait(0.25)
         else
-        
             local currentPrefix = prefix
 
             if currentPrefix ~= lastPrefix then
@@ -800,5 +990,20 @@ task.spawn(function()
         end
 
         task.wait(0.1)
+    end
+end)
+
+restoreButton.MouseButton1Click:Connect(function()
+    EnteredWords = {}
+    searchCache = {}
+    cacheSize = 0
+    currentPage = 1
+
+    if h and h.Parent and h.Text ~= "" then
+        UpdateSuggestions(true)
+    elseif lastPrefix ~= "" then
+        UpdatePrefixSuggestions(lastPrefix)
+    else
+        ClearSuggestions()
     end
 end)
