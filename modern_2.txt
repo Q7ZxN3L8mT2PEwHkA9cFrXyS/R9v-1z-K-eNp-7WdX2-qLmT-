@@ -47,6 +47,7 @@ calcutta
 can-do
 canabae
 capataz
+captaincy
 carniolan
 carolan
 carvoepra
@@ -55,9 +56,11 @@ cave-in
 chabuk
 chaitra
 changaa
+chaplaincy
 chevre
 chhi-chhi
 chibs
+chieftaincy
 chikungunya
 chinita
 chitra
@@ -216,6 +219,7 @@ memsahibs
 menald
 metel
 mgbo
+mincy
 minie
 misgo
 mitra
@@ -285,6 +289,7 @@ pterophryne
 pubis
 puzzolan
 queuer
+quincy
 quinie
 quyte
 qvevris
@@ -334,6 +339,7 @@ sorosil
 spirt
 sputta
 strobil
+subcaptaincy
 subtaxer
 sulphur
 sutta
@@ -400,4 +406,5 @@ yatvyag
 yazoo
 yinqiao
 yuks
+zincy
 zombi
