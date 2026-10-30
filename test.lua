@@ -1,5 +1,4 @@
 local url = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/words.txt"
-
 local Words = {}
 local WordSet = {}
 local loaded = false
@@ -11,12 +10,22 @@ local currentPage = 1
 local wordsPerPage = 50
 local sortMode = "Random"
 local EnteredWords = {}
-
+local currentWordGui = nil
+local capturedWord = ""
+local previousVisibleWord = ""
+local intimidatorActive = false
+local lastNormalPrefix = ""
+local intimidatorReversedPrefix = ""
+local lastIntimidatorDisplayPrefix = ""
+local intimidatorDetectionBlocked = false
+local alreadyExistCheckId = 0
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local player = Players.LocalPlayer
 local KillerMap1 = {}
 local KillerMap2 = {}
 local KillerMap3 = {}
 local KillerMap4 = {}
-
 local killerUrl1 = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/modern_3.txt"
 local killerUrl2 = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/modern_2.txt"
 local killerUrl3 = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/modern.txt"
@@ -247,9 +256,6 @@ local function SuggestWords(input, count)
 
     return results
 end
-
-local Players = game:GetService("Players")
-local player = Players.LocalPlayer
 
 local a = Instance.new("ScreenGui")
 a.Name = "WordSuggestor"
@@ -697,12 +703,6 @@ end)
 local LocalPlayer = Players.LocalPlayer
 local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
 
-local currentWordGui = nil
-local capturedWord = ""
-local previousVisibleWord = ""
-local doneButton = nil
-local doneConnection = nil
-
 task.spawn(function()
     while not currentWordGui do
         currentWordGui = PlayerGui:FindFirstChild("CurrentWord", true)
@@ -807,11 +807,20 @@ local function GetSubmittedWord()
     return capturedWord:lower()
 end
 
+local lastPrefix = ""
+local previousPrefixLength = 0
+local prefixResetDetected = false
+local detectPrefix
+local IsAlreadyExistVisible
+local UpdatePrefixSuggestions
+local StopIntimidator
+
 local function SubmitWord()
     local word = GetSubmittedWord()
 
     if word ~= "" then
         EnteredWords[word] = true
+
         searchCache = {}
         cacheSize = 0
         currentPage = 1
@@ -825,40 +834,53 @@ local function SubmitWord()
         end
     end
 
-    task.delay(0.15, function()
-        ResetCapturedWord()
-    end)
-end
+    if intimidatorActive then
+        intimidatorDetectionBlocked = true
+        StopIntimidator()
+    end
 
-local function FindDoneButton()
-    for _, obj in ipairs(PlayerGui:GetDescendants()) do
-        if obj:IsA("TextButton") then
-            if obj.Text:lower() == "done" or obj.Name:lower() == "done" then
-                return obj
+    alreadyExistCheckId += 1
+    local checkId = alreadyExistCheckId
+
+    task.spawn(function()
+        local alreadyExists = false
+
+        for i = 1, 30 do
+            if checkId ~= alreadyExistCheckId then
+                return
             end
-        elseif obj:IsA("ImageButton") then
-            if obj.Name:lower() == "done" then
-                return obj
+
+            if IsAlreadyExistVisible() then
+                alreadyExists = true
+                break
+            end
+
+            task.wait(0.05)
+        end
+
+        if checkId ~= alreadyExistCheckId then
+            return
+        end
+
+        if alreadyExists and word ~= "" then
+            EnteredWords[word] = true
+
+            searchCache = {}
+            cacheSize = 0
+            currentPage = 1
+
+            if h and h.Parent and h.Text ~= "" then
+                UpdateSuggestions(true)
+            elseif lastPrefix ~= "" then
+                UpdatePrefixSuggestions(lastPrefix)
+            else
+                ClearSuggestions()
             end
         end
-    end
-end
+    end)
 
-local function ConnectDoneButton()
-    local button = FindDoneButton()
-
-    if not button or button == doneButton then
-        return
-    end
-
-    if doneConnection then
-        doneConnection:Disconnect()
-    end
-
-    doneButton = button
-
-    doneConnection = button.Activated:Connect(function()
-        SubmitWord()
+    task.delay(0.15, function()
+        ResetCapturedWord()
     end)
 end
 
@@ -876,17 +898,11 @@ end)
 task.spawn(function()
     while true do
         UpdateCapturedWord()
-
-        if not doneButton or not doneButton.Parent then
-            doneButton = nil
-            ConnectDoneButton()
-        end
-
         task.wait(0.03)
     end
 end)
 
-local function detectPrefix()
+detectPrefix = function()
     if currentWordGui and currentWordGui.Parent then
         local obj = currentWordGui
         local letters = {}
@@ -924,7 +940,43 @@ local function detectPrefix()
     return ""
 end
 
-local function UpdatePrefixSuggestions(prefix)
+local function DetectIntimidator()
+    for _, obj in ipairs(PlayerGui:GetDescendants()) do
+        if obj:IsA("TextLabel")
+        or obj:IsA("TextButton")
+        or obj:IsA("TextBox") then
+
+            local text = tostring(obj.Text):lower()
+
+            if text:find("reversed the word", 1, true)
+            and text:find("be careful", 1, true) then
+                return true
+            end
+        end
+    end
+
+    return false
+end
+
+IsAlreadyExistVisible = function()
+    for _, obj in ipairs(PlayerGui:GetDescendants()) do
+        if obj:IsA("TextLabel")
+        or obj:IsA("TextButton")
+        or obj:IsA("TextBox") then
+
+            local text = tostring(obj.Text):lower()
+
+            if text:find("already exist!", 1, true)
+            or text:find("already exist", 1, true) then
+                return true
+            end
+        end
+    end
+
+    return false
+end
+
+UpdatePrefixSuggestions = function(prefix)
     if prefix == "" then return end
 
     ClearSuggestions()
@@ -952,44 +1004,199 @@ local function UpdatePrefixSuggestions(prefix)
     end
 end
 
-local lastPrefix = ""
+local function SetPrefixDisplay(prefix)
+    if prefix == "" then
+        prefixLabel.Text = "Prefix: -"
+        prefixLabel.TextColor3 = Color3.fromRGB(255,255,255)
+
+        if h.Text == "" then
+            ClearSuggestions()
+        end
+
+        return
+    end
+
+    prefixLabel.Text = "Prefix: " .. prefix
+
+    if WordSet[prefix] then
+        prefixLabel.TextColor3 = Color3.fromRGB(0,255,0)
+    else
+        prefixLabel.TextColor3 = Color3.fromRGB(255,0,0)
+    end
+
+    if h.Text == "" then
+        UpdatePrefixSuggestions(prefix)
+    end
+end
+
+local function StartIntimidator()
+    if intimidatorActive then
+        return
+    end
+
+    intimidatorActive = true
+    lastIntimidatorDisplayPrefix = ""
+
+    local prefix = detectPrefix()
+
+    if prefix ~= "" then
+        intimidatorReversedPrefix = prefix
+    else
+        intimidatorReversedPrefix = lastNormalPrefix:reverse()
+    end
+
+    local normalPrefix = intimidatorReversedPrefix:reverse()
+
+    if normalPrefix ~= "" then
+        SetPrefixDisplay(normalPrefix)
+        lastPrefix = normalPrefix
+    end
+
+    statusLabel.Text = "Intimidator Detect!"
+    statusLabel.TextColor3 = Color3.fromRGB(255,0,0)
+    statusLabel.Visible = true
+end
+
+StopIntimidator = function()
+    intimidatorActive = false
+    intimidatorReversedPrefix = ""
+    lastIntimidatorDisplayPrefix = ""
+
+    statusLabel.Visible = false
+
+    local prefix = detectPrefix()
+
+    if prefix ~= "" then
+        local normalPrefix = prefix
+
+        if lastNormalPrefix ~= ""
+        and prefix:reverse() == lastNormalPrefix then
+            normalPrefix = lastNormalPrefix
+        end
+
+        lastPrefix = normalPrefix
+        lastNormalPrefix = normalPrefix
+        previousPrefixLength = #normalPrefix
+
+        SetPrefixDisplay(normalPrefix)
+    else
+        lastPrefix = ""
+        previousPrefixLength = 0
+        SetPrefixDisplay("")
+    end
+end
 
 task.spawn(function()
     while true do
         local prefix = detectPrefix()
 
-        if string.find(prefix, "%.%.%.") or string.find(prefix, "#+") then
-            prefixLabel.Text = "Prefix: ..."
-            prefixLabel.TextColor3 = Color3.fromRGB(255, 255, 0)
-            task.wait(0.25)
-        else
-            local currentPrefix = prefix
+        if not intimidatorActive then
 
-            if currentPrefix ~= lastPrefix then
-                lastPrefix = currentPrefix
+            if prefix ~= lastPrefix then
 
-                if h.Text == "" then
-                    ClearSuggestions()
+                if prefix ~= ""
+                and #prefix > 2
+                and not (
+                    lastNormalPrefix ~= ""
+                    and prefix:reverse() == lastNormalPrefix
+                ) then
+                    lastNormalPrefix = prefix
                 end
 
-                if currentPrefix ~= "" then
-                    prefixLabel.Text = "Prefix: " .. currentPrefix
+                lastPrefix = prefix
 
-                    if WordSet[currentPrefix] then
-                        prefixLabel.TextColor3 = Color3.fromRGB(0, 255, 0)
+                if string.find(prefix, "%.%.%.")
+                or string.find(prefix, "#+") then
+
+                    prefixLabel.Text = "Prefix: ..."
+                    prefixLabel.TextColor3 = Color3.fromRGB(255,255,0)
+
+                elseif prefix == "" then
+
+                    SetPrefixDisplay("")
+
+                else
+
+                    SetPrefixDisplay(prefix)
+
+                end
+            end
+
+        else
+
+            if prefix ~= "" then
+                local normalPrefix = prefix:reverse()
+
+                if normalPrefix ~= lastIntimidatorDisplayPrefix then
+
+                    prefixLabel.Text = "Prefix: " .. normalPrefix
+
+                    if WordSet[normalPrefix] then
+                        prefixLabel.TextColor3 = Color3.fromRGB(0,255,0)
                     else
-                        prefixLabel.TextColor3 = Color3.fromRGB(255, 0, 0)
+                        prefixLabel.TextColor3 = Color3.fromRGB(255,0,0)
                     end
 
-                    UpdatePrefixSuggestions(currentPrefix)
-                else
-                    prefixLabel.Text = "Prefix: -"
-                    prefixLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+                    if h.Text == "" then
+                        UpdatePrefixSuggestions(normalPrefix)
+                    end
+
+                    lastIntimidatorDisplayPrefix = normalPrefix
                 end
             end
         end
 
-        task.wait(0.1)
+        previousPrefixLength = #prefix
+
+        task.wait(0.01)
+    end
+end)
+
+RunService.RenderStepped:Connect(function()
+
+    local detected = DetectIntimidator()
+
+    if intimidatorDetectionBlocked then
+        if not detected then
+            intimidatorDetectionBlocked = false
+        end
+
+        return
+    end
+
+    if intimidatorActive then
+        local prefix = detectPrefix()
+
+        if prefix ~= "" then
+            local normalPrefix = prefix:reverse()
+
+            prefixLabel.Text = "Prefix: " .. normalPrefix
+
+            if WordSet[normalPrefix] then
+                prefixLabel.TextColor3 = Color3.fromRGB(0,255,0)
+            else
+                prefixLabel.TextColor3 = Color3.fromRGB(255,0,0)
+            end
+        end
+
+        return
+    end
+
+    if detected then
+        StartIntimidator()
+        return
+    end
+
+    local prefix = detectPrefix()
+
+    if prefix ~= ""
+    and #prefix > 2
+    and lastNormalPrefix ~= ""
+    and prefix:reverse() == lastNormalPrefix
+    and prefix ~= lastNormalPrefix then
+
+        StartIntimidator()
+        return
     end
 end)
 
