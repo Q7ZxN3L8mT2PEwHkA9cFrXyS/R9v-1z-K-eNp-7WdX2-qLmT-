@@ -1,736 +1,797 @@
-local url = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/words.txt"
-local Words = {}
-local WordSet = {}
-local loaded = false
-local WordDictionary = {}
-local searchCache = {}
-local cacheSize = 0
-local MAX_CACHE = 200
-local currentPage = 1
-local wordsPerPage = 50
-local sortMode = "Random"
-local EnteredWords = {}
-local currentWordGui = nil
-local capturedWord = ""
-local previousVisibleWord = ""
-local intimidatorActive = false
-local lastNormalPrefix = ""
-local intimidatorReversedPrefix = ""
-local lastIntimidatorDisplayPrefix = ""
-local intimidatorDetectionBlocked = false
-local alreadyExistCheckId = 0
-local Players = game:GetService("Players")
-local RunService = game:GetService("RunService")
-local player = Players.LocalPlayer
-local KillerMap1 = {}
-local KillerMap2 = {}
-local KillerMap3 = {}
-local KillerMap4 = {}
-local killerUrl1 = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/modern_3.txt"
-local killerUrl2 = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/modern_2.txt"
-local killerUrl3 = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/modern.txt"
-local killerUrl4 = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/old.txt"
+local url5 = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/words.txt"
 
-pcall(function()
-    local res = request({Url = killerUrl1, Method = "GET"})
-    if res and res.Success and res.Body then
-        for w in res.Body:gmatch("[^\r\n]+") do
-            KillerMap1[w:lower()] = true
-        end
-    end
-end)
+local Words5 = {}
+local WordSet5 = {}
+local WordDictionary5 = {}
+local Loaded5 = false
+local EnteredWords5 = {}
 
-pcall(function()
-    local res = request({Url = killerUrl2, Method = "GET"})
-    if res and res.Success and res.Body then
-        for w in res.Body:gmatch("[^\r\n]+") do
-            KillerMap2[w:lower()] = true
-        end
-    end
-end)
+local KillerMap1_5 = {}
+local KillerMap2_5 = {}
+local KillerMap3_5 = {}
+local KillerMap4_5 = {}
+local KillerCategory5 = {}
 
-pcall(function()
-    local res = request({Url = killerUrl3, Method = "GET"})
-    if res and res.Success and res.Body then
-        for w in res.Body:gmatch("[^\r\n]+") do
-            KillerMap3[w:lower()] = true
-        end
-    end
-end)
+local KillerUrls5 = {
+    "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/modern_3.txt",
+    "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/modern_2.txt",
+    "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/modern.txt",
+    "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/old.txt"
+}
 
-pcall(function()
-    local res = request({Url = killerUrl4, Method = "GET"})
-    if res and res.Success and res.Body then
-        for w in res.Body:gmatch("[^\r\n]+") do
-            KillerMap4[w:lower()] = true
-        end
-    end
-end)
+local KillerMaps5 = {
+    KillerMap1_5,
+    KillerMap2_5,
+    KillerMap3_5,
+    KillerMap4_5
+}
 
-local function LoadWords()
-    if loaded then return end
-    pcall(function()
-        local res = request({Url = url, Method = "GET"})
-        if res and res.Success and res.Body then
-            for w in res.Body:gmatch("[^\r\n]+") do
-                local wordLower = w:lower()
-                table.insert(Words, wordLower)
-                WordSet[wordLower] = true
-                local firstLetter = wordLower:sub(1,1)
+local KillerLoaded5 = false
 
-                if not WordDictionary[firstLetter] then
-                    WordDictionary[firstLetter] = {}
+task.spawn(function()
+    for i, url in ipairs(KillerUrls5) do
+        pcall(function()
+            local response = request({
+                Url = url,
+                Method = "GET"
+            })
+
+            if response and response.Success and response.Body then
+                for word in response.Body:gmatch("[^\r\n]+") do
+                    word = word:lower():match("^%s*(.-)%s*$")
+
+                    if word ~= "" then
+                        KillerMaps5[i][word] = true
+
+                        if not KillerCategory5[word] then
+                            KillerCategory5[word] = i
+                        end
+                    end
                 end
-
-                table.insert(WordDictionary[firstLetter], wordLower)
             end
+        end)
+    end
 
-            table.sort(Words)
+    KillerLoaded5 = true
+end)
 
-            for _, list in pairs(WordDictionary) do
-                table.sort(list)
-            end
+local KillerColors5 = {
+    Color3.fromRGB(170, 0, 255),
+    Color3.fromRGB(0, 170, 255),
+    Color3.fromRGB(0, 255, 0),
+    Color3.fromRGB(255, 255, 0),
+    Color3.fromRGB(255, 0, 0)
+}
 
-            loaded = true
-        end
-    end)
+local function GetKillerCategory5(word)
+    return KillerCategory5[word] or 5
 end
 
-task.spawn(LoadWords)
+local Orange5 = Color3.fromRGB(255, 115, 0)
+local Purple5 = Color3.fromRGB(65, 30, 85)
+local Dark5 = Color3.fromRGB(22, 17, 29)
+local LightPurple5 = Color3.fromRGB(95, 55, 120)
+local White5 = Color3.fromRGB(255, 240, 220)
 
-local function shuffle(t)
+local LoadError5 = nil
+
+local function LoadWords5()
+    if Loaded5 then return end
+
+    local success, err = pcall(function()
+        local response = request({
+            Url = url5,
+            Method = "GET"
+        })
+
+        if not response or not response.Success or not response.Body then
+            error("Unable to download word list")
+        end
+
+        for word in response.Body:gmatch("[^\r\n]+") do
+            local w = word:lower()
+
+            if w ~= "" and not WordSet5[w] then
+                WordSet5[w] = true
+                table.insert(Words5, w)
+
+                local first = w:sub(1, 1)
+
+                if not WordDictionary5[first] then
+                    WordDictionary5[first] = {}
+                end
+
+                table.insert(WordDictionary5[first], w)
+            end
+        end
+
+        table.sort(Words5)
+
+        for _, words in pairs(WordDictionary5) do
+            table.sort(words)
+        end
+
+        Loaded5 = true
+    end)
+
+    if not success then
+        LoadError5 = tostring(err)
+    end
+end
+
+task.spawn(LoadWords5)
+
+local function Shuffle5(t)
     for i = #t, 2, -1 do
         local j = math.random(i)
         t[i], t[j] = t[j], t[i]
     end
 end
 
-local function formatWord(word, prefix, index)
-    local prefixLen = #prefix
-    local firstPart = word:sub(1, prefixLen)
-    local restPart = word:sub(prefixLen + 1)
+local Players5 = game:GetService("Players")
+local UIS5 = game:GetService("UserInputService")
+local Player5 = Players5.LocalPlayer
+local PlayerGui5 = Player5:WaitForChild("PlayerGui")
+local Gui5 = Instance.new("ScreenGui")
 
-    local prefixColor
+local function GetMatchFrame5()
+    local inGame = PlayerGui5:FindFirstChild("InGame")
 
-    if KillerMap1[word] then
-        prefixColor = "170,0,255"
-    elseif KillerMap2[word] then
-        prefixColor = "0,170,255"
-    elseif KillerMap3[word] then
-        prefixColor = "0,255,0"
-    elseif KillerMap4[word] then
-        prefixColor = "255,255,0"
-    else
-        prefixColor = "255,0,0"
+    if not inGame or not inGame:IsA("ScreenGui") or not inGame.Enabled then
+        return nil
     end
 
-    return string.format(
-        '<font color="rgb(%s)">%s</font>%s',
-        prefixColor,
-        firstPart,
-        restPart
-    )
+    local frame = inGame:FindFirstChild("Frame")
+
+    if not frame or not frame.Visible then
+        return nil
+    end
+
+    return frame
 end
 
-local function SuggestWords(input, count)
-    if not loaded then
-        return {"loading words...", "please wait"}
+local function GetCurrentTurnPlayer5()
+    local frame = GetMatchFrame5()
+    local typeLabel = frame and frame:FindFirstChild("Type")
+
+    if not typeLabel or not typeLabel:IsA("TextLabel") then
+        return nil
     end
 
-    if #Words == 0 then
-        return {"no words available", "check connection"}
+    local text = typeLabel.Text:gsub("<[^>]->", ""):lower()
+
+    for _, candidate in ipairs(Players5:GetPlayers()) do
+        local name = candidate.Name:lower()
+
+        if text:find(name, 1, true) then
+            return candidate.Name
+        end
     end
 
-    input = input:lower()
+    for _, candidate in ipairs(Players5:GetPlayers()) do
+        local name = candidate.DisplayName:lower()
 
-    local cacheKey = input.."_"..count.."_"..sortMode
+        if name ~= "" and text:find(name, 1, true) then
+            return candidate.Name
+        end
+    end
 
-    if sortMode ~= "Random" and sortMode ~= "Killer" and searchCache[cacheKey] then
-        return searchCache[cacheKey]
+    if text:match("your%s+turn") or text:match("you%s+are%s+typing") then
+        return Player5.Name
+    end
+
+    return nil
+end
+
+local function IsMyTurn5()
+    return GetCurrentTurnPlayer5() == Player5.Name
+end
+
+Gui5.Name = "WordSuggestorV3"
+Gui5.ResetOnSpawn = false
+Gui5.Parent = PlayerGui5
+
+local Main5 = Instance.new("Frame")
+Main5.Size = UDim2.new(0, 420, 0, 650)
+Main5.Position = UDim2.new(0.5, -210, 0, 60)
+Main5.BackgroundColor3 = Dark5
+Main5.BorderSizePixel = 0
+Main5.Active = true
+Main5.Parent = Gui5
+
+Instance.new("UICorner", Main5).CornerRadius = UDim.new(0, 10)
+
+local MainStroke5 = Instance.new("UIStroke")
+MainStroke5.Thickness = 2
+MainStroke5.Color = Orange5
+MainStroke5.Parent = Main5
+
+local Content5 = Instance.new("Frame")
+Content5.Size = UDim2.new(1, 0, 1, 0)
+Content5.BackgroundTransparency = 1
+Content5.Parent = Main5
+
+local Title5 = Instance.new("TextLabel")
+Title5.Size = UDim2.new(1, -145, 0, 35)
+Title5.Position = UDim2.new(0, 10, 0, 5)
+Title5.BackgroundTransparency = 1
+Title5.Text = "🎃 Word Finder V3"
+Title5.TextColor3 = Orange5
+Title5.Font = Enum.Font.GothamBold
+Title5.TextSize = 20
+Title5.TextXAlignment = Enum.TextXAlignment.Left
+Title5.Parent = Main5
+
+local function MakeButton5(parent, text, size, pos)
+    local button = Instance.new("TextButton")
+    button.Size = size
+    button.Position = pos
+    button.BackgroundColor3 = Purple5
+    button.TextColor3 = Orange5
+    button.Text = text
+    button.Font = Enum.Font.GothamBold
+    button.TextSize = 12
+    button.Parent = parent
+
+    Instance.new("UICorner", button).CornerRadius = UDim.new(0, 5)
+
+    local stroke = Instance.new("UIStroke")
+    stroke.Thickness = 1
+    stroke.Color = Orange5
+    stroke.Parent = button
+
+    return button
+end
+
+local Min5 = MakeButton5(
+    Main5,
+    "-",
+    UDim2.new(0, 35, 0, 35),
+    UDim2.new(1, -120, 0, 5)
+)
+
+local Deleted5 = MakeButton5(
+    Main5,
+    "R",
+    UDim2.new(0, 35, 0, 35),
+    UDim2.new(1, -80, 0, 5)
+)
+
+local Close5 = MakeButton5(
+    Main5,
+    "X",
+    UDim2.new(0, 35, 0, 35),
+    UDim2.new(1, -40, 0, 5)
+)
+
+Min5.TextSize = 20
+Deleted5.TextSize = 20
+Close5.TextSize = 20
+
+local Feedback5 = Instance.new("TextLabel")
+Feedback5.Size = UDim2.new(1, -20, 0, 25)
+Feedback5.Position = UDim2.new(0, 10, 0, 595)
+Feedback5.BackgroundTransparency = 1
+Feedback5.Text = ""
+Feedback5.TextColor3 = White5
+Feedback5.Font = Enum.Font.GothamBold
+Feedback5.TextSize = 13
+Feedback5.TextXAlignment = Enum.TextXAlignment.Center
+Feedback5.TextTruncate = Enum.TextTruncate.AtEnd
+Feedback5.Parent = Content5
+
+local feedbackTimer5 = 0
+
+local function ShowFeedback5(message, color)
+    if message:find("#", 1, true) then
+        message = "Error: Tags Detect"
+        color = Color3.fromRGB(255, 80, 80)
+    else
+        local invalidWord = message:match("^%((.-)%) doesn't exist$")
+
+        if invalidWord and (#invalidWord < 2 or #invalidWord > 4) then
+            feedbackTimer5 += 1
+            Feedback5.Text = ""
+            Feedback5.Visible = false
+            return
+        end
+    end
+
+    feedbackTimer5 += 1
+    local currentTimer = feedbackTimer5
+
+    Feedback5.Text = message
+    Feedback5.TextColor3 = color
+    Feedback5.Visible = true
+
+    task.delay(3, function()
+        if currentTimer == feedbackTimer5 then
+            Feedback5.Visible = false
+        end
+    end)
+end
+
+local dragging5 = false
+local dragStart5
+local startPos5
+local dragInput5
+
+Title5.InputBegan:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1
+        or input.UserInputType == Enum.UserInputType.Touch then
+
+        dragging5 = true
+        dragStart5 = input.Position
+        startPos5 = Main5.Position
+
+        input.Changed:Connect(function()
+            if input.UserInputState == Enum.UserInputState.End then
+                dragging5 = false
+            end
+        end)
+    end
+end)
+
+Title5.InputChanged:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseMovement
+        or input.UserInputType == Enum.UserInputType.Touch then
+
+        dragInput5 = input
+    end
+end)
+
+UIS5.InputChanged:Connect(function(input)
+    if input == dragInput5 and dragging5 then
+        local delta = input.Position - dragStart5
+
+        Main5.Position = UDim2.new(
+            startPos5.X.Scale,
+            startPos5.X.Offset + delta.X,
+            startPos5.Y.Scale,
+            startPos5.Y.Offset + delta.Y
+        )
+    end
+end)
+
+local minimized5 = false
+local fullSize5 = Main5.Size
+
+Min5.MouseButton1Click:Connect(function()
+    minimized5 = not minimized5
+    Content5.Visible = not minimized5
+    Main5.Size = minimized5 and UDim2.new(0, 420, 0, 45) or fullSize5
+end)
+
+Close5.MouseButton1Click:Connect(function()
+    Gui5:Destroy()
+end)
+
+local Sort5 = MakeButton5(
+    Content5,
+    "Sort Mode: Random",
+    UDim2.new(1, -20, 0, 40),
+    UDim2.new(0, 10, 0, 75)
+)
+
+Sort5.TextSize = 16
+
+local SortModes5 = {"Shortest", "Longest", "Random", "Killer"}
+local SortIndex5 = 3
+local SortMode5 = "Random"
+
+local Input5 = Instance.new("TextBox")
+Input5.Size = UDim2.new(1, -20, 0, 40)
+Input5.Position = UDim2.new(0, 10, 0, 125)
+Input5.BackgroundColor3 = Purple5
+Input5.TextColor3 = White5
+Input5.PlaceholderColor3 = Color3.fromRGB(180, 150, 190)
+Input5.PlaceholderText = "Type letters..."
+Input5.Text = ""
+Input5.ClearTextOnFocus = false
+Input5.Font = Enum.Font.Gotham
+Input5.TextSize = 18
+Input5.TextXAlignment = Enum.TextXAlignment.Center
+Input5.Parent = Content5
+
+Instance.new("UICorner", Input5).CornerRadius = UDim.new(0, 6)
+
+local InputStroke5 = Instance.new("UIStroke")
+InputStroke5.Color = Orange5
+InputStroke5.Thickness = 1
+InputStroke5.Parent = Input5
+
+local List5 = Instance.new("ScrollingFrame")
+List5.Size = UDim2.new(1, -20, 0, 410)
+List5.Position = UDim2.new(0, 10, 0, 175)
+List5.BackgroundColor3 = Color3.fromRGB(35, 25, 43)
+List5.BackgroundTransparency = 0
+List5.BorderSizePixel = 0
+List5.ScrollBarThickness = 8
+List5.ScrollBarImageColor3 = Orange5
+List5.AutomaticCanvasSize = Enum.AutomaticSize.Y
+List5.CanvasSize = UDim2.new(0, 0, 0, 0)
+List5.Parent = Content5
+
+Instance.new("UICorner", List5).CornerRadius = UDim.new(0, 6)
+
+local ListStroke5 = Instance.new("UIStroke")
+ListStroke5.Color = LightPurple5
+ListStroke5.Thickness = 1
+ListStroke5.Parent = List5
+
+local Layout5 = Instance.new("UIListLayout")
+Layout5.Padding = UDim.new(0, 2)
+Layout5.SortOrder = Enum.SortOrder.LayoutOrder
+Layout5.Parent = List5
+
+local Status5 = Instance.new("TextLabel")
+Status5.Size = UDim2.new(1, -20, 0, 20)
+Status5.Position = UDim2.new(0, 10, 0, 625)
+Status5.BackgroundTransparency = 1
+Status5.Text = "Loading Words..."
+Status5.TextColor3 = Orange5
+Status5.Font = Enum.Font.GothamBold
+Status5.TextSize = 13
+Status5.Parent = Content5
+
+local LoadSuccessStart5 = nil
+
+local Prefix5 = Instance.new("TextLabel")
+Prefix5.Size = UDim2.new(1, -20, 0, 30)
+Prefix5.Position = UDim2.new(0, 10, 0, 38)
+Prefix5.BackgroundTransparency = 1
+Prefix5.Text = "Prefix: -"
+Prefix5.TextColor3 = Orange5
+Prefix5.Font = Enum.Font.GothamBold
+Prefix5.TextSize = 18
+Prefix5.TextScaled = false
+Prefix5.TextWrapped = false
+Prefix5.TextXAlignment = Enum.TextXAlignment.Center
+Prefix5.Parent = Content5
+
+local function AdjustPrefixSize5()
+    local availableWidth = Prefix5.AbsoluteSize.X - 4
+
+    if availableWidth <= 0 then return end
+
+    Prefix5.TextSize = 18
+
+    local textWidth = Prefix5.TextBounds.X
+
+    if textWidth > availableWidth then
+        Prefix5.TextSize = math.max(1, 18 * availableWidth / textWidth)
+    end
+end
+
+local Results5 = {}
+local PrefixUpdateToken5 = 0
+
+local function GetSuggestions5(prefix, count)
+    if not Loaded5 or prefix == "" then
+        return {}
+    end
+
+    if SortMode5 == "Killer" and not KillerLoaded5 then
+        return {}
+    end
+
+    local source = WordDictionary5[prefix:sub(1, 1)] or Words5
+    local low = 1
+    local high = #source + 1
+
+    while low < high do
+        local mid = math.floor((low + high) / 2)
+
+        if source[mid] < prefix then
+            low = mid + 1
+        else
+            high = mid
+        end
     end
 
     local results = {}
-    local firstLetter = input:sub(1,1)
-    local wordList = WordDictionary[firstLetter] or Words
-    local possible = {}
+    local seen = 0
 
-    for i = 1, #wordList do
-        local word = wordList[i]
+    local function IsBetter(a, b)
+        if #a == #b then
+            return a < b
+        end
 
-        if word:sub(1,#input) == input and not EnteredWords[word] then
-            table.insert(possible, word)
+        if SortMode5 == "Shortest" then
+            return #a < #b
+        end
+
+        return #a > #b
+    end
+
+    local categories = nil
+    local categoryCounts = nil
+
+    if SortMode5 == "Killer" then
+        categories = {{}, {}, {}, {}, {}}
+        categoryCounts = {0, 0, 0, 0, 0}
+    end
+
+    for i = low, #source do
+        local word = source[i]
+
+        if word:sub(1, #prefix) ~= prefix then
+            break
+        end
+
+        if not EnteredWords5[word] then
+            if SortMode5 == "Random" then
+                seen += 1
+
+                if #results < count then
+                    table.insert(results, word)
+                else
+                    local position = math.random(seen)
+
+                    if position <= count then
+                        results[position] = word
+                    end
+                end
+
+            elseif SortMode5 == "Killer" then
+                local category = GetKillerCategory5(word)
+                local bucket = categories[category]
+
+                categoryCounts[category] += 1
+                local categorySeen = categoryCounts[category]
+
+                if #bucket < count then
+                    table.insert(bucket, word)
+                else
+                    local position = math.random(categorySeen)
+
+                    if position <= count then
+                        bucket[position] = word
+                    end
+                end
+
+            else
+                local position = 1
+                local left = 1
+                local right = #results
+
+                while left <= right do
+                    local mid = math.floor((left + right) / 2)
+
+                    if IsBetter(word, results[mid]) then
+                        right = mid - 1
+                    else
+                        left = mid + 1
+                    end
+                end
+
+                position = left
+
+                if position <= count then
+                    table.insert(results, position, word)
+
+                    if #results > count then
+                        table.remove(results)
+                    end
+                end
+            end
         end
     end
 
-    if sortMode == "Shortest" then
+    if SortMode5 == "Killer" then
+        results = {}
 
-        table.sort(possible, function(a,b)
-            return #a < #b
-        end)
+        for i = 1, 5 do
+            Shuffle5(categories[i])
 
-    elseif sortMode == "Longest" then
+            for _, word in ipairs(categories[i]) do
+                if #results >= count then
+                    break
+                end
 
-        table.sort(possible, function(a,b)
-            return #a > #b
-        end)
+                table.insert(results, word)
+            end
 
-    elseif sortMode == "Random" then
-
-        shuffle(possible)
-
-    elseif sortMode == "Killer" then
-
-        local link1Words = {}
-        local link2Words = {}
-        local link3Words = {}
-        local link4Words = {}
-        local normalWords = {}
-
-        for i = 1, #possible do
-            local word = possible[i]
-
-            if KillerMap1[word] then
-                table.insert(link1Words, word)
-
-            elseif KillerMap2[word] then
-                table.insert(link2Words, word)
-
-            elseif KillerMap3[word] then
-                table.insert(link3Words, word)
-
-            elseif KillerMap4[word] then
-                table.insert(link4Words, word)
-
-            else
-                table.insert(normalWords, word)
+            if #results >= count then
+                break
             end
         end
 
-        shuffle(link1Words)
-        shuffle(link2Words)
-        shuffle(link3Words)
-        shuffle(link4Words)
-        shuffle(normalWords)
-
-        possible = {}
-
-        for i = 1, #link1Words do
-            table.insert(possible, link1Words[i])
-        end
-
-        for i = 1, #link2Words do
-            table.insert(possible, link2Words[i])
-        end
-
-        for i = 1, #link3Words do
-            table.insert(possible, link3Words[i])
-        end
-
-        for i = 1, #link4Words do
-            table.insert(possible, link4Words[i])
-        end
-
-        for i = 1, #normalWords do
-            table.insert(possible, normalWords[i])
-        end
-    end
-
-    local maxResults = math.min(count,#possible)
-
-    for i = 1,maxResults do
-        table.insert(results, possible[i])
-    end
-
-    if sortMode ~= "Random" and sortMode ~= "Killer" then
-        if not searchCache[cacheKey] then
-            cacheSize += 1
-        end
-
-        searchCache[cacheKey] = results
-
-        if cacheSize > MAX_CACHE then
-            searchCache = {}
-            cacheSize = 0
-        end
+    elseif SortMode5 == "Random" then
+        Shuffle5(results)
     end
 
     return results
 end
 
-local a = Instance.new("ScreenGui")
-a.Name = "WordSuggestor"
-a.ResetOnSpawn = false
-a.Parent = player:WaitForChild("PlayerGui")
+local SuggestionButtons5 = {}
+local MaxDisplay5 = 50
 
-local b = Instance.new("Frame", a)
-local UserInputService = game:GetService("UserInputService")
-
-local guiVisible = true
-
-local playerGui = player:WaitForChild("PlayerGui")
-
-local gui = playerGui:FindFirstChild("CtrlButtonGui")
-if not gui then
-    gui = Instance.new("ScreenGui")
-    gui.Name = "CtrlButtonGui"
-    gui.ResetOnSpawn = false
-    gui.Parent = playerGui
+local function Clear5()
+    for _, button in ipairs(SuggestionButtons5) do
+        button.Parent = nil
+    end
 end
 
-local hitbox = gui:FindFirstChild("CtrlHitbox")
+local function DisplayWords5(words, prefix)
+    prefix = (prefix or ""):lower()
 
-if not hitbox then
-    hitbox = Instance.new("TextButton")
-    hitbox.Name = "CtrlHitbox"
-    hitbox.Parent = gui
+    for i, word in ipairs(words) do
+        if i > MaxDisplay5 then
+            break
+        end
+
+        local button = SuggestionButtons5[i]
+
+        if not button then
+            button = Instance.new("TextButton")
+            button.Size = UDim2.new(1, 0, 0, 32)
+            button.BackgroundColor3 = Purple5
+            button.TextColor3 = White5
+            button.Font = Enum.Font.GothamBold
+            button.TextSize = 16
+            button.RichText = true
+
+            Instance.new("UICorner", button).CornerRadius = UDim.new(0, 4)
+
+            button.MouseButton1Click:Connect(function()
+                Input5.Text = button:GetAttribute("Word5") or ""
+            end)
+
+            SuggestionButtons5[i] = button
+        end
+
+        local color = KillerColors5[GetKillerCategory5(word)]
+        local hex = color:ToHex()
+        local matching = word:sub(1, #prefix)
+        local remaining = word:sub(#prefix + 1)
+
+        button:SetAttribute("Word5", word)
+        button.LayoutOrder = i
+        button.Text = '<font color="#' .. hex .. '">' .. matching .. '</font>' .. remaining
+        button.TextColor3 = White5
+        button.Parent = List5
+    end
+
+    for i = #words + 1, #SuggestionButtons5 do
+        SuggestionButtons5[i].Parent = nil
+    end
 end
 
-hitbox.Size = UDim2.new(0, 40, 0, 40)
-hitbox.Position = UDim2.new(0, 10, 0.5, -20)
-hitbox.BackgroundTransparency = 1
-hitbox.Text = ""
-hitbox.BorderSizePixel = 0
-hitbox.AutoButtonColor = false
+local function UpdateSuggestions5()
+    PrefixUpdateToken5 += 1
 
-local dot = hitbox:FindFirstChild("Dot")
+    if not Loaded5 then return end
 
-if not dot then
-    dot = Instance.new("Frame")
-    dot.Name = "Dot"
-    dot.Parent = hitbox
+    local prefix = Input5.Text:lower()
+
+    if prefix == "" then
+        Results5 = {}
+        Clear5()
+        return
+    end
+
+    Results5 = GetSuggestions5(prefix, MaxDisplay5)
+    DisplayWords5(Results5, prefix)
 end
 
-dot.Size = UDim2.new(0, 6, 0, 6)
-dot.Position = UDim2.new(0.5, 0, 0.5, 0)
-dot.AnchorPoint = Vector2.new(0.5, 0.5)
-dot.BackgroundColor3 = Color3.fromRGB(200, 200, 200)
-dot.BackgroundTransparency = 1
-dot.BorderSizePixel = 0
+Input5:GetPropertyChangedSignal("Text"):Connect(function()
+    UpdateSuggestions5()
+end)
 
-local corner = dot:FindFirstChildOfClass("UICorner")
-if not corner then
-    corner = Instance.new("UICorner")
-    corner.Parent = dot
-end
-corner.CornerRadius = UDim.new(1, 0)
+Sort5.MouseButton1Click:Connect(function()
+    SortIndex5 = SortIndex5 % #SortModes5 + 1
+    SortMode5 = SortModes5[SortIndex5]
+    Sort5.Text = "Sort Mode: " .. SortMode5
 
-local stroke = dot:FindFirstChildOfClass("UIStroke")
-if not stroke then
-    stroke = Instance.new("UIStroke")
-    stroke.Parent = dot
-end
-
-stroke.Thickness = 1
-stroke.Color = Color3.fromRGB(255, 255, 255)
-stroke.Transparency = 1
-
-UserInputService.InputBegan:Connect(function(input, gameProcessed)
-    if gameProcessed then return end
-    
-    if input.KeyCode == Enum.KeyCode.LeftControl or input.KeyCode == Enum.KeyCode.RightControl then
-        guiVisible = not guiVisible
-        a.Enabled = guiVisible
+    if Input5.Text ~= "" then
+        UpdateSuggestions5()
     end
 end)
 
-hitbox.MouseButton1Click:Connect(function()
-    guiVisible = not guiVisible
-    a.Enabled = guiVisible
-end)
+local CurrentWord5 = nil
+local PreviousWord5 = ""
+local CapturedWord5 = ""
+local LastPrefix5 = ""
 
-b.Size = UDim2.new(0,420,0,650)
-b.Position = UDim2.new(0,120,0,60)
-b.BackgroundColor3 = Color3.fromRGB(30,30,30)
-b.BorderSizePixel = 0
-b.Active = true
-b.Draggable = false
-Instance.new("UICorner",b).CornerRadius=UDim.new(0,8)
-Instance.new("UIStroke",b).Thickness=1.5
+local PrefixFull5 = ""
+local PrefixDisplay5 = ""
+local PrefixHistory5 = ""
+local PreviousTurn5 = nil
+local OpponentWord5 = ""
 
-local contentFrame = Instance.new("Frame", b)
-contentFrame.Size = UDim2.new(1,0,1,0)
-contentFrame.Position = UDim2.new(0,0,0,0)
-contentFrame.BackgroundTransparency = 1
+local LastSeenGameWord5 = ""
+local LastCompleteWordInTurn5 = ""
+local LongestWordInTurn5 = ""
+local LastCapturedVisibleWord5 = ""
+local TurnPrompt5 = ""
 
-local title = Instance.new("TextLabel",b)
-title.Size=UDim2.new(1,-10,0,35)
-title.Position=UDim2.new(0,10,0,5)
-title.BackgroundTransparency=1
-title.Text="Word Finder V4"
-title.TextColor3=Color3.fromRGB(255,255,255)
-title.Font=Enum.Font.GothamBold
-title.TextSize=20
-title.TextXAlignment=Enum.TextXAlignment.Left
+local AntiIntimidator5 = false
 
-local draggingGui = false
-local dragStart
-local startPosition
-local dragInput
-
-local function UpdateGuiDrag(input)
-    local delta = input.Position - dragStart
-
-    b.Position = UDim2.new(
-        startPosition.X.Scale,
-        startPosition.X.Offset + delta.X,
-        startPosition.Y.Scale,
-        startPosition.Y.Offset + delta.Y
-    )
+local function ReverseWord5(word)
+    return word:reverse()
 end
 
-title.InputBegan:Connect(function(input)
-    if input.UserInputType == Enum.UserInputType.MouseButton1
-    or input.UserInputType == Enum.UserInputType.Touch then
-
-        draggingGui = true
-        dragStart = input.Position
-        startPosition = b.Position
-
-        input.Changed:Connect(function()
-            if input.UserInputState == Enum.UserInputState.End then
-                draggingGui = false
+local function DetectIntimidator5()
+    for _, obj in ipairs(PlayerGui5:GetDescendants()) do
+        if obj:IsA("TextLabel") or obj:IsA("TextButton") then
+            if obj.Text:lower():find("reversed the word be careful!", 1, true) then
+                return true
             end
-        end)
+        end
     end
-end)
 
-title.InputChanged:Connect(function(input)
-    if input.UserInputType == Enum.UserInputType.MouseMovement
-    or input.UserInputType == Enum.UserInputType.Touch then
-        dragInput = input
+    return false
+end
+
+local function RebuildPrefix5(raw)
+    local marker = raw:find("%.%.%.", 1)
+
+    if not marker then
+        if raw == "" then
+            PrefixFull5 = ""
+            PrefixDisplay5 = ""
+            PrefixHistory5 = ""
+            return ""
+        end
+
+        PrefixFull5 = raw
+        PrefixDisplay5 = raw
+        PrefixHistory5 = raw
+
+        return PrefixFull5
     end
-end)
 
-UserInputService.InputChanged:Connect(function(input)
-    if input == dragInput and draggingGui then
-        UpdateGuiDrag(input)
+    local suffix = raw:sub(marker + 3)
+
+    if suffix == "" then
+        PrefixDisplay5 = PrefixFull5
+        return PrefixFull5
     end
-end)
 
-local minimizeButton = Instance.new("TextButton", b)
-minimizeButton.Size = UDim2.new(0,35,0,35)
-minimizeButton.Position = UDim2.new(1, -80, 0, 5)
-minimizeButton.Text = "-"
-minimizeButton.Font = Enum.Font.GothamBold
-minimizeButton.TextSize = 24
-minimizeButton.BackgroundColor3 = Color3.fromRGB(60,60,60)
-minimizeButton.TextColor3 = Color3.fromRGB(255,255,255)
-Instance.new("UICorner", minimizeButton).CornerRadius = UDim.new(0,4)
-minimizeButton.ZIndex = 3
+    local position = PrefixHistory5:find(suffix, 1, true)
 
-local closeButton = Instance.new("TextButton", b)
-closeButton.Size = UDim2.new(0,35,0,35)
-closeButton.Position = UDim2.new(1, -40, 0, 5)
-closeButton.Text = "X"
-closeButton.Font = Enum.Font.GothamBold
-closeButton.TextSize = 24
-closeButton.BackgroundColor3 = Color3.fromRGB(60,60,60)
-closeButton.TextColor3 = Color3.fromRGB(255,255,255)
-Instance.new("UICorner", closeButton).CornerRadius = UDim.new(0,4)
-closeButton.ZIndex = 3
-
-local minimized = false
-local fullSize = b.Size
-local minimizedSize = UDim2.new(0,420,0,45)
-
-minimizeButton.MouseButton1Click:Connect(function()
-    minimized = not minimized
-    contentFrame.Visible = not minimized
-    if minimized then
-        b.Size = minimizedSize
+    if position then
+        PrefixFull5 = PrefixHistory5:sub(1, position + #suffix - 1)
     else
-        b.Size = fullSize
-    end
-end)
+        local overlap = 0
 
-closeButton.MouseButton1Click:Connect(function()
-    a:Destroy()
-end)
+        for i = 1, math.min(#PrefixFull5, #suffix) do
+            if PrefixFull5:sub(-i) == suffix:sub(1, i) then
+                overlap = i
+            end
+        end
 
-local restoreButton = Instance.new("TextButton", b)
-restoreButton.Size = UDim2.new(0,35,0,35)
-restoreButton.Position = UDim2.new(1, -120, 0, 5)
-restoreButton.Text = "R"
-restoreButton.Font = Enum.Font.GothamBold
-restoreButton.TextSize = 20
-restoreButton.BackgroundColor3 = Color3.fromRGB(60,60,60)
-restoreButton.TextColor3 = Color3.fromRGB(255,255,255)
-Instance.new("UICorner", restoreButton).CornerRadius = UDim.new(0,4)
-restoreButton.ZIndex = 3
-
-local prefixLabel = Instance.new("TextLabel", contentFrame)
-prefixLabel.Size = UDim2.new(1,-10,0,35)
-prefixLabel.Position = UDim2.new(0,5,0,35)
-prefixLabel.BackgroundTransparency = 1
-prefixLabel.Text = "Prefix: -"
-prefixLabel.TextColor3 = Color3.fromRGB(255,255,255)
-prefixLabel.Font = Enum.Font.GothamBold
-prefixLabel.TextSize = 18
-prefixLabel.TextXAlignment = Enum.TextXAlignment.Center
-prefixLabel.TextWrapped = false
-
-local sortFrame = Instance.new("Frame", contentFrame)
-sortFrame.Size=UDim2.new(1,-20,0,40)
-sortFrame.Position=UDim2.new(0,10,0,60)
-sortFrame.BackgroundColor3=Color3.fromRGB(40,40,40)
-sortFrame.BorderSizePixel=0
-Instance.new("UICorner",sortFrame).CornerRadius=UDim.new(0,6)
-
-local sortButton = Instance.new("TextButton",sortFrame)
-sortButton.Size=UDim2.new(1,0,1,0)
-sortButton.BackgroundColor3=Color3.fromRGB(60,60,60)
-sortButton.TextColor3=Color3.fromRGB(255,255,255)
-sortButton.Text="Sort Mode: Random"
-sortButton.Font=Enum.Font.Gotham
-sortButton.TextSize=16
-Instance.new("UICorner",sortButton).CornerRadius=UDim.new(0,4)
-
-local sortModes = {"Shortest", "Longest", "Random", "Killer"}
-local currentSortIndex = 3
-
-local h = Instance.new("TextBox", contentFrame)
-h.Text = ""
-h.PlaceholderText="Type letters..."
-h.Size=UDim2.new(1,-20,0,40)
-h.Position=UDim2.new(0,10,0,100)
-h.BackgroundColor3=Color3.fromRGB(50,50,50)
-h.TextColor3=Color3.fromRGB(255,255,255)
-h.ClearTextOnFocus=false
-h.Font=Enum.Font.Gotham
-h.TextSize=18
-h.TextXAlignment=Enum.TextXAlignment.Center
-Instance.new("UICorner",h).CornerRadius=UDim.new(0,6)
-
-local list = Instance.new("ScrollingFrame", contentFrame)
-list.Size=UDim2.new(1,-20,0,380)
-list.Position=UDim2.new(0,10,0,140)
-list.BackgroundTransparency=1
-list.ScrollBarThickness=6
-list.CanvasSize=UDim2.new(0,0,0,0)
-list.AutomaticCanvasSize=Enum.AutomaticSize.Y
-
-local uiList = Instance.new("UIListLayout",list)
-uiList.Padding=UDim.new(0,2)
-uiList.SortOrder=Enum.SortOrder.LayoutOrder
-
-local pageFrame = Instance.new("Frame", contentFrame)
-pageFrame.Size = UDim2.new(1,-20,0,30)
-pageFrame.Position = UDim2.new(0,10,0,540)
-pageFrame.BackgroundTransparency = 1
-
-local prevButton = Instance.new("TextButton", pageFrame)
-prevButton.Size=UDim2.new(0.2,0,1,0)
-prevButton.Position=UDim2.new(0,0,0,0)
-prevButton.BackgroundColor3 = Color3.fromRGB(80,80,80)
-prevButton.TextColor3 = Color3.fromRGB(255,255,255)
-prevButton.Text = "< Prev"
-prevButton.Font = Enum.Font.Gotham
-prevButton.TextSize = 15
-prevButton.BorderSizePixel = 0
-Instance.new("UICorner", prevButton).CornerRadius = UDim.new(0,4)
-
-local pageLabel = Instance.new("TextLabel", pageFrame)
-pageLabel.Size=UDim2.new(0.6,0,1,0)
-pageLabel.Position=UDim2.new(0.2,0,0,0)
-pageLabel.BackgroundTransparency = 1
-pageLabel.Text = "Page 1/1"
-pageLabel.TextColor3 = Color3.fromRGB(255,255,255)
-pageLabel.Font = Enum.Font.Gotham
-pageLabel.TextSize = 15
-pageLabel.TextXAlignment = Enum.TextXAlignment.Center
-
-local nextButton = Instance.new("TextButton", pageFrame)
-nextButton.Size=UDim2.new(0.2,0,1,0)
-nextButton.Position=UDim2.new(0.8,0,0,0)
-nextButton.BackgroundColor3 = Color3.fromRGB(80,80,80)
-nextButton.TextColor3 = Color3.fromRGB(255,255,255)
-nextButton.Text = "Next >"
-nextButton.Font = Enum.Font.Gotham
-nextButton.TextSize = 15
-nextButton.BorderSizePixel = 0
-Instance.new("UICorner", nextButton).CornerRadius = UDim.new(0,4)
-
-local statusLabel = Instance.new("TextLabel", pageFrame)
-statusLabel.Size = UDim2.new(1, -10, 0, 30)
-statusLabel.Position = UDim2.new(0, 0, 1, -5)
-statusLabel.BackgroundTransparency = 1
-statusLabel.TextColor3 = Color3.fromRGB(80,150,255)
-statusLabel.Font = Enum.Font.GothamBold
-statusLabel.TextSize = 13
-statusLabel.TextXAlignment = Enum.TextXAlignment.Center
-statusLabel.Text = "Loading Words..."
-
-local function ClearSuggestions()
-    for _, child in ipairs(list:GetChildren()) do
-        if child:IsA("TextButton") or child:IsA("TextLabel") then
-            child:Destroy()
+        if overlap > 0 then
+            PrefixFull5 = PrefixFull5 .. suffix:sub(overlap + 1)
+            PrefixHistory5 = PrefixFull5
         end
     end
+
+    PrefixDisplay5 = PrefixFull5
+
+    return PrefixFull5
 end
 
-local currentResults = {}
-
-function UpdateSuggestions(fromTyping)
-    if not loaded then return end
-    if not h then return end
-    local text = h.Text or ""
-
-    if fromTyping then
-        currentPage = 1
-        if #text < 1 then
-            ClearSuggestions()
-            pageLabel.Text = "Page 0/0"
-            prevButton.Visible = false
-            nextButton.Visible = false
-            return
-        end
-        currentResults = SuggestWords(text, 1000)
+local function DetectPrefix5()
+    if not CurrentWord5 or not CurrentWord5.Parent then
+        CurrentWord5 = PlayerGui5:FindFirstChild("CurrentWord", true)
     end
 
-    ClearSuggestions()
+    if not CurrentWord5 then return "" end
 
-    local totalPages = math.max(1, math.ceil(#currentResults/wordsPerPage))
-    if currentPage > totalPages then currentPage = totalPages end
-    if currentPage < 1 then currentPage = 1 end
+    local letters = {}
 
-    pageLabel.Text = "Page "..currentPage.."/"..totalPages
-    prevButton.Visible = currentPage > 1
-    nextButton.Visible = currentPage < totalPages
-
-    local startIndex = (currentPage-1)*wordsPerPage + 1
-    local endIndex = math.min(currentPage*wordsPerPage, #currentResults)
-
-    for i=startIndex,endIndex do
-        local word = currentResults[i]
-
-        local btn = Instance.new("TextButton", list)
-        btn.Size = UDim2.new(1,0,0,32)
-        btn.BackgroundColor3 = Color3.fromRGB(45,45,45)
-        btn.TextColor3 = Color3.fromRGB(255,255,255)
-        btn.Font = Enum.Font.GothamBold
-        btn.TextSize = 16
-        btn.RichText = true
-
-        local displayWord = formatWord(
-            word,
-            h.Text:lower(),
-            i - startIndex + 1
-        )
-
-        btn.Text = displayWord
-        btn.AutoButtonColor = true
-        Instance.new("UICorner", btn).CornerRadius = UDim.new(0,4)
-        btn.Selectable = false
-
-        btn.MouseButton1Click:Connect(function()
-            h.Text = word
-            UpdateSuggestions(true)
-        end)
-    end
-end
-
-sortButton.MouseButton1Click:Connect(function()
-    currentSortIndex = currentSortIndex + 1
-    if currentSortIndex > #sortModes then
-        currentSortIndex = 1
-    end
-    
-    sortMode = sortModes[currentSortIndex]
-    sortButton.Text = "Sort Mode: "..sortMode
-    currentPage = 1
-    searchCache = {}
-    
-    if h and h.Parent and h.Text ~= "" then
-        UpdateSuggestions()
-    end
-end)
-
-local typingId = 0
-
-h:GetPropertyChangedSignal("Text"):Connect(function()
-    typingId += 1
-    local currentId = typingId
-
-    task.wait(0.1)
-
-    if currentId ~= typingId then
-        return
-    end
-
-    if h and h.Parent then
-        UpdateSuggestions(true)
-    end
-end)
-
-prevButton.MouseButton1Click:Connect(function()
-    if currentPage > 1 then
-        currentPage = currentPage - 1
-        UpdateSuggestions(false)
-    end
-end)
-
-nextButton.MouseButton1Click:Connect(function()
-    local totalPages = math.max(1, math.ceil(#currentResults/wordsPerPage))
-
-    if currentPage < totalPages then
-        currentPage = currentPage + 1
-        UpdateSuggestions(false)
-    end
-end)
-
-task.spawn(function()
-    while not loaded do
-        task.wait(0.1)
-    end
-
-    statusLabel.Text = "Words Loaded Successfully!"
-    statusLabel.TextColor3 = Color3.fromRGB(80,150,255)
-    statusLabel.Font = Enum.Font.GothamBold
-    statusLabel.TextSize = 13
-    statusLabel.Position = UDim2.new(0, 0, 1, -5)
-
-    statusLabel.Visible = true
-    
-    task.wait(5)
-    
-    statusLabel.Visible = false
-
-    if h and h.Parent and h.Text ~= "" then
-        UpdateSuggestions()
-    end
-end)
-
-local LocalPlayer = Players.LocalPlayer
-local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
-
-task.spawn(function()
-    while not currentWordGui do
-        currentWordGui = PlayerGui:FindFirstChild("CurrentWord", true)
-        task.wait(1)
-    end
-end)
-
-local function UpdateCapturedWord()
-    if not currentWordGui or not currentWordGui.Parent then
-        currentWordGui = PlayerGui:FindFirstChild("CurrentWord", true)
-    end
-
-    if not currentWordGui then
-        return
-    end
-
-    local visibleLetters = {}
-
-    for _, child in ipairs(currentWordGui:GetChildren()) do
+    for _, child in ipairs(CurrentWord5:GetChildren()) do
         if child:IsA("GuiObject") and child.Visible then
-            local letterLabel = child:FindFirstChild("Letter")
+            local label = child:FindFirstChild("Letter")
 
-            if letterLabel and letterLabel:IsA("TextLabel") then
-                local letter = tostring(letterLabel.Text)
+            if label and label:IsA("TextLabel") then
+                local value = label.Text:lower()
 
-                if letter ~= "" and not letter:find("%.%.%.") then
-                    table.insert(visibleLetters, {
-                        text = letter:lower(),
+                if value ~= "" then
+                    table.insert(letters, {
+                        text = value,
                         x = child.AbsolutePosition.X
                     })
                 end
@@ -738,479 +799,633 @@ local function UpdateCapturedWord()
         end
     end
 
-    table.sort(visibleLetters, function(a, b)
+    table.sort(letters, function(a, b)
         return a.x < b.x
     end)
 
-    if #visibleLetters == 0 then
-        return
+    local prefix = ""
+
+    for _, letter in ipairs(letters) do
+        prefix = prefix .. letter.text
     end
 
-    local visibleWord = ""
-
-    for _, data in ipairs(visibleLetters) do
-        visibleWord = visibleWord .. data.text
-    end
-
-    if previousVisibleWord == "" then
-        capturedWord = visibleWord
-        previousVisibleWord = visibleWord
-        return
-    end
-
-    if visibleWord == previousVisibleWord then
-        return
-    end
-
-    if #visibleWord > #previousVisibleWord
-    and visibleWord:sub(1, #previousVisibleWord) == previousVisibleWord then
-        capturedWord = visibleWord
-        previousVisibleWord = visibleWord
-        return
-    end
-
-    if #visibleWord < #previousVisibleWord then
-        if capturedWord:sub(-#visibleWord) == visibleWord then
-            previousVisibleWord = visibleWord
-            return
-        end
-    end
-
-    local bestOverlap = 0
-    local maxOverlap = math.min(#capturedWord, #visibleWord)
-
-    for i = 1, maxOverlap do
-        if capturedWord:sub(-i) == visibleWord:sub(1, i) then
-            bestOverlap = i
-        end
-    end
-
-    if bestOverlap > 0 then
-        capturedWord =
-            capturedWord ..
-            visibleWord:sub(bestOverlap + 1)
-
-        previousVisibleWord = visibleWord
-        return
-    end
-
-    previousVisibleWord = visibleWord
+    return prefix
 end
 
-local function ResetCapturedWord()
-    capturedWord = ""
-    previousVisibleWord = ""
-end
+local function GetLiveGameWord5()
+    local frame = GetMatchFrame5()
+    local container = frame and frame:FindFirstChild("CurrentWord")
 
-local function GetSubmittedWord()
-    UpdateCapturedWord()
-    return capturedWord:lower()
-end
-
-local lastPrefix = ""
-local previousPrefixLength = 0
-local prefixResetDetected = false
-local detectPrefix
-local IsAlreadyExistVisible
-local UpdatePrefixSuggestions
-local StopIntimidator
-
-local function SubmitWord()
-    local word = GetSubmittedWord()
-
-    if word ~= "" then
-        EnteredWords[word] = true
-
-        searchCache = {}
-        cacheSize = 0
-        currentPage = 1
-
-        if h and h.Parent and h.Text ~= "" then
-            UpdateSuggestions(true)
-        elseif lastPrefix ~= "" then
-            UpdatePrefixSuggestions(lastPrefix)
-        else
-            ClearSuggestions()
-        end
+    if not container then
+        return ""
     end
 
-    if intimidatorActive then
-        intimidatorDetectionBlocked = true
-        StopIntimidator()
-    end
+    local letters = {}
 
-    alreadyExistCheckId += 1
-    local checkId = alreadyExistCheckId
+    for _, child in ipairs(container:GetChildren()) do
+        if child:IsA("GuiObject") and child.Visible then
+            local label = child:FindFirstChild("Letter")
 
-    task.spawn(function()
-        local alreadyExists = false
+            if label and label:IsA("TextLabel")
+                and label.TextTransparency < 1 then
 
-        for i = 1, 30 do
-            if checkId ~= alreadyExistCheckId then
-                return
+                table.insert(letters, {
+                    text = label.Text,
+                    x = child.AbsolutePosition.X,
+                    y = child.AbsolutePosition.Y,
+                    order = child.LayoutOrder or 0
+                })
             end
+        end
+    end
 
-            if IsAlreadyExistVisible() then
-                alreadyExists = true
-                break
-            end
-
-            task.wait(0.05)
+    table.sort(letters, function(a, b)
+        if a.order ~= b.order then
+            return a.order < b.order
         end
 
-        if checkId ~= alreadyExistCheckId then
+        if math.abs(a.y - b.y) > 10 then
+            return a.y < b.y
+        end
+
+        return a.x < b.x
+    end)
+
+    local word = ""
+
+    for _, letter in ipairs(letters) do
+        word = word .. tostring(letter.text)
+    end
+
+    return word:lower():gsub("%s+", "")
+end
+
+local function SchedulePrefixSuggestions5(prefix)
+    PrefixUpdateToken5 += 1
+    local token = PrefixUpdateToken5
+
+    task.delay(0.08, function()
+        if token ~= PrefixUpdateToken5 then
             return
         end
 
-        if alreadyExists and word ~= "" then
-            EnteredWords[word] = true
-
-            searchCache = {}
-            cacheSize = 0
-            currentPage = 1
-
-            if h and h.Parent and h.Text ~= "" then
-                UpdateSuggestions(true)
-            elseif lastPrefix ~= "" then
-                UpdatePrefixSuggestions(lastPrefix)
-            else
-                ClearSuggestions()
-            end
+        if not Gui5.Parent or Input5.Text ~= "" then
+            return
         end
-    end)
 
-    task.delay(0.15, function()
-        ResetCapturedWord()
+        Results5 = GetSuggestions5(prefix, MaxDisplay5)
+        DisplayWords5(Results5, prefix)
     end)
 end
 
-UserInputService.InputBegan:Connect(function(input, gameProcessed)
-    if gameProcessed then
+local function UpdatePrefix5(prefix)
+    if prefix == "" then
+        PrefixUpdateToken5 += 1
+        Prefix5.Text = "Prefix: -"
+        Prefix5.TextColor3 = Orange5
+
+        if Input5.Text == "" then
+            Results5 = {}
+            Clear5()
+        end
+
         return
     end
 
-    if input.KeyCode == Enum.KeyCode.Return
-    or input.KeyCode == Enum.KeyCode.KeypadEnter then
-        SubmitWord()
+    Prefix5.Text = "Prefix: " .. PrefixDisplay5
+
+    task.defer(function()
+        if Prefix5.Parent then
+            AdjustPrefixSize5()
+        end
+    end)
+
+    if prefix:find("%.%.%.") or prefix:find("#") then
+        PrefixUpdateToken5 += 1
+        Prefix5.TextColor3 = Color3.fromRGB(255, 220, 0)
+
+        if Input5.Text == "" then
+            Results5 = {}
+            Clear5()
+        end
+
+        return
+    end
+
+    Prefix5.TextColor3 = Orange5
+
+    if Input5.Text ~= "" then return end
+
+    SchedulePrefixSuggestions5(prefix)
+end
+
+Deleted5.MouseButton1Click:Connect(function()
+    EnteredWords5 = {}
+
+    ShowFeedback5(
+        "All Deleted Words Are Restored...",
+        Color3.fromRGB(100, 170, 255),
+        3
+    )
+
+    if Input5.Text ~= "" then
+        UpdateSuggestions5()
+    elseif LastPrefix5 ~= "" then
+        UpdatePrefix5(LastPrefix5)
     end
 end)
+
+local PrefixConnections5 = {}
+
+local function RefreshPrefix5()
+    local rawPrefix = DetectPrefix5()
+
+    if rawPrefix == "" then
+        if LastPrefix5 == "" then
+            PrefixFull5 = ""
+            PrefixDisplay5 = ""
+            PrefixHistory5 = ""
+        end
+
+        return
+    end
+
+    local prefix = RebuildPrefix5(rawPrefix)
+
+    if AntiIntimidator5 then
+        prefix = ReverseWord5(PrefixFull5)
+        PrefixDisplay5 = prefix
+    end
+
+    if prefix ~= LastPrefix5 then
+        LastPrefix5 = prefix
+        UpdatePrefix5(prefix)
+    end
+end
+
+local WatchedCurrentWord5 = nil
+
+local function WatchCurrentWord5()
+    if not CurrentWord5 or not CurrentWord5.Parent then
+        CurrentWord5 = PlayerGui5:FindFirstChild("CurrentWord", true)
+    end
+
+    if not CurrentWord5 then return end
+    if WatchedCurrentWord5 == CurrentWord5 then return end
+
+    for _, connection in ipairs(PrefixConnections5) do
+        connection:Disconnect()
+    end
+
+    table.clear(PrefixConnections5)
+
+    WatchedCurrentWord5 = CurrentWord5
+
+    local function WatchLetter5(obj)
+        if not obj:IsA("GuiObject") then return end
+
+        table.insert(PrefixConnections5,
+            obj:GetPropertyChangedSignal("Visible"):Connect(RefreshPrefix5)
+        )
+
+        local function WatchLabel5(child)
+            if child.Name == "Letter" and child:IsA("TextLabel") then
+                table.insert(PrefixConnections5,
+                    child:GetPropertyChangedSignal("Text"):Connect(RefreshPrefix5)
+                )
+                RefreshPrefix5()
+            end
+        end
+
+        local label = obj:FindFirstChild("Letter")
+
+        if label then
+            WatchLabel5(label)
+        end
+
+        table.insert(PrefixConnections5,
+            obj.ChildAdded:Connect(WatchLabel5)
+        )
+
+        table.insert(PrefixConnections5,
+            obj.ChildRemoved:Connect(RefreshPrefix5)
+        )
+    end
+
+    for _, child in ipairs(CurrentWord5:GetChildren()) do
+        WatchLetter5(child)
+    end
+
+    table.insert(PrefixConnections5,
+        CurrentWord5.ChildAdded:Connect(function(child)
+            WatchLetter5(child)
+            RefreshPrefix5()
+        end)
+    )
+
+    table.insert(PrefixConnections5,
+        CurrentWord5.ChildRemoved:Connect(RefreshPrefix5)
+    )
+
+    RefreshPrefix5()
+end
 
 task.spawn(function()
-    while true do
-        UpdateCapturedWord()
-        task.wait(0.03)
+    while Gui5.Parent do
+        WatchCurrentWord5()
+        task.wait(0.5)
     end
 end)
 
-detectPrefix = function()
-    if currentWordGui and currentWordGui.Parent then
-        local obj = currentWordGui
-        local letters = {}
+local Visible5 = true
 
-        for _, child in ipairs(obj:GetChildren()) do
-            if child and child:IsA("GuiObject") and child.Visible then
-                local letterLabel = child:FindFirstChild("Letter")
+UIS5.InputBegan:Connect(function(input, processed)
+    if processed then return end
 
-                if letterLabel and letterLabel:IsA("TextLabel") then
+    if input.KeyCode == Enum.KeyCode.RightControl
+        or input.KeyCode == Enum.KeyCode.LeftControl then
+        Visible5 = not Visible5
+        Main5.Visible = Visible5
+    end
+end)
+
+local function UpdateCaptured5()
+    if not CurrentWord5 or not CurrentWord5.Parent then
+        CurrentWord5 = PlayerGui5:FindFirstChild("CurrentWord", true)
+    end
+
+    if not CurrentWord5 then return end
+
+    local letters = {}
+
+    for _, child in ipairs(CurrentWord5:GetChildren()) do
+        if child:IsA("GuiObject") and child.Visible then
+            local label = child:FindFirstChild("Letter")
+
+            if label and label:IsA("TextLabel") then
+                local value = label.Text:lower()
+
+                if value ~= "" then
                     table.insert(letters, {
-                        letterLabel.Text,
-                        child.AbsolutePosition.X
+                        text = value,
+                        x = child.AbsolutePosition.X
                     })
                 end
             end
         end
+    end
 
-        table.sort(letters, function(a, b)
-            return a[2] < b[2]
+    table.sort(letters, function(a, b)
+        return a.x < b.x
+    end)
+
+    if #letters == 0 then
+        PreviousWord5 = ""
+        return
+    end
+
+    local visible = ""
+
+    for _, data in ipairs(letters) do
+        visible = visible .. data.text
+    end
+
+    if PreviousWord5 == "" then
+        CapturedWord5 = visible
+        PreviousWord5 = visible
+        return
+    end
+
+    if visible == PreviousWord5 then return end
+
+    if #visible > #PreviousWord5
+        and visible:sub(1, #PreviousWord5) == PreviousWord5 then
+
+        CapturedWord5 = visible
+        PreviousWord5 = visible
+        return
+    end
+
+    if #visible < #PreviousWord5 then
+        if CapturedWord5:sub(-#visible) == visible then
+            PreviousWord5 = visible
+            return
+        end
+    end
+
+    local overlap = 0
+
+    for i = 1, math.min(#CapturedWord5, #visible) do
+        if CapturedWord5:sub(-i) == visible:sub(1, i) then
+            overlap = i
+        end
+    end
+
+    if overlap > 0 then
+        CapturedWord5 = CapturedWord5 .. visible:sub(overlap + 1)
+    else
+        CapturedWord5 = visible
+    end
+
+    PreviousWord5 = visible
+end
+
+local DoneButton5
+local DoneConnection5
+
+local function FindDone5()
+    for _, obj in ipairs(PlayerGui5:GetDescendants()) do
+        if obj:IsA("TextButton") then
+            if obj.Text:lower() == "done"
+                or obj.Name:lower() == "done" then
+
+                return obj
+            end
+
+        elseif obj:IsA("ImageButton")
+            and obj.Name:lower() == "done" then
+
+            return obj
+        end
+    end
+end
+
+local function SubmitWord5()
+    UpdateCaptured5()
+
+    local word = LastPrefix5:lower()
+
+    if word == "" then
+        return
+    end
+
+    if word:find("#", 1, true) then
+        ShowFeedback5(
+            "Error: Tags Detect",
+            Color3.fromRGB(255, 80, 80)
+        )
+
+    elseif word:find("...", 1, true) then
+        ShowFeedback5(
+            "Error: ... detected",
+            Color3.fromRGB(255, 0, 0)
+        )
+
+    elseif #word < 2 then
+        return
+
+    elseif not Loaded5 then
+        ShowFeedback5(
+            "Dictionary is still loading",
+            Color3.fromRGB(255, 220, 0)
+        )
+
+    elseif WordSet5[word] then
+        EnteredWords5[word] = true
+
+        ShowFeedback5(
+            "(" .. word .. ") has been deleted",
+            Color3.fromRGB(0, 255, 100)
+        )
+
+        if Input5.Text ~= "" then
+            UpdateSuggestions5()
+        end
+
+        task.delay(0.15, function()
+            CapturedWord5 = ""
+            PreviousWord5 = ""
+            PrefixFull5 = ""
+            PrefixDisplay5 = ""
+            PrefixHistory5 = ""
+            LastPrefix5 = ""
+            RefreshPrefix5()
         end)
 
-        local result = ""
+    else
+        ShowFeedback5(
+            "(" .. word .. ") doesn't exist",
+            Color3.fromRGB(255, 220, 0)
+        )
 
-        for i = 1, #letters do
-            result = result .. letters[i][1]
+        if #word <= 11 then
+            return
         end
 
-        return string.lower(result)
-    end
+        PrefixFull5 = word
+        PrefixDisplay5 = word
+        PrefixHistory5 = word
+        LastPrefix5 = word
+        UpdatePrefix5(word)
 
-    if not currentWordGui or not currentWordGui.Parent then
-        currentWordGui = PlayerGui:FindFirstChild("CurrentWord", true)
-    end
-
-    return ""
-end
-
-local function DetectIntimidator()
-    for _, obj in ipairs(PlayerGui:GetDescendants()) do
-        if obj:IsA("TextLabel")
-        or obj:IsA("TextButton")
-        or obj:IsA("TextBox") then
-
-            local text = tostring(obj.Text):lower()
-
-            if text:find("reversed the word", 1, true)
-            and text:find("be careful", 1, true) then
-                return true
-            end
-        end
-    end
-
-    return false
-end
-
-IsAlreadyExistVisible = function()
-    for _, obj in ipairs(PlayerGui:GetDescendants()) do
-        if obj:IsA("TextLabel")
-        or obj:IsA("TextButton")
-        or obj:IsA("TextBox") then
-
-            local text = tostring(obj.Text):lower()
-
-            if text:find("already exist!", 1, true)
-            or text:find("already exist", 1, true) then
-                return true
-            end
-        end
-    end
-
-    return false
-end
-
-UpdatePrefixSuggestions = function(prefix)
-    if prefix == "" then return end
-
-    ClearSuggestions()
-
-    local suggestions = SuggestWords(prefix, 50)
-
-    for i = 1, #suggestions do
-        local button = Instance.new("TextButton", list)
-        button.Size = UDim2.new(1, 0, 0, 22)
-        button.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
-        button.TextColor3 = Color3.fromRGB(255, 255, 255)
-        button.Font = Enum.Font.GothamBold
-        button.TextSize = 12
-        button.RichText = true
-
-        local word = suggestions[i]
-
-        local displayWord = formatWord(word, prefix, i)
-
-        button.Text = displayWord
-        button.AutoButtonColor = true
-        Instance.new("UICorner", button).CornerRadius = UDim.new(0, 4)
-        button.Selectable = false
-        button.Active = false
+        CapturedWord5 = word
+        PreviousWord5 = word
     end
 end
 
-local function SetPrefixDisplay(prefix)
-    if prefix == "" then
-        prefixLabel.Text = "Prefix: -"
-        prefixLabel.TextColor3 = Color3.fromRGB(255,255,255)
+local function ConnectDone5()
+    local button = FindDone5()
 
-        if h.Text == "" then
-            ClearSuggestions()
-        end
-
+    if not button or button == DoneButton5 then
         return
     end
 
-    prefixLabel.Text = "Prefix: " .. prefix
-
-    if WordSet[prefix] then
-        prefixLabel.TextColor3 = Color3.fromRGB(0,255,0)
-    else
-        prefixLabel.TextColor3 = Color3.fromRGB(255,0,0)
+    if DoneConnection5 then
+        DoneConnection5:Disconnect()
     end
 
-    if h.Text == "" then
-        UpdatePrefixSuggestions(prefix)
-    end
-end
+    DoneButton5 = button
 
-local function StartIntimidator()
-    if intimidatorActive then
-        return
-    end
-
-    intimidatorActive = true
-    lastIntimidatorDisplayPrefix = ""
-
-    local prefix = detectPrefix()
-
-    if prefix ~= "" then
-        intimidatorReversedPrefix = prefix
-    else
-        intimidatorReversedPrefix = lastNormalPrefix:reverse()
-    end
-
-    local normalPrefix = intimidatorReversedPrefix:reverse()
-
-    if normalPrefix ~= "" then
-        SetPrefixDisplay(normalPrefix)
-        lastPrefix = normalPrefix
-    end
-
-    statusLabel.Text = "Intimidator Detect!"
-    statusLabel.TextColor3 = Color3.fromRGB(255,0,0)
-    statusLabel.Visible = true
-end
-
-StopIntimidator = function()
-    intimidatorActive = false
-    intimidatorReversedPrefix = ""
-    lastIntimidatorDisplayPrefix = ""
-
-    statusLabel.Visible = false
-
-    local prefix = detectPrefix()
-
-    if prefix ~= "" then
-        local normalPrefix = prefix
-
-        if lastNormalPrefix ~= ""
-        and prefix:reverse() == lastNormalPrefix then
-            normalPrefix = lastNormalPrefix
-        end
-
-        lastPrefix = normalPrefix
-        lastNormalPrefix = normalPrefix
-        previousPrefixLength = #normalPrefix
-
-        SetPrefixDisplay(normalPrefix)
-    else
-        lastPrefix = ""
-        previousPrefixLength = 0
-        SetPrefixDisplay("")
-    end
+    DoneConnection5 = button.Activated:Connect(SubmitWord5)
 end
 
 task.spawn(function()
-    while true do
-        local prefix = detectPrefix()
+    while Gui5.Parent do
+        UpdateCaptured5()
 
-        if not intimidatorActive then
+        if not DoneButton5 or not DoneButton5.Parent then
+            DoneButton5 = nil
+            ConnectDone5()
+        end
 
-            if prefix ~= lastPrefix then
+        task.wait(0.25)
+    end
+end)
 
-                if prefix ~= ""
-                and #prefix > 2
-                and not (
-                    lastNormalPrefix ~= ""
-                    and prefix:reverse() == lastNormalPrefix
-                ) then
-                    lastNormalPrefix = prefix
+UIS5.InputBegan:Connect(function(input)
+    if input.KeyCode == Enum.KeyCode.Return
+        or input.KeyCode == Enum.KeyCode.KeypadEnter then
+
+        SubmitWord5()
+    end
+end)
+
+task.spawn(function()
+    while Gui5.Parent do
+        local currentTurn = GetCurrentTurnPlayer5()
+        local liveWord = GetLiveGameWord5()
+
+        if currentTurn then
+            if currentTurn ~= PreviousTurn5 then
+                if PreviousTurn5 and PreviousTurn5 ~= Player5.Name then
+                    local previousWord = LastCompleteWordInTurn5
+
+                    if not WordSet5[previousWord] then
+                        previousWord = LastSeenGameWord5
+                    end
+
+                    if not WordSet5[previousWord] then
+                        previousWord = LongestWordInTurn5
+                    end
+
+                    if previousWord ~= "" then
+                        OpponentWord5 = previousWord
+                    end
                 end
 
-                lastPrefix = prefix
+                if currentTurn ~= Player5.Name then
+                    LastSeenGameWord5 = ""
+                    LastCompleteWordInTurn5 = ""
+                    LongestWordInTurn5 = ""
+                    LastCapturedVisibleWord5 = ""
+                    TurnPrompt5 = ""
+                    OpponentWord5 = ""
 
-                if string.find(prefix, "%.%.%.")
-                or string.find(prefix, "#+") then
+                    CapturedWord5 = ""
+                    PreviousWord5 = ""
 
-                    prefixLabel.Text = "Prefix: ..."
-                    prefixLabel.TextColor3 = Color3.fromRGB(255,255,0)
+                    PrefixFull5 = ""
+                    PrefixDisplay5 = ""
+                    PrefixHistory5 = ""
+                    LastPrefix5 = ""
 
-                elseif prefix == "" then
-
-                    SetPrefixDisplay("")
-
-                else
-
-                    SetPrefixDisplay(prefix)
-
+                    RefreshPrefix5()
                 end
             end
 
-        else
+            if currentTurn ~= Player5.Name and liveWord ~= "" then
+                local previousVisible = LastSeenGameWord5
 
-            if prefix ~= "" then
-                local normalPrefix = prefix:reverse()
+                if previousVisible ~= ""
+                    and previousVisible ~= LastCapturedVisibleWord5
+                    and #liveWord <= 4
+                    and #previousVisible > #liveWord
+                    and previousVisible:sub(1, #liveWord) ~= liveWord
+                    and TurnPrompt5 ~= ""
+                    and #previousVisible > #TurnPrompt5
+                    and previousVisible:sub(1, #TurnPrompt5) == TurnPrompt5 then
 
-                if normalPrefix ~= lastIntimidatorDisplayPrefix then
+                    LastCapturedVisibleWord5 = previousVisible
 
-                    prefixLabel.Text = "Prefix: " .. normalPrefix
+                    if WordSet5[previousVisible] then
+                        LastCompleteWordInTurn5 = previousVisible
+                    end
+                end
 
-                    if WordSet[normalPrefix] then
-                        prefixLabel.TextColor3 = Color3.fromRGB(0,255,0)
+                if TurnPrompt5 == "" then
+                    TurnPrompt5 = liveWord
+                end
+
+                LastSeenGameWord5 = liveWord
+
+                if #liveWord > #LongestWordInTurn5 then
+                    LongestWordInTurn5 = liveWord
+                end
+
+                if #liveWord > #TurnPrompt5
+                    and WordSet5[liveWord]
+                    and liveWord:sub(1, #TurnPrompt5) == TurnPrompt5 then
+
+                    LastCompleteWordInTurn5 = liveWord
+                end
+            end
+
+            if currentTurn == Player5.Name
+                and PreviousTurn5
+                and PreviousTurn5 ~= Player5.Name
+                and Loaded5 then
+
+                local word = OpponentWord5
+
+                if word ~= "" then
+                    if WordSet5[word] then
+                        EnteredWords5[word] = true
+
+                        ShowFeedback5(
+                            "(" .. word .. ") has been deleted",
+                            Color3.fromRGB(0, 255, 100)
+                        )
+
+                        print("Opponent word deleted:", word)
+
                     else
-                        prefixLabel.TextColor3 = Color3.fromRGB(255,0,0)
+                        ShowFeedback5(
+                            "(" .. word .. ") doesn't exist",
+                            Color3.fromRGB(255, 220, 0)
+                        )
+
+                        warn("Opponent word not found:", word)
                     end
 
-                    if h.Text == "" then
-                        UpdatePrefixSuggestions(normalPrefix)
+                    if Input5.Text ~= "" then
+                        UpdateSuggestions5()
+                    elseif LastPrefix5 ~= "" then
+                        UpdatePrefix5(LastPrefix5)
                     end
-
-                    lastIntimidatorDisplayPrefix = normalPrefix
                 end
+
+                OpponentWord5 = ""
             end
+
+            PreviousTurn5 = currentTurn
         end
 
-        previousPrefixLength = #prefix
-
-        task.wait(0.01)
+        task.wait(0.05)
     end
 end)
 
-RunService.RenderStepped:Connect(function()
+task.spawn(function()
+    while Gui5.Parent do
+        local detected = DetectIntimidator5()
+        local myTurn = GetCurrentTurnPlayer5() == Player5.Name
+        local newState = detected and myTurn
 
-    local detected = DetectIntimidator()
+        if newState ~= AntiIntimidator5 then
+            AntiIntimidator5 = newState
 
-    if intimidatorDetectionBlocked then
-        if not detected then
-            intimidatorDetectionBlocked = false
+            PrefixFull5 = ""
+            PrefixDisplay5 = ""
+            PrefixHistory5 = ""
+            LastPrefix5 = ""
+
+            RefreshPrefix5()
         end
 
-        return
-    end
+        if Loaded5 and not LoadSuccessStart5 then
+            LoadSuccessStart5 = os.clock()
+        end
 
-    if intimidatorActive then
-        local prefix = detectPrefix()
+        if AntiIntimidator5 then
+            Status5.Text = "Intimidator Detect!"
+            Status5.TextColor3 = Color3.fromRGB(255, 0, 0)
 
-        if prefix ~= "" then
-            local normalPrefix = prefix:reverse()
+        elseif LoadError5 then
+            Status5.Text = "Loading failed"
+            Status5.TextColor3 = Color3.fromRGB(255, 0, 0)
 
-            prefixLabel.Text = "Prefix: " .. normalPrefix
-
-            if WordSet[normalPrefix] then
-                prefixLabel.TextColor3 = Color3.fromRGB(0,255,0)
+        elseif Loaded5 then
+            if os.clock() - LoadSuccessStart5 < 5 then
+                Status5.Text = "Words Loaded Successfully!"
+                Status5.TextColor3 = Orange5
             else
-                prefixLabel.TextColor3 = Color3.fromRGB(255,0,0)
+                Status5.Text = "The Useless Text Lol.. Btw the dictionary is outdated"
+                Status5.TextColor3 = Color3.fromRGB(170, 85, 255)
             end
+        else
+            Status5.Text = "Loading Words..."
+            Status5.TextColor3 = Orange5
         end
 
-        return
-    end
-
-    if detected then
-        StartIntimidator()
-        return
-    end
-
-    local prefix = detectPrefix()
-
-    if prefix ~= ""
-    and #prefix > 2
-    and lastNormalPrefix ~= ""
-    and prefix:reverse() == lastNormalPrefix
-    and prefix ~= lastNormalPrefix then
-
-        StartIntimidator()
-        return
-    end
-end)
-
-restoreButton.MouseButton1Click:Connect(function()
-    EnteredWords = {}
-    searchCache = {}
-    cacheSize = 0
-    currentPage = 1
-
-    if h and h.Parent and h.Text ~= "" then
-        UpdateSuggestions(true)
-    elseif lastPrefix ~= "" then
-        UpdatePrefixSuggestions(lastPrefix)
-    else
-        ClearSuggestions()
+        task.wait(0.5)
     end
 end)
