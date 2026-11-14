@@ -125,6 +125,7 @@ fleabag
 flox
 fluazifop-p
 flumazenil
+fluyt
 fosh
 fuchsia
 fucinita
@@ -204,7 +205,6 @@ louvred
 love-in
 low-sulphur
 lozell
-luba
 madapolan
 magnanime
 maneuvred
@@ -312,6 +312,7 @@ sahibs
 samekh
 sangak
 sativa
+schuyt
 sciniph
 scoog
 scrampum
@@ -366,6 +367,7 @@ tirilazad
 tobaccosim
 tolan
 trade-in
+treckschuyt
 tristeza
 trutta
 ubii
@@ -395,6 +397,7 @@ wazoo
 weanyer
 weepie
 wen-do
+when'd
 whipt
 windjam
 write-in

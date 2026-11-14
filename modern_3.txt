@@ -1,5 +1,4 @@
 abib
-afib
 akre
 anubis
 assacu
@@ -9,6 +8,7 @@ hlubis
 ipso
 khoekhoe
 krubis
+luba
 molokhia
 nabu
 nitrox
@@ -16,5 +16,4 @@ phags-pa
 rakaat
 super-g
 sux
-vori
-when'd
+very
