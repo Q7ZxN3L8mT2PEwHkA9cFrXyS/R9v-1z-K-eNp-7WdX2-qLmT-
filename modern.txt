@@ -775,6 +775,7 @@ metmyoglobin
 metoprolol
 metosteon
 mets
+mf
 mian
 miauer
 microfibre
@@ -1049,7 +1050,6 @@ redub
 referda
 reforfeit
 regald
-regd
 regle
 reistafel
 releivos

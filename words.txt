@@ -67,6 +67,8 @@ fialuridine ✓
 fimasartan ✓
 foma ✓
 forodesine ✓
+fujara ✓
+fujaras ✓
 gakuran ✓
 gciriku ✓
 gypenoside ✓
@@ -83,6 +85,7 @@ inokosterone ✓
 ioxy ✓
 jadomycin ✓
 kasugamycin ✓
+koyukon ✓
 l-ofloxacin ✓
 l-ornithine ✓
 l-ornithine-l-aspartates ✓
@@ -106,7 +109,9 @@ molsidomine ✓
 moxonidine ✓
 nabiximols ✓
 ndzundza ✓
+ngelima ✓
 ngete ✓
+nggwahyi ✓
 nimesulide ✓
 n'-nitrosonornicotine ✓
 n'-nitrosonornicotines ✓
@@ -119,7 +124,6 @@ odanacatib ✓
 olamine ✓
 olopatadine ✓
 olvanil ✓
-olverembatinib ✓
 omapatrilat ✓
 ombamba ✓
 omweso ✓
@@ -135,6 +139,8 @@ rauschpfeife ✓
 rauschpfeifen ✓
 ranolazine ✓
 reefal ✓
+reossification ✓
+reossifications ✓
 riang ✓
 rimexolone ✓
 rimegepant ✓
