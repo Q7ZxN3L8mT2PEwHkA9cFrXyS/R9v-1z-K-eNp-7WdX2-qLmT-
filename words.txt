@@ -118,6 +118,8 @@ occoneechee ✓
 odanacatib ✓
 olamine ✓
 olopatadine ✓
+olvanil ✓
+olverembatinib ✓
 omapatrilat ✓
 ombamba ✓
 omweso ✓
