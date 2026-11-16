@@ -102,6 +102,8 @@ ininew ✓
 inokosterone ✓
 inokosterones ✓
 ioxy ✓
+ioxynil ✓
+ioxynils ✓
 jadomycin ✓
 kasugamycin ✓
 koyukon ✓
@@ -147,6 +149,7 @@ noakhali ✓
 nogalamycin ✓
 nyakyusa ✓
 nyong ✓
+obicetrapib ✓
 occoneechee ✓
 odanacatib ✓
 olamine ✓
