@@ -187,12 +187,15 @@ rolipram ✓
 rolitetracycline ✓
 rupatadine ✓
 rutoside ✓
+sacsin ✓
+sacsins ✓
 sauk ✓
 sauk-suiattle ✓
 sesamolin ✓
 sesamolins ✓
 sesamoidites ✓
 sesamoiditides ✓
+sesamoiditises ✓
 seselwa ✓
 sesotho ✓
 sessioning ✓
@@ -222,6 +225,7 @@ ugrandites ✓
 ularitide ✓
 ulkatcho ✓
 ulinastatin ✓
+umklapp ✓
 urapidil ✓
 utrophin ✓
 vidarabine ✓
