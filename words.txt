@@ -69,6 +69,8 @@ enzastaurin ✓
 eomesodermin ✓
 eotaxin ✓
 eotaxins ✓
+equol ✓
+equols ✓
 ergine ✓
 esfenvalerate ✓
 etidocaine ✓
@@ -147,6 +149,7 @@ nkukoli ✓
 nkumbi ✓
 noakhali ✓
 nogalamycin ✓
+nuer ✓
 nyakyusa ✓
 nyong ✓
 obicetrapib ✓
@@ -186,6 +189,7 @@ roedderites ✓
 rolipram ✓
 rolitetracycline ✓
 rupatadine ✓
+rusyn ✓
 rutoside ✓
 sacsin ✓
 sacsins ✓
@@ -200,6 +204,7 @@ seselwa ✓
 sesotho ✓
 sessioning ✓
 seryl ✓
+seryls ✓
 sharif ✓
 silsesquioxane ✓
 silsesquioxanes ✓
