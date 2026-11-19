@@ -1,13 +1,26 @@
 a'aninin ✓
+a'aninins ✓
 aaptamine ✓
 aaptamines ✓
 adhumulone ✓
+adhumulones ✓
 afibs ✓
 afenmai ✓
 afoxolaner ✓
+afoxolaners ✓
 aglepristone ✓
 ahlspiess ✓
+ahlspiessen ✓
 all-you-can-eat ✓
+alcalase ✓
+alcalases ✓
+alfaxalone ✓
+alfisol ✓
+alfisols ✓
+aliesterase ✓
+aliesterases ✓
+allantoicase ✓
+allantoicases ✓
 allar ✓
 amdinocillin ✓
 apidaecin ✓
@@ -20,6 +33,7 @@ atsina ✓
 atayal ✓
 atosiban ✓
 atumpan ✓
+aukan ✓
 augsburg ✓
 ayamase ✓
 axatse ✓
@@ -51,6 +65,7 @@ dapivirine ✓
 dilazep ✓
 dilysine ✓
 dimethylmercury ✓
+dimethylmercuries ✓
 dobu ✓
 docstring ✓
 ebastine ✓
@@ -95,9 +110,14 @@ foma ✓
 forodesine ✓
 fujara ✓
 fujaras ✓
+g-quadruplex ✓
+g-quadruplexes ✓
+g-tetrad ✓
 gakuran ✓
 gciriku ✓
 gypenoside ✓
+halogenoalkane ✓
+halogenoalkanes ✓
 hotkeys ✓
 hrangkhawl ✓
 icilin ✓
@@ -108,12 +128,19 @@ idasanutlin ✓
 ininew ✓
 inokosterone ✓
 inokosterones ✓
+ionomycins ✓
 ioxy ✓
 ioxynil ✓
 ioxynils ✓
+isovolumetric ✓
 jadomycin ✓
 kasugamycin ✓
 koyukon ✓
+kpagua (next update ✓✓)
+kpala (next update ✓✓)
+kpasam (next update ✓✓)
+kpati (next update ✓✓)
+kpanlogo ✓
 l-ofloxacin ✓
 l-ornithine ✓
 l-ornithine-l-aspartates ✓
@@ -122,11 +149,13 @@ leinamycin ✓
 lenzilumab ✓
 levonantradol ✓
 ligstroside ✓
+ligstrosides ✓
 lystrosaurus ✓
 lystrosauruses ✓
 mbama ✓
 mephedrone ✓
 mequinol ✓
+mequinols ✓
 mequitazine ✓
 mexploitation ✓
 mexploitations ✓
@@ -134,6 +163,7 @@ mibefradil ✓
 midecamycin ✓
 miji ✓
 mizolastine ✓
+mizoribine ✓
 moenomycin ✓
 moesin ✓
 moesins ✓
@@ -150,6 +180,7 @@ ngendelengo ✓
 ngete ✓
 nggwahyi ✓
 nimesulide ✓
+ningnanmycins ✓
 nkukoli ✓
 nkumbi ✓
 noakhali ✓
@@ -229,6 +260,7 @@ tiamulin ✓
 tizoxanide ✓
 tizanidine ✓
 tolnaftate ✓
+trenbolone ✓
 triadimefon ✓
 tsymbaly ✓
 tzalam ✓
@@ -239,6 +271,8 @@ ugrandites ✓
 ularitide ✓
 ulkatcho ✓
 ulinastatin ✓
+ultrastability
+ultrastable
 umklapp ✓
 urapidil ✓
 utrophin ✓
