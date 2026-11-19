@@ -1,5 +1,6 @@
 a'aninin ✓
 aaptamine ✓
+aaptamines ✓
 adhumulone ✓
 afibs ✓
 afenmai ✓
@@ -23,11 +24,13 @@ augsburg ✓
 ayamase ✓
 axatse ✓
 axatses ✓
+aynu ✓
 azelnidipine ✓
 azepinone ✓
 azinphos-methyl ✓
 azinphos-methyls ✓
-azoslbumin ✓
+azoalbumin ✓
+azoalbumins ✓
 bid'a ✓
 blaa ✓
 bufuralol ✓
@@ -65,6 +68,8 @@ ellsworthites ✓
 emopamil ✓
 enadoline ✓
 eneolithic ✓
+enoate ✓
+enoates ✓
 enzastaurin ✓
 eomesodermin ✓
 eotaxin ✓
@@ -169,6 +174,7 @@ pachislo ✓
 pamrevlumab ✓
 pelsparite ✓
 pelsparites ✓
+pexin ✓
 pilsicainide ✓
 plugin ✓
 plugins ✓
@@ -210,6 +216,8 @@ silsesquioxane ✓
 silsesquioxanes ✓
 siramesine ✓
 skyfall ✓
+smetana ✓
+smetanas ✓
 sparfloxacin ✓
 supratip ✓
 tafamidis ✓
@@ -222,6 +230,7 @@ tizoxanide ✓
 tizanidine ✓
 tolnaftate ✓
 triadimefon ✓
+tsymbaly ✓
 tzalam ✓
 tzalams ✓
 ubenimex ✓
