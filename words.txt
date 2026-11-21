@@ -475,6 +475,8 @@ eucentric ✓
 euoxic ✓
 exaflop ✓
 exatecan ✓
+exicator ✓
+exicators ✓
 exocellulase ✓
 exocellulases ✓
 exoribonuclease ✓
