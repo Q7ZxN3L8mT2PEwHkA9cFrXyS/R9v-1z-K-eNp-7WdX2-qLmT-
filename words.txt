@@ -436,7 +436,6 @@ enoate ✓
 enoates ✓
 enzastaurin ✓
 eomesodermin ✓
-eosinopenia ✓
 eotaxin ✓
 eotaxins ✓
 epaminondas ✓
@@ -666,11 +665,7 @@ kleptoplasties ✓
 kleptoplasty ✓
 koita ✓
 koyukon ✓
-kpagua (next update ✓✓)
-kpala (next update ✓✓)
 kpanlogo ✓
-kpasam (next update ✓✓)
-kpati (next update ✓✓)
 lacidipine ✓
 l-lactate ✓
 l-lactates ✓
@@ -878,7 +873,7 @@ o-grade ✓
 o-grades ✓
 o-xylyl ✓
 o-xylyls ✓
-ob icetrapib ✓
+obicetrapib ✓
 occludin ✓
 occludins ✓
 occoneechee ✓
